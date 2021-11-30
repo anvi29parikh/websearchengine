@@ -1,0 +1,248 @@
+
+
+
+
+CAPTCHA help - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	CAPTCHA help
+	
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Web sites that accept postings from the public, like this wiki, are often abused by spammers who use automated tools to post their links to many sites.
+While these spam links can be removed, they are a significant nuisance.
+
+
+Sometimes, especially when adding new web links to a page, the wiki may show you an image of colored or distorted text and ask you to type the words shown.
+Since this is a task that's hard to automate, it will allow most real humans to make their posts while stopping most spammers and other robotic attackers.
+
+
+Unfortunately this may inconvenience users with limited vision or using text-based or speech-based browsers.
+At the moment we do not have an audio alternative available.
+Please contact the site administrators for assistance if this is unexpectedly preventing you from making legitimate actions.
+
+
+Hit the "back" button in your browser to return to the page editor.
+
+Retrieved from "https://www.mediawiki.org/wiki/Special:Captcha/help"
+		
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Special page
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		Upload fileSpecial pagesPrintable version
+		
+	
+
+
+	
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

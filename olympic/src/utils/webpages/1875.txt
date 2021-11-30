@@ -1,0 +1,2042 @@
+
+
+
+
+Help:List - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Help:List
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikimedia help page
+For the corresponding Manual of Style, see Wikipedia:Manual of Style/Lists.
+This page is about how to create and format lists of items in an article. For articles that are lists of things themselves, see Wikipedia:Stand-alone lists. 
+This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutH:LIST
+Contents
+
+1 List basics
+
+1.1 Common mistakes
+
+
+2 Paragraphs and other breaks
+
+2.1 Paragraphs inside list items
+2.2 Line breaks inside list items
+2.3 Nested blocks inside list items
+2.4 Continuing a list item after a sub-item
+2.5 Spacing between items
+
+
+3 Changing the list type
+4 Extra indentation of lists
+5 Specifying a starting value
+6 Comparison with a table
+7 Multi-column lists
+8 Streamlined style or horizontal style
+9 Tables
+
+9.1 Interaction with floating elements
+
+
+10 Manipulating lists with user stylesheets
+
+10.1 Extra indentation
+10.2 Changing unordered lists to ordered ones
+
+
+11 How to find entries for a list
+12 See also
+
+
+
+
+
+This help page explains how to create and format lists on the English Wikipedia.
+
+List basics[edit]
+
+
+There are three types of lists: unordered lists, ordered lists, and description lists (a.k.a. definition lists or association lists). In the following sections, various list types are used for different examples, but other list types will generally give corresponding results.  Ordered (numbered) lists should usually be used only for list items that should be in a specific order, such as steps in a cooking recipe.
+
+
+
+
+Markup
+Renders as 
+
+
+* Lists are easy to do:
+** start every line
+* with a star
+** more stars mean
+*** deeper levels
+
+
+
+
+
+
+
+Lists are easy to do:
+start every line
+with a star
+more stars mean
+deeper levels
+ 
+
+
+* A newline
+* in a list
+marks the end of the list. Of course
+* you can
+* start again.
+
+
+
+
+
+
+
+A newline
+in a list
+
+
+marks the end of the list. Of course
+
+you can
+start again.
+ 
+
+
+# Numbered lists are good
+## very organized
+## easy to follow
+
+
+
+
+
+
+
+Numbered lists are good
+very organized
+easy to follow
+ 
+
+
+Description (definition, association) lists:
+; Term&nbsp;: Description
+or
+; Term
+: Description
+Can be used for more than terms and definitions ''per se''.
+or
+; Term
+: Description Line 1
+: Description Line 2
+
+
+
+
+
+Description (definition, association) lists:
+
+Term
+Description
+
+
+or
+
+Term
+Description
+
+
+Can be used for more than terms and definitions per se.
+or
+
+Term
+Description Line 1
+Description Line 2
+ 
+
+
+* Or create mixed lists
+*# and nest them
+*#* like this.
+*#*; Fruits
+*#*: Apple
+*#*: Blueberry
+
+
+
+
+
+
+
+Or create mixed lists
+and nest them
+like this.
+Fruits
+Apple
+Blueberry
+ 
+
+
+# A line break in an item is done with HTML&lt;br /&gt;like this.
+# Just breaking the line will accidentally end the list
+like this.
+# This was supposed to be item 3, not a new list.
+
+
+
+
+
+
+
+A line break in an item is done with HTML
+like this.
+Just breaking the line will accidentally end the list
+
+
+like this.
+
+This was supposed to be item 3, not a new list.
+ 
+
+
+* A new paragraph in an item is also HTML.&lt;p&gt;Like so.&lt;/p&gt;
+* Same goes for&lt;blockquote&gt;"block quotations"&lt;/blockquote&gt;like that.
+* Note that these are done without line-breaking the wikimarkup.
+
+
+
+
+
+
+
+A new paragraph in an item is also HTML.
+
+Like so.
+Same goes for
+
+"block quotations"like that.
+Note that these are done without line-breaking the wikimarkup.
+
+
+
+
+
+
+
+Common mistakes[edit]
+
+
+There must be no blank lines between list items. Blank lines terminate a list, splitting it into two separate lists. This is most easily illustrated using an ordered list:
+
+
+
+
+Markup
+Renders as 
+
+
+# This is the first item.
+# This is the second item.
+# This is the third item.
+# This is the fourth item.
+
+
+This is the first item.
+This is the second item.
+This is the third item.
+This is the fourth item.
+ 
+
+
+# This is the first item.
+# This is the second item.
+
+# This is the third item.
+# This is the fourth item.
+
+
+This is the first item.
+This is the second item.
+This is the third item.
+This is the fourth item.
+
+
+
+
+
+
+
+
+In the second example above, the numbering resets after the blank line. This problem is less noticeable with other list types, but it still affects the underlying HTML code and may have disruptive effects for some readers; see WP:LISTGAP for details.
+
+
+In order to be a list, each line must begin the same way. This holds true for mixed lists.
+
+
+
+
+Markup
+Renders as 
+
+
+# If you start with
+# one type of list,
+#; and then a sublist
+#: of a different type,
+#:* the list characters
+# always go in order.
+
+
+If you start with
+one type of list,
+and then a sublist
+of a different type,
+the list characters
+always go in order.
+ 
+
+
+# If you reverse
+# the order,
+;# everything
+:# gets
+*:# thrown off
+# and nothing matches up.
+
+
+If you reverse
+the order,
+everything
+gets
+thrown off
+and nothing matches up.
+
+
+
+
+
+
+
+
+This mistake can also be less noticeable in some circumstances, but it creates single-item lists of different types; besides being semantically wrong, this may cause disruptive side effects for some readers.
+
+
+Do not use a semicolon simply to give a list a title. Semicolons and colons make one kind of list; asterisks make another.
+
+
+
+
+Markup
+Renders as 
+
+
+;Never do
+*this
+
+
+Never do
+this
+
+
+
+
+
+
+
+Paragraphs and other breaks[edit]
+
+
+
+All of the techniques described in this section can be used with each other and with any type of list, at any list level.
+
+Paragraphs inside list items[edit]
+
+
+For simplicity, list items in pure wiki markup cannot be more complex than a basic paragraph. A line break in the wikimarkup of a list item will end not just the item but the entire list, and reset the counter on ordered lists. Separating unordered list items with blank lines may look approximately normal on-screen, but it creates many separate one-item lists, which is a problem for people using screen readers and is discouraged by the guideline on accessibility for people with disabilities, and is also problematic for machine analysis of the article, and for reuse of Wikipedia content more generally.
+
+
+Paragraphs can be created inside list items by using the HTML &lt;p&gt;...&lt;/p&gt; (paragraph) element around the second and subsequent paragraphs, with no line breaks in the wikimarkup:
+
+
+
+
+Markup
+Renders as 
+
+
+# Paragraph 1.&lt;p&gt;Paragraph 2.&lt;/p&gt;&lt;p&gt;Paragraph 3.&lt;/p&gt;
+# Second item.
+
+
+
+
+
+
+
+Paragraph 1.
+
+Paragraph 2.
+
+Paragraph 3.
+Second item
+
+
+
+
+
+
+
+
+
+Do not use &lt;br /&gt; as a substitute for &lt;p&gt;...&lt;/p&gt;; they have different semantics and are not interchangeable.
+
+
+For code readability (the improvement is more apparent when the paragraphs are long, rather than with short examples like these), line-breaks may be created with HTML comments, &lt;!-- ... --&gt;, that begin on one line against the end of that line's code and end on another line, against the beginning of that line's code:
+
+
+
+
+Markup
+Renders as 
+
+
+# Paragraph 1.&lt;!--
+ --&gt;&lt;p&gt;Paragraph 2.&lt;/p&gt;&lt;!--
+ --&gt;&lt;p&gt;Paragraph 3.&lt;/p&gt;
+# Second item.
+
+
+
+
+
+
+
+Paragraph 1.
+
+Paragraph 2.
+
+Paragraph 3.
+Second item.
+
+
+
+
+
+
+
+
+
+This technique can be used with the other examples below.
+
+Line breaks inside list items[edit]
+
+
+Use a single &lt;br /&gt; for a non-paragraph line break, e.g. where using a nested list is not desired because sub-items are already preceded by numbers:
+
+
+
+
+Markup
+Renders as 
+
+
+# Gather ingredients:&lt;br /&gt;1{{frac|1|2}}&amp;nbsp;tsp eye of newt (powdered)&lt;br /&gt;2 bat wings&lt;br /&gt;4&amp;nbsp;cups mandrake root juice
+# Stir in cauldron over low flame for 30 minutes
+
+
+
+
+
+
+
+Gather ingredients:
+11⁄2&nbsp;tsp eye of newt (powdered)
+2 bat wings
+4&nbsp;cups mandrake root juice
+Stir in cauldron over low flame for 30 minutes
+
+
+
+
+
+
+
+
+
+This must be done with coded &lt;br /&gt; line breaks; an actual wikitext linebreak (i.e. pressing enter/return while writing the source code) will bring the list to an end.
+
+Nested blocks inside list items[edit]
+
+
+Similar HTML usage can provide for block quotations within list items:
+
+
+
+
+Markup
+Renders as 
+
+
+* Beginning of first item.&lt;blockquote&gt;A large quotation.&lt;/blockquote&gt;Rest of first item.
+* Second item.
+
+
+
+
+
+
+
+Beginning of first item.
+
+A large quotation.Rest of first item.
+Second item.
+
+
+
+
+
+
+
+
+
+Another case like this is small nested code blocks:
+
+
+
+
+Markup
+Renders as 
+
+
+The {{tnull|fnord}} template has two parameters:
+# {{para|foo}} This indicates the ''foo'' level:&lt;pre&gt;{{fnord|foo=20}}&lt;/pre&gt;
+# {{para|bar}} This indicates...
+
+
+
+
+
+The {{fnord}} template has two parameters:
+
+|foo= This indicates the foo level:{{fnord|foo=20}}
+|bar= This indicates...
+
+
+
+
+
+
+
+
+
+Here, linebreaks still cannot occur inside the list item, even if they are inside &lt;pre&gt;, and the HTML comment trick does not work inside &lt;pre&gt;, which is why this technique is only suitable for short code examples.  For longer ones, see the &lt;syntaxhighlight&gt; MediaWiki tag.
+
+
+The HTML comment trick does work between elements inside the same list item:
+
+
+
+
+Markup
+Renders as 
+
+
+* Beginning of first item.&lt;!--
+--&gt;&lt;blockquote&gt;A large quotation.&lt;/blockquote&gt;&lt;!--
+--&gt;Rest of first item.
+* Second item.
+
+
+
+
+
+
+
+Beginning of first item.
+
+A large quotation.Rest of first item.
+Second item.
+
+
+
+
+
+
+
+Continuing a list item after a sub-item[edit]
+
+
+In HTML, a list item may contain several sublists, not necessarily adjacent; thus there may be parts of the list item not only before the first sublist, but also between sublists, and after the last one.
+
+
+In wikimarkup, unfortunately, sublists follow the same rules as sections of a page: the only possible part of the list item not in sublists is before the first sublist.
+
+
+In the case of an unnumbered first-level list in wikimarkup, this limitation can be somewhat worked around by splitting the list into multiple lists; indented text between the partial lists may visually serve as part of a list item after a sublist. However, many readers find this confusing, as the indentation makes it look more like a continuation of the last sublist item.  Also, this technique may give, depending on CSS, a blank line before and after each list, in which case, for uniformity, every first-level list item could be made a separate list although this further complicates the code.  For complex lists like this, it is recommended to use the {{ordered list}} or {{bulleted list}} technique, and to replace instances of the "quick and dirty" wikimarkup version with the {{ordered list}} version.
+
+
+Numbered lists illustrate that what should look like one list may, for the software (and thus for users of screen readers for the visually impaired) actually result in multiple, nested lists. Unnumbered lists give a corresponding result, except that the problem of restarting with 1 is not applicable.
+
+
+
+
+Markup
+Renders as 
+
+
+&lt;ol&gt;
+  &lt;li&gt;list item A1
+    &lt;ol&gt;
+      &lt;li&gt;list item B1&lt;/li&gt;
+      &lt;li&gt;list item B2&lt;/li&gt;
+    &lt;/ol&gt;continuing list item A1
+  &lt;/li&gt;
+  &lt;li&gt;list item A2&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+  list item A1
+    
+      list item B1
+      list item B2
+    continuing list item A1
+  
+  list item A2
+
+ 
+
+
+{{ordered list
+  | list item A1 {{ordered list
+       | list item B1 
+       | list item B2 
+    }} continuing list item A1
+  | list item A2
+}}
+
+
+list item A1 list item B1list item B2 continuing list item A1list item A2
+ 
+
+
+# list item A1
+## list item B1
+## list item B2
+#: continuing list item A1?
+# list item A2
+
+
+
+
+
+
+list item A1
+list item B1
+list item B2
+continuing list item A1?
+list item A2
+
+
+
+
+
+
+
+
+
+The last of these is visually confusing and results in invalid markup. It caused the creation of an embedded but improperly formed description list (the &lt;dl&gt; HTML element): it has a definition, indicated by : (in HTML that's &lt;dd&gt;), but no term (the missing ; element, which corresponds to HTML &lt;dt&gt;).
+
+
+
+
+One level deeper, with a sublist item continuing after a sub-sublist, one gets even more blank lines; however, the continuation of the first-level list is not affected:
+
+
+
+
+Markup
+Renders as 
+
+
+&lt;ol&gt;
+  &lt;li&gt;list item A1
+    &lt;ol&gt;
+      &lt;li&gt;list item B1
+        &lt;ol&gt;
+          &lt;li&gt;list item C1
+        &lt;/ol&gt;continuing list item B1
+      &lt;/li&gt;
+      &lt;li&gt;list item B2&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;list item A2&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+  list item A1
+    
+      list item B1
+        
+          list item C1
+        continuing list item B1
+      
+      list item B2
+    
+  
+  list item A2
+
+ 
+
+
+{{ordered list
+  | list item A1 {{ordered list
+       | list item B1 {{ordered list
+         | list item C1
+       }} continuing list item B1
+       | list item B2 
+    }}
+  | list item A2
+}}
+
+
+
+list item A1 list item B1 list item C1 continuing list item B1list item B2list item A2
+ 
+
+
+# list item A1
+## list item B1
+### list item C1
+##: continuing list item B1?
+## list item B2
+# list item A2
+
+
+
+
+
+
+list item A1
+list item B1
+list item C1
+continuing list item B1?
+list item B2
+list item A2
+
+
+
+
+
+
+
+
+
+Again, the third example is not desirable, as it produces broken markup and is visually confusing anyway.
+
+
+See also meta:Template:List demo.
+
+Spacing between items[edit]
+
+
+For an ordered list with items that are more than one paragraph long, using the HTML comment trick mentioned above to add a blank line between items in the wikicode may be necessary to avoid editor confusion. This is done with a commented-out line:
+
+# First item&lt;!--
+                                                --&gt;
+# Second item
+
+
+
+This doesn't produce unwanted visible spacing or bad list code in the rendered page like adding a plain blank line would:
+
+First item
+Second item
+
+
+The comment must begin on the same line on which the preceding item ends, and the comment must end on its own line.
+
+
+Wrong:
+
+# First item
+&lt;!--
+                                                --&gt;
+# Second item
+
+
+
+Wrong:
+
+# First item
+&lt;!--
+
+--&gt;#Second item
+
+
+
+If the rendered text has a readability problem due to complex list items, or for some other reason space is desired between list items, simply add a pair of explicit HTML line-breaks to the end of the list items:
+
+# Item 1&lt;br /&gt;&lt;br /&gt;
+# Item 2&lt;br /&gt;&lt;br /&gt;
+
+
+
+gives
+
+Item 1
+
+
+Item 2
+
+
+
+
+Compare the version without the spacing:
+
+Item 1
+Item 2
+Changing the list type[edit]
+
+
+The list type (which type of marker appears before the list item) can be changed in CSS by setting the list-style-type property. This can be done using the {{Ordered list}} template:
+
+
+
+
+Markup
+Renders as 
+
+
+{{ordered list|type=lower-roman
+  | About the author
+  | Foreword to the first edition
+  | Foreword to the second edition
+}}
+
+
+About the authorForeword to the first editionForeword to the second edition
+
+
+
+
+
+
+
+
+
+Or, using HTML:
+
+
+
+
+Markup
+Renders as 
+
+
+&lt;ol style="list-style-type: lower-roman;"&gt;
+  &lt;li&gt;About the author&lt;/li&gt;
+  &lt;li&gt;Foreword to the first edition&lt;/li&gt;
+  &lt;li&gt;Foreword to the second edition&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+  About the author
+  Foreword to the first edition
+  Foreword to the second edition
+
+
+
+
+
+
+
+
+Extra indentation of lists[edit]
+
+
+In a numbered list in a large font, some browsers do not show more than two digits (2 spaces width) of indentation, unless extra indentation is applied (if there are multiple columns: for each column). This is fixed by increasing the default indentation of 3.2em by 2em more, and it can be done in multiple ways:
+
+
+When using explicit HTML &lt;li&gt; list items, use an explicit CSS margin spacing of 4em to double the default 2em spacing. Though not the simplest, this is the cleanest and most versatile method, as it does not rely on any peculiarities of the parser, nor on abusing any semantic markup for purely visual purposes. It allows starting with a number other than 1 (see below). It is the recommended method for complex lists.
+
+
+
+
+Markup
+Renders as 
+
+
+&lt;ol style="margin-left: 5.2em;"&gt;
+  &lt;li&gt;abc&lt;/li&gt;
+  &lt;li&gt;def&lt;/li&gt;
+  &lt;li&gt;ghi&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+  abc
+  def
+  ghi
+
+ 
+
+
+{{ordered list|style=margin-left: 2em
+  | abc
+  | def
+  | ghi
+}}
+
+
+
+abcdefghi
+
+
+
+
+
+
+
+
+
+The parser translates an ordered list, &lt;ol&gt;, without any list items, &lt;li&gt; (in this case, it contains just another &lt;ol&gt;) into a &lt;div&gt; with a style="margin-left: 2em;", causing indentation of the contents. This is a versatile but potentially confusing method, as it allows starting with a number other than 1 (see below). It is kludgey, unnecessarily complex, and looks like invalid HTML. While the parser corrects it on-the-fly, only MediaWiki experts know this, with the result that other editors are likely to try to "correct" it by removing what looks like redundant &lt;ol&gt; code.
+
+
+
+
+Markup
+Renders as 
+
+
+&lt;ol&gt;
+  &lt;ol&gt;
+    &lt;li&gt;abc&lt;/li&gt;
+    &lt;li&gt;def&lt;/li&gt;
+    &lt;li&gt;ghi&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/ol&gt;
+
+
+
+
+  
+    abc
+    def
+    ghi
+  
+
+
+
+
+
+
+
+
+
+
+Just put an explicit HTML &lt;ol&gt;...&lt;/ol&gt; around wiki-markup list items. It functions the same as the previous example with the content of the "ordered list without any list items", which itself is an ordered list, expressed with # codes; the HTML produced, and hence the rendering, is the same. This is the simplest method, and recommended when starting a simple list with number 1.
+
+
+
+
+Markup
+Renders as 
+
+
+&lt;ol&gt;
+# abc
+# def
+# ghi
+&lt;/ol&gt;
+
+
+
+
+abc
+def
+ghi
+
+
+
+
+
+
+
+
+
+
+A list of one or more lines starting with a colon creates an HTML5 description list (formerly definition list in HTML4 and association list in draft HTML5), without terms to be defined/described/associated, but with the items as descriptions/definitions/associations, hence indented. However, if the colons are in front of the codes "*" or "#" of an unordered or ordered list, the list is treated as one description/definition, so the whole list is indented. 
+
+
+Deprecated method: The technique below produces poorly formed (though technically DTD-validating) markup and abuses the semantic HTML purpose of description lists for a purely visual effect, and is thus a usability and accessibility problem. It will work in a hurry, but should be replaced with cleaner code; see WP:Manual of Style/Glossaries for several approaches. 
+
+
+
+
+Markup
+Renders as 
+
+
+:# abc
+:# def
+:# ghi
+ 
+
+
+
+
+
+
+abc
+def
+ghi
+
+
+
+
+
+
+
+
+
+The page meta:Help:List demo demonstrates that several of these methods show all digits of 3-digit numbers (i.e., can handle lists of up to 999 items without display problems even in fairly large fonts).
+
+Specifying a starting value[edit]
+
+
+Specifying a starting value is possible with the {{ordered list}} template by using the start and value attributes.
+
+
+
+
+Markup
+Renders as 
+
+
+{{ordered list|start=9
+| Amsterdam
+| Rotterdam
+| The Hague
+}}
+
+
+AmsterdamRotterdamThe Hague
+
+
+
+
+
+
+
+
+
+Or:
+
+
+
+
+Markup
+Renders as 
+
+
+{{ordered list
+| item1_value=9 | 1 = Amsterdam
+| item2_value=8 | 2 = Rotterdam
+| item3_value=7 | 3 = The Hague
+}}
+
+
+AmsterdamRotterdamThe Hague
+
+
+
+
+
+
+
+
+
+Alternatively, only the list item whose value is being set needs to be written in HTML, the rest of the list may use wiki syntax:
+
+
+
+
+Markup
+Renders as 
+
+
+# &lt;li value="9"&gt;Amsterdam&lt;/li&gt;
+# Rotterdam
+# The Hague
+
+
+
+
+
+
+
+Amsterdam
+Rotterdam
+The Hague
+
+
+
+
+
+
+
+
+
+This does not work inside &lt;ol&gt;...&lt;/ol&gt;.
+
+Comparison with a table[edit]
+
+
+Apart from providing automatic numbering, the numbered list also aligns the contents of the items, comparable with using table syntax:
+
+{|
+|-
+| style="text-align: right" |  9. || Amsterdam
+|-
+| style="text-align: right" | 10. || Rotterdam
+|-
+| style="text-align: right" | 11. || The Hague
+|}
+
+
+
+gives
+
+
+
+
+9.
+Amsterdam
+
+
+10.
+Rotterdam
+
+
+11.
+The Hague
+
+
+
+This non-automatic numbering has the advantage that if a text refers to the numbers, insertion or deletion of an item does not disturb the correspondence.
+
+Multi-column lists[edit]
+
+
+
+Wrap a list in {{Columns-list}} to add columns.
+
+
+
+Example: multi-column list
+
+
+
+
+{{columns-list|colwidth=10em|
+* 1
+* 2
+* 3
+* 4
+* 5
+}}
+
+
+
+
+1
+2
+3
+4
+5
+
+
+ 
+
+
+
+
+This setup also works with numbered lists.
+
+
+
+Example: multi-column ordered list
+
+
+
+
+{{columns-list|colwidth=10em|
+# a
+# b
+# c
+# d 
+# e
+}}
+
+
+
+
+a
+b
+c
+d
+e
+
+
+ 
+
+
+
+
+{{columns-list}} is the general solution. You can combine it with any other type of list formatting, including but not limited to every type of list syntax mentioned on this page. It works with content that are not lists as well.
+
+Streamlined style or horizontal style[edit]
+
+
+It is also possible to present short lists using very basic formatting, such as:
+
+''Title of list:'' example 1, example 2, example 3
+
+
+
+Title of list: example 1, example 2, example 3
+
+
+This style requires less space on the page, and is preferred if there are only a few entries in the list, it can be read easily, and a direct edit point is not required. The list items should start with a lowercase letter unless they are proper nouns.
+
+
+See also WP:HLIST.
+
+Tables[edit]
+
+
+A one-column table is very similar to a list, but it allows sorting. If the wikitext itself is already sorted with the same sortkey, this advantage does not apply.
+A multiple-column table allows sorting on any column.
+
+
+See also Help:Table.
+
+Interaction with floating elements[edit]
+ShortcutWP:EISL
+
+
+List bullets and numbers can sometimes overlap left-floating images, and indented lines may not appear correctly when next to left-floating images. For example:
+
+
+
+
+Markup
+Renders as 
+
+
+[[File:Westminstpalace.jpg|left|thumb|100px]] 
+&lt;ol&gt;
+  &lt;li&gt;list item A1
+    &lt;ol&gt;
+      &lt;li&gt;list item B1&lt;/li&gt;
+      &lt;li&gt;list item B2&lt;/li&gt;
+    &lt;/ol&gt;continuing list item A1
+  &lt;/li&gt;
+  &lt;li&gt;list item A2&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+  
+
+  list item A1
+    
+      list item B1
+      list item B2
+    continuing list item A1
+  
+  list item A2
+
+ 
+
+
+[[File:Westminstpalace.jpg|left|thumb|100px]] 
+First line
+:Second line
+::Third line
+:::Fourth line
+
+
+
+   
+
+
+First line
+
+Second line
+Third line
+Fourth line
+
+
+
+
+
+
+
+
+
+The {{flowlist}} template enables lists to stay clear of these left-floating objects:
+
+[[File:Westminstpalace.jpg|left|thumb|100px]]
+{{flowlist}}
+  &lt;ol&gt;
+    &lt;li&gt;list item A1
+      &lt;ol&gt;
+        &lt;li&gt;list item B1&lt;/li&gt;
+        &lt;li&gt;list item B2&lt;/li&gt;
+      &lt;/ol&gt;continuing list item A1
+    &lt;/li&gt;
+    &lt;li&gt;list item A2&lt;/li&gt;
+  &lt;/ol&gt;
+{{endflowlist}}
+
+{{flowlist}}
+First line
+:Second line
+::Third line
+:::Fourth line
+{{endflowlist}}
+
+
+
+Renders as:
+
+   
+
+  
+    list item A1
+      
+        list item B1
+        list item B2
+      continuing list item A1
+    
+    list item A2
+  
+
+   
+
+
+
+First line
+
+Second line
+Third line
+Fourth line
+
+
+
+
+This method will not work inside of a table, and if your list is longer than the floated element, then the list will not flow around the image like normal, but instead be one block, leaving white space below the floated element.
+
+
+
+
+
+Manipulating lists with user stylesheets[edit]
+Further information: Help:User contributions §&nbsp;User styles
+
+
+Virtually anything about how lists are displayed can be customized at the user end with CSS.  Some of the more useful tweaks are outlined below.  Of course, you enter the code in Text Editor mode — if you enter it in WYSIWYG mode, it is entered using escape characters.  Also, if you enter HTML in the Text Editor and switch to WYSIWYG mode, the HTML is lost and re-converted to markdown without styles.
+
+Extra indentation[edit]
+
+
+As noted above, in a numbered list in a large font, some browsers do not show more than two digits of indentation width, unless extra indentation is applied (if there are multiple columns; then indentation for each column). While this should be fixed in the wikicode, user stylesheet CSS can work around the problem for as long as it is present, by increasing the default indentation of 3.2em by 2em more:
+
+ ol { margin-left: 5.2em;}
+
+Changing unordered lists to ordered ones[edit]
+
+
+With the following user style CSS, ul { list-style: decimal; }, unordered lists are changed to ordered ones for sighted users (but not users who must use assistive technology). This applies (as far as the CSS selector does not restrict this) to all ul-lists in the HTML source code:
+
+those produced with *
+those with &lt;ul&gt; in the wikitext
+those produced by the system
+
+
+Since each special page, like other pages, has a class based on the pagename, one can separately specify for each type whether the lists should be ordered, see Help:User contributions#User styles and Help:What links here#User styles.
+
+
+However, it does not seem possible to make all page history lists ordered (unless one makes all lists ordered), because the class name is based on the page for which the history is viewed.
+
+How to find entries for a list[edit]
+
+
+The easiest way to find relevant articles for a new list or missing entries in an existing one is by finding the most relevant category and checking its entries. Sometimes lists are about things that are intersections of categories for which the PetScan tool can be used.
+
+
+More relevant articles may also be found linked in the list's topic's article and the articles already featured in the list&nbsp;− most often in their "See also" sections (if existent) and the automatically suggested "RELATED ARTICLES" below them.
+
+
+Other ways to find relevant articles include searching Wikipedia for the lists' topic and searching the Web for the topic in quotes " (with synonyms also in quotes and appended after an OR) and appending the word wiki or Wikipedia or site:Wikipedia.org to them.
+
+
+Lastly the "What links here"-tool can be used on the list's topic's article to find relevant articles.
+
+
+For lists that do not require the entries to have a Wikipedia article there are additional ways of finding relevant entries such as lists on external websites (e.g. Goodreads for books)&nbsp;− typically involving Web searches.
+
+See also[edit]
+
+
+Lists portal
+MOS:PLIST, which explains the formatting of unbulleted lists.
+Wikipedia:Manual of Style/Lists, for suggested styles of lists.
+List formatting templates category.
+( {{·}} and {{•}}, dots (interpuncts) and bullets that can be used to separate items in horizontal lists without the use of HTML list mark-up.)
+A more accessible, manageable and semantically robust method is to use {{flatlist}} or the class "hlist".
+Wikipedia:Line break handling, including how to handle line wrapping in horizontal lists.
+Wikipedia:Help desk, to ask questions about using lists in articles if you weren't able to find the information you need here.
+vteLists in WikipediaStyle
+Lists
+Lists of works
+Stand-alone lists
+Set index articles
+Naming conventions (long lists)
+Accessibility/Lists
+Pro and con lists
+List dos and don'ts (information page)
+Content
+Wikipedia:Contents/Lists
+Featured list criteria
+WikiProject Lists
+Rationale
+Categories, lists, and navigation templates
+Categories vs. lists
+Lists in Wikipedia
+Lists within articles
+Listcruft
+Write the article first
+Existing lists
+Featured lists
+List of lists
+Lists of lists
+List of lists of lists
+Templates
+Template index/Lists
+Category:List templates
+Assistance
+Help:List
+
+vteWikipedia help pages
+Visit the Teahouse or the Help desk for an interactive Q &amp; A forum.
+
+FAQs&nbsp;(?)
+Reference desks&nbsp;(?)
+Noticeboards&nbsp;(?)
+Cheatsheet&nbsp;(?)
+ Directories&nbsp;(?)
+About Wikipedia&nbsp;(?)
+Administration
+Purpose
+Principles
+Policies and guidelines
+What Wikipedia is not
+Disclaimer&nbsp;(parental advice)
+Making requests
+Who writes Wikipedia?
+Help for readers&nbsp;(?)
+FAQ
+Books
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia&nbsp;(?)
+Advice for young editors
+Avoiding common mistakes
+Etiquette
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Your first article&nbsp;(article wizard)
+Getting started&nbsp;(?)
+Why create an account?
+Introductions by topic
+Graphics tutorials
+Picture tutorial
+IRC (live chat) tutorial
+VisualEditor user guide
+Dos and don'ts&nbsp;(?)
+Accessibility
+Biographies
+Biographies (living)
+Categorization
+Consensus
+Discussions
+Disambiguation
+Images
+Leads
+Links
+Lists
+References
+Tables
+Titles (of articles)
+How-to pages and
+information pages&nbsp;(?)
+Appealing blocks
+Article deletion
+Categories
+Citations/references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+Minor edit
+toolbar
+edit conflict
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking&nbsp;(link color)
+Logging in
+Merging
+Page name
+Renaming pages
+Redirect
+Passwords
+Email confirmation
+Reverting
+Simple vandalism cleanup
+Talk pages&nbsp;(archiving
+simple archiving)
+User contributions
+WP search protocol
+Coding&nbsp;(?)
+Wiki markup
+Barcharts
+Calculations
+Characters
+Columns
+Hidden text
+HTML
+Lists
+Magic words
+Music symbols
+Sections
+Sounds
+Tables
+Templates
+Transclusion
+URL
+Visual files
+Directories&nbsp;(?)
+Abbreviations
+Contents (Encyclopedia proper)
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Manual of Style 
+Policies
+Tasks
+Tips
+Tools
+ Missing Manual
+
+Ask for help on your talk page&nbsp;(?)
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:List&amp;oldid=1054250765"
+		Categories: Wikipedia how-toWikipedia editor helpWikipedia listsHidden categories: Help pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		MediaWikiMeta-Wiki
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةČeštinaDeutschDolnoserbskiEspañolEsperantoFrançaisHornjoserbsceBahasa IndonesiaItalianoJawaमराठीBahasa Melayu日本語Norsk bokmålРусскийShqipSimple EnglishسنڌيСрпски / srpskiไทยاردو中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 8 November 2021, at 23:30&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

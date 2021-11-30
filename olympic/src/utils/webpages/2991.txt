@@ -1,0 +1,691 @@
+
+
+
+
+Wikipedia:Main Page/Errors - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Main Page/Errors
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia:Main Page
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		ShortcutsWP:ERRORSWP:MP/E
+
+Administrator instructionsPlease post error reports regarding only what is currently or imminently on the Main Page.
+For general discussion about the Main Page, please use its talk page.
+Most issues relating to national variations of the English language have already been discussed here at length:
+Wikipedia does not prefer any national variety of English.
+Although Wikipedia strives for writing common to all varieties of English, some spelling, grammar or terminology it uses may be different or otherwise absent in yours.
+See the relevant style guide and a comparison of American and British English.
+
+
+To report an error in current or upcoming Main Page content, please add it to the appropriate section below.
+
+
+Main Page toolbox
+
+
+
+Yesterday
+November 28
+
+Today
+November 29, 2021
+
+Tomorrow
+November 30
+
+
+TFA
+
+TFA
+
+TFA
+
+
+SA/OTD
+
+SA/OTD
+
+SA/OTD
+
+
+POTD Main Page v.
+
+POTD Main Page v.
+
+POTD Main Page v.
+
+
+POTD regular v.
+
+POTD regular v.
+
+POTD regular v.
+
+
+&nbsp;
+TFL (Monday)
+&nbsp;
+
+
+
+Main Page queue
+
+
+In the news
+candidates
+discussion
+admin instructions
+
+
+Did you know
+nominations
+discussion
+queue
+BotErrors
+
+
+Protected pages
+Commons media protection
+Associated
+
+
+Error reports
+General discussion
+FAQ
+Help
+CSS
+Sandbox
+CSS
+History
+Alternatives
+April Fool's
+
+
+It is currently 18:20 UTC.
+Purge the Main Page
+Purge this page
+
+
+
+Where is the error? An exact quote of all or part of the text in question will help.
+Please offer a correction if possible.
+References are helpful, especially when reporting an obscure factual or grammatical error.
+Time zones: The Main Page runs on Coordinated Universal Time (UTC, currently 18:20 on 29&nbsp;November&nbsp;2021), not adjusted to your local time zone.
+Do not use {{edit fully-protected}}, which will not give you a faster response; it is unnecessary as this page is not protected and will in fact cause problems if used here, as this is not a talk page. (See the bottom of this revision for an example.)
+Done? Once an error has been fixed, rotated off the Main Page or acknowledged not to be an error, the report will be removed from this page; please check the page's revision history for any discussion or action taken, as no archives are kept.
+No chit-chat: Lengthy discussions should be moved to a suitable location elsewhere.
+Please respect other editors. A real person wrote the blurb or hook to which you are suggesting a fix, or a real person noticed what they honestly believe is an issue with the blurb or hook that you wrote. Everyone is interested in creating the best Main Page possible; with the compressed time frame, there is sometimes more stress and more opportunities to step on toes. Please be civil to fellow users.
+Can you resolve the problem yourself? If the error lies primarily in the content of an article linked from the Main Page, consider first attempting to fix the problem there before reporting it here if necessary. Text on the Main Page generally defers to the bolded articles. In addition, upcoming content is typically only protected from editing 24&nbsp;hours before its scheduled appearance; in most cases, you can be bold and fix any issues yourself.
+Administrators: Clear all reports
+Errors in the summary of the featured article[edit]
+Today's FA[edit]
+Tomorrow's FA[edit]
+Day-after-tomorrow's FA[edit]
+Errors with "In the news"[edit]
+Errors in "Did you know&nbsp;..."[edit]
+Current DYK[edit]
+... that the Lyceum Theatre (pictured) is New York City's oldest continuously operating legitimate theatre? What is a legitimate theater (note U.S. spelling)? Wikipedia has an article about legitimate theatre but it has a hatnote: This article is about the theatrical style. For the building where plays are staged, see Theater (structure). But the word legitimate isn't found in Theater (structure). In Lyceum Theatre (Broadway)#Design, there are three citations for the statement it is the oldest continuously operating legitimate theatre in New York City. Two of them are of books; the third is of a BroadwayWorld.com article that states, "The Lyceum Theatre has the distinction of being the oldest continually operating theater on Broadway!" (as opposed to, in New York City). —71.105.198.152 (talk) 19:39, 27 November 2021 (UTC)
+@Epicgenius and Ritchie333: Hopefully the nominator and the hook approver can join this discussion. Perhaps one of the ALTs can be used instead. --PFHLai (talk) 20:46, 27 November 2021 (UTC)
+Bloom 2007, p. 158, says "It was the first theater building to receive landmark status and is the oldest continuously operating legitimate theater in New York." As for the U.S. spelling, a "legitimate theater" is a theater (building) that shows legitimate (theatrical style) productions. This is as opposed to, say, a movie theater. – Epicgenius (talk) 21:05, 27 November 2021 (UTC)
+Thanks. Clarification: When I wrote, "(note U.S. spelling)", I meant to point out that the hook uses the British spelling of theater when it should use the U.S. spelling. —71.105.198.152 (talk) 22:00, 27 November 2021 (UTC)
+I see now, thanks. Yes, that should probably be changed; in using the U.S. spelling of "theater", I meant to refer to the building, whereas "theatre" would refer to the production style. – Epicgenius (talk) 22:34, 27 November 2021 (UTC)
+The blurb now shows "... legitimate theater?" I assume a link to Theater (structure) is not needed. Thanks. --PFHLai (talk) 02:41, 28 November 2021 (UTC)
+There’s still a problem: our article legitimate theatre doesn’t support that broader definition of the term you seem to be suggesting (ie, live theater as opposed to movies). Zagalejo (talk) 16:12, 29 November 2021 (UTC)
+Next DYK[edit]
+... that The Oxford Illustrated History of Medieval Europe isn't a book that perhaps cannot be written? - What the heck does this mean? Is this a witticism going over my head? GreatCaesarsGhost 16:55, 29 November 2021 (UTC)
+@Theleekycauldron, Philafrenzy,  and Whispyhistory: It's in what DYK calls the "quirky slot".  Now, you gotta admin that it's quirky.  But exactly what it means, I'm pinging the nominators and promoter, etc.  — Maile  (talk) 17:49, 29 November 2021 (UTC)
+@Maile66: it is unnecessarily confusing. The idea stems from the last prose paragraph:
+
+
+ Nicholas Hooper in History, identified some patchiness and omissions in the text with the coverage of Spain uneven and little about Scandinavia and Eastern Europe, but acknowledged that the task of the authors to compress over 1,000 years into 350 pages was difficult. He felt that the book had value but needed more interpretation and that it was not the ideal one-volume history of the period needed in schools and by first-year undergraduates, but accepted that "perhaps that book can never be written". 
+Perhaps the hook should be:
+... that The Oxford Illustrated History of Medieval Europe isn't a book that "perhaps ... can never be written"? theleekycauldron (talk • contribs) (they/them) 18:20, 29 November 2021 (UTC)
+Next-but-one DYK[edit]
+Errors in "On this day"[edit]
+Today's OTD[edit]
+Tomorrow's OTD[edit]
+Day-after-tomorrow's OTD[edit]
+Errors in the summary of the featured list[edit]
+Friday's FL[edit]
+(December&nbsp;3)
+Monday's FL[edit]
+(November&nbsp;29, today)
+Errors in the summary of the featured picture[edit]
+Notice to administrators: When fixing POTD errors, please update the corresponding regular version (i.e. without "protected" in the page title) in addition to the Main Page version linked below.
+Today's POTD[edit]
+Tomorrow's POTD[edit]
+Any other Main Page errors[edit]
+
+
+Please report any such problems or suggestions for improvements at the General discussion section of Talk:Main Page.
+
+vteMain Page and featured contentMain Page topics
+Errors
+Administrator instructions
+Main Page alternatives
+FAQ
+Editing
+Design
+Queue
+Yesterday
+Tomorrow
+History
+Wikipedia languages
+Sister projects
+Sandbox
+April Fools' Day
+Don't delete!
+Today's featured article
+Requests
+Pending requests
+Recent
+Oddities
+Most viewed
+Not yet used
+Featured articles
+Criteria
+Candidates
+Log
+Review
+Archive
+Statistics
+Former featured articles
+Unreviewed
+Did you know...
+Discussion
+Rules
+Supplementary rules
+Nominations
+Reviewing guide
+Preps &amp; Queues
+Removed hooks
+Archive
+Stats
+In the news
+Error reports
+Nominations
+Discussion
+Admin guide
+General criteria
+Death criteria
+Recurring items
+Awards
+Sports
+Discussion
+Archives
+Candidate archives
+Current events portal
+Current events portal for sports
+Discussion
+How the Current events portal works
+How to archive the portal
+Selected anniversaries
+Discussion
+Holidays and observances
+All
+Today's featured list
+Submissions
+Statistics
+Previously run lists
+Get involved
+Featured lists
+Criteria
+Candidates
+Log
+Task force
+Removal candidates
+Review list
+Log
+Former featured lists
+Picture of the day
+Guidelines
+Unused
+Archive
+Tomorrow
+Featured pictures
+Criteria
+Candidates
+Nomination procedure
+Featured topics
+Featured topics on the main page
+Candidates
+Log
+Nomination procedure
+Criteria
+Removal candidates
+Good topics
+Former featured topics
+Featured topic questions
+
+vteWikipedia communityFor a listing of current collaborations, tasks, and news, see the Community portal.
+For a listing of ongoing discussions and current requests, see the Dashboard.General community
+topics
+Administration
+News
+The Signpost
+Goings-on
+In the media
+Meetups
+Mailing lists
+Wikipedians
+Statistics
+The Wikipedia Library
+Centralized discussion
+Village pump
+Idea lab
+Policy
+Proposals
+Technical
+Miscellaneous
+WMF
+Bots
+Contents and grading
+Requested articles
+Most-wanted articles
+Images needing articles
+Articles needing images
+Articles for creation
+WP:AFC/R
+Creation
+Help
+Vital articles
+Articles for improvement
+Peer review
+Good article nominations
+Featured article candidates
+Lists
+Pictures
+Topics
+Article translation
+Pages
+Main Page
+Errors
+WikiProjects
+and collaborations
+Directory
+Culture and the arts
+Geographical
+History and society
+Science, technology and engineering
+Wikipedia assistance and tasks
+Patrols
+Recent changes
+Counter-Vandalism Unit
+Version 1.0 Editorial Team
+Accessibility
+Organizations category
+Awards and feedback
+Reward board
+Contests
+A nice cup of tea and a sit down
+Charitableness
+WikiLove
+Compliment before criticism
+Kindness Campaign
+Thanks!
+Maintenance tasks
+Task Center
+Open tasks
+Backlog
+Category
+Admin category
+Edit requests
+Category
+Database reports
+Category tracker
+Dusty articles
+Special pages
+New pages
+Recent changes
+Controversial issues
+Administrators
+and noticeboards
+Administrators' noticeboard
+Incidents
+Edit warring
+Vandalism
+Admin dashboard
+Admin requests
+Closure
+Page protection
+User permissions
+Sockpuppets
+Open proxies
+Revision deletion
+Oversight
+Request
+Usernames
+Changing
+Title blacklist
+OTRS
+Bureaucrats'
+Requests for adminship and bureaucratship
+Arbitration Committee
+Requests
+Enforcement
+Content dispute
+resolution
+Requests for comment
+Third opinion
+Dispute resolution noticeboard
+Biographies of living persons
+Conflict of interest
+External links
+Fringe theories
+Neutral point of view
+No original research
+Reliable sources
+Other noticeboards
+and assistance
+Regional notice boards
+Requests for help
+Category
+Asking&nbsp;questions
+Teahouse
+Help&nbsp;desk
+Reference&nbsp;desk
+Adopt-a-user
+Copyright assistance
+Copyright investigations
+Text problems
+Media questions
+Resource requests
+Mergers
+History mergers
+Moves
+Page importation
+Spam
+Blacklist
+Whitelist
+Bots
+Education
+General sanctions
+Editor sanctions
+Long-term abuse
+Deletion
+discussions
+Guide
+Admin
+Today
+Articles
+Templates
+Files
+Categories
+Redirects
+Miscellany
+Speedy
+Proposed
+BLP
+Review
+Undeletion
+Arguments to avoid
+Arguments to make
+Article Rescue
+Elections and votings
+Requests for comment (meta)
+Wikimedia Foundation elections
+WP Democracy
+Voting is not evil
+Milestones
+Directories, indexes,
+and summaries
+Departments
+Edit summary legend
+Editor's index
+Essays
+FAQs
+Glossary
+Abbreviations
+Help
+Manual of Style
+Simplified
+Rules
+Five pillars
+Policies
+Guidelines
+Shortcuts
+Templates
+Citation templates
+Tips
+Today
+Tools
+Wiki markup
+
+Media
+Category
+Templates
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Main_Page/Errors&amp;oldid=1057793453"
+		Categories: Main Page discussionsHidden categories: Wikipedia move-protected project pagesNon-talk pages that are automatically signed
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةবাংলাChi-Chewaසිංහල粵語中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 29 November 2021, at 18:20&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

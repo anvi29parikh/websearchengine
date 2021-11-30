@@ -1,0 +1,330 @@
+
+
+
+
+Wikipedia talk:Wikipedia Signpost/Newsroom - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia talk:Wikipedia Signpost/Newsroom
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia talk:Wikipedia Signpost
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This page is to discuss the upcoming issue of The Signpost.
+For suggestions of a topic to cover, see Suggestions.
+For proposals for a feature, see Submissions.
+For general or technical issues, praise, queries, or complaints, see Wikipedia talk:Wikipedia Signpost.
+
+
+
+
+
+
+Archives: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+ 
+
+
+Sections older than 7&nbsp;days may be automatically archived by MiszaBot II.
+
+
+Deadlines (vte)Writing: 27 December 20:00 UTC (28 days left; 96%)
+Publishing: 28 December 20:00 UTC (29 days left; 100%)
+ 
+The Signpost&nbsp;(talk)
+
+
+About
+Archives
+
+Subscribe
+
+
+Newsroom (talk)
+Coordination
+Submissions
+Suggestions
+
+
+Writing
+Content
+Formatting
+(cheatsheet)
+Resources
+Style
+
+
+Newslettersvte
+
+
+
+
+
+Published[edit]
+Publishing messed up?[edit]
+
+
+I think that the publishing isn't exactly right. I'm seeing some articles from this month's edition of the signpost on WP:SIGNPOST, but I'm also seeing that the date is wrong and some of the links are red. Does anybody have an idea for how to fix this? I'm a page mover and can move things around if needed, but I'd just like to see if there's something Signpost-specific that I am missing here. — Mhawk10 (talk) 00:53, 29 November 2021 (UTC)
+
+(EC) I'll take a look at the above Smallbones(smalltalk) 01:03, 29 November 2021 (UTC)
+@Chris troutman and JPxG: Chris - can you take over in the middle? JPxG can you step back and see if Chris can take over. My apologies and thanks for the help. Please communicate here. The situation stands bow as:
+9 articles appearently published ok
+4 on the Contents page (near the top) but no articles
+Single-page edition is from last month. Smallbones(smalltalk) 01:10, 29 November 2021 (UTC)
+@Chris troutman and JPxG:  Smallbones(smalltalk) 01:12, 29 November 2021 (UTC)
+
+
+The script ran in its entirety, but a couple things were messed up. I fixed everything myself except the one page I couldn't edit (not being a TE or admin). User:Seddon helpfully fixed it here, so everything should be fine now (the main page is rendering correctly now as well). The only thing remaining to be done is the global massmessage. jp×g 01:14, 29 November 2021 (UTC)
+
+@Chris troutman: Do you have permission to do a global mass-message send? This part is still necessary (as well as publication on facebook, twitter etc that the script helpfully reminded me had to be done manually). jp×g 01:25, 29 November 2021 (UTC)
+@JPxG: I'm just about to handle those. Chris Troutman (talk) 01:26, 29 November 2021 (UTC)
+Thanks everybody - it looks like everything is fine - but I'll double check just to be sure - the 2 of you saved the day, despite all my efforts.&nbsp;:-) Smallbones(smalltalk) 01:32, 29 November 2021 (UTC)
+Global mass message went out and tweet is out. I never had a facebook account so that's due out. I don't seem to have the gmail login so I haven't sent to the listserv. Chris Troutman (talk) 01:36, 29 November 2021 (UTC)
+Yikes, I would have helped but I was on cross-state travel when everything was happening. Hope it's OK now. ☆ Bri (talk) 01:45, 29 November 2021 (UTC)
+(EC) @Chris troutman: that's ok, we can get that in the morning. Thanks again. JPxG thanks for taking the initiative, and pretty much getting everything done. All the on-Wiki stuff looks fine (except for one meaningless quirk). Let's see how the readers like it. At least one comment already in. (Thanks Bri) Smallbones(smalltalk) 01:50, 29 November 2021 (UTC)
+
+
+I'm going to add a note to the script's documentation that the template editor permission is now required to update the Issues page, which is what gave us the hiccup this time. Apparently, that page was automatically TE-protected by MusikBot as a high-transclusion template a few weeks ago; the inability to update that with the current issue ended up cascading through a few other pages (although thankfully not the 1,249 talk pages that were posted to by the mass message bot, lol). jp×g 03:15, 29 November 2021 (UTC)
+
+Good to know. I'll need TE permissions if I'm to publish in the future. ☆ Bri (talk) 04:34, 29 November 2021 (UTC)
+Reader feedback[edit]
+
+
+
+View reader feedback on issue 10 (November) 
+
+
+
+
+All: You can monitor reader feedback by pressing the button. ☆ Bri (talk) 02:13, 29 November 2021 (UTC)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Wikipedia_Signpost/Newsroom&amp;oldid=1057703888"
+		
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 29 November 2021, at 04:35&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

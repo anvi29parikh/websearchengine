@@ -1,0 +1,382 @@
+
+
+
+
+View source for Template:Noticeboard links - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	View source for Template:Noticeboard links
+	
+		
+		← Template:Noticeboard links
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+You do not have permission to edit this page, for the following reason:
+
+
+This page is currently semi-protected so that only established, registered users can edit it.
+
+
+
+Why is the page protected?
+
+While most articles can be edited by anyone, semi-protection is sometimes necessary to prevent vandalism to popular pages.
+
+The reason for protection can be found in the protection log. If there are no relevant entries in the protection log, the page may have been moved after being protected.
+
+
+
+
+
+What can I do?
+
+ If you have a user account, log in first. If you do not yet have an account, you may create one; after 4 days and 10 edits, you will be able to edit semi-protected pages.
+ Discuss this page with others.
+
+ For move-protected pages, see requested moves.
+
+ Request that the page's protection level be reduced.
+
+ Find out more about how to get started editing Wikipedia.
+
+If you have noticed an error or have a suggestion for a simple, non-controversial change, you can submit an edit request by clicking the button below and following the instructions. An established user may then make the change on your behalf. Please check the talk page first in case the issue is already being discussed.
+
+
+
+
+
+Submit an edit request
+
+
+
+
+
+
+
+
+You can view and copy the source of this page:{{Navbox
+| name = Noticeboard links
+| state = {{{state|uncollapsed}}}
+| title = [[Wikipedia:Noticeboards|Noticeboards]]
+| listclass = hlist
+| titlestyle = {{{titlestyle|}}}
+| groupstyle = {{{groupstyle|}}}
+| abovestyle = {{#if: {{{abovestyle|}}} | {{{abovestyle}}} | {{{groupstyle}}} }}
+| belowstyle = {{#if: {{{belowstyle|}}} | {{{belowstyle}}} | {{{groupstyle}}} }}
+| style = {{{style|}}}
+| above = Wikipedia's centralized [[Wikipedia:Request directory|discussion, request, and help venues]]. For a listing of ongoing discussions and current requests, see the [[Wikipedia:Dashboard|dashboard]].
+| below = ''' [[:Category:Wikipedia noticeboards]]'''
+
+| group1 = General
+| list1 =
+* Administrators
+** [[Wikipedia:Administrators' noticeboard|main]]
+** [[Wikipedia:Administrators' noticeboard/Incidents|incidents]]
+* [[Wikipedia:Bots/Noticeboard|Bots]]
+* [[Wikipedia:Bureaucrats' noticeboard|Bureaucrats]]
+* [[Wikipedia:Centralized discussion|Centralized discussion]]
+* [[Wikipedia:Closure requests|Closure requests]]
+* [[Wikipedia:Education noticeboard|Education]]
+* [[Wikipedia:Interface administrators' noticeboard|Interface admins]]
+* [[Wikipedia:Main Page/Errors|Main Page errors]]
+* [[Wikipedia:WikiProject on open proxies|Open proxies]]
+* [[Wikipedia:VRT noticeboard|VRT]]
+* [[Wikipedia:Requests for oversight|Oversight]]
+* [[Wikipedia:Requests for permissions|User permissions]]
+
+| group2 = Articles and content
+| list2 =
+* [[Wikipedia:Biographies of living persons/Noticeboard|Biographies of living persons]]
+* Copyrights
+** [[Wikipedia:Media copyright questions|questions on media]]
+** [[Wikipedia:Copyright problems|problems]]
+* [[Wikipedia:Dispute resolution noticeboard|Dispute resolution]]
+* [[Wikipedia:External links/Noticeboard|External links]]
+* [[Wikipedia:Fringe theories/Noticeboard|Fringe theories]]
+* [[Wikipedia:Neutral point of view/Noticeboard|Neutral point of view]]
+* [[Wikipedia:No original research/Noticeboard|Original research]]
+* [[Wikipedia:Reliable sources/Noticeboard|Reliable sources]]
+* [[Wikipedia:WikiProject Resource Exchange/Resource Request|Resource requests]]
+* [[Wikipedia talk:WikiProject Spam|Spam]]
+** [[MediaWiki talk:Spam-blacklist|blacklist]]
+** [[MediaWiki talk:Spam-whitelist|whitelist]]
+*  [[Wikipedia:SVG help|Scalable vector graphics]]
+* [[MediaWiki talk:Titleblacklist|Titleblacklist]]
+* [[Wikipedia:Pages needing translation into English|Translation]]
+
+|group3 = Page handling
+|list3 =
+* [[Wikipedia:Requests for history merge|History merges]]
+* [[Wikipedia:Proposed article mergers|Mergers]]
+* [[Wikipedia:Proposed article splits|Splits]]
+* [[Wikipedia:Requested moves|Moves]]
+* [[Wikipedia:Requests for page protection|Protection]]
+* [[Wikipedia:Requests for page importation|Importation]]
+* [[Wikipedia:Deletion process|XfD]]
+** [[Wikipedia:Articles for deletion|Articles]]
+** [[Wikipedia:Redirects for discussion|Redirects]]
+** [[Wikipedia:Categories for discussion|Categories]]
+** [[Wikipedia:Templates for discussion|Templates]]
+** [[Wikipedia:Files for discussion|Files]]
+** [[Wikipedia:Miscellany for deletion|Miscellany]]
+* [[Wikipedia:Requests for undeletion|Undeletion]]
+
+| group4 = User conduct
+| list4 =
+* [[Wikipedia:Conflict of interest/Noticeboard|Conflict of interest]]
+* [[Wikipedia:Contributor copyright investigations|Contributor copyright]]
+* [[Wikipedia:Administrators' noticeboard/Edit warring|Edit warring and 3RR]]
+* [[Wikipedia:Sanctions|Sanctions]]
+** [[Wikipedia:Editing restrictions|Personal restrictions]]
+** [[Wikipedia:General sanctions|General sanctions]]
+** [[Wikipedia:Arbitration Committee/Discretionary sanctions|Discretionary sanctions]]
+* [[Wikipedia:Sockpuppet investigations|Sockpuppets]]
+* [[Wikipedia:Usernames for administrator attention|Usernames]]
+* [[Wikipedia:Administrator intervention against vandalism|Vandalism]]
+
+| group5 = Other
+| list5 =
+* Arbitration
+** [[Wikipedia:Arbitration Committee/Noticeboard|Committee noticeboard]]
+** [[Wikipedia:Arbitration/Requests|requests]]
+** [[Wikipedia:Arbitration/Requests/Enforcement|enforcement]]
+* [[Wikipedia:Edit filter noticeboard|Edit filters]]
+** [[Wikipedia:Edit filter/Requested|requested]]
+** [[Wikipedia:Edit filter/False positives|false positives]]
+* Questions
+** [[Wikipedia:Help desk|Help desk]]
+** [[Wikipedia:Teahouse|Teahouse]]
+** [[Wikipedia:Reference desk|Reference desk]]
+** [[Wikipedia:WikiProject Articles for creation/Help desk|New articles]]
+* [[Wikipedia:Requests for comment/All|Requests for comment]]
+* Village pump
+** [[Wikipedia:Village pump (policy)|policy]]
+** [[Wikipedia:Village pump (technical)|technical]]
+** [[Wikipedia:Village pump (proposals)|proposals]]
+** [[Wikipedia:Village pump (idea lab)|idea lab]]
+** [[Wikipedia:Village pump (WMF)|WMF]]
+** [[Wikipedia:Village pump (miscellaneous)|miscellaneous]]
+* [[Wikipedia:WikiProject Council/Proposals|WikiProject proposals]]
+}}{{#ifeq:{{{nostb}}}|yes|&lt;!-- nothing --&gt;|{{skip to bottom|notoc={{#ifeq:{{{notoc|}}}|yes|yes|&lt;!-- nothing --&gt;}}}}}}&lt;noinclude&gt;
+{{Documentation}}
+&lt;/noinclude&gt;
+
+
+Pages transcluded onto the current version of this page (help):
+
+Template:Documentation (view source) (template editor protected)Template:Documentation subpage (view source) (template editor protected)Template:Navbox (view source) (template editor protected)Template:Noticeboard links/doc (edit) Template:Sandbox other (view source) (template editor protected)Template:Skip to bottom (view source) (semi-protected)Module:Arguments (view source) (protected)Module:Color contrast (view source) (template editor protected)Module:Color contrast/colors (view source) (template editor protected)Module:Documentation (view source) (template editor protected)Module:Documentation/config (view source) (template editor protected)Module:Documentation/styles.css (view source) (template editor protected)Module:Effective protection expiry (view source) (template editor protected)Module:Effective protection level (view source) (protected)Module:File link (view source) (template editor protected)Module:Navbar (view source) (protected)Module:Navbar/configuration (view source) (protected)Module:Navbar/styles.css (view source) (protected)Module:Navbox (view source) (template editor protected)Module:No globals (view source) (protected)Module:Protection banner (view source) (template editor protected)Module:Protection banner/config (view source) (template editor protected)Module:String (view source) (protected)Module:Yesno (view source) (protected)
+
+Return to Template:Noticeboard links.
+
+Retrieved from "https://en.wikipedia.org/wiki/Template:Noticeboard_links"
+		
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		TemplateTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPage informationWikidata item
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

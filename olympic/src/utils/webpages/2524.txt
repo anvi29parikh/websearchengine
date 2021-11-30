@@ -1,0 +1,428 @@
+
+
+
+
+Wikipedia:Wikipedia Signpost/2021-11-29/In the media - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Wikipedia Signpost/2021-11-29/In the media
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia:Wikipedia Signpost‎ | 2021-11-29
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Denial: climate change, mass killings and pornography: Will they deny non-fungible tokens next?
+← Back to ContentsView Latest Issue29 November 2021
+
+ In the media
+Denial: climate change, mass killings and pornography
+
+
+Contribute&nbsp;&nbsp;—&nbsp;&nbsp;
+Share this
+
+
+ E-mail
+ Facebook
+ Twitter
+ LinkedIn
+ Reddit
+
+
+
+By Ganesha811, Smallbones
+
+
+
+
+
+
+
+Climate change denial on foreign-language Wikipedias
+External audio The Denial Files 5. 'We fight climate denial on Wikipedia', BBC, 20 November 2021, 19:40
+
+
+The BBC report Climate change: Conspiracy theories found on foreign-language Wikipedias says that "several foreign-language Wikipedia pages seen by BBC News are promoting conspiracy theories and making misleading claims about climate change". The languages in question include Belarusian, Chinese, Croatian, Kazakh and Swahili.
+
+
+WMF senior program strategist Alex Stinson is quoted as saying "we need more people involved in this project", and that additional volunteers on those projects would help keep out "conspiracy theories and bad information". Yumiko Sato, a US-based Japanese writer who previously wrote on the issue for Slate, said that "Wikipedia only works if the editing community is large and diverse."
+
+"As bad as Holocaust denial"
+
+
+Wikipedia may delete entry on 'mass killings' under Communism due to claims of bias, published in The Telegraph reviews this AfD entry. Mass killings under Communist regimes was nominated for the axe for the fourth time under this name (and had been nominated twice before under the name Communist genocide). All previous nominations were 10–11 years ago. More in-depth reporting on the AfD can be found in this Signpost edition's deletion report.
+
+
+The Telegraph quotes University of Cambridge historian Professor Robert Tombs, saying 
+
+
+
+(Deletion) is morally indefensible, at least as bad as Holocaust denial, because 'linking ideology and killing' is the very core of why these things are important.
+
+I have read the Wikipedia page, and it seems to me careful and balanced. Therefore attempts to remove it can only be ideologically motivated – to whitewash Communism.
+
+
+One editor dismissed the professor's concerns, saying "I fail to see why his view is important on this subject, being a historian in one subject does not automatically make you an authority on all historical subjects".
+
+
+The story has been reported in multiple other publications, and the AfD received nearly 70,000 page views in the last week. The length of the AfD will soon surpass twice the length of the previous record holder. Currently, !voters are strongly in favor of keeping the article, and a snow close has been proposed. 
+
+
+Disclosure – the author of this section voted Strong keep at the AfD and has previously edited the article extensively.
+–S
+
+Richard Desmond doesn't like being called a "former pornographer"
+
+
+Make no mistake about it: British publisher businessman Richard Desmond indeed used to publish magazines with titles like Asian Babes, and Readers’ Wives, as well as operate a cable channel titled Filth, according to several reliable sources such as the BBC (link), The Times (link), the Financial Times (link), and The Guardian (link). The imbroglio originates from Desmond's claim that material must be illegal for it to be classified as "pornography", instead preferring the use of the term "adult material".
+
+
+Early this month, The Guardian reported that they'd seen a legal document stating that Desmond would take action against Wikipedia.
+
+
+
+(He) has now hired lawyers to demand Wikipedia permanently deletes any mentions of the word “pornographer” from his biography.
+
+
+
+Lawyers acting for the businessman this week asked Wikipedia administrators to investigate edits to the page, actively monitor it in case the word is reinstated, and keep “genuine, factually correct, edits by Mr Desmond” on the page.
+
+
+
+
+The use of the term ‘pornographer’ when applied to our client is at least factually wrong, gratuitous and insulting, and at most commercially damaging,” they wrote.
+
+
+It is not clear which "Wikipedia administrators" he asked to monitor the article. Due to a belated request for comment, and the Thanksgiving holiday, the WMF legal department was unable to state whether Desmond or his representatives had contacted them.
+
+
+While the term "pornographer" was removed three times from the article in the days following The Guardian story, it was quickly restored, and currently remains in the article. None of the editors who removed the word appear to work for Desmond. Several prominent editors have been single-purpose accounts tending to favor Desmond's point of view. Perhaps the most surprisingly prolific editor on the article has been Philip Cross, espousing a point of view in opposition to Desmond's. While there is little or no evidence that he violated policy in his editing of the article, Cross received a short-term block for violating a topic ban on editing articles pertaining to post-1978 British politics.
+
+Signpost's story on false serial killer photo makes waves
+
+
+Le Monde (link, in French) cited Andreas Kolbe's October Signpost article about a police photo of Floridian Nathaniel White being mistakenly placed in the Wikipedia article on totally unrelated New York serial killer Nathaniel White for more than two years. 
+
+
+Other media outlets who covered the story include Motherboard (Vice) (link), who added some of their own original reporting, Slashdot (link), Gigazine (link, in Japanese), and 10 sites in various European languages. Even Elon Musk managed a throat-clearing tweet on the subject.
+
+
+Kolbe told The Signpost: "A good thing to have come from this coverage is that after being contacted by Vice, Google finally tidied up their Knowledge Graph panel, removing Mr. White's picture from it. A number of social media posters were also good enough to take the wrong picture down, so things now look slightly better."
+
+Admin questions Creative Commons NFT "promotion"
+
+
+Long-time Wikipedia administrator David Gerard, a respected cryptocurrency commentator, has raised doubts on his blog Attack of the 50 Foot Blockchain about the propriety of the Creative Commons organization (CC)
+engaging in what he calls "promotion". He believes that CC is promoting non-fungible tokens (controversial financial instruments used by the cryptocurrency industry to sell certificates of authenticity in electronic works of art). CC denies that they are promoting NFTs, saying instead that they are simply encouraging discussion on their merits.
+
+In brief
+Getting away from the algorithm: Outside magazine writes: Why You Should Scrap Your Instagram for Wikipedia (subscription required). Simply put, getting into arguments with strangers here is much more socially healthy than getting into arguments with your friends on social media.
+Wikipedia is a trustworthy source: The Conversation, a magazine written by and aimed at academics, opines: Students are told not to use Wikipedia for research. But it's a trustworthy source. "In the future, we hope first-year university students enter our classrooms already understanding the value of Wikipedia. This will mean a widespread cultural shift has taken place in Australian primary and secondary schools. In a time of climate change and pandemics, everyone needs to be able to separate fact from fiction. Wikipedia can be part of the remedy."
+Most of the time: Daily Trojan, USC's student newspaper, writes: Progress Without Profit: Don’t count Wikipedia out. A college senior discovers that Wikipedia is a good source—most of the time—and is particularly attracted to its non-profit status.
+Crash? Incident? Rampage? Redirect? Fox News writes: Wikipedia users try to change Waukesha 'parade car rampage' entry to 'parade incident'. Fox analyzes the wording used in the name of Wikipedia's article on the 2021 Waukesha Christmas parade attack. The page was fully protected for a time because of "unregistered editors flooding this page with excessive requests for a page rename".
+
+
+
+Game Console 2.0 on sale now, featuring Evan Amos' photos from Wikimedia Commons
+
+
+The Game Console 2.0 When Wikipedia editors or off-wiki publications need photos of video game consoles, they get them from Evan Amos' Vanamo Online Game Museum. The on-wiki collection is available to all, but for those who want to purchase a paper copy, No-Starch Press has published a follow-up and expansion to the 2018 edition.  This remains the first and only commercially successful model of a photographer publishing in the Wikimedia platform and also selling that same collection.
+"Major mistakes": Celebrity chef Rachel Allen went to the Irish Mirror to get some longstanding errors in her Wikipedia biography fixed. The items in question, birth date and middle name, were unsourced and added by IPs years ago, in 2007 and 2017. Allen said she had tried to correct the errors on Wikipedia, but had been unsuccessful.
+Wikigifs: Boing Boing writes: Fascinating website shows all the gifs on Wikipedia. Author Annie Rauwerda reports positively on Wikigifs, a "website that shows you each gif on Wikimedia Commons one at a time", and calls it "my new favorite bookmark".
+
+
+
+
+
+
+See Wikipedia:Press coverage 2021 for a more complete listing of news stories about Wikipedia. Do you want to contribute to "In the media" by writing a story or even just an "in brief" item?  Edit next month's edition in the Newsroom or leave a tip on the suggestions page.
+
+
+
+
+
+← Previous "In the media"
+
+In this issue29 November 2021
+In the media
+WikiCup report
+Deletion report
+From a Wikipedia reader
+Arbitration report
+Discussion report
+Technology report
+WikiProject report
+Serendipity
+News from Diff
+Traffic report
+Recent research
+Humour
+
+
++ Add a commentDiscuss this story
+These comments are automatically transcluded from this article's talk page.&nbsp;To follow comments, add the page to your watchlist. If your comment has not appeared here, you can try purging the cache.
+
+With all due respect to David, why is The Signpost covering his blog on Creative Commons that does not discuss Wikipedia in any detail? I was under the impression that this section is for 'Wikipedia or Wikimedia in the media', not 'what some admins are blogging about'. There is plenty of news from CC world that we never cover. Considering his blog is monetized (at the very least it is advertising his books), I am not sure we are following the best practices here. --Piotr Konieczny aka Prokonsul Piotrus| reply here 00:54, 29 November 2021 (UTC)
+@Piotrus: Anything about CC is related to Wikipedia IMHO (Same for Section 230, IMHO). We report on a blog every 2-3 months. It just depends on the quality of the blog, and what they have to say. David Gerard's blockchain blog is the best source on everything related to crypto on the web. Though his sense of humour could use a bit of work. Smallbones(smalltalk) 01:59, 29 November 2021 (UTC)
+Almost everything we cover at "In the media" is monetized. It would be silly to exclude for that reason. ☆ Bri (talk) 02:16, 29 November 2021 (UTC)
+Annie Rauwerda, author of the Boing Boing article mentioned at the very end of this one, runs the Instagram account @depthsofwikipedia. Worth a look for a laugh, and almost notable enough for an article. ezlev (user/tlk/ctrbs) 01:51, 29 November 2021 (UTC)
+Desmond is advocating a highly idiosyncratic definition of "pornography" as applying only to illegal content. That might have been true 60 years ago, but currently, content that 99% of people would consider pornographic is completely legal in many Western countries. I expect that Desmond will have little success with any lawsuit, based on an objective evaluation of the content of the various magazines and websites that Desmond used to publish. Cullen328 (talk) 03:00, 29 November 2021 (UTC)
+yes a "highly idiosyncratic" definition. I think folks in the US would have laughed at his definition starting about 1974? when Deep Throat came out and wasn't shut down. When did this level of legal obvious porn come out in the UK?
+This story, to me, was the biggest mystery of the month. What did he hope to accomplish by doing this? Did he intentionally leak his lawyers' work for some reason? Who else would have leaked the legal work? His lawyers?  Smallbones(smalltalk) 03:38, 29 November 2021 (UTC)
+Fun Fact: In the second section it says "[...] this AfD entry." In Germany, there is a far-right political party called AfD. Directly after this sentence comes "Wikipedia may delete entry on 'mass killings' under Communism [...]" – Hidden message? -Killarnee (C•T•U) 14:45, 29 November 2021 (UTC)
+Actually - no. When I wrote this I had no thought about anything related to German political parties. AfD is one of the most commonly used Wiki-abbreviations, and I think that fact, plus linking to the deletion discussion, and the word "deletion" in the previous and next sentences made it crystal clear what the subject was. But at least now I know how bizarre conspiracy theories are born. Smallbones(smalltalk) 16:05, 29 November 2021 (UTC)
+A conspiracy theory about the AfD, that's something completely new. Usually, conspiracy theories come FROM the AfD. [1] But don't take it so seriously, that should be meant as a joke: "where there is trouble, the afd is not far" -Killarnee (C•T•U) 16:18, 29 November 2021 (UTC)
+Disappointing that The Telegraph didn't find anything about the keep side worth mentioning. Perhaps there was none when they wrote it. Or they thought that all their arguments were nonsense. Gråbergs Gråa Sång (talk) 15:22, 29 November 2021 (UTC)
+The second half of Professor Tomb's quote above should do it. "I have read the Wikipedia page, and it seems to me careful and balanced. Therefore attempts to remove it can only be ideologically motivated – to whitewash Communism." I think he approves of the keep side and disapproves of the delete side. Smallbones(smalltalk) 16:21, 29 November 2021 (UTC)
+Yeah, but it seems like that's about the article. Still no mention there's actually WP-editors arguing for keep. Gråbergs Gråa Sång (talk) 20:18, 29 November 2021 (UTC)
+
+
+
+
+
+
+
+
+
+
+
+Make sure we cover what matters to you — leave a suggestion.
+
+
+Home
+About
+Archives
+Newsroom
+Subscribe
+Suggestions
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/2021-11-29/In_the_media&amp;oldid=1057686753"
+		Categories: Wikipedia Signpost archives 2021-11Wikipedia Signpost RSS feedHidden categories: Pages containing links to subscription-only content
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 29 November 2021, at 01:54&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,3350 @@
+
+
+
+
+Commons:Babel - Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Commons:Babel
+	
+		From Wikimedia Commons, the free media repository
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Shortcuts
+COM:BBL
+COM:BABEL
+This project page in other languages:
+
+
+
+Alemannisch&nbsp;|
+asturianu&nbsp;|
+brezhoneg&nbsp;|
+català&nbsp;|
+Deutsch&nbsp;|
+English&nbsp;|
+español&nbsp;|
+فارسی&nbsp;|
+français&nbsp;|
+italiano&nbsp;|
+日本語&nbsp;|
+한국어&nbsp;|
+Lëtzebuergesch&nbsp;|
+magyar&nbsp;|
+македонски&nbsp;|
+Nederlands&nbsp;|
+occitan&nbsp;|
+polski&nbsp;|
+português&nbsp;|
+română&nbsp;|
+русский&nbsp;|
+slovenščina&nbsp;|
+shqip&nbsp;|
+српски / srpski&nbsp;|
+suomi&nbsp;|
+Türkçe&nbsp;|
+ئۇيغۇرچە&nbsp;|
+中文（简体）&nbsp;|
+中文（繁體）&nbsp;|
+vietnamese&nbsp;|
+Bahasa Indonesia&nbsp;|
+
++/−
+
+
+This page requires updating because: Since Template:Babel is deprecated I think this page should be updated to reflect that. In doing so, you could add a timestamp to the page.
+Please notify the uploader with {{subst:update-note|1=Commons:Babel|2=Since Template:Babel is deprecated I think this page should be updated to reflect that.}} ~~~~
+
+
+This page provides a framework for displaying the language abilities of users on their user page. This helps with communication by listing which languages, and how much of each, users can understand.
+
+Census in Babel
+
+
+Not everyone here speaks/writes the same language. To help with communication, please categorize yourselves by language categories on your user page. Example language groups: en for English, de for German, and so on. Additionally, users can specify their level of proficiency in the language:
+
+0 indicates someone who does not understand the language.
+1 stands for basic knowledge: the ability to understand and answer simple questions in the language.
+2 stands for intermediate knowledge.
+3 stands for advanced or fluent knowledge: the ability to correct spelling and grammar errors in the language.
+4 stands for near-native ability.
+5 stands for professional proficiency.
+N stands for native language.
+
+
+So de-1 identifies a user with basic skills in German, and en-3 identifies a user with advanced skills in English.
+
+
+The two-letter language codes are the same codes described in ISO 639, while the number roughly corresponds to the ILR scale (though this is coincidental). The three letter codes do not always conform to the ISO standard, though. There can also be weird bracket codes like "el(a)", which likely cannot be deciphered by people that don't speak this language. (See the complete list of language Wikipedias available).
+
+Note:  Level 0 is less often used, because it is assumed that users do not understand languages if they don't list them with one of the other levels. However, it can be useful on some multi-lingual wikis, to advise that you do not speak an expected language – for instance, you may be able to contribute to a wiki without speaking a language (adding links or pictures, say).
+
+
+
+
+
+
+
+
+Babel user information
+
+
+
+srМатерњи језик овог корисника је српски.
+en-3This user is able to contribute with an advanced level of English.
+hr-3Ovaj korisnik napredno poznaje hrvatski jezik.
+
+
+Users by language
+
+Babel template
+
+
+Usage:
+
+{{Babel|sr-N|en-3|hr-3}}
+
+
+
+Other codes (apart from language codes), such as those from Category:Graphics abilities and/or on Template:User/Abilities, can be included in the {{babel}} template but (since 2014) not in the following case-insensitive Extension:Babel.
+
+
+
+
+Babel user information
+
+
+
+
+
+es-N
+
+Esta persona tiene una comprensión nativa del español.
+
+
+
+
+vi-3
+
+Người dùng này biết tiếng Việt với trình độ tốt.
+
+
+
+
+tlh-0
+
+This user has no knowledge of Klingon (or understands it with considerable difficulty).
+
+
+
+
+Users by language
+
+Extension:Babel
+
+
+Since Fall of 2011 Extension:Babel was introduced to all WMF projects. Usage: 
+
+{{#babel:es-N|vi-3|tlh-0}}
+
+
+
+which produces a similar look but without thousands of templates per project.
+Language codes
+
+
+aa&nbsp;| ab&nbsp;| ace&nbsp;| af&nbsp;| ak&nbsp;| aln&nbsp;| als&nbsp;| am&nbsp;| an&nbsp;| ang&nbsp;| ar&nbsp;| arc&nbsp;| arn&nbsp;| arz&nbsp;| as&nbsp;| ast&nbsp;| av&nbsp;| avk&nbsp;| ay&nbsp;| az&nbsp;| ba&nbsp;| bar&nbsp;| bat-smg&nbsp;| bcc&nbsp;| bcl&nbsp;| be&nbsp;| be-x-old&nbsp;| bg&nbsp;| bh&nbsp;| bi&nbsp;| bjn&nbsp;| bm&nbsp;| bn&nbsp;| bo&nbsp;| bpy&nbsp;| br&nbsp;| bs&nbsp;| cbk-zam&nbsp;| bto&nbsp;| bug&nbsp;| bxr&nbsp;| ca&nbsp;| cdo&nbsp;| ce&nbsp;| ceb&nbsp;| ch&nbsp;| cho&nbsp;| chr&nbsp;| chy&nbsp;| co&nbsp;| cr&nbsp;| cre&nbsp;|crh&nbsp;| cs&nbsp;| csb&nbsp;| cu&nbsp;| cv&nbsp;| cy&nbsp;| da&nbsp;| de&nbsp;| diq&nbsp;| dk&nbsp;| dsb&nbsp;| dv&nbsp;| dz&nbsp;| ee&nbsp;| el&nbsp;| eml&nbsp;| en&nbsp;| eo&nbsp;| es&nbsp;| et&nbsp;| eu&nbsp;| ext&nbsp;| fa&nbsp;| ff&nbsp;| fi&nbsp;| fiu-vro&nbsp;| fj&nbsp;| fo&nbsp;| fr&nbsp;| frc&nbsp;| frp&nbsp;| fur&nbsp;| fy&nbsp;| ga&nbsp;| gag&nbsp;| gan&nbsp;| gd&nbsp;| gl&nbsp;| glk&nbsp;| gn&nbsp;| got&nbsp;| grc&nbsp;| gsw&nbsp;| gu&nbsp;| gv&nbsp;| ha&nbsp;| hak&nbsp;| haw&nbsp;| he&nbsp;| hi&nbsp;| hif&nbsp;| hil&nbsp;| ho&nbsp;| hr&nbsp;| hsb&nbsp;| ht&nbsp;| hu&nbsp;| hy&nbsp;| hz&nbsp;| ia&nbsp;| id&nbsp;| ie&nbsp;| ig&nbsp;| ii&nbsp;| ik&nbsp;| ilo&nbsp;| inh&nbsp;| io&nbsp;| is&nbsp;| it&nbsp;| iu&nbsp;| ja&nbsp;| jbo&nbsp;| jut&nbsp;| jv&nbsp;| ka&nbsp;| kaa&nbsp;| kab&nbsp;| kea&nbsp;| kg&nbsp;| ki&nbsp;| kj&nbsp;| kk&nbsp;| kl&nbsp;| km&nbsp;| kn&nbsp;| ko&nbsp;| kr&nbsp;| kri&nbsp;| krj&nbsp;| ks&nbsp;| ksh&nbsp;| ku&nbsp;| kv&nbsp;| kw&nbsp;| ky&nbsp;| la&nbsp;| lad&nbsp;| lb&nbsp;| lbe&nbsp;| lez&nbsp;| lfn&nbsp;| lg&nbsp;| li&nbsp;| lij&nbsp;| lld&nbsp;| lmo&nbsp;| ln&nbsp;| lo&nbsp;| loz&nbsp;| lt&nbsp;| ltg&nbsp;| lv&nbsp;| lzz&nbsp;| mai&nbsp;| map-bms&nbsp;| mdf&nbsp;| mg&nbsp;| mh&nbsp;| mhr&nbsp;| mi&nbsp;| mk&nbsp;| ml&nbsp;| mn&nbsp;| mo&nbsp;| mr&nbsp;| ms&nbsp;| mt&nbsp;| mus&nbsp;| mwl&nbsp;| my&nbsp;| myv&nbsp;| mzn&nbsp;| na&nbsp;| nah&nbsp;| nan&nbsp;| nap&nbsp;| nb&nbsp;| nds&nbsp;| nds-nl&nbsp;| ne&nbsp;| new&nbsp;| ng&nbsp;| niu&nbsp;| nl&nbsp;| nn&nbsp;| no&nbsp;| nov&nbsp;| nrm&nbsp;| nso&nbsp;| nv&nbsp;| ny&nbsp;| oc&nbsp;| om&nbsp;| or&nbsp;| os&nbsp;| pa&nbsp;| pag&nbsp;| pam&nbsp;| pap&nbsp;| pcd&nbsp;| pdc&nbsp;| pdt&nbsp;| pfl&nbsp;| pi&nbsp;| pih&nbsp;| pl&nbsp;| plm&nbsp;| pms&nbsp;| pnt&nbsp;| ps&nbsp;| pt&nbsp;| qu&nbsp;| rif&nbsp;| rm&nbsp;| rmy&nbsp;| rn&nbsp;| ro&nbsp;| roa-rup&nbsp;| roa-tara&nbsp;| ru&nbsp;| ruq&nbsp;| rw&nbsp;| sa&nbsp;| sah&nbsp;| sc&nbsp;| scn&nbsp;| sco&nbsp;| sd&nbsp;| sdc&nbsp;| se&nbsp;| sei&nbsp;| sg&nbsp;| sh&nbsp;| shi&nbsp;| si&nbsp;| simple&nbsp;| sk&nbsp;| sl&nbsp;| sm&nbsp;| sma&nbsp;| sn&nbsp;| so&nbsp;| sq&nbsp;| sr&nbsp;| srn&nbsp;| ss&nbsp;| st&nbsp;| stq&nbsp;| su&nbsp;| sv&nbsp;| sw&nbsp;| szl&nbsp;| ta&nbsp;| te&nbsp;| tet&nbsp;| tg&nbsp;| th&nbsp;| ti&nbsp;| tk&nbsp;| tl&nbsp;| tlh&nbsp;| tn&nbsp;| to&nbsp;| tp&nbsp;| tpi&nbsp;| tr&nbsp;| ts&nbsp;| tt&nbsp;| tum&nbsp;| tw&nbsp;| ty&nbsp;| tyv&nbsp;| tzm&nbsp;| udm&nbsp;| ug&nbsp;| uk&nbsp;| ur&nbsp;| uz&nbsp;| ve&nbsp;| vec&nbsp;| vi&nbsp;| vls&nbsp;| vo&nbsp;| wa&nbsp;| war&nbsp;| wo&nbsp;| wuu&nbsp;| xal&nbsp;| xh&nbsp;| xmf&nbsp;| ydd&nbsp;| yi&nbsp;| yo&nbsp;| yue&nbsp;| za&nbsp;| zea&nbsp;| zh&nbsp;| zh-classical&nbsp;| zh-min-nan&nbsp;| zh-yue&nbsp;| zu
+
+
+Red links in this list also not mentioned below are not supposed to work with the template.
+
+Categories and templates
+
+
+Here a sample list of categories and templates needed. The order of creation is important:
+
+Create the main category, (step 1)
+Create the secondary categories (steps 2-4)
+Create the templates (steps 5-7)
+Note:  Do not add level 0 users to the main "speakers" category.
+
+
+Current work... (Add your language if it is absent in the following list)
+
+Contents
+
+1 Census in Babel
+
+1.1 Babel template
+1.2 Extension:Babel
+1.3 Language codes
+
+
+2 Categories and templates
+3 ace - Bahsa Acèh
+4 af - Afrikaans
+5 ain-Aynu itak
+6 als - Alemannisch
+7 am - Amharic - አማርኛ
+8 an - Aragonés
+9 ar - Arabic - العربية
+10 ast - Asturianu
+11 av - Avar
+12 az - Azerbaijani - azərbaycan dili
+13 be - Беларуская
+14 bew - Basa Betawi
+15 bg - Български
+16 bi - Bislama
+17 bjn - Bahasa Banjar
+18 bm - Bambara - bamanankan
+19 bn - বাংলা
+20 br - Brezhoneg
+21 bs - Bosnian - bosanski jezik
+22 ca - Català/Valencià
+23 chr - ᏣᎳᎩ / Cherokee
+24 co - Corsican - Corsu/Lingua Corsa
+25 cs - Čeština
+26 cy - Cymraeg
+27 cv - Chuvash - чӑваш чӗлхи
+28 da - Dansk
+29 de - Deutsch
+30 dv - Divehi - ދިވެހި
+31 en - English
+32 el - Ελληνικά
+33 eo - Esperanto
+34 es - Español
+35 et - Eesti
+36 eu - Basque - Euskara
+37 fa - Persian - فارسی
+38 fi - Finnish - Suomen kieli
+39 fo - Faroese - Føroyskt
+40 fr - Français
+41 fy - Western Frisian - Frysk
+42 ga - Gaeilge
+43 gd - Scottish Gaelic - Gàidhlig
+44 gl - Galego
+45 gn - Guarani/Avañe'ẽ
+46 got - gothic
+47 gu - Gujarati - ગુજરાતી
+48 gsw - Schwiizerdütsch
+49 gv - Manx - Ghaelg
+50 haw - ‘Ōlelo Hawai‘i
+51 he - עברית
+52 hi - Hindi -  हिन्दी
+53 hif - Fiji Hindi
+54 hr - Hrvatski
+55 ht - Kreyòl ayisyen
+56 hu - Magyar
+57 hy - Armenian - Հայերեն
+58 ia - Interlingua - Interlingua
+59 id - Bahasa Indonesia
+60 ie - Interlingue
+61 io - Ido
+62 is - Íslenska
+63 it - Italiano
+64 ja - Japanese - 日本語
+65 jv - Javanese - ꦧꦱꦗꦮ
+66 ka - Georgian
+67 kea - Kabuverdianu
+68 kg - KiKongo
+69 km - Khmer - ភាសាខ្មែរ
+70 kk - Kazakh - Қазақ
+71 kn - Kannada - ಕನ್ನಡ
+72 ko - Korean - 한국어
+73 ku - Kurdish - Kurdî; كوردی‎
+74 ksh - Kölsch
+75 la - Latina
+76 lad - Djudeoespanyol
+77 lb - Lëtzebuergesch
+78 li - Limburgish - Limburgs
+79 ln - Lingala - Lingála
+80 lo - Lao - ພາສາລາວ
+81 lt - Lietuviškai
+82 ltg - Latgaļu
+83 lv - Latviešu
+84 mg - Malagasy
+85 mi - Māori te reo Māori
+86 mk - Македонски
+87 ml - Malayalam - മലയാളം (MalayaLam)
+88 mn - Mongolian - Монгол
+89 mr - Marathi - मराठी
+90 ms - Bahasa Melayu
+91 mt - Malti
+92 my - Birman
+93 mwl - Mirandés
+94 nah - Nàwatl (nāhuatl)
+95 nan - Bân-lâm-gú
+96 nap - Naples - nnapulitano
+97 nb - Norwegian Bokmål -  Norsk bokmål
+98 nds - Plattdüütsch
+99 ne - Nepali -  नेपाली
+100 nl - Nederlands
+101 nn - Norwegian nynorsk
+102 no - Norwegian
+103 nrm - Nouormand/normaund
+104 oc - Occitan
+105 or - Oriya - ଓଡ଼ିଆ
+106 pa - Punjabi
+107 pcd - Picard
+108 pl - Polski
+109 ps - Pashto - پښتو
+110 pt - Português
+111 pt-br - Português Brasileiro
+112 qu - Runa Simi
+113 ro - Română
+114 ru - Русский
+115 sa - Sanskrit - संस्कृतम्
+116 sc - Sardinian - sardu
+117 sdc - Sassarese - Sassaresu
+118 sh - Serbo-Croatian - Srpskohrvatski/Српскохрватски
+119 sd - Sindhi - سِنڌِي
+120 si - Sinhalese - සිංහල
+121 sk - Slovenčina
+122 sl - Slovenščina
+123 sq - Shqip
+124 sr - Српски / Srpski
+125 su - Basa Sunda
+126 sv - Svenska
+127 ta - Tamil (தமிழ்)
+128 te - Telugu - తెలుగు
+129 tg - Tajik -  тоҷикӣ; toğikī; ‫تاجیکی ‎
+130 th - Thai
+131 tl - Tagalog
+132 tlh - Klingon
+133 tpi - Tok Pisin
+134 tr - Türkçe
+135 ug - Uyghur; Uyƣur; Уйғур; ئۇيغۇر
+136 uk - Українська
+137 uz - Uzbek - O'zbek; Ўзбек; أۇزبېك‎
+138 ur - Urdu -  اردو
+139 vec - Vèneto
+140 vls - West-Vlams
+141 vi - Tiếng Việt
+142 wa - Walon
+143 yi - Yiddish
+144 yue - 粤语 / 粵語
+
+144.1 Simplified Chinese
+144.2 Traditional Chinese
+
+
+145 zh - 中文
+
+145.1 Simplified Chinese
+145.2 Traditional Chinese
+
+
+
+
+
+
+
+
+
+
+ace - Bahsa Acèh
+
+
+Category:user ace, with subcategories Category:user ace-0, Category:user ace-1, Category:user ace-2, Category:user ace-3, Category:user ace-4, Category:user ace-N  
+
+
+Use the following templates on your user page:
+
+{{User ace}} Ureuëng nguy nyoë jeuët geumarit bahsa Acèh ngön sampôreuna
+{{User ace-4}} Ureuëng nguy nyoë jeuët geumarit bahsa Acèh karap lagèë ureuëng Acèh aseuli
+{{User ace-3}} Ureuëng nguy nyoë jeuët geumarit bahsa Acèh ngön lanca
+{{User ace-2}} Ureuëng nguy nyoë jeuët geumarit bahsa Acèh ngön gèt
+{{User ace-1}} Ureuëng nguy nyoë jeuët geumarit bahsa Acèh bacut khöng
+{{User ace-0}} Ureuëng nguy nyoë h‘an jeuët geumarit bahsa Acèh
+
+
+
+
+
+af - Afrikaans
+
+
+Kategorie user af
+
+
+Gebruik die volgende template op jou gebruikersblad:
+
+{{User af}} – Hierdie gebruiker se moedertaal is Afrikaans.
+{{User af-4}} – Hierdie gebruiker praat Afrikaans op moedertaalvlak.
+{{User af-3}} – Hierdie gebruiker het 'n uitstekende begrip van Afrikaans.
+{{User af-2}} – Hierdie gebruiker het 'n gemiddelde begrip van Afrikaans.
+{{User af-1}} – Hierdie gebruiker het 'n basiese begrip van Afrikaans.
+{{User af-0}} – Hierdie persoon verstaan nie Afrikaans nie (of verstaan dit met groot moeite).
+ain-Aynu itak
+
+
+Category:User ain
+
+
+Sub-categories: User ain-0, User ain-1, User ain-2, User ain-3, User ain-N
+
+{{User ain}}:Aynu itak ani taankur onautari turano ukoisoitak.
+{{User ain-3}}:Aynu itak ani taankur poronno isoitak.
+{{User ain-2}}:Aynu itak ani taankur ponno isoitak.
+{{User ain-1}}:Aynu itak ani taankur poonno isoitak.
+{{User ain-0}}:
+
+
+
+
+
+als - Alemannisch
+
+
+WARNING! The code 'als' in ISO 639 does not refer to Alemannisch at all.
+
+
+Category:user als mit de Untrkategorie Category:User als-0, Category:User als-1, Category:User als-2, Category:User als-3, Category:User als-4, Category:User als-N.
+
+
+Fyg d zuetreffendi Bouschtein uf dinre Bnutzrsyte ei:
+
+{{User als}} Däm Benutzer sy Muetersprach isch Alemannisch.
+{{User als-4}} Dä Benutzer verfüegt über perfekti Känntnis vom Alemannische.
+{{User als-3}} Dä Benutzer verfüegt über sehr gueti Kenntnis vom Alemannische.
+{{User als-2}} Dä Benutzer verfüegt über furtgschrittnigi Kenntnis vom Alemannische.
+{{User als-1}} Dä Benutzer verfüegt über Basis-Kenntnis vom Alemannische.
+{{User als-0}} Dä Benutzer verfüegt über kei, oder fascht kei Känntnis vom Alemannische.
+
+
+
+
+
+am - Amharic - አማርኛ
+
+
+Category:User am: 
+Category:User am-0, Category:User am-1, Category:User am-2, Category:User am-3, Category:User am-4.
+
+{{User am}}: አማርኛ የዚህ/ቾ አባል ልደት ቋንቋ ነው።
+{{User am-4}}: እኚህ አባል አማርኛ የሚናገሩት የልደት ቋንቋ ያሕል ነው።
+{{User am-3}}: ይህ/ቾ አባል በከፍተኛ ደረጃ አማርኛ ማቀነባበር ይችላሉ።
+{{User am-2}}: ይህ/ቾ አባል በመካከለኛ ደረጃ አማርኛ ማቀነባበር ይችላሉ።
+{{User am-1}}: ይህ/ቾ አባል በቀላል ደረጃ አማርኛ ማቀነባበር ይችላሉ።
+{{User am-0}}: ይህ/ች አባል አማርኛ ምንም አይችሉም።
+
+
+
+
+
+an - Aragonés
+
+
+Category:User an, y as subcategorías Category:User an-0, Category:User an-1, Category:User an-2, Category:User an-3, Category:User an-4, Category:User an-N
+
+
+Emplegue os siguiens modelos de marcador en a suya pachina d'usuario:
+
+{{User an-0}} Iste usuario no repleca l'aragonés.
+{{User an-1}} Iste usuario puede contrebuyir con un ran alazetal d'aragonés.
+{{User an-2}} Iste usuario puede contrebuyir con un ran meyo d'aragonés.
+{{User an-3}} Iste usuario puede contrebuyir con un ran enantau d'aragonés.
+{{User an-4}} Iste usuario puede contrebuyir con un ran cuasi natibo  d'aragonés.
+{{User an}} Iste usuario ye un fablán natibo d'aragonés.
+
+
+
+
+
+ar - Arabic - العربية
+
+
+
+
+:تصنيف:مستخدم عر
+
+{{User ar}} هذا المستخدم لغته الأم هي اللغة العربية
+{{User ar-4}} هذا المستخدم يجيد اللغة العربية بشكل مثالي
+{{User ar-3}} هذا المستخدم يجيد اللغة العربية بشكل ممتاز .
+{{User ar-2}} هذا المستخدم يجيد اللغة العربية بشكل جيد .
+{{User ar-1}} هذا المستخدم يجيد اللغة العربية بشكل بسيط .
+{{User ar-0}} هذا المستخدم لا يفهم ولا يجيد اللغة العربية.
+
+
+
+
+
+
+
+ast - Asturianu
+
+
+Category:user ast, coles subestayes Category:user ast-0, Category:user ast-1, Category:user ast-2, Category:user ast-3, Category:user ast-4
+
+
+Usa estes plantíes na to páxina d'usuariu:
+
+{{User ast}}: Esti usuariu fala asturianu como llingua materna.
+{{User ast-4}}: Esti usuariu puede contribuir con un nivel espertu d'asturianu.
+{{User ast-3}}: Esti usuariu pue andechar con un nivel avanzáu d'asturianu.
+{{User ast-2}}: Esti usuariu pue andechar con un nivel intermediu d'asturianu.
+{{User ast-1}}: Esti usuariu pue andechar con un nivel básicu d'asturianu.
+{{User ast-0}}: Esti usuariu nun entiende asturianu (o tien problemes mui grandes pa entendelo).
+
+
+
+
+
+av - Avar
+
+
+Category: Category:user av
+Sub-category: Category:user av-0, Category:user av-1, Category:user av-2, Category:user av-3, Category:user av-4
+
+{{User av}}: User is a native Avar speaker.
+{{User av-4}}: User speaks Avar at a native level.
+{{User av-3}}: User is able to contribute with an advanced level of Avar.
+{{User av-2}}: User is able to contribute with an intermediate level of Avar.
+{{User av-1}}: User is able to contribute with a basic level of Avar.
+{{User av-0}}: User does not understand Avar.
+
+
+
+
+
+az - Azerbaijani - azərbaycan dili
+
+
+Category: Category:user az
+
+
+Sub-category: Category:user az-0, Category:user az-1, Category:user az-2, Category:user az-3, Category:user az-4
+
+{{User az}}: Azərbaycan dili bu istifadəçinin ana dilidir.
+{{User az-4}}: Bu istifadəçi Azərbaycan dilini ana dili kimi başa düşür.
+{{User az-3}}: Bu istifadəçi Azərbaycan dilini yüksək səviyyədə başa düşür.
+{{User az-2}}: Bu istifadəçi Azərbaycan dilini orta səviyyədə başa düşür.
+{{User az-1}}: Bu istifadəçi Azərbaycan dilini aşağı səviyyədə başa düşür.
+{{User az-0}}: Bu istifadəçi Azərbaycan dilini başa düşmür.
+
+
+
+
+
+be - Беларуская
+
+
+Катэгорыя user be, з падкатэгорыямі user be-0, user be-1, user be-2, user be-3, user be-4, user be-N
+
+
+Выкарыстоўвайце наступныя шаблёны на Вашай старонцы ўдзельніка/ўдзельніцы:
+
+{{User be}} удзельнікі і ўдзельніцы, для якіх беларуская мова з'яўляецца роднай.
+{{User be-4}} Гэты ўдзельнік/гэтая ўдзельніца ведае беларускую мову амаль як родную.
+{{User be-3}} Гэты ўдзельнік/гэтая ўдзельніца выдатна ведае беларускую мову.
+{{User be-2}} удзельнікі і ўдзельніцы, якія ведаюць беларускую мову на сярэднім узроўні.
+{{User be-1}} удзельнікі і ўдзельніцы, якія ведаюць беларускую мову на пачатковым узроўні.
+{{User be-0}} Гэты ўдзельнік/гэтая ўдзельніца не разумее беларускую мову, ці разумее яе з цяжкасцю.
+
+
+
+
+
+bew - Basa Betawi
+
+
+Category:user bew, with subcategories Category:user bew-0, Category:user bew-1, Category:user bew-4, Category:user bew-N  
+
+
+Use the following templates on your user page:
+
+{{User bew}}: Nyang maké ni orang Betawi asli.
+{{User bew-4}}: Nyang maké ni bisa basa Betawi mirip nyang asli.
+{{User bew-3}}:
+{{User bew-2}}:
+{{User bew-1}}: Nyang maké ni cuma bise basa Betawi dikit doangan.
+{{User bew-0}}: Nyang maké ni kagak ngerti omongan basa Betawi.
+
+
+
+
+
+bg - Български
+
+
+Категория user bg, с подкатегории user bg-0, user bg-1, user bg-2, user bg-3, user bg-4.
+
+
+Използвайте един от следните шаблони за категоризиране на потребителската си страница:
+
+{{User bg}} Родният език на този потребител е български.
+{{User bg-4}} Този потребител говори български език на ниво почти като роден език.
+{{User bg-3}} потребители, имащи задълбочени познания по български.
+{{User bg-2}} потребители, имащи познания на средно ниво по български.
+{{User bg-1}} потребители, имащи основни познания по  български.
+{{User bg-0}} Този потребител не знае български (или го разбира със значителни трудности).
+
+
+
+
+
+bi - Bislama
+
+
+Category:user bi / Category:User bi-0, Category:User bi-1, Category:User bi-2, Category:User bi-3, Category:User bi-4, Category:User bi-N.
+
+{{User bi}}
+{{User bi-4}}
+{{User bi-3}}
+{{User bi-2}}
+{{User bi-1}}
+{{User bi-0}}
+
+
+
+
+
+bjn - Bahasa Banjar
+
+
+Category:user bjn, with subcategories Category:user bjn-0, Category:user bjn-1, Category:user bjn-2, Category:user bjn-3, Category:user bjn-4, Category:user bjn-N  
+
+
+Pakai citakai pamakai naiya di tungkaran pamakai Pian:
+
+{{User bjn}} Pamakai naiya baisi pangatahuan langkap bahasa Banjar
+{{User bjn-4}} Pamakai naiya bisa babahasa Banjar parak lawan bahasa nang sabujurnya
+{{User bjn-3}} Pamakai naiya lancar babahasa Banjar
+{{User bjn-2}} Pamakai naiya baik bahasa Banjarnya
+{{User bjn-1}} Pamakai naiya sadikit bisa babahasa Banjar
+{{User bjn-0}} Pamakai naiya kada bisa lalu babahasa Banjar
+
+
+
+
+
+bm - Bambara - bamanankan
+
+
+Category: user bm
+
+
+Sub-categories: user bm-0, user bm-1, user bm-2, user bm-3, user bm-4.
+
+{{User bm}}:
+{{User bm-4}}:
+{{User bm-3}}:
+{{User bm-2}}:
+{{User bm-1}}:
+{{User bm-0}}:
+
+
+
+
+
+bn - বাংলা
+
+
+বিষয়শ্রেণী: user bn
+
+
+উপবিষয়শ্রেণীসমূহ: user bn-0, user bn-1, user bn-2, user bn-3, user bn-4, user bn-N
+
+
+নিচের টেমপ্লেটটি আপনার ব্যবহারকারী পাতায় ব্যবহার করুন:
+
+{{user bn}} বাংলা এই ব্যবহারকারীর মাতৃভাষা।
+{{user bn-4}} এই ব্যবহারকারী বাংলা ভাষার দক্ষ প্রয়োগ করতে পারেন নিজের মাতৃভাষার মতন।
+{{user bn-3}} এই ব্যবহারকারী বাংলা ভাষার দক্ষ প্রয়োগ করতে পারেন।
+{{user bn-2}} এই ব্যবহারকারী বাংলা ভাষার মধ্যবর্তী প্রয়োগ করতে পারেন।
+{{user bn-1}} এই ব্যবহারকারী বাংলা ভাষার প্রাথমিক প্রয়োগ করতে পারেন।
+{{user bn-0}} এই ব্যবহারকারী বাংলা ভাষা বুঝতে বা বলতে পারেন না ।
+
+
+
+
+
+br - Brezhoneg
+
+
+Category:user br, gant an isrummadoù Category:user br-0, Category:user br-1, Category:user br-2, Category:user br-3, Category:user br-4. 
+
+
+Ober gant ar patromoù da heul war ho pajenn implijer&nbsp;:
+
+{{User br}} An implijer-mañ a vestroni da vat ar brezhoneg.
+{{User br-4}}
+{{User br-3}} Gallout a ra an implijer-mañ kemer perzh gant ul live uhel e brezhoneg.
+{{User br-2}} Gallout a ra an implijer-mañ kemer perzh gant ul live etre e brezhoneg.
+{{User br-1}} Gallout a ra an implijer-mañ kemer perzh gant ul live diazez e brezhoneg.
+{{User br-0}}
+
+
+
+
+
+bs - Bosnian - bosanski jezik
+
+
+Category: user bs
+
+
+Sub-categories: user bs-0, user bs-1, user bs-2, user bs-3, user bs-4.
+
+{{User bs}}:
+{{User bs-4}}:
+{{User bs-3}}:
+{{User bs-2}}:
+{{User bs-1}}:
+{{User bs-0}}:
+
+
+
+
+
+ca - Català/Valencià
+
+
+Category:user ca, amb les subcategories Category:user ca-0, Category:user ca-1, Category:user ca-2, Category:user ca-3, Category:user ca-4.
+
+
+Feu servir les següents plantilles a la vostra pàgina d'usuari:
+
+{{User ca}} Aquest usuari té el català com a llengua materna.
+{{User ca-4}} Aquest usuari té un nivell de català comparable a la llengua materna.
+{{User ca-3}} Aquest usuari pot contribuir amb un nivell avançat de català.
+{{User ca-2}} Aquest usuari pot contribuir amb un nivell intermedi de català.
+{{User ca-1}} Aquest usuari pot contribuir amb un nivell bàsic de català.
+{{User ca-0}} Aquest usuari no entén el català, o té dificultats per entendre'l.
+
+
+
+
+
+chr - ᏣᎳᎩ / Cherokee
+
+
+Category:user chr, ᎠᎴ ᎤᏍᏗ-ᎤᎾᏓᏟᏌᎲ Category:user chr-0, Category:user chr-1, Category:user chr-2, Category:user chr-3, Category:user chr-4.
+
+{{User chr}}
+{{User chr-4}} ᏣᎳᎩ ᎣᎯᏍᏗ ᎦᏬᏂᎭ.
+{{User chr-3}} ᏣᎳᎩ ᎣᏍᏓᏛ ᎦᏬᏂᎭ.
+{{User chr-2}} ᎤᏍᏗ ᏣᎳᎩ ᎦᏬᏂᎭ.
+{{User chr-1}} ᏣᎳᎩ ᏲᏁᎦ ᏗᏕᏠᏆᏍᏙᏗ.
+{{User chr-0}} ᏗᎦᎴᏴᏗᏍᎩ ᎥᏝ ᏱᎥᏝ Ᏹ ᎪᎵᏍᏗ ᏣᎳᎩ.
+
+
+
+
+
+co - Corsican - Corsu/Lingua Corsa
+
+
+Category: user co
+
+
+Sub-categories: user co-0, user co-1, user co-2, user co-3, user co-4.
+
+{{User co}}: A lingua materna di quissu participanti hè u Corsu.
+{{User co-4}}: Issu participanti cunosce u Corsu cume s'edda fusse a sò lingua materna.
+{{User co-3}}: Issu participanti ha un liveddu avanzatu in Corsu.
+{{User co-2}}: Issu participanti ha un liveddu mizanu in Corsu.
+{{User co-1}}: Issu participanti ha un liveddu di principianti in Corsu.
+{{User co-0}}: Issu participanti ùn capisci micca u corsu.
+
+
+
+
+
+cs - Čeština
+
+
+Category:User cs
+
+
+Použijte tyto šablony na vaší uživatelské stránce.
+
+{{User cs}} Tomuto uživateli je čeština mateřským jazykem.
+{{User cs-4}} Tento uživatel má znalosti českého jazyka srovnatelné s rodilým mluvčím.
+{{User cs-3}} Tento uživatel je schopen plynně komunikovat česky.
+{{User cs-2}} Tento uživatel má středně pokročilé znalosti češtiny.
+{{User cs-1}} Tento uživatel má základní znalosti češtiny.
+{{User cs-0}} Tento uživatel nerozumí česky. Mějte to prosím na paměti při zanechávání vzkazů.
+
+
+
+
+
+cy - Cymraeg
+
+
+Category:User cy, gydag is-gategoriau: Category:User cy-0, Category:User cy-1, Category:User cy-2, Category:User cy-3, Category:User cy-4.
+
+
+Defnyddiwch y nodiadau isod ar eich tudalen defnyddiwr:
+
+{{User cy}}
+{{User cy-4}}
+{{User cy-3}} Mae'r defnyddiwr yn medru cyfrannu gyda safon rhugl o Gymraeg.
+{{User cy-2}} Mae'r defnyddiwr yn medru cyfrannu gyda safon cyfryngol o Gymraeg.
+{{User cy-1}} Mae'r defnyddiwr yn medru cyfrannu gyda safon sylfaenol o Gymraeg.
+{{User cy-0}}
+
+
+
+
+
+cv - Chuvash - чӑваш чӗлхи
+
+
+Category: user cv
+
+
+Sub-categories: user cv-0, user cv-1, user cv-2, user cv-3, user cv-4.
+
+{{User cv}}:
+{{User cv-4}}:
+{{User cv-3}}:
+{{User cv-2}}:
+{{User cv-1}}:
+{{User cv-0}}:
+
+
+
+
+
+da - Dansk
+
+
+Category:user da, med underkategorier Category:user da-0, Category:user da-1, Category:user da-2, Category:user da-3, Category:user da-4, Category:user da-N
+
+
+Brug de følgende skabeloner på din brugerside:
+
+{{User da}} Denne bruger har dansk som modersmål.
+{{User da-4}}
+{{User da-3}} Denne bruger kan bidrage på flydende dansk.
+{{User da-2}} Denne bruger bruger kan bidrage med dansk på mellemniveau.
+{{User da-1}} Denne bruger kan skrive grundlæggende dansk.
+{{User da-0}} Denne bruger kan ikke skrive dansk.
+
+
+
+
+
+de - Deutsch
+
+
+Category:user de mit den Unterkategorien Category:User de-0, Category:User de-1, Category:User de-2, Category:User de-3, Category:User de-4, Category:User de-N.
+
+
+Füge die zutreffenden Bausteine auf deiner Benutzerseite ein:
+
+{{User de}} Benutzer spricht Deutsch als Muttersprache.
+{{User de-4}} Benutzer hat perfekte Deutschkenntnisse.
+{{User de-3}} Benutzer hat sehr gute Deutschkenntnisse.
+{{User de-2}} Benutzer hat fortgeschrittene Deutschkenntnisse.
+{{User de-1}} Benutzer hat grundlegende Deutschkenntnisse.
+{{User de-0}} Benutzer hat kaum oder keine Deutschkenntnisse.
+
+
+
+
+
+dv - Divehi - ދިވެހި
+
+
+
+
+user dv
+
+
+user dv-0,  user dv-1,  user dv-2,  user dv-3,  user dv-4.
+
+ތިރީގައިވާ ފަންވަތްތައް މެމްބަރު ޞަފްޙާގައި ބޭނުންކުރައްވާ
+{{User dv}}    މީނާގެ މާދަރީ ބަހަކީ ދިވެހިބަސް
+{{User dv-4}} މިބޭފުޅާއަށް އޭނާގެ މާދަރީ ބަހާއި ގައިގަނޑަކަށް އެއްފެންވަރަށް ދިވެހިބަސް އިނގިލައްވަ
+{{User dv-3}} މި ބޭފުޅާއަށް ރަނގަޅަށް ދިވެހި ބަސް އެނގިވަޑައިގަނޭ
+{{User dv-2}} މި ބޭފުޅާއަށް ކޮންމެވެސް ވަރަކަށް ދިވެހި ބަސް އެނގިވަޑައިގަނޭ
+{{User dv-1}} މި ބޭފުޅާއަށް ކުޑަކޮށް ދިވެހި ބަސް އެނގިވަޑައިގަނޭ
+{{User dv-0}} މި ބޭފުޅާއަށް ދިވެހި ބަސް އެނގިވަޑައެއްނުގަނޭ
+
+
+
+
+
+
+
+en - English
+
+
+Category:user en, with subcategories Category:user en-0, Category:user en-1, Category:user en-2, Category:user en-3, Category:user en-4, Category:user en-N
+
+
+Use the following templates on your user page:
+
+{{user en}} User is a native English speaker.
+{{user en-4}} User speaks English at a near-native level.
+{{user en-3}} User is able to contribute with an advanced level of English.
+{{user en-2}} User is able to contribute with an intermediate level of English.
+{{user en-1}} User is able to contribute with a basic level of English.
+{{user en-0}} User does not understand English.
+
+
+
+
+
+el - Ελληνικά
+
+
+Category:user el, με τις υποκατηγορίες Category:user el-0, Category:user el-1, Category:user el-2, Category:user el-3, Category:user el-4, Category:user el-N
+
+
+Πρότυπα (Επικέτες) για χρήση στην σελίδα σας:
+
+{{User el}} Αυτός ο χρήστης έχει ως μητρική γλώσσα την Ελληνική.
+{{User el-4}} Αυτός ο χρήστης χειρίζεται ως μητρική γλώσσα την Ελληνική.
+{{User el-3}} Αυτός ο χρήστης μπορεί να συνεισφέρει σε ανώτερου επιπέδου Ελληνικά.
+{{User el-2}} Αυτός ο χρήστης μπορεί να συνεισφέρει σε μέτριου επιπέδου Ελληνικά.
+{{User el-1}} Αυτός ο χρήστης μπορεί να συνεισφέρει σε βασικού επιπέδου Ελληνικά.
+{{User el-0}} Αυτός ο χρήστης δεν γνωρίζει Ελληνικά.
+
+
+
+
+
+eo - Esperanto
+
+
+Category:user eo, kun subkategorioj Category:user eo-0, Category:user eo-1, Category:user eo-2, Category:user eo-3, Category:user eo-4
+
+
+Uzas la jenajn ŝablonojn je la paĝo de via uzanto:
+
+{{User eo}} Ĉi tiu uzanto parolas denaske.
+{{User eo-4}} Ĉi tiu uzanto parolas esperanton preskaŭ kiel desnaskulo.
+{{User eo-3}} Ĉi tiu uzanto povas komuniki per alta aŭ flua nivelo de Esperanto.
+{{User eo-2}} Ĉi tiu uzanto povas komuniki per meza nivelo de Esperanto.
+{{User eo-1}} Ĉi tiu uzanto povas komuniki per baza nivelo de Esperanto.
+{{User eo-0}} Ĉi tiu uzanto ne komprenas la lingvon Esperanto.
+
+
+
+
+
+es - Español
+
+
+Category:user es, con subcategorías Category:user es-0, Category:user es-1, Category:user es-2, Category:user es-3, Category:user es-4, Category:user es-N
+
+
+Utiliza las siguientes plantillas en tu página de usuario:
+
+{{User es}} Este usuario habla español como lengua materna.
+{{User es-4}} El nivel de este usuario corresponde al de un hablante nativo de español.
+{{User es-3}} Este usuario puede contribuir con un nivel avanzado de español.
+{{User es-2}} Este usuario puede contribuir con un nivel intermedio de español.
+{{User es-1}} Este usuario puede contribuir con un nivel básico de español.
+{{User es-0}} Este usuario no entiende el español (o lo entiende con mucha dificultad).
+{{User and}} El dialecto materno de este usuario es el andaluz.
+
+
+
+
+
+et - Eesti
+
+
+Category:user et, with subcategories Category:user et-0, Category:user et-1, Category:user et-2, Category:user et-3, Category:user et-4 , Category:user et-N
+
+
+Use the following templates on your user page:
+
+{{User et-N}} Kasutaja emakeeleks on eesti keel.
+{{User et-4}} Kasutaja suudab kaastööd teha eesti keeles emakeele-lähedasel tasemel.
+{{User et-3}} Kasutaja suudab kaastööd teha eesti keeles väga heal tasemel.
+{{User et-2}} Kasutaja suudab kaastööd teha eesti keeles keskmisel tasemel.
+{{User et-1}} Kasutaja suudab kaastööd teha eesti keeles algaja tasemel.
+{{User et-0}}
+
+
+
+
+
+eu - Basque - Euskara
+
+
+Category: user dveu
+
+
+Sub-categories: user eu-0, user eu-1, user eu-2, user eu-3, user eu-4.
+
+{{User eu}}: Erabiltzaile hau euskaldun zaharra da (lehen hizkuntza du euskara).
+{{User eu-4}}: Erabiltzaile honek euskaldun zahar baten antzeko mailan lagun dezake euskaraz.
+{{User eu-3}}: Erabiltzaile honek euskaraz maila aurreratuan lagun dezake.
+{{User eu-2}}: Erabiltzaile honek maila ertainean lagun dezake euskaraz.
+{{User eu-1}}: Erabiltzaile honek euskaraz oinarrizko mailan lagun dezake.
+{{User eu-0}}: Erabiltzaile honek ez du ulertzen euskaraz (edo nekez ulertzen du).
+
+
+
+
+
+fa - Persian - فارسی
+
+
+Category:user fa, بازیررده Category:user fa-0, Category:user fa-1, Category:user fa-2, Category:user fa-3, Category:user fa-4
+
+
+از قالبهای زیردرصفحه‌ی کاربری خوداستفاده کنید
+
+{{User fa}} فارسی زبان مادری این کاربر است
+{{User fa-4}} دانش فارسی این کاربر درسطح پیشرفته است
+{{User fa-3}} دانش فارسی این کاربر درسطح بالا است
+{{User fa-2}} دانش فارسی این کاربر درسطح متوسط است
+{{User fa-1}} دانش فارسی این کاربر درسطح ضعیف است
+{{User fa-0}} این کاربر فارسی نمیداند
+
+
+
+
+
+fi - Finnish - Suomen kieli
+
+
+Category:user fi ja alakategoriat Category:user fi-N, Category:user fi-0,Category:user fi-1, Category:user fi-2, Category:user fi-3, Category:user fi-4
+
+
+Käytä seuraavia mallineita käyttäjäsivullasi:
+
+{{User fi}} Tämä käyttäjä puhuu suomea äidinkielenään.
+{{User fi-4}} Tämä käyttäjä puhuu suomea lähes äidinkieltä vastaavalla tasolla.
+{{User fi-3}} Tämä käyttäjä osaa suomea erinomaisesti.
+{{User fi-2}} Tämä käyttäjä osaa suomea kohtalaisesti.
+{{User fi-1}} Tämä käyttäjä osaa suomea perustasolla.
+{{User fi-0}} Tämä käyttäjä ymmärtää suomea hyvin vähän tai ei yhtään.
+
+
+
+
+
+fo - Faroese - Føroyskt
+
+
+Category: user fo
+
+
+Sub-categories: user fo-0, user fo-1, user fo-2, user fo-3, user fo-4.
+
+{{User fo}}:
+{{User fo-4}}:
+{{User fo-3}}:
+{{User fo-2}}:
+{{User fo-1}}:
+{{User fo-0}}:
+
+
+
+
+
+fr - Français
+
+
+Category:user fr, avec les sous-catégories Category:user fr-0, Category:user fr-1, Category:user fr-2, Category:user fr-3, Category:user fr-4 
+
+
+Utilisez les modèles suivants sur votre page utilisateur&nbsp;:
+
+{{User fr}} Le français est la langue maternelle de cette personne.
+{{User fr-4}} Cette personne parle français à un niveau comparable à la langue maternelle.
+{{User fr-3}} Cette personne peut contribuer avec un niveau avancé de français.
+{{User fr-2}} Cette personne peut contribuer avec un niveau intermédiaire de français.
+{{User fr-1}} Cette personne peut contribuer avec un niveau élémentaire de français.
+{{User fr-0}} Cette personne ne comprend pas le français ou ne le comprend qu'avec de grandes difficultés.
+
+
+
+
+
+fy - Western Frisian - Frysk
+
+
+Category: user fy
+
+
+Sub-categories: user fy-0, user fy-1, user fy-2, user fy-3, user fy-4.
+
+{{User fy}}: Dizze brûker praat frysk as memmetaal.
+{{User fy-4}}:
+{{User fy-3}}:
+{{User fy-2}}:
+{{User fy-1}}:
+{{User fy-0}}:
+
+
+
+
+
+ga - Gaeilge
+
+
+Category:user ga
+
+
+Bain úsáid ar an chaoi a leanas ar do leathanch:
+
+{{User ga}} más  é an Ghaeilge atá mar theanga nádúrtha agat.
+{{User ga-4}} Tá Gaeilge beagnach líofa ag an úsáideoir seo.
+{{User ga-3}} Tá Meán-Ghaeilge ag an Úsáideoir seo.
+{{User ga-2}} Tá Bun-Ghaeilge ag an Úsáideoir seo.
+{{User ga-1}} Tá Gaeilge bhunúsach ag an Úsáideoir seo.
+{{User ga-0}} Níl aon Gaeilge ag an úsáideoir seo.
+
+
+
+
+
+gd - Scottish Gaelic - Gàidhlig
+
+
+Category: user gd
+
+
+Sub-categories: user gd-0, user gd-1, user gd-2, user gd-3, user gd-4.
+
+{{User gd}}: Tha an neach-cleachdaidh seo fileanta 'sa Ghàidhlig.
+{{User gd-4}}: Tha inbhe fo-fileantach de Ghàidhlig aig an neach-cleachdaidh seo.
+{{User gd-3}}: Tha inbhe adhartach de Ghàidhlig aig an neach-cleachdaidh seo.
+{{User gd-2}}: Tha inbhe meadhanach de Ghàidhlig aig an neach-cleachdaidh seo
+{{User gd-1}}: Tha inbhe bhunasach de Ghàidhlig aig an neach-cleachdaidh seo.
+{{User gd-0}}: Cha thuigse an neach-cleachdaidh seo a'Ghàidhlig.
+
+
+
+
+
+gl - Galego
+
+
+Category:User gl, coas subcategorías Category:User gl-0, Category:User gl-1, Category:User gl-2, Category:User gl-3, Category:User gl-4, Category:User gl-N
+
+
+Use os seguintes modelos de marcador na súa páxina de usuario:
+
+{{User gl}} &nbsp;&nbsp; Este usuario é galegofalante.
+{{User gl-4}} O nivel deste usuario correspóndese co dun falante case nativo de galego.
+{{User gl-3}} Este usuario pode contribuír cun nivel avanzado de galego.
+{{User gl-2}} Este usuario pode contribuír cun nivel intermedio de galego.
+{{User gl-1}} Este usuario pode contribuír cun nivel básico de galego.
+{{User gl-0}} Este usuario non comprende o galego, ou ten grandes dificultades para entendelo.
+
+
+
+
+
+gn - Guarani/Avañe'ẽ
+
+
+Category:user gn
+
+
+Utiliza las siguientes plantillas en tu página de usuario:
+
+{{User gn}} Este usuario habla español como lengua materna.
+{{User gn-4}} El nivel de este usuario corresponde al de un hablante nativo de guaraní.
+{{User gn-3}} Este usuario puede contribuir con un nivel avanzado de guaraní.
+{{User gn-2}} Este usuario puede contribuir con un nivel intermedio de guaraní.
+{{User gn-1}} Este usuario puede contribuir con un nivel básico de guaraní.
+{{User gn-0}} Este usuario no entiende el guaraní (o lo entiende con mucha dificultad).
+
+
+
+
+
+got - gothic
+
+
+Category:user got, with subcategories Category:user got-0, Category:user got-1, Category:user got-2, Category:user got-3, Category:user got-4
+
+
+Use the following templates on your user page:
+
+{{User got}}
+{{User got-4}}
+{{User got-3}} This user is able to contribute with an advanced level of Gothic.
+{{User got-2}} This user is able to contribute with an intermediate level of Gothic.
+{{User got-1}} This user is able to contribute with a basic level of Gothic.
+{{User got-0}}
+
+
+
+
+
+gu - Gujarati - ગુજરાતી
+
+
+Category:user gu, with subcategories Category:user gu-0, Category:user gu-1, Category:user gu-2, Category:user gu-3, Category:user gu-4, Category:user gu-N
+
+
+Use the following templates on your user page:
+
+{{User gu}} આ સભ્યની માતૃભાષા ગુજરાતી છે.
+{{User gu-4}} આ સભ્યની માતૃભાષા ગુજરાતી નથી પરંતુ તે ઉચ્ચ કક્ષાનું ગુજરાતી લખી શકે છે.
+{{User gu-3}} આ સભ્ય ગુજરાતી ભાષામાં પ્રવીણ છે.
+{{User gu-2}} આ સભ્ય ગુજરાતી ભાષામાં મધ્યમ કક્ષાનું પ્રદાન કરી શકે તેમ છે.
+{{User gu-1}} આ સભ્ય ગુજરાતી ભાષામાં પ્રારંભિક કક્ષાનું પ્રદાન કરી શકે તેમ છે.
+{{User gu-0}} આ સભ્યને ગુજરાતી નથી આવડતું અથવાતો મહા મુસીબતે સમજી શકે છે.
+
+
+
+
+
+gsw - Schwiizerdütsch
+
+
+Category:user gsw mit de Unterkategorie Category:User gsw-0, Category:User gsw-1, Category:User gsw-2, Category:User gsw-3, Category:User gsw-4, Category:User gsw-N.
+
+
+Füäg dr zueträffendi Bouschtei uf dire Bnutzrsyte i:
+
+{{User gsw}} Däm Benutzer sy Muetersproch isch Schwiizerdütsch.
+{{User gsw-4}} Dä Benutzer het Schwiizerdütschkenntnis uf muetersprochlechem Niveau.
+{{User gsw-3}} Dä Benutzer het sehr gueti Schwiizerdütschkenntnis.
+{{User gsw-2}} Dä Benutzer het fortgschrittnigi Schwiizerdütschkenntnis.
+{{User gsw-1}} Dä Benutzer verschtoot ä chli Schwiizerdütsch.
+{{User gsw-0}} Dä Benutzer verschtoot nid Schwiizerdütsch.
+
+
+
+
+
+gv - Manx - Ghaelg
+
+
+Category: user gv
+
+
+Sub-categories: user gv-0, user gv-1, user gv-2, user gv-3, user gv-4.
+
+{{User gv}}:
+{{User gv-4}}:
+{{User gv-3}}:
+{{User gv-2}}:
+{{User gv-1}}:
+{{User gv-0}}:
+
+
+
+
+
+haw - ‘Ōlelo Hawai‘i
+
+
+Category:user haw, with subcategories Category:user haw-0, Category:user haw-1, Category:user haw-2, Category:user haw-3, Category:user haw-4
+
+
+Use the following templates on your user page:
+
+{{User haw}} Kēia mau mea ho‘ohana kama‘āina ‘ōlelo Hawai‘i.
+{{User haw-4}}
+{{User haw-3}} Kēia mau mea ho‘ohana kahuna ‘ōlelo Hawai‘i.
+{{User haw-2}} Kēia mau mea ho‘ohana mawaena ‘ōlelo Hawai‘i.
+{{User haw-1}} Kēia mau mea ho‘ohana ‘akahi akahi ‘ōlelo Hawai‘i.
+{{User haw-0}}
+
+
+
+
+
+he - עברית
+
+
+Category:user he, with subcategories Category:user he-1, Category:user he-2, Category:user he-3, Category:user he-4 ,Category:user he-0
+
+
+Use the following templates on your user page:
+
+{{User he}} משתמש זה מדבר עברית כשפת אם
+{{User he-0}} משתמש זה מתקשה בעברית
+{{User he-1}} משתמש זה מסוגל לתרום ברמה בסיסית בשפה העברית
+{{User he-2}} משתמש זה מסוגל לתרום ברמה בינונית בשפה העברית
+{{User he-3}} משתמש זה מסוגל לתקשר ברמה מתקדמת או שוטפת בשפה העברית
+{{User he-4}} משתמש זה דובר עברית ברמה הקרובה לשפת אם
+
+
+
+
+
+hi - Hindi -  हिन्दी
+
+
+Category:user hi, with subcategories Category:user hi-0, Category:user hi-1, Category:user hi-2, Category:user hi-3, Category:user hi-4, Category:user hi-N
+
+
+Use the following templates on your user page:
+
+{{User hi}} इस सदस्य की मातृभाषा हिन्दी है।
+{{User hi-4}} यह सदस्य हिन्दी का मातृभाषा जैसा ज्ञान रखते है।
+{{User hi-3}} यह सदस्य हिन्दी भाषा में प्रवीण है।
+{{User hi-2}} यह सदस्य हिन्दी भाषा में मध्यम स्तर का सहयोग कर सकते हैं।
+{{User hi-1}} यह सदस्य हिन्दी भाषा में प्रारंभिक स्तर का सहयोग कर सकते हैं।
+{{User hi-0}} इस सदस्य को हिन्दी नहीं आती (या तो इनको हिन्दी समझने में बहुत मुश्किल होती है)।
+
+
+
+
+
+hif - Fiji Hindi
+
+
+Category:user hif, with subcategories Category:user hif-0, Category:user hif-1, Category:user hif-2, Category:user hif-3, Category:user hif-4, Category:user hif-N
+
+
+Use the following templates on your user page:
+
+{{User hif}} Ii sadasya ke bachpan ke bhasa Fiji Hindi hai.
+{{User hif-4}} Ii sadasya Fiji Hindi ke Fiji ke Hindustani ke rakam jaane hai.
+{{User hif-3}} Ii sadasya Fiji Hindi bhasa me achchha yogdaan de sake hai.
+{{User hif-2}} Ii sadasya Fiji Hindi bhasa me thora kuch yogdaan de sake hai.
+{{User hif-1}} Ii sadasya Fiji Hindi bhasa me kaam chale bhar ke yogdaan de sake hai.
+{{User hif-0}} Ii sadasya Fiji Hindi bhasa ke kuch nai jaane hai
+
+
+
+
+
+hr - Hrvatski
+
+
+Category:user hr, s podkategorijama Category:user hr-0, Category:user hr-1, Category:user hr-2, Category:user hr-3, Category:user hr-4
+
+
+Koristite predloške na vašim korisničkim stranicama:
+
+{{User hr}} Ovom suradniku hrvatski je materinski jezik.
+{{User hr-4}} Ovaj suradnik savršeno govori hrvatski jezik.
+{{User hr-3}} Ovaj suradnik vrlo dobro govori hrvatski jezik.
+{{User hr-2}} Ovaj suradnik osrednje poznaje hrvatski jezik.
+{{User hr-1}} Ovaj suradnik posjeduje osnovno poznavanje hrvatskog jezika.
+{{User hr-0}} Ovaj suradnik ne govori hrvatski jezik (ili ga slabo poznaje).
+
+
+
+
+
+ht - Kreyòl ayisyen
+
+
+Category:user ht, avec les sous-catégories Category:user ht-0, Category:user ht-1, Category:user ht-2, Category:user ht-3, Category:user ht-4 
+
+
+Utilisez les modèles suivants sur votre page utilisateur&nbsp;:
+
+{{User ht}} Lang matenèl moun sa se kreyòl ayisyen.
+{{User ht-4}} Moun sa pale Kreyòl ayisyen a yon nivo byen avanse.
+{{User ht-3}} Moun sa konprann trè bien kreyòl ayisyen.
+{{User ht-2}} Moun sa ka degaje nan kreyòl ayisyen.
+{{User ht-1}} Moun sa konen kek mo nan kreyòl ayisyen.
+{{User ht-0}} Moun pa kapab pale kreyòl ayisyen (ou konprann avèk gran difikilte).
+
+
+
+
+
+hu - Magyar
+
+
+Category:user hu, with subcategories Category:user hu-0, Category:user hu-1, Category:user hu-2, Category:user hu-3, Category:user hu-4, Category:user hu-N  
+
+
+Use the following templates on your user page:
+
+{{User hu}} Ennek a szerkesztőnek a magyar az anyanyelve.
+{{User hu-4}} Ez a szerkesztő csaknem anyanyelvi szinten beszéli a magyar nyelvet.
+{{User hu-3}} Ez a szerkesztő magas szinten beszéli a magyar nyelvet.
+{{User hu-2}} Ez a szerkesztő középszinten beszéli a magyar nyelvet.
+{{User hu-1}} Ez a szerkesztő alapszinten beszéli a magyar nyelvet.
+{{User hu-0}} Ez a szerkesztő nem tud magyarul.
+
+
+
+
+
+hy - Armenian - Հայերեն
+
+
+Category: user hy
+
+
+Sub-categories: user hy-0, user hy-1, user hy-2, user hy-3, user hy-4.
+
+{{User hy}}:Այս մասնակցի համար հայերենը մայրենի լեզու է:
+{{User hy-4}}: Այս մասնակիցը տիրապետում է հայերեն մայրենի լեզվին մոտ:
+{{User hy-3}}: Այս մասնակիցը կարող է բարձր մակարդակի հայերենով ներդրում կատարել:
+{{User hy-2}}: Այս մասնակիցը կարող է միջին մակարդակի հայերենով ներդրում կատարել:
+{{User hy-1}}: Այս մասնակիցը կարող է սկզբնական մակարդակի հայերենով ներդրում կատարել:
+{{User hy-0}}: Այս մասնակիցը չի կարող հայերենով ներդրում կատարել:
+
+
+
+
+
+ia - Interlingua - Interlingua
+
+
+Category: user ia
+
+
+Sub-categories: user ia-0, user ia-1, user ia-2, user ia-3, user ia-4.
+
+{{User ia}}:
+{{User ia-4}}:
+{{User ia-3}}:
+{{User ia-2}}:
+{{User ia-1}}:
+{{User ia-0}}:
+
+
+
+
+
+id - Bahasa Indonesia
+
+
+Category:user id, with subcategories Category:user id-0, Category:user id-1, Category:user id-2, Category:user id-3, Category:user id-4, Category:user id-N  
+
+
+Gunakan templat pengikut ini pada halaman pengguna Anda:
+
+{{User id}} Pengguna ini memiliki pengetahuan sempurna bahasa Indonesia.
+{{User id-4}} Pengguna ini bisa berbahasa Indonesia mendekati penutur asli
+{{User id-3}} Pengguna ini bisa berbahasa Indonesia lancar
+{{User id-2}} Pengguna ini bisa berbahasa Indonesia dengan baik
+{{User id-1}} Pengguna ini bisa berbahasa Indonesia sedikit saja
+{{User id-0}} Pengguna ini tidak bisa bahasa Indonesia
+
+
+
+
+
+ie - Interlingue
+
+
+Category: user ie
+
+
+Sub-categories: user ie-0, user ie-1, user ie-2, user ie-3, user ie-4.
+
+{{User ie}}:
+{{User ie-4}}:
+{{User ie-3}}:
+{{User ie-2}}:
+{{User ie-1}}:
+{{User ie-0}}:
+
+
+
+
+
+io - Ido
+
+
+Category: user io
+
+
+Sub-categories: user io-0, user io-1, user io-2, user io-3, user io-4.
+
+{{User io}}:
+{{User io-4}}:
+{{User io-3}}:
+{{User io-2}}:
+{{User io-1}}:
+{{User io-0}}:
+
+
+
+
+
+is - Íslenska
+
+
+Category:user is, with subcategories Category:user is-0, Category:user is-1, Category:user is-2, Category:user is-3, Category:user is-4, Category:user is-N
+
+
+Use the following templates on your user page:
+
+{{User is}} Þessi notandi hefur íslensku að móðurmáli.
+{{User is-4}}
+{{User is-3}} Þessi notandi hefur mjög góð tök á íslensku máli.
+{{User is-2}} Þessi notandi hefur miðlungs þekkingu á íslensku máli.
+{{User is-1}} Þessi notandi hefur einhverja kunnáttu á íslensku máli.
+{{User is-0}} Þessi notandi skilur ekki íslensku (eða annað hvort skilur hana með miklum erfiðleikum eða kýs að tjá sig ekki á íslensku).
+
+
+
+
+
+it - Italiano
+
+
+Category:user it
+
+
+Usa i seguenti template sulla tua pagina utente:
+
+{{User it}} Questo utente conosce l'italiano come lingua madre.
+{{User it-4}} Questo utente parla italiano a livello di lingua madre.
+{{User it-3}} Questo utente può contribuire con un italiano di livello avanzato.
+{{User it-2}} Questo utente può contribuire con un italiano di livello intermedio.
+{{User it-1}} Questo utente può contribuire con un italiano di livello semplice.
+{{User it-0}} Quest'utente non capisce l'italiano, o lo capisce solo con notevoli difficoltà.
+
+
+
+
+
+ja - Japanese - 日本語
+
+
+「Category:user ja」カテゴリーは、日本語バベルを設置した利用者がリストアップされており、さらに言語レベル別にCategory:user ja-N、Category:user ja-4、Category:user ja-3、Category:user ja-2、Category:user ja-1、Category:user ja-0のサブカテゴリが含まれています。
+
+
+あなたの「利用者ページ」にテンプレートを貼る場合、以下をご使用ください：
+
+{{User ja}}： この利用者は、日本語を母語としています
+{{User ja-4}}： この利用者は、母語話者に近いレベルの日本語を理解することができます
+{{User ja-3}}： この利用者は、上級レベルで流暢な日本語を理解することができます
+{{User ja-2}}： この利用者は、中級レベルである程度の日本語を理解することができます
+{{User ja-1}}： この利用者は、初級レベルで簡単な日本語を理解することができます
+{{User ja-0}}： この利用者は、日本語を理解できません
+
+
+
+
+
+jv - Javanese - ꦧꦱꦗꦮ
+
+
+Category: user jv
+
+
+Sub-categories: user jv-0, user jv-1, user jv-2, user jv-3, user jv-4.
+
+{{User jv}}:
+{{User jv-4}}:
+{{User jv-3}}:
+{{User jv-2}}:
+{{User jv-1}}:
+{{User jv-0}}:
+
+
+
+
+
+ka - Georgian
+
+
+Category: user ka
+
+{{User ka}}
+{{User ka-0}}
+{{User ka-1}}
+{{User ka-2}}
+{{User ka-3}}
+{{User ka-4}}
+
+
+
+
+
+kea - Kabuverdianu
+
+
+Category:user kea with subcategories User kea-0, User kea-1, User kea-2, User kea-3, User kea-N.
+
+{{User kea}} Kel utilizador li, ta papia kriolu ku un nível nativo.
+{{User kea-3}} Kel utilizador li, ta papia kriolu ku un nível avançado.
+{{User kea-2}} Kel utilizador li, ta papia kriolu ku un nível médio.
+{{User kea-1}} Kel utilizador li, ta papia kriolu ku un nível báziku.
+{{User kea-0}} Kel utilizador não compreende o kriolu, ou o compreende com dificuldades consideráveis.
+
+
+
+
+
+kg - KiKongo
+
+
+Category: user kg
+
+
+Sub-categories: user kg-0, user kg-1, user kg-2, user kg-3, user kg-4.
+
+{{User kg}}:
+{{User kg-4}}:
+{{User kg-3}}:
+{{User kg-2}}:
+{{User kg-1}}:
+{{User kg-0}}:
+
+
+
+
+
+km - Khmer - ភាសាខ្មែរ
+
+
+Category: user km
+
+{{User km}}:
+{{User km-4}}:
+{{User km-3}}:
+{{User km-2}}:
+{{User km-1}}:
+{{User km-0}}:
+
+
+
+
+
+kk - Kazakh - Қазақ
+
+
+Category: user kk
+
+
+Sub-categories: user kk-1,
+
+{{User kk}}:
+{{User kk-4}}:
+{{User kk-3}}:
+{{User kk-2}}:
+{{User kk-1}}:
+{{User kk-0}}:
+
+
+
+
+
+kn - Kannada - ಕನ್ನಡ
+
+
+Category: user kn
+
+
+Sub-categories: user kn-0, user kn-1, user kn-2, user kn-3, user kn-4
+
+{{User kn}}: ಈ ಸದಸ್ಯರ ತಾಯ್ನುಡಿ ಕನ್ನಡ.
+{{User kn-4}}: ಈ ಸದಸ್ಯ ಕನ್ನಡದಲ್ಲಿ ಉತ್ತಮ ಪರಿಣಿತಿ ಹೊಂದಿದ್ದಾರೆ.
+{{User kn-3}}: ಈ ಸದಸ್ಯ ಕನ್ನಡದಲ್ಲಿ ಭಾಗಶಃ ಪರಿಣಿತಿ ಹೊಂದಿದ್ದಾರೆ.
+{{User kn-2}}: ಈ ಬಳಕೆಗಾರನಿಗೆ ಮಧ್ಯಮ ಕನ್ನಡ ಜ್ಞಾನವಿದೆ.
+{{User kn-1}}: ಈ ಬಳಕೆಗಾರನಿಗೆ ಸ್ವಲ್ಪ ಕನ್ನಡ ತಿಳಿದಿದೆ.
+{{User kn-0}}: ಈ ಸದಸ್ಯರಿಗೆ ಕನ್ನಡ ಅರ್ಥವಾಗುವುದಿಲ್ಲ (ಅಥವ ಅರ್ಥವಾಗಲು ಬಹಳ ಯತ್ನ ಬೇಕಾಗುತ್ತದೆ).
+
+
+
+
+
+
+Template:Babel kok
+
+ko - Korean - 한국어
+
+
+Category:user ko에는, Category:user ko-1, Category:user ko-2, Category:user ko-3, Category:user ko-4라는 하위 분류들이 포함되어 있습니다.
+
+
+다음 틀들 중에서 하나를 고르신 다음, 사용자 문서에서 사용하시기 바랍니다:
+
+{{User ko}}   이 사용자는 한국어가 모어입니다.
+{{User ko-0}} 이 사용자는 한국어를 모릅니다.
+{{User ko-1}} 이 사용자는 한국어를 조금 구사할 수 있습니다.
+{{User ko-2}} 이 사용자는 한국어를 어느 정도 구사할 수 있습니다.
+{{User ko-3}} 이 사용자는 한국어를 능숙하게 구사할 수 있습니다.
+{{User ko-4}} 이 사용자는 한국어를 아주 잘 합니다.
+
+
+
+
+
+ku - Kurdish - Kurdî; كوردی‎
+
+
+Category:user ku
+
+
+Category:user ku-0, Category:user ku-1, Category:user ku-2, Category:user ku-3, Category:user ku-4
+
+{{User ku}}
+{{User ku-4}}
+{{User ku-3}}
+{{User ku-2}}
+{{User ku-1}}
+{{User ku-0}}
+
+
+
+
+
+ksh - Kölsch
+
+
+Category:user ksh
+
+
+Category:user ksh-0, Category:user ksh-1, Category:user ksh-2, Category:user ksh-3, Category:user ksh-4
+
+{{User ksh}}
+{{User ksh-4}}
+{{User ksh-3}}
+{{User ksh-2}}
+{{User ksh-1}}
+{{User ksh-0}}
+
+
+
+
+
+la - Latina
+
+
+Category:user la, with subcategories Category:user la-0, Category:user la-1, Category:user la-2, Category:user la-3 and Category:user la-4
+
+
+Use the following templates on your user page:
+
+{{User la-4}} Hic usor sicut nativi Latinitate loquitur atque contribuere potest.
+{{User la-3}} Hic usor callidissima latinitate contribuere potest.
+{{User la-2}} Hic usor media latinitate intellegere potest.
+{{User la-1}} Hic usor simplice latinitate intellegere potest.
+{{User la-0}} Hic usor nullo pacto aut aegre Latinitate intellegere potest.
+
+
+
+
+
+lad - Djudeoespanyol
+
+
+Category:User lad, with subcategories Category:User lad-0, Category:User lad-1, Category:User lad-2, Category:User lad-3 and Category:User lad-4
+
+
+Use the following templates on your user page:
+
+{{User lad-0}} Este usuario no entiende djudeo-espanyol
+{{User lad-1}} Este usuario puede kontribuir kon un nivel basiko de djudeo-espanyol.
+{{User lad-2}} Este usuario puede kontribuir kon un nivel intermedio de djudeo-espanyol.
+{{User lad-3}} Este usuario puede kontribuir kon un nivel avansado de djudeo-espanyol.
+{{User lad-4}} Este usuario puede kontribuir kon un nivel muy avansado de djudeo-espanyol.
+
+
+
+
+
+lb - Lëtzebuergesch
+
+
+Category:user lb, mat den Ënnerkategorien Category:user lb-0, Category:user lb-1, Category:user lb-2, Category:user lb-3, Category:user lb-4, Category:user lb-N
+
+
+Benotzt eng vun dëse Schablounen op ÄrerBenotzersäit:
+
+{{User lb}} Dësem Benotzer seng Mammesprooch ass Lëtzebuergesch.
+{{User lb-4}} Dëse Benotzer schwätzt a schreift Lëtzebuergesch wéi eng Mammesprooch.
+{{User lb-3}} Dëse Benotzer ka fléissend Lëtzebuergesch.
+{{User lb-2}} Dëse Benotzer ka mat erweiderte Kenntnisser vun der Lëtzebuerger Sprooch zum Projet bäidroen.
+{{User lb-1}} Dëse Benotzer ka mat Grondkenntnisser vun der Lëtzebuerger Sprooch zum Projet bäidroen.
+{{User lb-0}} Dëse Benotzer versteet kee Lëtzebuergesch, oder just mat grousse Schwieregkeeten.
+
+
+
+
+
+
+
+
+==li - Linguna - Língua cosmopolita, la esperanto moderna de nostrai vremoi, Língua internacionala mondiala 
+
+li - Limburgish - Limburgs
+
+
+Category:user li
+
+
+Category:user li-0, Category:user li-1, Category:user li-2, Category:user li-3, Category:user li-4
+
+{{User li}}
+{{User li-4}}
+{{User li-3}}
+{{User li-2}}
+{{User li-1}}
+{{User li-0}}
+
+
+
+
+
+ln - Lingala - Lingála
+
+
+Category: user ln
+
+
+Sub-categories: user ln-0, user ln-1, user ln-2, user ln-3, user ln-4.
+
+{{User ln}}:
+{{User ln-4}}:
+{{User ln-3}}:
+{{User ln-2}}:
+{{User ln-1}}:
+{{User ln-0}}:
+
+
+
+
+
+lo - Lao - ພາສາລາວ
+
+
+Category:user lo
+
+
+Category:user lo-0, Category:user lo-1, Category:user lo-2, Category:user lo-3, Category:user lo-4
+
+{{User lo}}
+{{User lo-4}}
+{{User lo-3}}
+{{User lo-2}}
+{{User lo-1}}
+{{User lo-0}}
+
+
+
+
+
+lt - Lietuviškai
+
+
+Category:user lt, su kategorijos Category:user lt-0, Category:user lt-1, Category:user lt-2, Category:user lt-3, Category:user lt-4, 
+
+
+Vartotojo puslapyje patalpink šiuos šablonus:
+
+{{User lt}} Šito vartotojo gimtoji kalba yra lietuvių.
+{{User lt-4}}
+{{User lt-3}} Šitas vartotojas turi labai geras lietuvių kalbos žinias.
+{{User lt-2}} Šitas vartotojas turi pažangias lietuvių kalbos žinias.
+{{User lt-1}} Šitas vartotojas turi lietuvių kalbos pagrindus.
+{{User lt-0}}
+
+
+
+
+
+ltg - Latgaļu
+
+
+Category:user ltg, with subcategories Category:user ltg-0, Category:user ltg-1, Category:user ltg-2, Category:user ltg-3, Category:user ltg-4, Category:user ltg-N.
+
+
+Use the following templates on your user page:
+
+{{User ltg}} - Latgaļu volūda irā ituo lītuotuoja dzymtuo volūda.
+{{User ltg-4}} - Itys lītuotuojs latgaļu volūdu muok kūna kai dzymtū volūdu.
+{{User ltg-3}} - Itys lītuotuojs latgaļu volūdu muok gon lobā leidzīnī.
+{{User ltg-2}} - Itys lītuotuojs latgaļu volūdu muok vydyskā leidzīnī.
+{{User ltg-1}} - Itys lītuotuojs latgaļu volūdu muok suoku leidzīnī.
+{{User ltg-0}} - Itys lītuotuojs latgaļu volūdys namuok (ci saprūt ar lelim gryutumim).
+
+
+
+
+
+lv - Latviešu
+
+
+Category:user lv, with subcategories Category:user lv-0, Category:user lv-1, Category:user lv-2, Category:user lv-3, Category:user lv-4
+
+
+Use the following templates on your user page:
+
+{{User lv}} Šim lietotājam latviešu valoda ir dzimtā valoda
+{{User lv-4}}
+{{User lv-3}} Šis lietotājs latviešu valodu pārzina gandrīz kā dzimto valodu.
+{{User lv-2}} Šis lietotājs latviešu valodu pārzina padziļinātā līmenī.
+{{User lv-1}} Šis lietotājs latviešu valodu zina pamatlīmenī.
+{{User lv-0}}
+
+
+
+
+
+mg - Malagasy
+
+
+Category: user mg, with subcategories user mg-0, user mg-1, user mg-2, user mg-3, user mg-4
+
+
+Use the following templates on your user page:
+
+{{User mg}} Ny teny malagasy no tenim-pirenena nahabe ity mpikambana ity.
+{{User mg-4}}
+{{User mg-3}} Ity mpikambana ity dia havanana amin'ny teny malagasy.
+{{User mg-2}} Ity mpikambana ity dia mety mahay miteny malagasy, manana lenta antonontonony.
+{{User mg-1}} Ity mpikambana ity dia afaka miteny malagasy tsotsotra.
+{{User mg-0}}
+
+
+
+
+
+
+
+
+
+mi - Māori te reo Māori
+
+
+Category: user mi
+
+
+Sub-categories: user mi-0, user mi-1, user mi-2, user mi-3, user mi-4.
+
+{{User mi}}:
+{{User mi-4}}:
+{{User mi-3}}:
+{{User mi-2}}:
+{{User mi-1}}:
+{{User mi-0}}:
+
+
+
+
+
+mk - Македонски
+
+
+Категорија user mk, со поткатегориите user mk-0, user mk-1, user mk-2, user mk-3, user mk-4.
+
+
+Користете ги следниве предлошки на вашата корисничка страница:
+
+user mk –  Мајчиниот јазик на овој корисник е македонскиот јазик
+user mk-4 – Корисникот течно го зборува македонскиот јазик
+user mk-3 – Корисникот доста добро го зборува македонскиот јазик
+user mk-2 – Корисникот го зборува македонскиот јазик на средно ниво
+user mk-1 – Корисникот почетнички го зборува македонскиот јазик
+user mk-0 – Корисникот неснае да го зборува македонскиот јазик
+
+
+
+
+
+ml - Malayalam - മലയാളം (MalayaLam)
+
+
+Category:user ml, with subcategories Category:user ml-0,Category:user ml-1, Category:user ml-2, Category:user ml-3, Category:user ml-4, Category:user ml-N
+
+
+Use the following templates on your user page:
+
+{{user ml}} ഈ ഉപയോക്താവിന്റെ മാതൃഭാഷയാണ് മലയാളം.
+{{user ml-4}}
+{{user ml-3}} ഈ ഉപയോക്താവിന് മലയാളത്തില്‍ വിദഗ്ദമായി ആശയവിനിമയം നടത്താന്‍ കഴിവുണ്ട്.
+{{user ml-2}} ഈ ഉപയോക്താവിന് മലയാളത്തില്‍ സാമാന്യമായ ആശയവിനിമയം നടത്താന്‍ കഴിവുണ്ട്.
+{{user ml-1}} ഈ ഉപയോക്താവിന് മലയാളത്തില്‍ പ്രാഥമികമായ ആശയവിനിമയം നടത്താന്‍ കഴിവുണ്ട്.
+{{user ml-0}} ഈ ഉപയോക്താവിന് മലയാളം അറിഞ്ഞുകൂടാ.
+
+
+
+
+
+
+
+
+
+mn - Mongolian - Монгол
+
+
+Category:user mn
+
+
+Category:user mn-0, Category:user mn-1, Category:user mn-2, Category:user mn-3, Category:user mn-4
+
+{{User mn}}
+{{User mn-4}}
+{{User mn-3}}
+{{User mn-2}}
+{{User mn-1}}
+{{User mn-0}}
+
+
+
+
+
+mr - Marathi - मराठी
+
+
+Category: user mr
+
+
+Sub-categories: user mr-0, user mr-1, user mr-2, user mr-3, user mr-4.
+
+{{User mr}}: या व्यक्तीची मातृभाषा मराठी आहे.
+{{User mr-4}}: ही व्यक्ति उच्च पातळीचे मराठी लेख निर्माण करु शकते.
+{{User mr-3}}: ही व्यक्ती मराठी भाषेत प्रवीण आहे.
+{{User mr-2}}: ही व्यक्ती मध्यम पातळीचे मराठी लेख निर्माण करु शकते.
+{{User mr-1}}: ही व्यक्ती प्रारंभिक पातळीचे मराठी लेख निर्माण करु शकते.
+{{User mr-0}}: या सदस्यास मराठी अजिबात समजत नाही किंवा या भाषेचे ज्ञान नाही.
+
+
+
+
+
+ms - Bahasa Melayu
+
+
+Category:user ms
+
+
+Category:user ms-0, Category:user ms-1, Category:user ms-2, Category:user ms-3, Category:user ms-4
+
+
+Use the following templates on your user page:
+
+{{User ms}} Bahasa ibunda pengguna ini ialah Bahasa Melayu.
+{{User ms-4}} Pengguna ini boleh menyumbang dengan taraf semacam ibunda dalam Bahasa Melayu.
+{{User ms-3}} Pengguna ini boleh menyumbang dengan taraf yang baik dalam Bahasa Melayu.
+{{User ms-2}} Pengguna ini boleh menyumbang dengan taraf yang sederhana dalam Bahasa Melayu.
+{{User ms-1}} Pengguna ini boleh menyumbang dengan tahap asas dalam Bahasa Melayu.
+{{User ms-0}} Pengguna ini tidak memahami Bahasa Melayu, ataupun hanya dengan penuh kesukaran.
+
+
+
+
+
+mt - Malti
+
+
+Category:user mt, li tinqasam f'dawn il-kategoriji: Category:user mt-0, Category:user mt-1, Category:user mt-2, Category:user mt-3, Category:user mt-4
+
+
+Uża dawn it-templates fil-user page tiegħek:
+
+{{User mt}} Din il-persuna titkellem il-Malti bħala lsien nattiv.
+{{User mt-4}}
+{{User mt-3}} Din il-persuna għandha livell avvanzat tal-Malti.
+{{User mt-2}} Din il-persuna għandha livell intermedju tal-Malti
+{{User mt-1}} Din il-persuna għandha livell bażiku tal-Malti.
+{{User mt-0}}
+
+
+
+
+
+
+
+
+
+my - Birman
+
+
+{{User my}} ဤအသုံးပြုသူသည် မြန်မာစကား ပြော၍ မြန်မာနိုင်ငံတွင်မွေးဖွားပါသည်။
+
+
+
+
+
+mwl - Mirandés
+
+
+Category:user mwl, culas subcatadories Category:user mwl-0, Category:user mwl-1, Category:user mwl-2, Category:user mwl-3, Category:user mwl-4, Category:user mwl-N
+
+
+Outelize ls seguintes modelos na sue páigina de outelizador:
+
+{{user mwl}} Este outelizador ten cumo lhéngua de nacença l mirandés.
+{{user mwl-4}} Este outelizador puode ajudar cun un nible quaije natibo de mirandés.
+{{user mwl-3}} Este outelizador puode ajudar cun un nible abançado de mirandés.
+{{user mwl-2}} Este outelizador puode ajudar cun un nible antermédio de mirandés.
+{{user mwl-1}} Este outelizador puode ajudar cun un nible básico de mirandés.
+{{user mwl-0}} Este outelizador nun sabe lher, nien screbir l mirandés (ó ten deficuldades para antender la lhéngua).
+
+
+
+
+
+nah - Nàwatl (nāhuatl)
+
+
+Category:user nah
+
+
+Xikìntekitìlti inîkë nemachiòmë ìpan motlaìxpal:
+
+{{User nah}} In nàwatl, ìtlàkatkàtlâtòl inìn motekìuhtiàni.
+{{User nah-5}} Inìn motekìuhtiàni nàwaìxmatki, ìka motekìuhtia in nàwatlâtòlli.
+{{User nah-4}} Inìn motekìuhtiàni tlâtowa in nàwatl kâxa kèn sè chànë.
+{{User nah-3}} Inìn motekìuhtiàni kualli tlâtowa ìka in nàwatlâtòlli.
+{{User nah-2}} Inìn motekìuhtiàni kimàmati tlâtòs ìka in nàwatlâtòlli.
+{{User nah-1}} Inìn motekìuhtiàni semi chîtòn kìxmati in nàwatlâtòlli.
+{{User nah-0}} Inìn motekiuhtiàni âmò kinênewilia in nàwatl (nòso molwi kitekiyòmati).
+
+
+
+
+
+nan - Bân-lâm-gú
+
+
+Category:user nan ū chia ê ē-lūi-pia̍t: Category:user nan-1, Category:user nan-2, Category:user nan-3, Category:user nan-N
+
+
+Chhiáⁿ tī lí ê iōng-chiá-ia̍h kòa ē-kha 1 ê pang-bô·:
+
+{{User nan}} Chit-ê iōng-chiá ê bó-gú sī Hō-ló-oē.
+{{User nan-1}} Chit-ūi iōng-chiá tha̍k-siá Hō-ló-oē ê lêng-le̍k: chho·-kip.
+{{User nan-2}} Chit-ūi iōng-chiá tha̍k-siá Hō-ló-oē ê lêng-le̍k: tiong-téng.
+{{User nan-3}} Chit-ūi iōng-chiá tha̍k-siá Hō-ló-oē ê lêng-le̍k: ko-téng.
+
+
+
+
+
+nap - Naples - nnapulitano
+
+
+Category:user nap
+
+
+Category:user nap-0, Category:user nap-1, Category:user nap-2, Category:user nap-3, Category:user nap-4, Category:user nap-N
+
+
+Use the following templates on your user page:
+
+{{User nap}}
+{{User nap-4}}
+{{User nap-3}}
+{{User nap-2}}
+{{User nap-1}}
+{{User nap-0}}
+
+
+
+
+
+nb - Norwegian Bokmål -  Norsk bokmål
+
+
+Category:user nb
+
+
+Category:user nb-0, Category:user nb-1, Category:user nb-2, Category:user nb-3, Category:user nb-4
+
+
+Use the following templates on your user page:
+
+{{User nb}}
+{{User nb-4}}
+{{User nb-3}}
+{{User nb-2}}
+{{User nb-1}}
+{{User nb-0}}
+
+
+
+
+
+nds - Plattdüütsch
+
+
+Category:user nds, with subcategories Category:user nds-1, Category:user nds-2, Category:user nds-3
+
+
+Use the following templates on your user page:
+
+{{User nds}} Disse Gebrucker hatt Plattdüütsch as Moderspraak.
+{{User nds-1}} Disse Gebrucker hatt lütt beeden Kenntniss vun de plattdüütsch Spraak.
+{{User nds-2}} Disse Gebrucker hatt dörchwachsene Kenntniss vun de plattdüütsch Spraak.
+{{User nds-3}} Disse Gebrucker spräckt utweest Plattdüütsch.
+
+
+
+
+
+ne - Nepali -  नेपाली
+
+
+Category:user ne, with subcategories Category:user ne-0, Category:user ne-1, Category:user ne-2, Category:user ne-3, Category:user ne-4, Category:user ne-N
+
+
+आफ्नो पृष्ठमा नेपाली भाषाका निम्न टेम्प्लेट प्रयोग गर्नुस्&nbsp;:
+
+{{User ne}} यो प्रयोगकर्ताको मातृभाषा नेपाली हो ।
+{{User ne-4}} यो प्रयोगकर्ता नेपाली मातृभाषासरह योगदान गर्न सक्नुहुन्छ ।
+{{User ne-3}} यो प्रयोगकर्ता नेपाली भाषामा उच्च स्तरको योगदान गर्न सक्नुहुन्छ ।
+{{User ne-2}} यो प्रयोगकर्ता नेपाली भाषामा मध्यम स्तरको योगदान गर्न सक्नुहुन्छ ।
+{{User ne-1}} यो प्रयोगकर्ता नेपाली भाषामा प्राथमिक स्तरको योगदान गर्न सक्नुहुन्छ ।
+{{User ne-0}} यो प्रयोगकर्तालाई नेपाली भाषासम्बन्धी कुनै ज्ञान छैन ।
+
+
+
+
+
+nl - Nederlands
+
+
+Main category: Category:user nl with subcategories Category:user nl-0, Category:user nl-1, Category:user nl-2, Category:user nl-3, Category:user nl-4, Category:user nl-N
+
+
+Use the following templates on your user page:
+
+{{User nl}} Deze gebruiker heeft Nederlands als moedertaal.
+{{User nl-4}} Deze gebruiker kan zeer goed Nederlands.
+{{User nl-3}} Deze gebruiker is goed in Nederlands.
+{{User nl-2}} Deze gebruiker kan Nederlands.
+{{User nl-1}} Deze gebruiker kan een beetje Nederlands verstaan.
+{{User nl-0}} Deze gebruiker kan geen Nederlands.
+
+
+
+
+
+nn - Norwegian nynorsk
+
+
+Category:user nn, with subcategories Category:user nn-0, Category:user nn-1, Category:user nn-2, Category:user nn-3, Category:user nn-4, Category:user nn-N
+
+
+Use the following templates on your user page:
+
+{{User nn}}
+{{User nn-4}}
+{{User nn-3}} Denne brukaren har svært god kjennskap til nynorsk.
+{{User nn-2}} Denne brukaren har ganske god kjennskap til nynorsk.
+{{User nn-1}} Denne brukaren har noko kjennskap til nynorsk.
+{{User nn-0}}
+
+
+
+
+
+no - Norwegian
+
+
+Category:user no, with subcategories Category:user no-0,Category:user no-1, Category:user no-2, Category:user no-3, Category:user no-4, Category:user no-N
+
+
+Use the following templates on your user page:
+
+{{User no-N}}
+{{User no-4}}
+{{User no-3}} Denne brukeren behersker norsk flytende.
+{{User no-2}} Denne brukeren har ferdigheter på mellomnivå i norsk.
+{{User no-1}} Denne brukeren har basiskunnskaper i norsk.
+{{User no-0}}
+
+
+
+
+
+nrm - Nouormand/normaund
+
+
+Category:user nrm, auve les souos-pann'lées Category:user nrm-1, Category:user nrm-2, Category:user nrm-3
+
+
+Faites sèrvi ches patrons-chîn sus vot' page dé faîchonneux:
+
+{{User nrm-1}} Ch't'î-chîn prêche un mio d'Nouormand.
+{{User nrm-2}} Ch't'î-chîn prêche mouoyennement l'Nouormand.
+{{User nrm-3}} Ch't'î-chîn a l'filet bein copé en Nouormand
+
+
+
+
+
+oc - Occitan
+
+
+Category:user oc, amb las soscategorias Category:user oc-0, Category:user oc-1, Category:user oc-2, Category:user oc-3, Category:user oc-4 
+
+
+Utilizatz los modèls seguents sus vòstra pagina d'utilizaire&nbsp;:
+
+{{User oc}} L'occitan es la lenga mairala d'aquesta persona.
+{{User oc-4}} Aquesta persona parla occitan amb un nivèl comparable a la lenga mairala.
+{{User oc-3}} Aquesta persona pòt contribuir amb un nivèl avançat d'occitan.
+{{User oc-2}} Aquesta persona pòt contribuir amb un nivèl intermediari d'occitan.
+{{User oc-1}} Aquesta persona pòt contribuir amb un nivèl elementari d'occitan.
+{{User oc-0}} Aquesta persona compren pas l'occitan o lo compren amb de grandas dificultats.
+
+
+
+
+
+or - Oriya - ଓଡ଼ିଆ
+
+
+Category:user or
+
+
+Category:user or-0, Category:user or-1, Category:user or-2, Category:user or-3, Category:user or-4
+
+
+Use the following templates on your user page:
+
+{{User or}} ଏହି ସଭ୍ୟଙ୍କର ମାତୃଭାଷା ଓଡ଼ିଆ
+{{User or-4}}
+{{User or-3}}
+{{User or-2}}
+{{User or-1}}
+{{User or-0}}
+
+
+
+
+
+pa - Punjabi
+
+
+Main category: Category:user pa with subcategories Category:user pa-0, Category:user pa-1, Category:user pa-2, Category:user pa-3, Category:user pa-4, Category:user pa-N
+
+
+Use the following templates on your user page:
+
+{{User pa}} ਇਹ ਮੈਂਬਰ ਪੰਜਾਬੀ ਪੜ੍ਹਨ ਅਤੇ ਲਿਖਣ ਵਿੱਚ ਸਹਿਜ ਹੈ ।।
+{{User pa-4}} ਇਹ ਮੈਂਬਰ ਪੰਜਾਬੀ ਪੜ੍ਹਨ ਅਤੇ ਲਿਖਣ ਵਿੱਚ ਕਰੀਬ-ਕਰੀਬ ਸਹਿਜ ਹੈ ।।
+{{User pa-3}} ਇਹ ਮੈਂਬਰ ਬਹੁਤ ਹੀ ਚੰਗੀ ਤਰਾਂ ਪੰਜਾਬੀ ਵਿੱਚ ਯੋਗਦਾਨ ਦੇ ਸਕਦਾ ਹੈ ।।
+{{User pa-2}} ਇਹ ਮੈਂਬਰ ਵਿਚਕਾਰਲੇ ਤੌਰ ਤੇ ਪੰਜਾਬੀ ਵਿੱਚ ਯੋਗਦਾਨ ਦੇ ਸਕਦਾ ਹੈ ।।
+{{User pa-1}} ਇਹ ਮੈਂਬਰ ਬੁਨਿਆਦੀ ਤੌਰ ਤੇ ਪੰਜਾਬੀ ਵਿੱਚ ਯੋਗਦਾਨ ਦੇ ਸਕਦਾ ਹੈ ।।
+{{User pa-0}} ਇਹ ਮੈਂਬਰ ਪੰਜਾਬੀ ਪੜ੍ਹ ਅਤੇ ਲਿਖ ਨਹੀਂ ਸਕਦਾ ।।
+
+
+
+
+
+pcd - Picard
+
+
+Category:user pcd, aveuc chés dsou-catégories Category:user pcd-0, Category:user pcd-1, Category:user pcd-2, Category:user pcd-3, Category:user pcd-4 , Category:user pcd-N
+
+
+
+
+Mette chés modéles-lo su vote pache d’uzeu&nbsp;:
+
+{{User pcd}} Pou echl'uzeu-lo, ch'Picard ch'est l'langue éd ses pérints.
+{{User pcd-4}} Pou echl’uzeu-lo, ch' Picard ch'est quasimint conme l'langue éd chés pérints.
+{{User pcd-3}} Echl’uzeu-lo, il o un  nivieu  avinché in Picard.
+{{User pcd-2}} Echl’uzeu-lo, il o un  mouéyin pérlache in Picard.
+{{User pcd-1}} Echl’uzeu-lo, il o un  nivieu  élémintér in Picard.
+{{User pcd-0}} Echl’uzeu-lo, i n'parle poin in Picard (ou bin i parle un tiot peu in picard).
+
+
+
+
+
+pl - Polski
+
+
+Kategoria główna: Category:user pl
+
+
+Użyj następujących szablonów na swojej stronie:
+
+{{User pl}} Język polski jest dla tego Wikipedysty językiem ojczystym.
+{{User pl-4}} Ten użytkownik posługuje się językiem polskim prawie jak językiem ojczystym.
+{{User pl-3}} Ten użytkownik posługuje się językiem polskim na poziomie zaawansowanym.
+{{User pl-2}} Ten użytkownik posługuje się językiem polskim na poziomie średniozaawansowanym.
+{{User pl-1}} Ten użytkownik posługuje się językiem polskim na poziomie podstawowym.
+{{User pl-0}} Ta osoba nie rozumie języka polskiego (albo ma z nim olbrzymie trudności).
+
+
+
+
+
+
+
+
+
+ps - Pashto - پښتو
+
+
+Category:user ps, Category:user ps-0, Category:user ps-1, Category:user ps-2, Category:user ps-3, Category:user ps-4
+
+
+
+
+
+{{User ps}} پښتو ددې کارن مورنۍ ژبه ده
+{{User ps-4}} ددې کارن د پښتو پوهېدنه تر پرمختللې کچې ده
+{{User ps-3}} ددې کارن پښتو پوهېدنې کچه لوړه ده
+{{User ps-2}} ددې کارن پښتو پوهېدنه منځنۍ کچه ده
+{{User ps-1}} ددې کارن پښتو پوهېدنې کچه ضعیفه ده
+{{User ps-0}} دا کارن په پښتو نه پوهېږي
+
+
+
+
+
+pt - Português
+
+
+Category:user pt:
+
+
+Use as seguintes predefinições na sua página de utilizador:
+
+{{User pt}} Este utilizador tem como língua materna o português.
+{{User pt-4}} Este utilizador tem um nível de português semelhante ao de um nativo.
+{{User pt-3}} Este utilizador tem um nível avançado de português.
+{{User pt-2}} Este utilizador tem um nível médio de português.
+{{User pt-1}} Este utilizador tem um nível básico de português.
+{{User pt-0}} Este utilizador não compreende português (ou compreende com dificuldades consideráveis).
+pt-br - Português Brasileiro
+
+
+Category:User pt-br:
+
+
+Usa as seguintes predefinições em sua página do usuário:
+
+{{User pt-br}} O idioma nativo deste usuário é o português brasileiro.
+{{User pt-br-4}} Este usuário tem domínio do português brasileiro similar ao de um nativo.
+{{User pt-br-3}} Este usuário pode contribuir com um nível avançado de português brasileiro.
+{{User pt-br-2}} Este usuário pode contribuir com um nível médio de português brasileiro.
+{{User pt-br-1}} Este usuário pode contribuir com um nível básico de português brasileiro.
+{{User pt-br-0}} Este usuário não compreende o português brasileiro, ou o compreende com dificuldades consideráveis.
+
+
+
+
+
+qu - Runa Simi
+
+
+Category:user qu. Category:user qu-0, Category:user qu-1, Category:user qu-2, Category:user qu-3, Category:user qu-4, Category:user qu-N,  urin katiguriyakunawan ima.
+
+
+Chay template-kunata ruwaq pankapi ruway:
+
+{{User qu}} Kay ruwaq mama simi Runa Simita karqan.
+{{User qu-4}}
+{{User qu-3}} Kay ruwaq ñawparikusqa Runa Simita yachanawan aynikunanman.
+{{User qu-2}} Kay ruwaq chawpi Runa Simita yachanawan aynikunanman.
+{{User qu-1}} Kay ruwaq wamaq Runa Simita yachanawan ayninakunman.
+{{User qu-0}}
+
+
+
+
+
+ro - Română
+
+
+Category:user ro, cu subcategoriile Category:user ro-0, Category:user ro-1, Category:user ro-2, Category:user ro-3, Category:user ro-4, Category:user ro-N 
+
+
+Foloseşte formatele următoare pe pagina ta de utilizator:
+
+{{User ro}}
+{{User ro-4}}
+{{User ro-3}} Acest utilizator poate contribui cu un nivel avansat de română.
+{{User ro-2}} Acest utilizator poate contribui cu un nivel intermediar de română.
+{{User ro-1}} Acest utilizator poate contribui cu un nivel de bază de română.
+{{User ro-0}}
+
+
+
+
+
+ru - Русский
+
+
+Категория user ru
+
+
+Используйте эти шаблоны на вашей личной странице:
+
+{{User ru}} Для этого участника/этой участницы русский язык является родным.
+{{User ru-4}} Этот участник владеет русским почти как родным.
+{{User ru-3}} Этот участник может вносить вклад в данный проект на русском языке высокого уровня.
+{{User ru-2}} Этот участник может вносить вклад в данный проект на русском языке среднего уровня.
+{{User ru-1}} Этот участник может вносить вклад в данный проект на русском языке начального уровня.
+{{User ru-0}} Этот участник не понимает по-русски (или понимает с большим трудом).
+
+
+
+
+
+sa - Sanskrit - संस्कृतम्
+
+
+Category:user sa
+
+
+Category:user sa-0, Category:user sa-1, Category:user sa-2, Category:user sa-3, Category:user sa-4, Category:user sa-N
+
+
+Use the following templates on your user page:
+
+{{User sa}}
+{{User sa-4}} एषः योजकः अत्युत्तमतया संस्कृतेन लेखितुं शक्नोति ।
+{{User sa-3}} एषः योजकः उत्तम-संस्कृतेन लेखितुं शक्नोति ।
+{{User sa-2}} एषः योजकः माध्यमिक-संस्कृतेन लेखितुं शक्नोति ।
+{{User sa-1}} एषः योजकः सरल-संस्कृतेन लेखितुं शक्नोति ।
+{{User sa-0}} एषः योजकः संस्कृतं नावगच्छति ।
+
+
+
+
+
+sc - Sardinian - sardu
+
+
+Category:user sc
+
+
+Category:user sc-0, Category:user sc-1, Category:user sc-2, Category:user sc-3, Category:user sc-4, Category:user sc-N
+
+
+Use the following templates on your user page:
+
+{{User sc}}
+{{User sc-4}}
+{{User sc-3}}
+{{User sc-2}}
+{{User sc-1}}
+{{User sc-0}}
+
+
+
+
+
+sdc - Sassarese - Sassaresu
+
+
+Category:user sdc
+
+
+Category:user sdc-0, Category:user sdc-1, Category:user sdc-2, Category:user sdc-3, Category:user sdc-4, Category:user sdc-N
+
+
+Use the following templates on your user page:
+
+{{User sdc}}
+{{User sdc-4}}
+{{User sdc-3}}
+{{User sdc-2}}
+{{User sdc-1}}
+{{User sdc-0}}
+
+
+
+
+
+sh - Serbo-Croatian - Srpskohrvatski/Српскохрватски
+
+
+Category:user sh
+
+
+Category:user sh-0, Category:user sh-1, Category:user sh-2, Category:user sh-3, Category:user sh-4, Category:user sh-N
+
+
+Use the following templates on your user page:
+
+{{User sh}}
+{{User sh-4}}
+{{User sh-3}}
+{{User sh-2}}
+{{User sh-1}}
+{{User sh-0}}
+
+
+
+
+
+sd - Sindhi - سِنڌِي
+
+
+Category:user sd
+
+
+Category:user sd-0, Category:user sd-1, Category:user sd-2, Category:user sd-3, Category:user sd-4
+
+
+Use the following templates on your user page:
+
+{{User sd}}
+{{User sd-0}}
+{{User sd-1}}
+{{User sd-2}}
+{{User sd-3}}
+{{User sd-4}}
+
+
+
+
+
+si - Sinhalese - සිංහල
+
+
+Category:user si
+
+
+Category:user si-0, Category:user si-1, Category:user si-2, Category:user si-3, Category:user si-4, Category:user si-N
+
+
+Use the following templates on your user page:
+
+{{User si}} මෙම පරිශිලකයාගේ මව්බස සිංහල භාෂාවයි.
+{{User si-4}}
+{{User si-3}}
+{{User si-2}}
+{{User si-1}}
+{{User si-0}}
+
+
+
+
+
+sk - Slovenčina
+
+
+Category:user sk, with subcategories Category:user sk-0, Category:user sk-1, Category:user sk-2, Category:user sk-3, Category:user sk-4, Category:user sk-N
+
+
+Use the following templates on your user page:
+
+{{User sk}} Tento redaktor má slovenčinu ako materinský jazyk.
+{{User sk-4}} Tento redaktor má znalosti slovenského jazyka porovnateľné s rodeným hovorcom.
+{{User sk-3}} Tento redaktor má pokročilé znalosti slovenčiny.
+{{User sk-2}} Tento redaktor má stredné znalosti Slovenčiny.
+{{User sk-1}} Tento redaktor má základné znalosti slovenčiny.
+{{User sk-0}} Tento redaktor nerozumie slovensky. Majte to prosím na pamäti pri zanechávaní odkazov.
+
+
+
+
+
+sl - Slovenščina
+
+
+Category:user sl, with subcategories Category:user sl-0, Category:user sl-1, Category:user sl-2, Category:user sl-3, Category:user sl-4, Category:user sl-N 
+
+
+Use the following templates on your user page:
+
+{{User sl}} Ta uporabnik govori slovenščino kot materin jezik.
+{{User sl-5}} Ta uporabnik govori slovenščino na profesionalnem nivoju.
+{{User sl-4}} Ta uporabnik govori slovenščino na nivoju primerljivem s naravnim govorcem.
+{{User sl-3}} Ta uporabnik govori slovenščino na naprednem nivoju.
+{{User sl-2}} Ta uporabnik govori slovenščino na srednjem nivoju.
+{{User sl-1}} Ta uporabnik govori slovenščino na osnovnem nivoju.
+{{User sl-0}} Ta uporabnik ne razume slovensko.
+
+
+
+
+
+sq - Shqip
+
+
+Category:user sq, me nën kategorit Category:user sq-0, Category:user sq-1, Category:user sq-2, Category:user sq-3, Category:user sq-4, Category:user sq-N
+
+
+Përdorë njëren nga stampat:
+
+{{User sq}} - Përdoruesi ka gjuhën shqipe gjuhë amtare
+{{User sq-4}}
+{{User sq-3}} - Përdoruesi ka njohurit të plota
+{{User sq-2}} - Përdoruesi ka njohurit të avancuara
+{{User sq-1}} - Përdoruesi ka njohurit themelore
+{{User sq-0}}
+
+
+
+
+
+sr - Српски / Srpski
+
+
+Категорија user sr, с подкатегоријама user sr-0, user sr-1, user sr-2, user sr-3, user sr-4, user sr-N.
+
+
+Користите ове моделе на вашим корисничким страницама:
+
+user sr – матерњи језик овог корисника је српски
+user sr-4 – Корисник течно говори српски језик
+user sr-3 – Корисник доста добро говори српски језик
+user sr-2 – Корисник средње говори српски језик
+user sr-1 – Корисник почетнички говори српски језик
+user sr-0
+
+
+
+
+
+su - Basa Sunda
+
+
+Category:user su, ku subkategori Category:user su-0, Category:user su-1, Category:user su-2, Category:user su-3, Category:user su-4, Category:user su-N
+
+
+Gunakeun citakan di handap pikeun kaca pamaké Anjeun:
+
+{{user su}} Pamaké ieu anu indung basana basa Sunda.
+{{user su-4}} Pamaké ieu panyatur tulén basa Sunda.
+{{user su-3}} Pamaké ieu mampuh ngontribusi ku basa Sunda undakan sampurna.
+{{user su-2}} Pamaké ieu mampuh ngontribusi ku basa Sunda undakan panengah.
+{{user su-1}} Pamaké ieu mampuh ngontribusi ku basa Sunda undakan dasar.
+{{user su-0}} Pamaké ieu teu ngarti pisan kana basa Sunda, atawa saeutik-saeutik ngartina.
+
+
+
+
+
+sv - Svenska
+
+
+Category:user sv
+Category:user sv-0,  Category:user sv-1, Category:user sv-2, Category:user sv-3,  Category:user sv-4,  Category:user sv-N
+
+
+Använd följande mallar på din användarsida:
+
+{{User sv}} Denna användare har svenska som modersmål.
+{{User sv-4}} Denna användare talar svenska på samma nivå som en infödd.
+{{User sv-3}} Denna användare behärskar svenska flytande.
+{{User sv-2}} Denna användare har kunskaper på mellannivå i svenska.
+{{User sv-1}} Denna användare har baskunskaper i svenska.
+{{User sv-0}} Denna användare saknar kunskaper i svenska (eller behärskar det mycket bristfälligt).
+
+
+
+
+
+ta - Tamil (தமிழ்)
+
+
+Category:user ta, துணைப்பிரிவுகளுடன் Category:user ta-0, Category:user ta-1, Category:user ta-2, Category:user ta-3, Category:user ta-4, Category:user ta-N
+
+
+பின்வரும் வளர்ப்புருக்களை தங்கள் பயனர் முகப்பு பக்கத்தில் பயன்படுத்தலாம்:
+
+{{User ta}}   இந்த பயனரின் தாய்மொழி தமிழ்.
+{{User ta-4}} இந்த பயனர் தனது தாய்மொழிக்கு இணையான நிலை தமிழ் ஆற்றலை கொண்டு பங்களிக்க முடியும்.
+{{User ta-3}} இந்த பயனர் தனது மேம்பட்ட நிலை தமிழ் ஆற்றலை கொண்டு பங்களிக்க முடியும்.
+{{User ta-2}} இந்த பயனர் தனது இடைநிலை தமிழ் ஆற்றலை கொண்டு பங்களிக்க முடியும்.
+{{User ta-1}} இந்த பயனர் தனது அடிப்படை நிலை தமிழ் ஆற்றலை கொண்டு பங்களிக்க முடியும்.
+{{User ta-0}} இந்த பயனருக்கு தமிழ் புரியாது
+
+
+
+
+
+te - Telugu - తెలుగు
+
+
+Category:user te
+
+
+Category:user te-0, Category:user te-1, Category:user te-2, Category:user te-3, Category:user te-4, Category:user te-N
+
+
+Use the following templates on your user page:
+
+{{User te}}
+{{User te-4}}
+{{User te-3}}
+{{User te-2}}
+{{User te-1}}
+{{User te-0}}
+
+
+
+
+
+tg - Tajik -  тоҷикӣ; toğikī; ‫تاجیکی ‎
+
+
+Category:user tg
+
+
+Category:user tg-0, Category:user tg-1, Category:user tg-2, Category:user tg-3, Category:user tg-4, Category:user tg-N
+
+
+Use the following templates on your user page:
+
+{{User tg}}
+{{User tg-4}}
+{{User tg-3}}
+{{User tg-2}}
+{{User tg-1}}
+{{User tg-0}}
+
+
+
+
+
+th - Thai
+
+
+Category:user th และประเภทย่อย Category:user th-0, Category:user th-1, Category:user th-2, Category:user th-3, Category:user th-4, Category:user th-N
+
+
+
+  
+โปรดวางแม่แบบต่อไปนี้ไว้ในหน้าผู้ใช้ของคุณ&nbsp;:
+
+{{User th}} ผู้ใช้คนนี้สามารถใช้ภาษาไทยได้ตั้งแต่เกิดมา เพราะภาษาไทยเป็นภาษาของพ่อแม่
+{{User th-4}} ผู้ใช้คนนี้ใช้ภาษาไทยได้เหมือนเป็นภาษาแม่
+{{User th-3}} ผู้ใช้คนนี้สามารถใช้ภาษาไทยได้ในระดับสูง
+{{User th-2}} ผู้ใช้คนนี้สามารถใช้ภาษาไทยได้ในระดับปานกลาง
+{{User th-1}} ผู้ใช้คนนี้สามารถใช้ภาษาไทยได้ในระดับพื้นฐาน
+{{User th-0}} ผู้ใช้คนนี้ไม่เข้าใจภาษาไทย (หรือเข้าใจด้วยความยากลำบาก)
+
+
+
+
+
+tl - Tagalog
+
+
+Category:user tl
+
+
+Category:user tl-0, Category:user tl-1, Category:user tl-2, Category:user tl-3, Category:user tl-4, Category:user tl-N
+
+
+
+  
+
+{{User tl}} Ang Tagagamit ay isang katutubong nagsasalita ng Tagalog.
+{{User tl-4}} Ang tagagamit ay nagsasalita ng Tagalog sa katutubong antas.
+{{User tl-3}} Ang tagagamit ay makapag-ambag sa masulong na antas ng Tagalog.
+{{User tl-2}} Ang tagagamit ay makapag-ambag sa panggitnang antas ng Tagalog.
+{{User tl-1}} Ang tagagamit ay makapag-ambag sa pangunahing antas ng Tagalog.
+{{User tl-0}} Ang tagagamit ay hindi nakakapagunawa ng Tagalog.
+
+
+
+
+
+tlh - Klingon
+
+
+Category:user tlh-0 below hidden Category:user tlh, template {{User tlh-0}}.
+
+
+
+
+
+tpi - Tok Pisin
+
+
+Category:user tpi, wantaim ol liklik kategori Category:user tpi-0, Category:user tpi-1, Category:user tpi-2, Category:user tpi-3, Category:user tpi-4, Category:user tpi-N.
+
+
+Yu inap suvim wanpela templet olsem long Yusa Pes bilong yu:
+
+{{user tpi}} Tok Pisin emi as tok bilong dispela yusa.
+{{user tpi-0}} Dispela yusa i no save long Tok Pisin.
+{{user tpi-1}} Dispela yusa i save liklik tasol long Tok Pisin.
+{{user tpi-2}} Dispela yusa i save hap hap long Tok Pisin.
+{{user tpi-3}} Dispela yusa i save gut tru long Tok Pisin.
+{{user tpi-4}} Dispela yusa i save long Tok Pisin olsem wanpela lokol.
+
+
+
+
+
+tr - Türkçe
+
+
+Category:user tr ve alt kategorileri: Category:user tr-0, Category:user tr-1, Category:user tr-2, Category:user tr-3, Category:user tr-4, Category:user tr-N
+
+
+Kullanıcı sayfanızda aşağıdaki şablonları kullanabilirsiniz:
+
+{{User tr-N}} Bu kullanıcının ana dili Türkçedir.
+{{User tr-4}} Bu kullanıcı Türkçeyi ana dili gibi anlıyor.
+{{User tr-3}} Bu kullanıcı yüksek seviyede Türkçe ile katkıda bulunabilir.
+{{User tr-2}} Bu kullanıcı orta seviyede Türkçe ile katkıda bulunabilir.
+{{User tr-1}} Bu kullanıcı düşük seviyede Türkçe ile katkıda bulunabilir.
+{{User tr-0}} Bu kullanıcı Türkçe anlamıyor (veya anlamakta büyük güçlük çekiyor).
+
+
+
+
+
+ug - Uyghur; Uyƣur; Уйғур; ئۇيغۇر
+
+
+Category:user ug, 
+
+
+Category:user ug-0, Category:user ug-1, Category:user ug-2, Category:user ug-3, Category:user ug-4 and Category:user ug-N
+
+
+Use the following templates on your user page:
+
+{{User ug}} This user is a native Uyghur speaker.
+{{User ug-4}} This user is able to contribute with an near native level of Uyghur.
+{{User ug-3}} This user is able to contribute with an advanced level of Uyghur.
+{{User ug-2}} This user is able to contribute with an intermediate level of Uyghur.
+{{User ug-1}} This user is able to contribute with a basic level of Uyghur.
+{{User ug-0}} This user does not understand Uyghur.
+
+
+
+
+
+uk - Українська
+
+
+Категорія Category:user uk з підкатегоріями:
+
+
+Category:user uk-0, Category:user uk-1, Category:user uk-2, Category:user uk-3, Category:user uk-4, Category:user uk-5, Category:user uk-N
+
+Використовуйте такі шаблони на своїй сторінці користувача:
+{{User uk}}  Українська є рідною мовою користувача.
+{{User uk-5}} Користувач професійно володіє українською мовою.
+{{User uk-4}} Користувача важко відрізнити від українця.
+{{User uk-3}} Користувач вільно володіє українською мовою.
+{{User uk-2}} Користувач має поширені знання української мови.
+{{User uk-1}} Користувач має елементарні знання української мови.
+{{User uk-0}} Користувач не розуміє українську мову.
+
+
+
+
+
+uz - Uzbek - O'zbek; Ўзбек; أۇزبېك‎
+
+
+Category:user uz, 
+
+
+Category:user uz-0, Category:user uz-1, Category:user uz-2, Category:user uz-3, Category:user uz-4 and Category:user uz-N
+
+
+Use the following templates on your user page:
+
+{{User uz}} This user is a native Uzbek speaker.
+{{User uz-4}} This user is able to contribute with an near native level of Uzbek.
+{{User uz-3}} This user is able to contribute with an advanced level of Uzbek.
+{{User uz-2}} This user is able to contribute with an intermediate level of Uzbek.
+{{User uz-1}} This user is able to contribute with a basic level of Uzbek.
+{{User uz-0}} This user does not understand Uzbek.
+
+
+
+
+
+ur - Urdu -  اردو
+
+
+Category:user ur, with subcategories Category:user ur-0, Category:user ur-1, Category:user ur-2, Category:user ur-3, Category:user ur-4 and Category:user ur-N
+
+
+Use the following templates on your user page:
+
+{{User ur}} This user is a native Urdu speaker.
+{{User ur-4}} This user is able to contribute with an near native level of Urdu.
+{{User ur-3}} This user is able to contribute with an advanced level of Urdu.
+{{User ur-2}} This user is able to contribute with an intermediate level of Urdu.
+{{User ur-1}} This user is able to contribute with a basic level of Urdu.
+{{User ur-0}}
+
+
+
+
+
+vec - Vèneto
+
+
+Category:user vec, co łe soto-categorie Category:user vec-1, Category:user vec-2, Category:user vec-3.
+
+
+Usa sti template so ła to paxena utente:
+
+{{User vec}} Sto utente el parla vèneto come łengoa madre.
+{{User vec-1}} Sto utente el połe partesipar co un vèneto de liveło bàxico.
+{{User vec-2}} Sto utente el połe partesipar co un vèneto de liveło medio.
+{{User vec-3}} Sto utente el połe partesipar co un vèneto de liveło alto.
+
+
+
+
+
+vls - West-Vlams
+
+
+Main category: Category:user vls
+
+
+Use the following templates on your user page:
+
+{{User vls-N}} Dien gebruker ier ed West-Vlams as ze moedertoale.
+{{User vls-3}} Dien gebruker ier sprikt vree hoed West-Vlams.
+{{User vls-2}} Dien gebruker ier ed e redlike kennisse van 't West-Vlams.
+{{User vls-1}} Dien gebruker ier kend e kleen bitje West-Vlams.
+
+
+
+
+
+vi - Tiếng Việt
+
+
+Category:user vi, với các thể loại con Category:user vi-0, Category:user vi-1, Category:user vi-2, Category:user vi-3, Category:user vi-4, Category:user vi-N
+
+
+Sử dụng các tiêu bản sau trong trang cá nhân của bạn:
+
+{{User vi}}   Thành viên này sử dụng tiếng Việt là tiếng mẹ đẻ.
+{{User vi-4}} Thành viên này sử dụng tiếng Việt gần như ngôn ngữ mẹ đẻ.
+{{User vi-3}} Thành viên này sử dụng tiếng Việt với trình độ lưu loát.
+{{User vi-2}} Thành viên này sử dụng tiếng Việt với trình độ trung bình.
+{{User vi-1}} Thành viên này sử dụng tiếng Việt với trình độ cơ bản.
+{{User vi-0}} Thành viên này gần như không hiểu tiếng Việt.
+
+
+
+
+
+wa - Walon
+
+
+Category:user wa, avou les dzo-categoreyes Category:user wa-0, Category:user wa-1, Category:user wa-2, Category:user wa-3, Category:user wa-4, Category:user wa-N
+
+
+Eployîz les modeles shuvants dins vosse pådje d'&nbsp;uzeu:
+
+{{User wa}}
+{{User wa-4}}
+{{User wa-3}} Cist uzeu chal pout contribouwer avou on hôt livea e walon.
+{{User wa-2}} Cist uzeu chal pout contribouwer avou on livea moyén e walon.
+{{User wa-1}} Cist uzeu chal pout contribouwer avou on livea fwebe e walon.
+{{User wa-0}}
+
+
+
+
+
+yi - Yiddish
+
+
+Category:user yi, with subcategories Category:user yi-0, Category:user yi-1, Category:user yi-2, Category:user yi-3, Category:user yi-4, Category:user yi-N
+
+
+Use the following templates on your user page:
+
+{{User yi}} ‫‫דער באַניצער האָט ייִדיש װי מוטער־שפּראַך.‬
+{{User yi-4}}
+{{User yi-3}} ‫‫דער באַניצער האָט זײער גוטע ידיעה פֿון ייִדיש.‬
+{{User yi-2}} ‫‫דער באַניצער איז אַ װײַטהאַלטער פֿון ייִדיש.‬
+{{User yi-1}} ‫‫דער באַניצער האָט תּוך־ידיעה פֿון ייִדיש.‬
+{{User yi-0}}
+
+
+
+
+
+yue - 粤语 / 粵語
+Simplified Chinese
+
+
+分类表为Category:user yue，二级分类为Category:user yue-1， Category:user yue-2， Category:user yue-3， Category:user yue-N
+
+
+将下面嘅模版添加到你嘅用户页：
+
+{{User yue}} 这个用户的母语是粤语。
+{{User yue-1}} 该用户可以使用简单的粤语进行交流。
+{{User yue-2}} 该用户可以使用一般程度的粤语进行交流。
+{{User yue-3}} 该用户可以使用熟练的粤语进行交流。
+Traditional Chinese
+
+
+分類表為Category:user yue，二級分類為Category:user yue-1， Category:user yue-2， Category:user yue-3， Category:user yue-N
+
+
+將下面嘅模添加到你嘅用戶頁：
+
+{{User yue}} 這個用戶的母語是粵語。
+{{User yue-1}} 該用戶可以使用簡單的粵語進行交流。
+{{User yue-2}} 該用戶可以使用一般程度的粵語進行交流。
+{{User yue-3}} 該用戶可以使用熟練的粵語進行交流。
+
+
+
+
+
+zh - 中文
+Simplified Chinese
+
+
+分类表为Category:user zh，二级分类为Category:user zh-0，Category:user zh-1， Category:user zh-2， Category:user zh-3， Category:user zh-4，Category:user zh-N
+
+
+将下列的模版添加到你的用户页面：
+
+{{User zh}} 这个用户的母语是中文。
+{{User zh-4}} 该用户可以使用地道的中文进行交流。
+{{User zh-3}} 该用户可以使用熟练的中文进行交流。
+{{User zh-2}} 该用户可以使用一般程度的中文进行交流。
+{{User zh-1}} 该用户可以使用简单的中文进行交流。
+{{User zh-0}} 该用户无法理解中文。
+Traditional Chinese
+
+
+分類表為Category:user zh，二級分類為Category:user zh-0，Category:user zh-1， Category:user zh-2， Category:user zh-3， Category:user zh-4，Category:user zh-N
+
+
+將下列的模版添加到你的使用者頁面：
+
+{{User zh}} 這個用戶的母語是中文。
+{{User zh-4}}該用戶能以道地的中文進行交流。
+{{User zh-3}} 該用戶可以使用熟練的中文進行交流。
+{{User zh-2}} 該用戶可以使用一般程度的中文進行交流。
+{{User zh-1}} 該用戶可以使用簡單的中文進行交流。
+{{User zh-0}}這位用戶無法理解中文。
+
+
+
+
+
+Retrieved from "https://commons.wikimedia.org/w/index.php?title=Commons:Babel&amp;oldid=601673290"
+		Categories: User esUser es-NUser viUser vi-3User tlh-0Commons maintenanceCommons internationalizationHidden category: Images requiring an update
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ViewView sourceHistory
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigate
+	
+	
+		
+		Main pageWelcomeCommunity portalVillage pumpHelp center
+		
+	
+
+
+	
+	
+		
+		Participate
+	
+	
+		
+		Upload fileRecent changesLatest filesRandom fileContact us
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		MediaWikiMeta-WikiMultilingual WikisourceWikispeciesWikibooksWikinewsWikipediaWikiquoteWikisourceWikiversityWikivoyageWiktionary
+		
+	
+
+
+	
+	
+		
+		In Wikipedia
+	
+	
+		
+		Qafár afАҧсшәаАдыгабзэAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةمصرىঅসমীয়াAsturianuАварAymar aruAzərbaycancaتۆرکجهБашҡортсаBasa BaliBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीবাংলাBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoᏣᎳᎩکوردیCorsuNēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣČeštinaСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiDolnoserbskiΕλληνικάEnglishEsperantoEspañolEestiEuskaraEstremeñuفارسیSuomiVõroFøroysktFrançaisNordfriiskFurlanFryskGaeilgeGagauzKriyòl gwiyannenGalegoBahasa Hulontalo𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHawaiʻiעבריתहिन्दीHrvatskiHornjoserbsceMagyarInterlinguaBahasa IndonesiaInterlingueIlokanoГӀалгӀайIdoÍslenskaItaliano日本語PatoisJawaქართულიKabɩyɛភាសាខ្មែរ한국어Къарачай-малкъарRipoarischKurdîKernowekКыргызчаLatinaLadinoLëtzebuergeschЛаккуLimburgsLingálaLietuviųLatviešuBasa BanyumasanMalagasyMāoriMinangkabauМакедонскиꯃꯤꯇꯩ ꯂꯣꯟဘာသာ မန်Bahasa MelayuMaltiЭрзяньDorerin NaoeroNāhuatlPlattdüütschNedersaksiesनेपालीNederlandsNorsk nynorskNorskOccitanଓଡ଼ିଆИронPangasinanKapampanganPicardDeitschPälzischPolskiPortuguêsRuna SimiRomani čhibRomânăРусскийРусиньскыйSarduSicilianuScotsSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSundaSvenskaKiswahiliŚlůnskiతెలుగుТоҷикӣไทยTok PisinTürkçeXitsongaТатарча/tatarçaTwiТыва дылУдмуртУкраїнськаOʻzbekcha/ўзбекчаVènetoTiếng ViệtWest-VlamsWalonWinaray吴语ХальмгייִדישYorùbá中文文言Bân-lâm-gú粵語IsiZulu
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 24 October 2021, at 11:54.
+	Files are available under licenses specified on their description page. All structured data from the file namespace is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and the Privacy Policy.
+
+
+	
+	Privacy policy
+	About Wikimedia Commons
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

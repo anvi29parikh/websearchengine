@@ -1,0 +1,789 @@
+
+
+
+
+Help:Interlanguage links - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Help:Interlanguage links
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+Links between different language versions of Wikipedia
+For style guidelines about links, see Wikipedia:Manual of Style/Linking.  For linking from one Wikimedia project to another (e.g. Wikipedia to Wiktionary), see Help:Interwiki linking.  For a list of Wikipedias in other languages with their language codes, see List of Wikipedias#Details table.&nbsp;For a list of interlanguage codes, see list of ISO 639-1 codes and meta:List of Wikipedias.
+This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutsH:ILWP:ILL
+Linking and
+page manipulation
+Linking and diffs
+URLs
+Links
+Orphans
+Interlanguage links
+Interwiki linking
+Shortcuts
+External links
+External link icons
+Plainlinks
+Link color
+Colon trick
+Pipe trick
+Self links
+What links here
+Linksearch
+Manual of Style on linking
+Navigation templates
+Hatnotes
+Template index for links
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+
+Categorization
+Category
+Categorization guideline
+Classification
+Container category
+FAQ for categorization
+FAQ for categories
+Categories, lists, and navigation templates
+Categorization of people
+By year
+By ethnicity, gender, religion and sexuality
+Redirect categories
+User categories
+Overcategorization
+User categories
+Template index for categories
+
+Moving and redirecting
+How to move a page for beginners
+Redirects
+Moving a page
+Requested moves
+How to fix cut-and-paste moves
+Moving files to Commons
+Userfication
+Template index for moving
+Template index for redirects
+
+Merging
+Merging
+Proposed article mergers
+Requests for history merge
+Merge and delete?
+Merge what?
+Delete or merge?
+Template index for merging
+WikiProject Merge
+
+Splitting
+Splitting
+Template index for splitting
+
+Importing and copying
+How to import articles
+Requests for page importation
+Import
+Export
+Copying within Wikipedia
+
+Protecting
+Protection
+Protection policy
+High-risk templates
+Requests for page protection
+Rough guide to semi-protection
+
+Additional
+How to create a page
+Article creation
+Editing
+Deletion process
+vte
+
+
+Interlanguage links are links from a page in one Wikipedia language to an equivalent page in another language. These links can appear as links in the "Languages" section of the page's left sidebar.
+
+
+Less commonly, for certain situations these can appear as inline links in the text of the article.
+
+
+These two types of links are created and handled differently.
+
+
+
+
+Contents
+
+1 Links in the sidebar
+
+1.1 Wikidata
+
+1.1.1 Adding a new link
+
+1.1.1.1 Finding interlanguage links for an article
+
+
+1.1.2 Editing a link
+1.1.3 Removing a link
+
+
+1.2 Local links
+
+1.2.1 Syntax
+
+
+1.3 Featured articles and good articles
+
+
+2 Inline links (links in the text of the article)
+3 Links to pages that do not exist
+4 Linking with external links
+5 Multilingual links and QR codes
+6 See also
+7 Notes
+8 External links
+
+
+
+Links in the sidebar
+  A list of available languages is visible in the left sidebar of the desktop version of Wikipedia under the "Languages" section.
+
+
+Pages on Wikipedia can link to equivalent pages in other languages. The English article on Spain includes a link to the Spanish article España in the sidebar, and vice versa. These links can be maintained in two places: in Wikidata and by using local links in the text of the page itself. Using Wikidata is the preferred method.
+
+Wikidata
+  Click on Edit links to add links to the Wikidata page
+
+
+Wikidata is a sister project of Wikipedia, it is a collaboratively edited knowledge base. Part of this project is to centralize the interlanguage links for all the Wikipedia projects. The Wikidata entry for a page in the left sidebar contains (among other things) a list of links for that page in different languages and it is the standard procedure to add interlanguage links.
+
+Adding a new link
+
+
+"Languages" in the sidebar shows the Wikidata language list. At the bottom is a link labelled "Edit links" (mobile viewers may lack such a feature). Clicking on this will reveal the Wikidata page:
+
+Scroll down to the box marked "Wikipedia" and click on "edit" at the top of that box.
+Click on the greyed-out "wiki" field, the final item on the list, and enter a language code (see list of ISO 639-1 codes for all language codes).
+Click on the greyed-out "page" field (now visible) and type in the name of the article as it appears in that language's Wikipedia.
+Click on "publish" at the top of the box.
+
+
+If you get an error message like "Site link ... is already used by item Q ...", this means that there is already an item in Wikidata pointing to the article you are trying to link to. Wikidata does not allow more than one item to point to a single article in a Wikipedia. There are then two cases:
+
+The two items really are the same, and should be merged: see d:Help:Merge.
+The scope of the two items is not in fact the same (typically, the article in one language is wider in scope than the article in the other language) and they should not be linked, unless there exists a redirect between the two items on one of the languages. Unfortunately, there is no mechanism in Wikidata at present for linking articles that are related, but different in a scope – it is possible to do this with local links, however.
+
+
+It may take several minutes for the link to show up in the article's sidebar. Especially, to enable links between templates, you must explicitly purge the server's cache for each template.
+
+Finding interlanguage links for an article
+
+
+There are many ways Wikipedia articles of another language can be found. These include translating the article's title and its synonyms to other languages and searching for them on the respective language-versions of Wikipedia or on Google, searching for articletitle site:wikipedia.org -site:en.wikipedia.org (for non-English Wikipedia articles), checking the other language versions of related or superordinate articles and checking the other language versions of the article's categories.
+
+Editing a link
+
+
+To edit an entry on Wikidata, click on the edit link next to the entry you wish to edit. A textbox will appear allowing you to edit the entry. Click on save when you are done.
+
+Removing a link
+
+
+You can remove a page from the list of Wikidata's links. To do so click edit, then click on the remove link.
+
+Local links
+
+
+Before Wikidata, interlanguage links had to be recorded in the text of the page itself. The problem with this approach was that each language had to maintain its own separate lists. So for example, if the name of a page on the English Wikipedia changed, then each language that linked to that page would have to separately notice this fact and then change their own links.
+
+
+For most pages, these links are no longer needed and can be safely removed, but you should verify that the local list and the Wikidata lists match before doing so. There is an automated tool to help with that.
+
+
+The local links do however still serve some purposes:
+
+They override the information that comes from Wikidata.
+They are required if more than one article (or redirect) in one language should point to a target article in another language.
+They are required in order to explicitly link to or from redirects. This can be used to level semantical or organizational differences between articles in different Wikipedias so that the links can go to the exact equivalent term in another language rather than to an article with a somewhat different scope or only related topic.
+They are required in order to link to sections of articles. For example, corresponding to the English article spot welding, in Italian there is only a section rather than a full article, so spot welding includes the local link [[it:Saldatura#Saldatura a punti]].
+They are required for pages that are not allowed on Wikidata, such as your userpage.
+Syntax
+
+
+The local interlanguage links take the following form:
+
+[[language code:Title]]
+
+
+where the language code is the two-letter code as per ISO 639-1. (see complete list of language Wikipedias available. English is "en", German is "de", etc.) So for example in the English language article on plankton, which is available on many other wikis, the interlanguage links might look like this:
+
+[[ar:عوالق]]
+[[el:Πλαγκτόν]]
+[[fa:پلانکتون]]
+[[he:פלנקטון]]
+[[ja:プランクトン]]
+[[ko:플랑크톤]]
+[[ru:Планктон]]
+[[ta:மிதவைவாழி]]
+[[te:ప్లవకాలు]]
+[[th:แพลงก์ตอน]]
+[[zh:浮游生物]]
+
+
+NOTE: These links are treated specially, and don't show up in the body of the text, but in a special sidebar section "Languages" listed by language name. They can go anywhere in the article source as their placement does not alter the visual appearance of the links on the rendered page except for the order. However, the convention is to put them at the bottom of the page. Remember, you only need these type links if you are overriding the information from Wikidata, otherwise you should edit the links on the Wikidata entry.
+
+Featured articles and good articles
+
+
+Featured or good articles are represented via Wikidata.
+
+
+
+
+Inline links (links in the text of the article)
+ShortcutH:FOREIGNLINK
+See also: Guideline on use of inline links to sister projects
+
+
+When the English Wikipedia doesn't have an article, the links to it show up as red links. For example, we don't have an article on Hanning Schröder (it shows up as a red link), but the German Wikipedia does. It is possible to:
+
+Use the template {{interlanguage link}} which gives both a redlinked English link and a German blue link, but hides the German link if the English redlink turns blue when the article is created. By writing {{interlanguage link|Hanning Schröder|de}} we get: "Hanning Schröder&nbsp;[de]".
+Show the language code and the link to the other language article, but don't link to an English article: ''[[:fr:Jeux olympiques]]'' or [[:ja:東京都]] These links look like this: fr:Jeux olympiques or ja:東京都. The language abbreviation is displayed, so the reader knows that they are links to the French article on the Olympic Games and the Japanese article on Tokyo.
+To show the name of the other language instead of its code, which can be easier to read for less experienced readers, you can use the lang template or one of its class: {{lang-fr|[[:fr:Jeux olympiques|Jeux olympiques]]}} or {{lang-ja|[[:ja:東京都|東京都]]}} These links look like this: French: Jeux olympiques or Japanese: 東京都.
+But if you wish, you can use the pipe to show only the title: ''[[:fr:Jeux olympiques|Jeux olympiques]]'' or [[:ja:東京都|東京都]] which would look like this in your text: Jeux olympiques or 東京都.
+You can also use the pipe trick to simplify these to: ''[[:fr:Jeux olympiques|]]'' or {{lang-fr|[[:fr:Jeux olympiques|]]}}. These give the same results: Jeux olympiques or French: Jeux olympiques.
+To link to a namespace other than the main article namespace, add the namespace after the language abbreviation. For example, the page for general discussions on the Japanese Wikipedia is located in the Wikipedia namespace. You can link to it as follows: [[:jp:Wikipedia:井戸端]]  or [[:jp:Wikipedia:井戸端|]] giving jp:Wikipedia:井戸端 or Wikipedia:井戸端.
+On Talk pages and on Meta, you can omit the leading colon. An interlanguage link like [[fr:Jeux olympiques]] will appear inline in the text, like a regular link.
+An inline link to a Wiktionary entry, such as [[wikt:model|]], can be directed to another language's Wiktionary: ''[[wikt:fr:modèle|]]'' gives fr:modèle.
+Links to pages that do not exist
+
+
+On the English Wikipedia, links to pages that do not exist are displayed in a different color (usually red). But this check is not performed for links to pages on another wiki (including other Wikimedia Foundation sites). Unlike internal links, these links do not indicate whether the target page exists or not.[1] If the target page does not exist, the link leads to a message on the target wiki informing you that the page does not exist and inviting you to create it.
+
+
+If you find interlanguage links to non-existent pages on the English Wikipedia, they may be deleted as having no content. Alternatively, you can create at least a stub page on the target wiki before adding an interlanguage link to it. Later, interested people can complete the rest of the page.
+
+
+Note: if the language prefix is wrong, it is considered to be part of the name of a page on the English Wikipedia. This page will probably not exist, so the link will be displayed in red.
+
+
+The {{interlanguage link}} template can help with this.
+
+Linking with external links
+Main page: Wikipedia:External links
+
+
+You can also link to Wikipedia pages in other languages by using external links, in the same way as linking to other sites on the Internet. This method should not be used in the body of an article, but it may be useful on User pages or Talk pages. For example, this method can be used to link to diff pages that show the editing history of a page on another Wikipedia.
+
+
+The following code:
+
+Tokyo 2020 was added to the French page on the Olympics in [//fr.wikipedia.org/w/index.php?title=Jeux_olympiques&amp;diff=96480208&amp;oldid=96417677 this diff].
+
+
+renders as:
+
+Tokyo 2020 was added to the French page on the Olympics in this diff.
+
+
+Templates {{Cross-wiki language diff}} and {{Cross-wiki language free diff}} are also available to construct diffs for other languages and projects, as is the special-page term :Diff/: [[:fr:Special:Diff/96480208]] will show the same diff as above.
+
+Multilingual links and QR codes
+
+
+https://qrpedia.org/ offers a tool to create a multilingual link to a Wikipedia article in any language. The user's browser will be redirected to the corresponding page in the language of the browser. Just replace en.wikipedia.org/wiki/ with en.qrwp.org/ in the URL to get a multilingual link. For example: https://en.wikipedia.org/wiki/Cat, if changed to https://en.qrwp.org/Cat, will be redirected in a French browser to https://fr.m.wikipedia.org/wiki/Chat.
+You can also make QR codes using the tool at: https://qrpedia.org/ and 3D print them into plaques for zoos, botanical gardens, monuments, etc. using https://printer.tools/qrcode2stl/
+
+See also
+{{Interlanguage link}}
+{{Sister project}}
+{{Sister-inline}}
+Help:Menu/Links
+Help:Interwiki linking
+Wikipedia:Wikimedia sister projects
+Wikipedia:Babel – Userpage language proficiency banners
+Wikipedia:Translation
+Wikipedia:TemplateData
+List of Wikipedias
+List of Wiktionaries
+Notes
+
+
+^ Bug 11
+
+
+External links
+meta:Help:Interwiki linking
+meta:Interlanguage links for details on linking different languages on Meta.
+Wiktionary:Interlanguage links
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Interlanguage_links&amp;oldid=1053405182"
+		Categories: Wikipedia how-toWikipedia multilingual coordinationWikipedia link helpHidden categories: Wikipedia semi-protected project pagesHelp pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsWikisourceWikivoyage
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AlemannischÆngliscالعربيةবাংলাBân-lâm-gúБашҡортсаБеларускаяБеларуская (тарашкевіца)भोजपुरीБългарскиBosanskiCatalàČeštinaDanskDeutschDolnoserbskiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego한국어HornjoserbsceHrvatskiBahasa IndonesiaInterlinguaÍslenskaItalianoעבריתქართულიҚазақшаKiswahiliLadinoLatinaLatviešuLëtzebuergeschLietuviųMagyarمصرىBahasa MelayuNederlands日本語НохчийнNorsk nynorskOccitanOʻzbekcha/ўзбекчаਪੰਜਾਬੀپښتوPolskiPortuguêsRomânăРусскийسنڌيSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiதமிழ்Татарча/tatarçaతెలుగుไทยTürkçeУкраїнськаاردوئۇيغۇرچە / UyghurcheVènetoTiếng Việtייִדיש粵語中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 3 November 2021, at 17:59&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

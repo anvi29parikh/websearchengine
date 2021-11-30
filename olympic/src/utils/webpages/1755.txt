@@ -1,0 +1,386 @@
+
+
+
+
+Wikipedia talk:WikiProject Council - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia talk:WikiProject Council
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+WikiProject Council 
+&nbsp;
+
+
+
+
+
+
+This page relates to the WikiProject Council, a collaborative effort regarding WikiProjects in general. If you would like to participate, please visit the project discussion page.CouncilWikipedia:WikiProject CouncilTemplate:WikiProject CouncilCouncil articles
+
+&nbsp;
+
+
+
+
+
+
+WikiProject Council was featured in a WikiProject Report in the Signpost on 18 April 2011.
+
+
+
+ edit
+
+Frequently asked questions (FAQ)
+
+
+
+
+Q1: What's a WikiProject?
+A1: A WikiProject is a group of people who want to work together.  It is not a subject area, a collection of pages, or a list of articles tagged by the group.
+
+
+Q2: How many WikiProjects are there?
+A2: There are 1,010 WikiProjects tagged as "Active" (see Category:Active WikiProjects), and 217 WikiProjects tagged as "Semi-active" (see Category:Semi-active WikiProjects); many of these have one or more subsidiary task forces or work groups.
+
+
+Q3: What's the biggest WikiProject?
+A3: Nobody knows, because not all participants add their names to a membership list, and membership lists are almost always out of date.  You can find out which projects' main pages are being watched by the most users at Wikipedia:Database reports/WikiProject watchers.
+
+
+Q4: Which WikiProject has tagged the most articles as being within their scope?
+A4: WikiProject Biography has tagged about 1.9 million articles, making it more than three times the size of the second largest WikiProject.  About ten groups have tagged more than 100,000 articles.  You can see a list of projects and the number of articles they have assessed here.
+
+
+Q5: Who gets to decide whether a WikiProject is permitted to tag an article?
+A5: That is the exclusive right of the participants of the WikiProject.  Editors at an article may neither force the group to tag an article nor refuse to permit them to tag an article.  See WP:PROJGUIDE#OWN.
+
+
+Q6: I think a couple of WikiProjects should be merged.  Is that okay?
+A6: You must ask the people who belong to those groups, even if the groups appear to be inactive.  It's okay for different groups of people to be working on similar articles.  WikiProjects are people, not lists of articles.  If you&nbsp;identify and explain clear, practical benefits of a merger to all of the affected groups, they are likely to agree to combining into a larger group.  However, if they object, then you may not merge the pages.  For less-active groups, you may need to wait a month or more to make sure that no one objects.
+
+
+Q7: I want to start a WikiProject.  Am I required to advertise it at Wikipedia:WikiProject Council/Proposals and/or have a specific number of editors support it?
+A7: No, there are no requirements.  However, new WikiProjects, especially new groups that are proposed by new editors, rarely remain active for longer than a few months unless there are at least six or eight active editors involved at the time of creation.
+
+
+
+Archives: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+ 
+
+
+Sections older than 2&nbsp;months may be automatically archived by lowercase sigmabot III.
+
+
+
+Skip to TOC
+Skip to bottom
+
+WikiProject Council
+FAQs Overview
+ +&nbsp;talk Council page
+Coordination
+Guidelines
+(WikiProjects  - Task forces)
+Assessment FAQ
+Technical notes
+
+Directories
+WikiProjects
+Proposals
+Signpost
+
+
+vte
+ShortcutWT:COUNCIL
+Contents
+
+1 Dealing with inactive taskforces/workgroups
+2 Adding WikiProjects tags
+3 WikiProject edit counter
+4 Legal characters in project names
+5 Option in twinkle to "alert" related WikiProjects when starting an Afd
+6 List of Hindu comparative religionists and List of Muslim comparative religionists - could be seen as meaning zealots
+
+
+
+Dealing with inactive taskforces/workgroups[edit]
+
+
+Hi all, please see {{WikiProject Religion}} with my solution to have project banners handle inactive subprojects that are "nested" within higher level active projects.  My plan would be to take this same approach with banners that have many more inactive subprojects, such as {{WikiProject Television}} and {{WikiProject United States}}.  Comments/suggestions welcome. UnitedStatesian (talk) 03:10, 9 September 2021 (UTC)
+
+this idea might be helpful, in a number of possible permutations, at WP:History WikiProject. ---Sm8900 (talk) 🌍 20:14, 10 September 2021 (UTC)
+@UnitedStatesian, this amounts to merging WikiProjects, and that means you have to go through the whole process of asking the "inactive" group if they would like to do that.
+Also, from a glance at their talk page, Wikipedia:WikiProject Religion looks borderline inactive to me.  Why would you try to merge one inactive group into another inactive group?  Remember, the point is not to categorize subjects.  A WikiProject is the people, not the articles.  If there's no people, there's no WikiProject, no matter what the page says. WhatamIdoing (talk) 21:46, 19 September 2021 (UTC)
+I disagree that this amounts to a merger.  And I would only make this particular type of template change when the "parent" is marked as active or semi-active.  At this point I'll leave it to others to determine whether the active status of Wikipedia:WikiProject Religion is warranted. UnitedStatesian (talk) 22:05, 19 September 2021 (UTC)
+This amounts to a merger because you're taking away stuff that was previously handled by a group of editors and putting it under the ægis of another group.  If the first group (or some of them) come back, we can predict that they are likely to be angry that some high-handed editor decided to unilaterally take their template away, without even having the basic courtesy to ask them.  We've seen this kind of drama in the past, and we don't need more of it.  Therefore the process involves posting a message at the WikiProject, waiting a month, and respecting whatever choices they make about your friendly invitation to be part of a larger group.   WhatamIdoing (talk) 15:52, 20 September 2021 (UTC)
+Adding WikiProjects tags[edit]
+
+
+Hi, is there any userscipt or something like that to add WikiProject tags to an article's talk page? I'm interested in adding WikiProject tags to articles but I've to do it manually.  Eevee01(talk) 12:06, 10 October 2021 (UTC)
+
+Yes - User:Evad37/rater. – SD0001 (talk) 14:39, 9 November 2021 (UTC)
+WikiProject edit counter[edit]
+
+
+Hey y'all! Apologies if this is the wrong place to ask, but: Is there an edit counter that will sort a Wikipedian's edits by WikiProjects? Hopefully, that makes sense. Let me know if it's as clear as mud.--Gen. Quon (Talk) 14:01, 19 October 2021 (UTC)
+
+Legal characters in project names[edit]
+
+
+Hi. Is there a list somewhere of what characters are legal in project names?  I need one character that is invalid, hopefully comma or semicolon, for a template I'm writing. Thanks! (please {{reply to}} on reply; thanks!) Mathglot (talk) 23:12, 27 October 2021 (UTC)
+
+Option in twinkle to "alert" related WikiProjects when starting an Afd[edit]
+
+
+When I started Wikipedia:Articles for deletion/Shakespeare knot, I marked it relevant to authors, history and England. It's something, but not that close. Obviously I can WP:APPNOTE at WikiProjects like Knots, Shakespeare and Heraldry and vexillology if I want to. But what if this was an option in twinkle? Say it produces an automated message in the line of "The article X, which may be of interest to members of this WikiProject, has been suggested for deletion. Your input is welcome."
+
+
+Opinions? Or does this exist, without me knowing it? Gråbergs Gråa Sång (talk) 10:31, 8 November 2021 (UTC)
+
+I think most active WikiProjects will already have article alerts set up, and most active editors will be watching deletion sorting lists in their areas of interest. Automated talk page notifications on top of that seems unnecessary to me, but if it does happen, it should definitely be opt-in: otherwise projects like WP:WPBIO would be completely overwhelmed. – Joe&nbsp;(talk) 15:59, 8 November 2021 (UTC)
+Hmm, yes. Pages like Wikipedia:WikiProject Video games/Article alerts exists. The talkpage has more views, though.[1][2], at least in this example. On "most active editors will be watching deletion sorting lists in their areas of interest", I have no idea how right that is. I know I don't. While WikiProjects are "backroom", I think they're probably easier to find than article alerts and deletion lists. But optional, absolutely. My understanding is that in general more afd-participants are wanted. Gråbergs Gråa Sång (talk) 18:00, 8 November 2021 (UTC)
+List of Hindu comparative religionists and List of Muslim comparative religionists - could be seen as meaning zealots[edit]
+
+
+One of the main meanings of "religionist" is zealot, and in any case I'm not sure that any other meaning of the word would be appropriate. These people appear to be theologians, although I haven't checked them all. Doug Weller talk 12:56, 8 November 2021 (UTC)
+
+I've been bold and made the change, if anyone doesn't like it, let me know. The articles creator is blocked for copyvio. Doug Weller talk 13:07, 8 November 2021 (UTC)
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Council&amp;oldid=1056318216"
+		Categories: WikiProject Council pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 21 November 2021, at 02:30&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,533 @@
+
+
+
+
+Help:Log - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Help:Log
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Not to be confused with Help:Logging in or Wikipedia:List of guidelines.
+Wikipedia information pageThis is an information page.
+It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.ShortcutWP:LOG
+
+
+A Wikipedia log is an automatically generated list of actions of a certain type, showing when they were performed, by what user, and with respect to what page or other user. Logged actions include page deletions and restorations, page moves (renames), user blocks and unblocks, page protections and unprotections, user account creations, abuse filter reports, and others.
+
+
+Logs can list actions done by a user (or IP editor), actions done to a user (or IP editor), and actions done to a wiki page.
+
+Contents
+
+1 Viewing logs
+2 Using a log
+3 Other sources of logged information
+4 See also
+
+
+
+Viewing logs[edit]
+
+
+To view Wikipedia's logs, go to Special:Log. From there you can decide which actions you wish to see logged, and filter by certain other parameters, such as date and time, user and affected page. When a log type is selected and you click "Show", the top of the page describes the log. You can also go directly to a selected log with a search term or link like Special:Log/block, which displays the block log. Other parameters that can be used in a similar way include delete, move, protect, rights, upload and patrol. 
+
+
+A link to the log of actions relating to a particular page can be found on the "View logs for this page" link on the "View history" tab at top of the page. A link to the log of actions by a particular user can be found on the left-hand side when the user's talk page or user page is opened. Remember, however, that these are actions performed by that user; for actions affecting a given user (such as blocks), the username (preceded by "User:") must be entered in the "Title" field of the log page, not the "User" field. (This configuration can be accessed directly from the "View history" tab of the user's userpage.)
+
+Using a log[edit]
+
+
+
+
+The type of log to display. By default, all public logs will be shown, except the patrol, review, tag and thanks logs. They can be enabled at "Show additional logs" when "All public logs" is selected. The example is set to only show the deletion log, which lists page deletions and undeletions.
+The Performer field lets you search the logs for entries that were performed by a specified user. Type the username of the user you want to look up the logs for.
+The Target field lets you search the logs for entries that were performed on a page or user. Type the name of the page you want to look up the logs for. If you want to look up the logs performed on a user, add User: (note the colon) to the start of your search query, then type in the username.
+The From date field can be used to show only the logs created on or before a specified date.
+The Tag filter allows you to show only logs that have been tagged with the specified name of the tag.
+Some logs will have additional filtering options to show only specific kinds of actions. In this case, the deletion log can be further filtered to show only page deletions, page undeletions, revision deletions, and the overwriting of redirects.
+The newest / oldest links let you quickly jump to the newest log entries or to the oldest log entries. The newer n / older n links take you to the next or previous page of entries. The blue numbers list the number of entries displayed on the page. You can choose to display 20, 50, 100, 250 or 500 entries at once.
+The date and time of the logged action. The time is UTC by default on Wikipedia; registered users can change this in their preferences.
+The username or IP address of the user who performed the action. The talk link points to their user talk page, while the contribs link points to their user contributions page.
+The type of action performed.
+The name of the page or user that the action was performed on.
+When performing most actions, the user will be prompted to provide an optional summary or explanation of their actions, which will be shown here.
+The tags attached to the action, if applicable. Tags are usually automatically added to actions and are used for maintenance or tracking purposes.
+Other sources of logged information[edit]
+
+
+Log files which are not automatically generated can be found in Category:Wikipedia logs. Old log files of actions which have now switched to automatic logging can be found in Category:Wikipedia obsolete log pages. Some of these old files are listed by type at WP:Block log, WP:Bureaucrat log, WP:Deletion log, WP:Protection log and WP:Upload log. (These actions moved to automatic logging in December 2004.)
+
+
+Several other pages in the "Special:" namespace (such as Special:RecentChanges) serve similar functions to those of logs. For these, see Help:Special pages.
+
+
+Still more information is provided by Wikipedia:Database reports. For example, Wikipedia:Database reports/Users by log action contains a list of users ordered by number of logged actions performed.
+
+See also[edit]
+Help:Log on MediaWiki.org
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Log&amp;oldid=1054104691"
+		Categories: Wikipedia information pagesWikipedia page history helpHidden categories: Help pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		MediaWiki
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AlemannischČeštinaDeutschفارسی한국어עברית日本語Српски / srpskiSvenskaไทย
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 8 November 2021, at 02:45&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

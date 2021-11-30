@@ -1,0 +1,18 @@
+The New Normal Board - Getty Images
+BoardsSign inCreativeEditorialSportsEntertainmentNewsArchival imagesVideoMusicAll ImagesCreative ImagesEditorial ImagesAll VideosCreative VideosEditorial VideosImagesCreativeEditorialVideoCreativeEditorialCreativeEditorialSportsEntertainmentNewsArchival imagesVideoMusicPricingBoardsSign inImagesCreativeEditorialVideoCreativeEditorialDelete this BoardRemove this BoardShow lessShow moreCreated: {{createdDate()}}AddShareShow detailsShow notes {{t('count_selected', {count: selectedAssetIds().length})}} 1 selectedSelect all&nbsp;(on this page)Clear selectionChoose an optionCopy to BoardCreate a BoardMy BoardsShared with meMove to BoardCreate a BoardMy BoardsShared with meDownload selected assetsPrevious page of {{boardAssetsPageCount()}}Next pageAsset ID:PostAnonymousDelete
+Editorial use onlyWe're sorry.{{asset.translated_asset_family}}Credit:&nbsp;{{asset.artist}}{{asset.agreement_description}}Premium Access (view only)
+
+Click to enter your text
+
+ Editorial use onlyWe're sorry. We're sorry."Credit:&nbsp;{{modalAsset().artist}}PostAnonymousDelete
+We're sorry.{{ editorialRfIsActive &amp;&amp; modalAsset().is_editorial_use_only ? t('editorial_use_only_2') : modalAsset().asset_family }}CAPTIONCREDITTITLENOTESSAVE &amp; CLOSESAVE &amp; NEXTPrevious page of {{boardAssetsPageCount()}}Next pageSorry, we couldn't find what you were looking for in this Board.Try entering a different keyword in the search bar above.Collect what you love. Start with a search.This Board has been deleted.Invite collaboratorsAllow people to view and edit a Board by copying and sending this link:Sign in to collaborateShare this BoardAllow people to view a read-only Board by sending this link:Let's collaborate.First, tell us who you are.
+
+
+
+JOIN A BOARDAlready have an account?Sign inNeed an account?RegisterCreate new BoardBoards are the best place to save images and video clips. Collect, curate and comment on your files.Discover BoardsCreateCONTENTRoyalty-free CreativeVideoEditorialArchiveCustom ContentCreative CollectionsSOLUTIONSOverviewPlans and pricingPremium AccessAssignmentsTOOLS &amp; SERVICESMedia ManagerRights and clearancePlug-ins and extensionsCreative InsightsVisual GPSAPI IntegrationCOMPANYAbout usCareersApply to be a contributorPress roomGrants and givingiStockUnsplashPhotos.comAffiliatesCustomer supportBlogINTERNATIONALCanadaBack to topWebsite termsEditorial PolicyPrivacy PolicyLicence informationLeave feedback
+
+All contents © copyright 1999-2021 Getty Images. All rights reserved.Please select your country/region.AustraliaBelgiqueBelgiëBrasilCanadaCanada FrançaisČeská republikaDanmarkDeutschlandEspañaFranceHrvatskaÍslandIndiaIrelandItaliaLatinoaméricaMagyarországNederlandNew ZealandNorgeÖsterreichРоссияPolskaPortugalRomaniaSchweizSuisseSvizzeraSlovenijaSouth AfricaSuomiSverigeUnited Arab EmiratesUnited KingdomUnited StatesEstados UnidosΕλλάδαБългарияישראל대한민국中华人民共和国香港特別行政區日本Hi IBMer!
+
+The IBM strategic repository for digital assets such as images and videos is located at dam.ibm.com. This repository is populated with tens of thousands of assets and should be your first stop for asset selection.NO THANKSCHECK IBM DAM
+
+Click here to request Getty Images Premium Access through IBM Creative Design Services.

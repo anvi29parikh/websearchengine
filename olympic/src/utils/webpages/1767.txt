@@ -1,0 +1,971 @@
+
+
+
+
+Wikipedia:Vandalism - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Vandalism
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+Policy on deliberate editing to obstruct or defeat Wikipedia's purpose
+"WP:VANDAL" redirects here. For policies on vandalism-only accounts, see Wikipedia:Vandalism-only account. For the essay on the word "vandal", see Wikipedia:Avoid the word "vandal". For reporting instances of vandalism, see Wikipedia:Administrator intervention against vandalism and Wikipedia:Requests for page protection.
+Not to be confused with Wikipedia:Disruptive editing.
+This page documents an English Wikipedia policy.
+It describes a widely accepted standard that all editors should normally follow. Changes made to it should reflect consensus.ShortcutsWP:VDWP:VANDWP:VANDAL
+This page in a nutshell: Intentionally making abusive edits to Wikipedia will result in a block.
+Vandalism
+Dealing with vandalism
+Obvious vandalism
+Sockpuppet investigations
+Long-term abuse reports
+WikiProject on open proxies
+
+Resources and assistance
+Counter-Vandalism Unit
+Counter Vandalism Academy
+Cleaning up vandalism
+Counter-vandalism tools
+
+Further information
+Blocking IP addresses
+Do not insult the vandals
+CVU Vandalism studies
+vte
+Conduct policies
+Block evasion
+Civility
+Clean start
+Consensus
+Dispute resolution
+Edit warring
+Editing policy
+Harassment
+No personal attacks
+Ownership of content
+Sockpuppetry
+Username policy
+Vandalism
+vte
+
+
+On Wikipedia, vandalism has a very specific meaning: editing (or other behavior) deliberately intended to obstruct or defeat the project's purpose, which is to create a free encyclopedia, in a variety of languages, presenting the sum of all human knowledge.
+
+
+The malicious removal of encyclopedic content, or the changing of such content beyond all recognition, without any regard to our core content policies of neutral point of view (which does not mean no point of view), verifiability and no original research, is a deliberate attempt to damage Wikipedia. There are, of course, more juvenile forms of vandalism, such as adding irrelevant obscenities or crude humor to a page, illegitimately blanking pages, and inserting obvious nonsense into a page. Abusive creation or usage of user accounts and IP addresses may also constitute vandalism.
+
+
+Vandalism is prohibited. While editors are encouraged to warn and educate vandals, warnings are by no means a prerequisite for blocking a vandal (although administrators usually block only when multiple warnings have been issued).
+
+
+Even if misguided, willfully against consensus, or disruptive, any good-faith effort to improve the encyclopedia is not vandalism. For example, edit warring over how exactly to present encyclopedic content is not vandalism. Careful consideration may be required to differentiate between edits that are beneficial, edits that are detrimental but well-intentioned, and edits that are vandalism. If it is clear that an editor is intending to improve Wikipedia, their edits are not vandalism, even if they violate some core policy of Wikipedia. Mislabeling good-faith edits "vandalism" can be harmful, as it makes users less likely to respond to corrective advice or to engage collaboratively during a disagreement. For that reason, avoid using the term "vandalism" unless it is clear the user means to harm Wikipedia; this is even true when warning a user with a user warning template. Choose the template that most closely matches the behavior you are trying to correct.
+
+Contents
+
+1 Handling
+2 How to spot vandalism
+3 How to respond to vandalism
+
+3.1 For beginners
+3.2 Template and CSS vandalism
+3.3 Image vandalism
+
+
+4 How not to respond to vandalism
+5 Warnings
+
+5.1 How to warn vandalizing users
+5.2 Administrator response to vandalism
+5.3 Reminding responding users to correctly warn
+
+
+6 Tracing IP addresses
+
+6.1 Identifying associated IP addresses
+6.2 Proxies, VPNs and Tor exit nodes
+
+
+7 Types of vandalism
+
+7.1 Abuse of tags
+7.2 Account creation, malicious
+7.3 Avoidant vandalism
+7.4 Blanking, illegitimate
+7.5 Copyrighted material, repeated uploading of
+7.6 Edit summary vandalism
+7.7 Format vandalism
+7.8 Gaming the system
+7.9 Hidden vandalism
+7.10 Hoaxing vandalism
+7.11 Image vandalism
+7.12 Link vandalism
+7.13 Page creation, illegitimate
+7.14 Page lengthening, illegitimate
+7.15 Page-move vandalism
+7.16 Redirect vandalism
+7.17 Reverting to vandalism
+7.18 Silly vandalism
+7.19 Subtle vandalism
+7.20 Spam external linking
+7.21 Talk page vandalism
+7.22 Template vandalism
+7.23 User and user talk page vandalism
+7.24 Vandalbots
+
+
+8 What is not vandalism
+
+8.1 Boldly editing
+8.2 Copyright policy violations
+8.3 Disruptive editing or stubbornness
+8.4 Edit summary omission
+8.5 Editing tests by experimenting users
+8.6 Harassment or personal attacks
+8.7 Incorrect wiki markup and style
+8.8 Lack of understanding of the purpose of Wikipedia
+8.9 Misinformation, accidental
+8.10 NPOV contraventions
+8.11 Nonsense, accidental
+8.12 Policy and guideline pages, good-faith changes to
+8.13 Reversion or removal of unencyclopedic material
+
+
+9 See also
+
+9.1 Tools
+9.2 Guidelines
+9.3 Essays
+9.4 Meta
+
+
+10 Further reading
+
+
+
+Handling
+
+
+Upon discovering vandalism, revert such edits, using the undo function or an anti-vandalism tool. Once the vandalism is undone, warn the vandalizing editor. Notify administrators at the vandalism noticeboard of editors who continue to vandalize after multiple warnings, and administrators should intervene to preserve content and prevent further disruption by blocking such editors. Users whose main or sole purpose is clearly vandalism may be blocked indefinitely without warning.
+
+How to spot vandalism
+ShortcutsWP:HTSVWP:SPOTVAN
+
+
+Useful ways to detect vandalism include:
+
+Recent changes patrolling, using the recent changes link to spot suspicious edits
+Keeping an eye on your watchlist
+The edit history of an article may be checked for any recent suspicious edits, and compared with the version after any previous revert or cluster of non-suspicious edits. This method can check many suspicious edits at the same time. The article size, as given in bytes, usually increases slightly with time, while a sudden large decrease may indicate a section blanking.
+
+
+
+
+Even in Rome itself, the City of the Popes, the vandalism of the ignorant wrought dreadful havoc.
+
+
+
+
+Rev. James MacCaffrey, History of the Catholic Church From the Renaissance to the French Revolution
+
+
+
+
+In all the three methods above, examples of suspicious edits are those performed by IP addresses, red linked, or obviously improvised usernames. A good way to start is to click on every edit in watchlists, histories etc. with the least suspicion of being vandalism. Increased experience will probably give a sense of which edit descriptions are worth to check further and which may likely be ignored. Some descriptions like "Fixed typo" may be vandalism as that is one of the default edit summaries. IP editors should not be approached with the assumption that they are vandals. Although many vandals do vandalize without registering an account, there are many IP editors who are great contributors to Wikipedia. Always read the actual changes made and judge on that, rather than who made the changes or what was entered in the edit summary.
+
+See the what links here pages for Insert text, Link title, Headline text, Bold text and Example Image to detect test edits. (See also {{toolbar experiments}}).
+The auto-summary feature can also help users spot vandalism.
+Viewing the abuse log or this version[1] if the regular abuse log is cluttered by spambots.
+Watching for edits tagged by the abuse filter. However, many tagged edits are legitimate, so they should not be blindly reverted. That is, do not revert without at least reading the edit.
+Plausible, subtle changes not supported by sources or by text elsewhere in the article, particularly without an edit summary, may suggest vandalism. Changing numbers, sometimes by 1, is a common stealth tactic.
+How to respond to vandalism
+ShortcutWP:RVAN
+
+
+If you see vandalism in an article, the simplest thing to do is just to remove or undo it, but sometimes vandalism takes place on top of older, undetected vandalism. With undetected vandalism, editors may make edits without realizing the vandalism occurred. This can make it harder to detect and delete the vandalism, which is now hidden among other edits. Sometimes bots try to fix collateral damage and accidentally make things worse. Check the page history to make sure you're reverting to a "clean" version of the page. Alternatively, if you can't tell where the best place is, take your best guess and leave a note on the article's talk page so that someone more familiar with the page can address the issue—or you can manually remove the vandalism without reverting it.
+
+
+If you see vandalism on a list of changes (such as your watchlist), then revert it immediately. You may use the "undo" button (and the automatic edit summary it generates), and mark the change as minor. It may be helpful to check the page history to determine whether other recent edits by the same or other editors also represent vandalism. Repair all vandalism you can identify.
+
+
+For a new article, if all versions of the article are pure vandalism, mark it for speedy deletion by tagging it with {{Db-g3}}.
+
+
+To make vandalism reverts easier you can ask for the rollback feature to be enabled for your registered Wikipedia account. This feature is only for reverting vandalism and other obvious disruption, and lets you revert several recent edits with a single click. See Wikipedia:Requests for permissions.
+
+
+If you see that a user has added vandalism you may also check the user's other contributions (click "User contributions" on the left sidebar of the screen). If most or all of these are obvious vandalism you may report the user immediately at Wikipedia:Administrator intervention against vandalism, though even in this case you may consider issuing a warning first, unless there is an urgent need to block the user. Otherwise, you can leave an appropriate warning message on the user's talk page. Remember that any editor may freely remove messages from their own talk page, so they might appear only in the talk history. If a user continues to cause disruption after being warned, report them at Wikipedia:Administrator intervention against vandalism. An administrator will then decide whether to block the user.
+
+
+For repeated vandalism by an IP user it is helpful to trace the IP address (e.g. http://whois.domaintools.com/) and add {{whois|Name of owner}} to the user talk page of the address. If it appears to be a shared IP address, add {{SharedIP|Name of owner}} or {{Shared IP edu|Name of owner}}. The OrgName on the IP trace result should be used as the Name of owner parameter in the above three templates.
+
+For beginners
+See also: Wikipedia:Cleaning up vandalism
+
+
+For relatively inexperienced Wikipedians, use these simple steps to quickly respond to what you consider vandalism. This is essentially an abridged version of Wikipedia:Vandalism. 
+
+Assess whether the edit was made in good or bad faith. If in good faith, it is not vandalism as such, so question the accuracy of information on the talk page or add an inline cleanup tag, such as a "{{dubious}}" tag, to the disputed edit. If it is in bad faith, then it is vandalism and you may take the appropriate steps to remove it.
+Revert the vandalism by viewing the page's history and selecting the most recent version of the page prior to the vandalism. Use an edit summary such as 'rv/v' or 'reverted vandalism' and click on 'Publish changes'.
+Warn the vandal. Access the vandal's talk page and warn them. A simple note explaining the problem with their editing is sufficient. If desired, a series of warning templates exist to simplify the process of warning users, but these templates are not required. These templates include
+Level one: {{subst:uw-vandalism1}} This is a gentle caution regarding unconstructive edits; it encourages new editors to use a sandbox for test edits. This is the mildest warning.
+Level two: {{subst:uw-vandalism2}} This warning is also fairly mild, though it explicitly uses the word 'vandalism' and links to this Wikipedia policy.
+Level three: {{subst:uw-vandalism3}} This warning is sterner. It is the first to warn that further disruptive editing or vandalism may lead to a block.
+Level four: {{subst:uw-vandalism4}} This is the sharpest vandalism warning template, and indicates that any further disruptive editing may lead to a block without warning.
+Level four-im: {{subst:uw-vandalism4im}} This warning template should be used only in the worst conditions of vandalism. It indicates that this is the only warning the target will receive, and that further disruptive edits will result in a block without warning.
+Watch for future vandalism from the vandal by checking the user's contributions. If bad faith edits continue, revert them and warn them again, letting the users know that they can be blocked. Note that it is not necessary to use all four warning templates in succession, nor is it necessary to incrementally step through warnings.
+Report vandals that continue their behavior after being warned to Wikipedia:Administrator intervention against vandalism. While not strictly required, administrators there are most likely to respond rapidly to requests which include at least two warnings, culminating in the level-four "last chance" template.
+Template and CSS vandalism
+
+
+If no vandalizing edits appear in the page's edit history, or the vandalism obscures the page tabs so you can't easily access the history or edit the page, it is probably template or cascading style sheets vandalism. These are often not difficult to fix, but can be confusing.
+
+
+To access the page history or edit the page when the "View history" or "Edit" tabs are inaccessible, use Wikipedia keyboard shortcuts. You can also access the history through a vandalism patrolling tool if you're using one, or from your watchlist if you are watching the page), or from your user contributions if you have edited the page. Or, enter the URL manually into the address bar of your browser: it will take the form https://en.wikipedia.org/wiki/Name_of_article?action=edit or https://en.wikipedia.org/wiki/Name_of_article?action=history.
+
+
+If vandalizing edits do not appear in the page history, the vandalism is likely in a transcluded template instead of the page itself. To find the template page, edit the article (using Wikipedia keyboard shortcuts if necessary); toward the bottom of the edit page is a list of all templates transcluded into the page. Look for vandalism in the transcluded templates not protected. Alternatively, look for {{Template name}} or {{Template name|parameter&nbsp;...}} in the text, approximately where the vandalism appears, then go to the page Template:Template name and revert any vandalism. When you return to the original page, the vandalism should be gone, though you may need to purge the page.
+
+Image vandalism
+
+
+Images are occasionally used for vandalism, such as by placing shock or explicit images where they should not be. When an image has been created exclusively for vandalism, it can be requested for speedy deletion: under criterion G3 if hosted on Wikipedia or as vandalism if hosted on Commons (a file repository for Wikimedia Foundation projects). When an image is used for vandalism due to its explicit nature but has legitimate encyclopedic uses (Wikipedia is not censored) or is hosted on Commons and has legitimate uses on other projects, it can be requested for being added to the bad image list, which precludes its addition on any page except those specified.
+
+How not to respond to vandalism
+ShortcutWP:NORESVAND
+Do not nominate a page for deletion because it is being vandalized. If a page is persistently vandalized, consider requesting protection of the page at Wikipedia:Requests for page protection.
+Do not feed the trolls. Fanning the fire will only serve to make the situation worse. Similarly, do not insult the vandals. If someone is doing something they know is wrong, insulting them over it is likely to make them vandalize more, just to get that reaction. Furthermore, Wikipedia is not the place for personal attacks, it is not a battleground, and two wrongs don't make a right. Instead, report them to the administrators if they continue.
+Avoid the word "vandal". In particular, this word should not be used to refer to any contributor in good standing nor to any edits that might have been made in good faith. This is because if the edits were made in good faith, they are not vandalism. Assume good faith yourself; instead of calling the person who made the edits a "vandal", discuss your concerns with them. Comment on the content and substance of the edits, instead of making personal attacks.
+Warnings
+
+
+
+Warning templates
+PageName is optional
+{{subst:uw-vandalism1|PageName}}  ~~~~ (unintentional vandalism/test)
+{{subst:uw-delete1|PageName}} ~~~~ (unintentional removal of content)
+{{subst:uw-vandalism2|PageName}} ~~~~ (suitable for intentional nonsense or disruption)
+{{subst:uw-delete2|PageName}} ~~~~ (variant for removal of content)
+{{subst:uw-vandalism3|PageName}} ~~~~ ("please stop" for use after level 2 warning)
+{{subst:uw-delete3|PageName}} ~~~~ (please stop removing content)
+{{subst:uw-vandalism4|PageName}} ~~~~ (last warning for vandalism)
+{{subst:uw-delete4|PageName}} ~~~~ (last warning for removing content)
+{{subst:uw-vandalism4im|PageName}} ~~~~ (only warning; for severe or grotesque vandalism only)
+{{subst:uw-delete4im|PageName}} ~~~~ (only warning; for many blankings in a short period of time)
+
+
+See additional templates and examples of output
+
+
+ShortcutWP:WARNVAND
+
+
+The purpose of warning a user who has vandalized is to inform the user that the user's conduct is abusive and prohibited, and seek the user's compliance. Not all that appears to be vandalism is in bad faith, and a warning can politely advise and correct users unaware of the nature of their actions. A warning may even dissuade a user acting in bad faith from continuing, particularly as the warnings escalate and the user is informed of the consequences of continuing.
+
+
+Warning a user for vandalism is generally a prerequisite to administrator intervention. Because of this, users should be warned for each and every instance of vandalism.
+
+How to warn vandalizing users
+
+
+A list of user warning templates, with descriptions and instructions for their use, is at Wikipedia:Template messages/User talk namespace. In addition to a series of user warning templates for vandalism, there are series for specific types of vandalism. Use the most specific user warning template for the conduct. The existence of these templates is intended as a convenience, and their use is not required. A specifically tailored note, written personally and directly addressing the problematic behavior is equally as acceptable as a form of warning, and in many cases, will often result in better engagement with the user in question.
+
+
+Assume good faith (such as that the user is simply unaware of the policies and guidelines) unless it is clear that the user is deliberately harming Wikipedia from the outset, such as the use of abusive, vulgar, or juvenile vandalism.
+
+
+If you do choose to use warning templates, please choose templates that are appropriate to the type and level of problem in question. If edits are questionable, but not clearly vandalism, consider using lower-level templates (level 1 or 2) and wait for a few further contributions to see if the other editor responds or changes their behavior. If the behavior continues, or if it is clear the edits are in bad faith from the outset, the use of a higher-level template (level 3 or 4) may be appropriate. If, after receiving multiple warnings, the behavior persists past the point where good faith can be extended, or it becomes clear that the user has had the opportunity to notice they have been warned, and they still persist with the problematic behavior, consider reporting them to the Vandalism noticeboard.
+
+Administrator response to vandalism
+
+
+Response from administrators at the vandalism noticeboard varies depending on the type of vandalism and the specifics of the report. Keep in mind:
+
+Admins are unlikely to block a user who has not been warned at all, or who has been warned, but has stopped editing since being warned. It must be clear that the user has been told to stop vandalizing, and still persists despite such warnings, except for egregious cases.
+Reports of vandalism from registered accounts are handled differently than that from IP users, and reports from newly registered accounts are handled differently from accounts of experienced Wikipedia users.
+IP addresses may or may not be kept by the same person for long periods of time; a dynamic address which appears to have stopped vandalizing will probably not be blocked, while one that is actively vandalizing will likely receive a short (1–2 day) block. If there is evidence that an IP address is being used by the same person over a long period of time to repeatedly vandalize Wikipedia, or if it is clear the IP address is being used by multiple people to vandalize Wikipedia (such as a school-based IP, which can sometimes attract lots of juvenile vandalism over long periods of time from many different people) then an administrator may block the IP for a longer time period (several months to a year). IP addresses are almost never blocked indefinitely.
+Brand new accounts who repeatedly vandalize despite multiple warnings are usually blocked indefinitely, especially when there is no history of quality editing on the account.
+Reports which involve experienced Wikipedia users rarely result in blocks for vandalism, as these reports are usually mislabeling other problematic behavior (such as misrepresenting sources, or removing text, or edit warring) as vandalism. The vandalism noticeboard is not designed to litigate disputes or to investigate complex behavior problems. Instead, other noticeboards such as the edit warring noticeboard or the incidents noticeboard are more appropriate to deal with those issues.
+Check back in to the vandalism noticeboard to see how your report has been dealt with. If an administrator declines to block someone you report, they will always leave a note explaining why they did not respond as you requested. Often, this does not mean the person you reported is behaving in a proper manner, or should not be dealt with, but merely that the mechanisms of the vandalism noticeboard are not well suited for handling many types of reports. Consider taking the issue up at a more appropriate noticeboard, which has been tailored to the specific type of problem you are seeing. Other times, a report is declined for being stale (blocks to abandoned accounts, or to IP addresses which have been dormant for some time are rarely done), or to the admin being unable to easily identify the edits as vandalism.
+If the vandalism in question is "sneaky vandalism", is being committed by a person who was blocked under a prior account or IP address, or requires in-depth and direct knowledge of a prior problem, consider taking the report to the incidents noticeboard instead. There are hundreds of Wikipedia administrators, and many of them are unfamiliar with the intricacies of past cases. Unless it is the sort of vandalism that needs no explanation at all, it should be taken elsewhere and not WP:AIV.
+Reminding responding users to correctly warn
+
+
+Because warnings for vandalism are generally a prerequisite to administrator intervention, it is important that users responding to vandalism warn vandalizing users. To inform responding users of this responsibility, use the user warning template {{uw-warn}}.
+
+
+Likewise, incorrect use of user warning templates, even if well-intended, should be identified to the mistaken user. The {{uw-tempabuse}} series of user warning templates may be used, but a detailed talk page message is better.
+
+Tracing IP addresses
+ShortcutsWP:WHOISWP:TRACEIP
+
+
+The owners of IP addresses can be found using:
+
+ARIN (North America)
+RIPE NCC (Europe, the Middle East and Central Asia)
+APNIC (Asia Pacific)
+LACNIC (Latin American and Caribbean)
+AfriNIC (Africa)
+IPLigence
+IP-adress.com [sic]
+Find-IP-address.org
+who.is
+
+
+If an address is not in one registry, it will probably be in another.
+
+Identifying associated IP addresses
+
+
+If you're trying to determine whether a set of IP addresses involved in vandalism are related, a command-line WHOIS query will generally list this information, or can be shown using the Routeviews DNS name server asn.routeviews.org reverse IP look-up to find the CIDR and ASN for a set of IP addresses. This can be done using IP lookup tools.
+
+
+A WHOIS query will typically return NetRange, CIDR, NetName, NetHandle, and OriginAS, all of which identify specific network spaces. Data and labeling vary considerably by WHOIS registrar.
+
+
+The Routeviews data is far more uniformly structured and returns ASN and CIDR as a reverse-lookup TXT query result. It is more useful and faster than WHOIS when checking multiple IP addresses and can be scripted or automated.
+
+
+CIDR identifies a set of related addresses ("network space") and ASN identifies an Autonomous System—that is, a single administrative entity with control over multiple (and often very many) addresses. Some (though not all) abuse from multiple sources does come from such unified spaces—possibly corresponding to a set of hosts within a single facility.
+
+
+Abuse originating in a short period of time from different IP addresses within the same CIDR or ASN may indicate a dedicated non-distributed attack, as opposed to a distributed denial of service attack.
+
+Proxies, VPNs and Tor exit nodes
+
+
+It's possible that a user's source location is being masked by routing traffic through a Proxy server, VPN or the Tor network. Such addresses typically serve many, not just one, person, and though they can be valid present challenges when used for abuse.
+
+
+A proxy VPN is not necessarily detectable, but commercial services may be indicated by the hostname when resolving an IP address.
+
+
+Users of the Tor anonymity network will show the IP address of a Tor "exit node". Lists of known Tor exit nodes are available from the Tor Project's Tor Bulk Exit List exporting tool.
+
+Types of vandalism
+ShortcutWP:VANDTYPES
+
+
+Vandalism on Wikipedia usually falls into one or more of these categories:
+
+
+
+
+Abuse of tags
+
+
+Bad-faith placing of non-content tags such as {{afd}}, {{db}}, {{sprotected}}, or other tags on pages that do not meet such criteria. This includes baseless removal of {{policy}} and related tags.
+
+Account creation, malicious
+
+
+Creating accounts with usernames that contain deliberately offensive or disruptive terms is considered vandalism, whether the account is used or not. For Wikipedia's policy on what is considered inappropriate for a username, see Wikipedia:Username policy. See also Wikipedia:Sock puppetry.
+
+
+
+
+Avoidant vandalism
+
+
+Removing {{afd}}, {{copyvio}} and other related tags in order to conceal deletion candidates or avert deletion of such content. However, this is often mistakenly done by new users who are unfamiliar with AfD procedures and such users should be given the benefit of the doubt and pointed to the proper page to discuss the issue.
+
+Blanking, illegitimate
+For legitimate cases of blanking articles, see Wikipedia:Redirect §&nbsp;Redirects that replace previous articles.
+
+
+Removing encyclopedic content without any reason, or replacing such content with nonsense. Content removal is not considered to be vandalism when the reason for the removal of the content is readily apparent by examination of the content itself, or where a non-frivolous explanation for the removal of apparently legitimate content is provided, linked to, or referenced in an edit summary.
+
+
+Blanking that could be legitimate includes blanking all or part of a biography of a living person. Wikipedia is especially concerned about providing accurate and unbiased information on the living; blanking may be an effort to remove inaccurate or biased material. Due to the possibility of unexplained good-faith content removal, {{uw-test1}} or {{uw-delete1}}, as appropriate, should be used as initial warnings for content removals without more descriptive edit summaries.
+
+Copyrighted material, repeated uploading of
+
+
+Uploading or using material on Wikipedia in ways which violate Wikipedia's copyright policies after having been warned is vandalism. Because users may be unaware that the information is copyrighted, or of Wikipedia policies on how such material may and may not be used, such action becomes vandalism only if it continues after the copyrighted nature of the material and relevant policy restricting its use have been communicated to the user.
+
+Edit summary vandalism
+
+
+Making offensive edit summaries in an attempt to leave a mark that cannot be easily expunged from the record (edit summaries cannot simply be "reverted" and require administrative action if they have to be removed from a page's history). Often combined with malicious account creation.
+
+Format vandalism
+
+
+Changing the formatting of a page unreasonably and maliciously. But many times, editors might just make an unintended mistake or are testing how the wikicode works. Sometimes it might be a bug in the Wikipedia software. Some changes to the format are not vandalism, but rather either good faith edits of editors who don't know the guidelines or simply a different opinion on how the format should look, in which case it is just a disputed edit.
+
+Gaming the system
+
+
+Deliberate attempts to circumvent enforcement of Wikipedia policies, guidelines, and procedures by causing bad faith edits to go unnoticed. Includes marking bad faith edits as minor to get less scrutiny, making a minor edit following a bad faith edit so it won't appear on all watchlists, recreating previously deleted bad faith creations under a new title, use of the {{construction}} tag to prevent deletion of a page that would otherwise be a clear candidate for deletion, or use of sock puppets.
+
+Hidden vandalism
+
+
+Any form of vandalism that makes use of embedded text, which is not visible to the final rendering of the article but visible during editing. This includes link vandalism, or placing malicious, offensive, or otherwise disruptive or irrelevant messages or spam in hidden comments for editors to see.
+
+Hoaxing vandalism
+
+
+Deliberately adding falsities to articles, particularly to biographies of living people, with hoax information is considered vandalism.
+
+Image vandalism
+
+
+Uploading shock images, inappropriately placing explicit images on pages, or simply using any image in a way that is disruptive. Please note though that Wikipedia is not censored for the protection of minors and that explicit images may be uploaded and/or placed on pages for legitimate reasons (that is, if they have encyclopedic value).
+
+Link vandalism
+
+
+Adding or changing internal or external links on a page to disruptive, irrelevant, or inappropriate targets while disguising them with mislabeling.
+
+Page creation, illegitimate
+
+
+Creating new pages with the sole intent of malicious behavior. It also includes personal attack pages (articles written to disparage the subject), hoaxes and other intentionally inaccurate pages. There are many other types of pages that merit deletion, even speedy deletion, but which are not vandalism. New users sometimes create test pages containing nonsense or even autobiographies, and doing so is not vandalism; such pages can also be moved to become their sandbox or userpage. Pages on non-notable topics are not vandalism. Blatant advertising pages, and blatant POV pushes, are not vandalism, but frequently happen and often lead to editors being blocked. It's important that people creating inappropriate pages be given appropriate communication; even if they aren't willing to edit within our rules, they are more likely to go away quietly if they understand why their page has been deleted.
+
+Page lengthening, illegitimate
+
+
+Adding very large (measured by the number of bytes) amounts of bad-faith content to a page so as to make the page's load time abnormally long or even make the page impossible to load on some computers without the browser or machine crashing. Adding large amounts of good-faith content is not vandalism, though prior to doing so, one should consider if splitting a long page may be appropriate (see Wikipedia:Article size).
+
+Page-move vandalism
+ShortcutsWP:MOVEVANDALWP:PAGEMOVEVANDAL
+
+
+Changing the names of pages to disruptive, irrelevant, or otherwise inappropriate names. Only autoconfirmed or confirmed users can move pages.
+
+Redirect vandalism
+
+
+Redirecting or changing the target of redirect pages to other pages that are vandalism, nonsense, promotional, non-existent pages, or attack pages. This also applies when a redirect or its title is created only to disparage its subject. Pages that redirect to non-existent or deleted pages are also applied with G8.
+
+Reverting to vandalism
+
+
+Reverting edits to the latest revisions that are nonsense, promotional, personal attacks, and/or harrassment.
+
+Silly vandalism
+
+
+Adding profanity, graffiti, or patent nonsense to pages; creating nonsensical and obviously unencyclopedic pages, etc. This is one of the most common forms of vandalism. However, the addition of random characters to pages is often characteristic of an editing test and, though impermissible, may not be malicious.
+
+Subtle vandalism
+ShortcutWP:SNEAKY
+
+
+Vandalism that is harder to spot, or that otherwise circumvents detection, including adding plausible misinformation to articles (such as minor alteration of facts or additions of plausible-sounding hoaxes), hiding vandalism (such as by making two bad edits and reverting only one), simultaneously using multiple accounts or IP addresses to vandalize, abuse of maintenance and deletion templates, or reverting legitimate edits with the intent of hindering the improvement of pages. Impersonating other users by signing an edit with a different username or IP address also constitutes sneaky vandalism, but take care not to confuse this with appropriately correcting an unsigned edit made by another user. Some vandals even follow their vandalism with an edit that states "Rv vandalism" in the edit summary in order to give the appearance the vandalism was reverted.
+
+Spam external linking
+
+
+Adding or continuing to add spam external links is vandalism if the activity continues after a warning. A spam external link is one added to a page mainly for the purpose of promoting a website, product or a user's interests rather than to improve the page editorially.
+
+Talk page vandalism
+
+
+
+Illegitimately removing or editing other users' comments, especially in closed discussions, or adding offensive comments. However, it is acceptable to blank comments constituting vandalism, internal spam, or harassment or a personal attack. It is also acceptable to identify an unsigned comment. Users are also permitted to remove comments from their own user talk pages. A policy of prohibiting users from removing warnings from their own talk pages was considered and rejected on the grounds that it would create more issues than it would solve.
+
+Template vandalism
+
+
+Modifying the wiki language or text of a template in a harmful or disruptive manner. This is especially serious, because it will negatively impact the appearance of multiple pages. Some templates appear on hundreds or thousands of pages, so they are permanently protected from editing to prevent vandalism.
+
+User and user talk page vandalism
+
+
+Unwelcome, illegitimate edits to another person's user page may be considered vandalism. User pages are regarded as within the control of their respective users and generally should not be edited without the permission of the user to whom they belong. See WP:UP#OWN. This is why there is an edit filter that prevents new and non-(auto)confirmed users from editing user pages other than their own. Related to this is Wikipedia:No personal attacks.
+
+Vandalbots
+
+
+A script or "robot" that attempts to vandalize or add spam to a mass of pages.
+
+What is not vandalism
+ShortcutsWP:VANDNOTWP:NOTVANDWP:NOTVWP:NOTVANDALISM
+
+
+Although at times the following situations may be referred to colloquially as "vandalism", they are not usually considered vandalism within the context of Wikipedia. However, each case should be treated independently, taking into consideration whether or not the actions violate Wikipedia policies and guidelines. If an editor treats situations which are not clearly vandalism as such, it may harm the encyclopedia by alienating or driving away potential editors.
+
+Boldly editing
+
+
+Bold edits, though they may precede consensus or be inconsistent with prior consensus, are not vandalism unless other aspects of the edits identify them as vandalism. The Wikipedia community encourages users to be bold and acknowledges the role of bold edits in reaching consensus.
+
+Copyright policy violations
+
+
+Uploading or using material on Wikipedia in violation of Wikipedia's copyright policies is prohibited, but is not vandalism unless the user does so maliciously or fails to heed warnings. It is at least as serious an issue as vandalism and persistent offenders will ultimately get blocked, but it is well worth spending time communicating clearly with those who add copyvio as they are far more likely to reform than vandals or spammers.
+
+Disruptive editing or stubbornness
+
+
+Some users cannot come to an agreement with others who are willing to talk to them about an editing issue, and repeatedly make changes against consensus. Edit warring is not vandalism and should not be dealt with as such. Dispute resolution may help. See also: Tendentious editing
+
+
+Starting a deletion process in bad faith is disruptive editing, but is not vandalism. However, misusing deletion template messages with no intention to start a deletion process is vandalism by abuse of tags.
+
+
+In short, all vandalism is disruptive editing, but not all disruptive editing is vandalism.
+
+Edit summary omission
+
+
+The edit summary is important in that it helps other editors understand the purpose of your edit. Though its use is not required, it is strongly recommended, even for minor edits, and is considered proper Wikipedia etiquette. Even a brief edit summary is better than none. However, not leaving edit summaries is not considered vandalism.
+
+Editing tests by experimenting users
+
+
+Users sometimes edit pages as an experiment. Such edits, while prohibited, are treated differently from vandalism. These users should be warned using the uw-test series of user warning templates, or by a talk page message including, if appropriate, a welcome and referral to the Wikipedia sandbox, where they can continue to make test edits without being unintentionally disruptive. Registered users can also create their own sandboxes as a user subpage. If a user has made a test edit and then reverted it, consider placing the message {{uw-selfrevert}}, on their talk page. Pages created as test edits outside of userspace may be deleted under speedy deletion criterion G2. Editing tests are considered vandalism only when a user continues to make test edits despite receiving numerous warnings.
+
+Harassment or personal attacks
+
+
+Personal attacks and harassment are not allowed. While some harassment is also vandalism, such as user page vandalism, or inserting a personal attack into an article, harassment in itself is not vandalism and should be handled differently.
+
+Incorrect wiki markup and style
+
+
+Inexperienced users are often unfamiliar with Wikipedia's formatting and grammatical standards, such as how to create internal and/or external links or which words should be bolded or italicized, etc. Rather than label such users as vandals, just explain to them what the standard style would be for the issue at hand, perhaps pointing them towards the documentation at How to edit a page, and the like.
+
+Lack of understanding of the purpose of Wikipedia
+
+
+Some users are not familiar with Wikipedia's purpose or policies and may start editing it as if it were a different medium—such as a forum or blog—in a way that it appears as unproductive editing or borderline vandalism to experienced users. Although such edits can usually be reverted, it should not be treated as vandalism.
+
+Misinformation, accidental
+
+
+A user who, in good faith, adds content to an article that is factually inaccurate but in the belief that it is accurate is trying to contribute to and improve Wikipedia, not vandalize it. If you believe inaccurate information has been added to an article in good faith, remove it once you are certain it is inaccurate, or discuss its factuality with the user who has added it.
+
+NPOV contraventions
+
+
+The neutral point of view policy is difficult for many of us to understand. Even Wikipedia veterans occasionally introduce material which is not ideal from an NPOV perspective. Indeed, we are all affected to a greater extent than we estimate by our beliefs. Though the material added may be inappropriate, it is not vandalism in itself.
+
+Nonsense, accidental
+
+
+While intentionally adding nonsense to a page is a form of vandalism, sometimes honest editors may not have expressed themselves correctly (e.g. there may be an error in the syntax, particularly for Wikipedians who use English as a second language). Also, connection errors, browser extensions, or edit conflicts can unintentionally produce the appearance of nonsense or malicious edits. In either case, assume good faith.
+
+Policy and guideline pages, good-faith changes to
+
+
+Editors are encouraged to be bold. However, making edits to Wikipedia policies and guidelines pages, such as this one, does require some knowledge of the consensus on the issues. If people misjudge consensus, it would not be considered vandalism; rather, it would be an opportunity to discuss the matter with them, and help them understand the consensus.
+
+Reversion or removal of unencyclopedic material
+
+
+Even factually correct material may not belong on Wikipedia, and removing such content when it is inconsistent with Wikipedia's content policies is not vandalism.
+
+
+Contentious material about living persons that is unsourced or poorly sourced—whether the material is negative, positive, neutral, or just questionable—should be removed immediately and without waiting for discussion, per Wikipedia:Biographies of living persons.
+
+
+Make sure that the removed content is consistent with Wikipedia's standards before restoring it or treating its removal as vandalism.
+
+See also
+
+
+
+This page is referenced in the Wikipedia Glossary.
+
+
+Vandalism on Wikipedia
+Wikipedia:Wikipedia Signpost/2009-06-22/Vandalism
+Tools
+See also: Wikipedia:Cleaning up vandalism/Tools
+Huggle&nbsp;– Cross-platform application for dealing with vandalism (requires rollback permission).
+Twinkle&nbsp;– JavaScript gadget allowing reversion of vandalism from page diffs.
+RedWarn&nbsp;– User-friendly Javascript-based diff browser and counter-vandalism tool (works with or without rollback permissions).
+Igloo&nbsp;– JavaScript-based browser window for reverting vandalism. (requires rollback permission).
+STiki&nbsp;– Cross-platform and Java-based anti-vandalism application. Connects to a remote, non-Wikimedia server. (requires rollback permission).
+mobileUndo is a userscript which allows you to revert vandalism on mobile.
+Guidelines
+Administrator intervention against vandalism&nbsp;– intended to get administrator attention for obvious and persistent vandals and spammers
+Cleaning up vandalism&nbsp;– introduction to cleaning up vandalism
+Criteria for speedy deletion&nbsp;– English Wikipedia policy
+Do not create hoaxes&nbsp;– content guideline
+Most vandalized pages&nbsp;– articles that have undergone repeated vandalism
+Recent changes patrol&nbsp;– Wikipedia communal patrol
+Requests for page protection&nbsp;– for protection against long-term attacks
+Template messages/User talk namespace&nbsp;– grid of templates for user talk page warnings and notices
+Vandalism-only accounts&nbsp;– advice for dealing with vandalism from registered accounts
+WikiProject user warnings&nbsp;– internal project for creating a complete, standardised set of user warning templates
+WikiProject Vandalism studies&nbsp;– internal project for conducting research related to unconstructive edits on Wikipedia (currently semi-active)
+Essays
+Avoid the word "vandal"&nbsp;– essay on the differences between vandals and those who make adverse edits
+Deny recognition&nbsp;– essay on not feeding the trolls
+Do not insult the vandals&nbsp;– essay on vandals and civility
+Don't be trigger happy&nbsp;– essay on care, courtesy, and professionalism when performing recent changes and new pages patrols
+Don't call a spade a spade&nbsp;– essay on civility and difficult editors
+Don't template the regulars&nbsp;– essay on how to use warning templates carefully
+Identifying test edits&nbsp;– essay on the difference between editing tests and vandalism
+IP address editors are human too&nbsp;– essay on assuming IP address editors are able and willing to make positive contributions
+Make protection requests sparingly&nbsp;– essay recommending not overusing page protection
+Not every IP is a vandal&nbsp;– essay on the common assumption that IP address editors are vandals
+On assuming good faith&nbsp;– essay on the relationship between the Vandalism policy and the Assume good faith behavioral guideline
+The motivation of a vandal&nbsp;– essay on "Why would anyone wish to vandalize a source of information that benefits people?"
+Vandals versus Trolls&nbsp;– essay on the distinction between vandals and trolls
+User:Ritchie333/Plain and simple guide to vandalism&nbsp;– one administrator's view
+Meta
+m:Anti-vandalism ideas
+m:Vandalbot
+m:What is a troll?
+m:Small Wiki Monitoring Team&nbsp;– cross-wiki anti-vandalism
+Further reading
+Statistics about reverts by bots, Huggle, Twinkle in wmcharts
+"How I Used Lies About a Cartoon to Prove History is Meaningless on the Internet". 15 June 2020.
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Vandalism&amp;oldid=1055692475"
+		Categories: Wikipedia policiesWikipedia glossary itemsWikipedia vandalismWikipedia conduct policiesWikipedia how-toHidden categories: Wikipedia semi-protected project pagesWikipedia move-protected project pagesProject pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMeta-WikiWikispeciesWikibooksWikidataWikinewsWikiquoteWikiversityWiktionary
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AfrikaansAlemannischÆngliscالعربيةঅসমীয়াAsturianuAvañe'ẽAzərbaycancaتۆرکجهবাংলাBanjarБашҡортсаБеларускаяБеларуская (тарашкевіца)БългарскиBosanskiБуряадCatalàCebuanoČeštinaDanskDavvisámegiellaDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFøroysktFrançaisGalego한국어Հայերենहिन्दीHornjoserbsceHrvatskiIlokanoBahasa IndonesiaÍslenskaItalianoעבריתJawaქართულიҚазақшаKiswahiliLatgaļuLatinaLatviešuLëtzebuergeschLietuviųMagyarМакедонскиമലയാളംمصرىBahasa MelayuМонголNederlandsNedersaksiesनेपाली日本語НохчийнNorsk bokmålNorsk nynorskOccitanOʻzbekcha/ўзбекчаភាសាខ្មែរPolskiPortuguêsRomânăRuna SimiРусскийScotsSicilianuSimple EnglishسنڌيSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogТатарча/tatarçaతెలుగుไทยТоҷикӣᏣᎳᎩTürkçeУкраїнськаاردوVènetoTiếng Việt文言West-Vlamsייִדיש粵語Zazaki中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 17 November 2021, at 07:37&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

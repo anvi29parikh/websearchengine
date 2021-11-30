@@ -1,0 +1,262 @@
+
+
+
+
+Wikipedia:NOT - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:NOT
+	
+		From Wikipedia, the free encyclopedia
+		Redirect page
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Redirect to:Wikipedia:What Wikipedia is not This page is a redirect. The following categories are used to track and monitor this redirect:
+
+Semi-protected: This is a redirect from a title that is semi-protected from editing for any of several possible reasons.
+Please do not replace these redirected links with links directly to the target page unless expressly advised to do so below or elsewhere on this page, or if the change is supported by a policy or guideline.
+
+
+To a project page: This is a redirect from any page inside or outside of project (Wikipedia: or WP:) space to any page in the project namespace. The above category link leads to a list of redirects from inside project space.  Redirects from outside project space are automatically sorted to Category:Redirects to project space.
+
+
+From a shortcut: This is a redirect from a shortcut in any namespace to a page in any namespace except template namespace.
+Shortcuts are wikilinked on community pages, talk pages, and edit summaries, but not in mainspace articles.
+
+
+Mentioned in a hatnote: This is a redirect from a title that is mentioned in a hatnote at the redirect target. The mention is usually atop the target article. It may, however, be directly under a section header, or in another article's hatnote, (whenever the hatnote is under a section, {{R to section}} should also be used).
+The titles of redirects mentioned in hatnotes may refer to a subject other than that of the target page. It is possible that this redirect may need to be retargeted, or become an article under its own title, (see {{R with possibilities}}). If the title is a good candidate for a Wiktionary link, it may also be added.
+
+When appropriate, protection levels are automatically sensed, described and categorized.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:NOT&amp;oldid=1018766966"
+		Hidden categories: Wikipedia move-protected project pagesWikipedia semi-protected project pagesFully protected redirectsSemi-protected redirectsRedirects to Wikipedia project pagesRedirects from shortcutsRedirects mentioned in hatnotes
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 19 April 2021, at 19:09&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

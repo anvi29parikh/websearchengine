@@ -1,0 +1,381 @@
+
+
+
+
+Help:Tags - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Help:Tags
+	
+		From mediawiki.org
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This page is currently a draft.
+More information and discussion about changes to this draft may be on the discussion page.
+
+Screenshot of Special:RecentChanges, each log line ends with the yellow-ish marked tag that the list is filtered by
+This page is to hold documentation relating to Manual:Tags.
+
+A tag (also referred to as a change tag or revision tag) is an annotation associated with an edit or log entry. They are displayed in various locations when referring to revisions, such as in the page history, diffs, recent changes and other places.
+Contents
+
+1 Tag information
+2 Automatically applied tags
+3 Adding or removing tags from a revision or log entry
+4 Tag management
+
+4.1 Creating a tag
+4.2 Deleting a tag
+
+4.2.1 Deleting a tag added by the software
+
+
+4.3 Activating or deactivating a tag
+
+
+5 See also
+
+
+
+Tag information[edit]
+
+
+To view a list of all tags on your wiki, visit Special:Tags. A table lists all tags that are defined, and/or applied to at least one revision or log entry.
+
+
+The meaning of each column is as follows:
+
+Tag name
+The internal code name of the tag. This cannot be modified.
+Appearance on change lists
+The way the tag will appear in change lists (page histories, user contributions, watchlists, logs, diffs, etc). This text is fetched from the system message MediaWiki:Tag-&lt;tag name&gt;; if this message does not exist, the internal tag name will be shown in change lists.
+Administrators (those with the editinterface user right) will see an "edit" link to modify the MediaWiki:Tag-&lt;tag name&gt; page. Set the contents of this page to - to hide the tag from all change lists.
+Full description of meaning
+A description of the tag's purpose, only displayed on Special:Tags and nowhere else. This text is fetched from the system message MediaWiki:Tag-&lt;tag name&gt;-description.
+Administrators (those with the editinterface user right) will see an "edit" link to modify the MediaWiki:Tag-&lt;tag name&gt;-description page.
+Source
+Whether the tag is defined by an extension ("Defined by an extension"), users on the wiki ("Applied manually by users and bots"), or nobody ("No longer in use").
+Active?
+Whether the tag is still in active use. For extension-defined tags, this value is determined by the extension. For manually-applied tags, it is set by wiki administrators (see "Activating or deactivating a tag" below).
+Tagged changes
+Shows how many changes (revisions or log entries) the tag is applied to. The link goes to Special:RecentChanges with a tag filter applied, which only shows recent uses of the tag.
+Actions
+This column only appears if you have the rights to perform tag management tasks. See Tag management below for an explanation.
+Automatically applied tags[edit]
+
+
+...
+
+Adding or removing tags from a revision or log entry[edit]
+
+
+MediaWiki version:
+≥ 1.25
+
+
+
+...
+
+Screenshot of a history page, showing a button for editing tags
+
+Tag management[edit]
+
+
+MediaWiki version:
+≥ 1.25
+
+
+Users with the managechangetags user right (administrators by default) can use the Special:Tags special page to create, delete, activate and deactivate tags.
+Creating a tag[edit]
+
+
+You may create a new tag which will be applied manually by users. The name of the tag must satisfy the following criteria:
+
+It must not contain the comma (,) or forward slash (/) characters.
+It must not contain characters that are prohibited in page titles (for example, [).
+It must not be reserved by an extension.
+
+
+To do this, use the form at the top of Special:Tags. (If you do not see the form, you do not have permission to create tags.) The reason you provide will be entered into the tag management log.
+
+Deleting a tag[edit]
+
+
+If a tag is no longer wanted, you may delete it. This removes the definition of the tag from the database, and removes the tag from all revisions and log entries to which it is applied.  Warning: 
+
+Deleting a tag is an irreversible operation, without any possibility of undo!
+
+
+
+You cannot delete tags with more than 5,000 uses, for performance reasons.
+
+
+To delete a tag, click the "delete" link beside a tag. (If you do not see this link, the tag cannot be deleted.) Enter a reason, and click "Submit".
+
+Deleting a tag added by the software[edit]
+
+
+You cannot delete a tag that is defined by an extension, unless the extension specifically allows it. However, administrators can hide the tag from view by going to Special:Tags and changing the corresponding interface message (under the "Appearance in change lists" column) to a hyphen-minus character -.
+
+Activating or deactivating a tag[edit]
+
+
+Users can only apply tags that are both user-defined ("Source" column shows "Applied manually by users and bots") and active ("Active" column shows "Yes"). For tags that are user-defined, you can use the "activate" or "deactivate" links to change the value in the "Active" column, thereby allowing or forbidding users to add the tag to revisions or log entries.
+
+
+You cannot activate or deactivate a tag that is defined by an extension.
+
+See also[edit]
+...
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Help:Tags&amp;oldid=4758729"
+		Hidden category: Drafts
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		HelpDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 11 August 2021, at 05:27.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

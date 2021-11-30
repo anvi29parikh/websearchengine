@@ -1,0 +1,333 @@
+
+
+
+
+Difference between revisions of "Help:Captcha" - Meta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Difference between revisions of "Help:Captcha"
+	
+		From Meta, a Wikimedia project coordination wiki
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Browse history interactively
+				
+				
+				
+				
+				
+				Revision as of 20:49, 16 May 2019 (view source)Ajraddatz (talk | contribs)m (Protected "Help:Captcha": Persistent vandalism ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite)))← Older edit
+				Latest revision as of 00:05, 7 November 2021 (view source) EthanGaming7640 (talk | contribs) m (unneeded future tense)Tag: Visual edit&nbsp;
+				
+  Line 1:
+  Line 1:
+
+
+  
+  Websites that accept postings from the public, like this wiki, are often abused by spammers who use automated tools to post their links to many sites. While these spam links can be removed, they are a significant nuisance.
+  
+  Websites that accept postings from the public, like this wiki, are often abused by spammers who use automated tools to post their links to many sites. While these spam links can be removed, they are a significant nuisance.
+
+
+  
+  
+  
+
+
+
+  
+  
+
+  
+  
+
+
+
+  
+  
+
+  
+  
+
+
+
+  
+  Sometimes, especially when adding new web links to a page, the wiki may show you an image of colored or distorted text and asks you to type the words shown.
+  
+  Sometimes, especially when adding new web links to a page, the wiki may show you an image of colored or distorted text and asks you to type the words shown.
+
+
+  
+  Since this is a task that's hard to automate, it will allow most real humans to make their posts while stopping most spammers and other robotic attackers.
+  
+  Since this is a task that's hard to automate, it allows most real humans to make their posts while stopping most spammers and other robotic attackers.
+
+
+  
+  
+
+  
+  
+
+
+
+  
+  Unfortunately this may inconvenience users with limited vision or using text-based or speech-based browsers.
+  
+  Unfortunately this may inconvenience users with limited vision or using text-based or speech-based browsers.
+
+
+
+
+		Latest revision as of 00:05, 7 November 2021
+
+
+Websites that accept postings from the public, like this wiki, are often abused by spammers who use automated tools to post their links to many sites. While these spam links can be removed, they are a significant nuisance.
+
+
+
+
+
+
+Sometimes, especially when adding new web links to a page, the wiki may show you an image of colored or distorted text and asks you to type the words shown.
+Since this is a task that's hard to automate, it allows most real humans to make their posts while stopping most spammers and other robotic attackers.
+
+
+Unfortunately this may inconvenience users with limited vision or using text-based or speech-based browsers.
+At the moment we do not have an audio alternative available.
+Please contact the  site administrators for assistance if this is unexpectedly preventing you from making legitimate actions.
+
+
+Hit the "back" button in your browser to return to the page editor.
+
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Help:Captcha&amp;oldid=22304919"
+		
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+		
+	
+
+
+	
+	
+		
+		Community
+	
+	
+		
+		Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+		
+	
+
+
+	
+		
+		Beyond the Web
+	
+	
+		
+		Meet WikimediansEventsMovement affiliatesDonate
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		DeutschPortuguês
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 7 November 2021, at 00:05.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About Meta
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

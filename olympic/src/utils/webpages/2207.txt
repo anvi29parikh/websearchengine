@@ -1,0 +1,405 @@
+
+
+
+
+Project:Requests - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Project:Requests
+	
+		From mediawiki.org
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		 Informationview
+
+
+
+Use this page for requests for:
+
+autopatrollers, uploaders or IP block exemption (which can be assigned by administrators)
+Promotion to sysop, translation admin, bureaucrat or anything not above (which can be assigned by bureaucrats)
+Requests for comment and other miscellaneous requests
+
+
+Any new flagging to +sysop should have an associated subpage here, except for well-established developers, where a developer is someone who has had changes accepted to the MediaWiki core or a MediaWiki extension where the total number of changed lines in the relevant whitespace-insensitive diffs exceeds 100.
+
+
+One thing to keep in mind is that unlike most Wikimedia sites, this site is controlled by the MediaWiki developers, not the other users in this community.
+Being a developer (someone with merge access who uses it to maintain code that runs on Wikimedia sites) automatically entitles you to at least administrator status, and a long-time developer won't find it hard to become a bureaucrat.
+If you're not a developer, you do have to give some good reason to get any privileges; you should not expect to ever be made a bureaucrat.
+Something like a third of administrators and a quarter of bureaucrats are non-developers, however, so it's not like you shouldn't bother asking.
+
+
+That said, there aren't really any formal policies on what's required: you just have to convince a bureaucrat.
+Use common sense―if you're trustworthy and your services are in need, there's no reason not to promote you to administrator at least, but don't ask for administrator without giving a concrete reason (unless you're a developer).
+Being personally known to a developer or having administrator or higher status on a major Wikimedia project are two ways to be deemed trustworthy.
+This is a wiki that has opted in to allowing global sysops to work here, and such users are free to use their rights on this wiki and do not need to separately request administrator.
+The same applies to global rollbackers, who are already autopatrolled on this wiki.
+Other users in specialised global groups (such as global interface editors) are also free to use their rights on this wiki by default.
+
+
+
+Contents
+
+1 Requests for permissions
+
+1.1 User: Oshwah
+1.2 User: ExE Boss
+1.3 User: Amitie 10g
+
+
+2 Other requests and requests for comments
+
+
+
+Requests for permissions[edit]
+Archives: Autopatrolled user • Translation administrator • Administrator • Interface administrator • Bureaucrat • Other user rights
+Please fill out the form below to request rights, and then add the template here.
+
+
+User: Oshwah[edit]
+Requested user-rights: Administrator.
+Oshwah (talk&nbsp;•&nbsp;contribs&nbsp;•&nbsp;logs&nbsp;•&nbsp;rights&nbsp;•&nbsp;SUL utility)
+
+
+Hi! I'm Oshwah. I've been becoming more of a "frequent flyer" on this project site, and I'd like to extend my participation from the other projects that I contribute to and give a bit of my time here. If you'll have me, I'd like to request the administrator user rights in order to be available and have the proper tools needed in order to assist with administrative backlogs, as well as to make sure that any kind of abuse or disruption of the project is properly handled.
+
+
+I am a local Administrator, CheckUser, Oversighter, and Interface Administrator on the English Wikipedia, a Tool Administrator for the English Wikipedia ACC Project Team (verify, profile), and a global renamer. And, while it might not mean nearly as much, I'm also an Administrator, Bureaucrat, and Interface Administrator on the Test Wikipedia, and a Steward on the Beta Wikimedia Project cluster.
+
+
+As some users here may know, and many others on en-wiki could vouch for me - I am a user who is dedicated to keeping vandalism, harassment, threats, abuse, doxxing/outing, and any kind of unwelcome activity or behavior - off of the project. I'd love to be able to creep and expand my participation and the places I keep an eye on and work some backlogs on to this project... again, if you'll have me. If anybody has any questions, concerns, feedback, scrutiny, or input - please let me know and I'll be happy answer and discuss them with you.
+
+
+Thank you in advance for giving my request a look, and for any consideration that is given to my request here. ~Oshwah~ (talk) (contribs)  18:19, 13 November 2021 (UTC)
+
+I notice you have very few contributions here. While having administrative rights on Wikipedia backs up your request, I think you should be more involved on mediawiki.org before requesting those rights. Ciencia Al Poder (talk) 12:11, 14 November 2021 (UTC)
+ Oppose Oshwah definitely earned their trust by serving as a functionary at one of the biggest projects, English Wikipedia. However, 20 edits since 2014 (11 in content-ish namespaces), that's...too low by my standards.
+I'd be likely able to support anyway if Oshwah was an estabilished developer, but unless I got their email wrong, they have exactly zero commits merged.
+As you surely know, there's a lot of ways to contribute without any formal roles in the technical community: writing patches or improving documentation both doesn't require any roles or special privileges, and is greatly appreciated.
+Thank you for volunteering. Note: Cross-linking Oshwah's security issues access application. --Martin Urbanec (talk) 12:38, 14 November 2021 (UTC)
+Agree with Martin here. Thanks for volunteering, but I'd like to see more activity before granting advanced rights. Majavah (talk!) 16:43, 14 November 2021 (UTC)
+User: ExE Boss[edit]
+Requested user-rights: Administrator.
+ExE Boss (talk&nbsp;•&nbsp;contribs&nbsp;•&nbsp;logs&nbsp;•&nbsp;rights&nbsp;•&nbsp;SUL utility)
+
+
+I&nbsp;am an&nbsp;active software&nbsp;developer with&nbsp;many contributions to&nbsp;many open&nbsp;source&nbsp;projects (including&nbsp;MediaWiki’s Skin:Minerva Neue : rSMIN27525d0…). I&nbsp;also&nbsp;maintain several&nbsp;Lua&nbsp;modules&nbsp;here and&nbsp;on&nbsp;Fandom.
+
+
+I&nbsp;intend to&nbsp;use admin&nbsp;rights to&nbsp;finish the&nbsp;migration of&nbsp;Module:Message&nbsp;box to&nbsp;use TemplateStyles , which&nbsp;I’ve&nbsp;discussed with&nbsp;Izno in&nbsp;MediaWiki&nbsp;talk:Gadget-site.css § Last&nbsp;to&nbsp;TemplateStyles: mbox&nbsp;and&nbsp;MediaWiki:Gadget-enwp-boxes.css, by&nbsp;doing the&nbsp;following:
+
+Moving Template:fmbox/styles.css to&nbsp;Module:Message&nbsp;box/fmbox.css.
+Applying Special:Diff/4705697 to&nbsp;Module:Message&nbsp;box.
+Removing the&nbsp;hardcoded ‎&lt;templatestyles src="..." /&gt; declarations from&nbsp;{{mbox}}, {{ambox}}, {{cmbox}}, {{fmbox}}, {{imbox}}, {{ombox}}, and&nbsp;{{tmbox}}.
+
+
+After&nbsp;that, I&nbsp;intend to&nbsp;continue&nbsp;doing general&nbsp;maintenance&nbsp;work, such&nbsp;as cleaning&nbsp;up Special:WantedCategories and&nbsp;fulfilling non‑controversial edit&nbsp;requests .
+
+
+—&nbsp;ExE&nbsp;Boss (talk) 19:20, 17 July 2021 (UTC)
+
+OK to  Support this one. Leaderboard (talk) 10:07, 18 July 2021 (UTC)
+Question: has there been a delay in processing any prior edit requests you have made? Also, why does cleaning up wanted categories require advanced rights? --DannyS712 (talk) 00:59, 19 July 2021 (UTC)
+
+@DannyS712:  
+
+has there been a delay in processing any prior edit requests you have made?
+
+
+Yes, yes&nbsp;there are&nbsp;delays: {{PD&nbsp;Help&nbsp;Page}}; and&nbsp;Topic:Wc2laoiharxu9q7d +&nbsp;Topic:Wcagnsq9m3ps9g4m of&nbsp;{{Shared&nbsp;Template&nbsp;Warning}}
+
+
+
+Also, why does cleaning up wanted categories require advanced rights?
+
+
+It&nbsp;is mainly&nbsp;because many&nbsp;wanted&nbsp;categories don’t&nbsp;have any&nbsp;‎&lt;translate&gt;‎&lt;tvar name=1&gt;‎&lt;/tvar&gt;‎&lt;/translate&gt;, many&nbsp;of&nbsp;which were&nbsp;also&nbsp;deleted in&nbsp;the&nbsp;past alongside&nbsp;their&nbsp;translated&nbsp;units with&nbsp;the&nbsp;reason of&nbsp;“Empty&nbsp;category”, mainly&nbsp;by&nbsp;Shirayuki, the&nbsp;undeletion of&nbsp;which requires&nbsp;admin&nbsp;rights.
+
+
+An&nbsp;alternative is&nbsp;to&nbsp;create the&nbsp;translated&nbsp;category by&nbsp;creating an&nbsp;untranslated&nbsp;copy of&nbsp;the&nbsp;“Page&nbsp;display&nbsp;title”, but&nbsp;that is&nbsp;an&nbsp;even uglier&nbsp;hack that&nbsp;I’ve&nbsp;been&nbsp;told not&nbsp;to&nbsp;do, because&nbsp;the&nbsp;translated&nbsp;unit requires&nbsp;deletion&nbsp;afterwards. The&nbsp;only&nbsp;true long‑term&nbsp;solution is&nbsp;T285463.
+
+
+—&nbsp;ExE&nbsp;Boss (talk) 02:40, 19 July 2021 (UTC) 
+
+
+&nbsp;Comment: I have deleted Extension:Translate/sm and its 38 empty categories (Category:AbortEmailNotification extensions/sm etc.) that you created --Shirayuki (talk) 22:32, 19 July 2021 (UTC)
+@Shirayuki:  Well, I&nbsp;had only&nbsp;created those&nbsp;categories because Extension:Translate/sm was&nbsp;created by&nbsp;Ciencia&nbsp;Al&nbsp;Poder (Special:Log?logid=20206673), also&nbsp;Category:Parser&nbsp;function&nbsp;extensions/sm and&nbsp;Category:Special page extensions/sm are&nbsp;now&nbsp;also&nbsp;empty. —&nbsp;ExE&nbsp;Boss (talk) 00:00, 20 July 2021 (UTC)
+These Modules are maintained in enwiki and then usually just imported from there to mediawikiwiki, so I would rather recommend updating them in enwiki. --Zabe (talk) 21:34, 26 August 2021 (UTC)
+I've now handled all of ExE Boss' edit requests. On one hand, the fact that no one handled them for three months suggests there is a need for more admins, and thus this request should be granted. On the other hand, I agree with AntiCompositeNumber on Commons that many of the candidate's edits serve to make templates more complicated for little apparent purpose, and in fact some of them, such as the edits to Template:Shortcut were reverted for breaking things. On a third hand, when I was made an admin, I received widespread support from the community on the timescale of days, and therefore fact that this request has only received one explicit statement of support in three months signifies that the candidate does not have the level of trust expected for a non-developer (the one patch to MinervaNeue is not sufficient to qualify as a developer) to become an admin. Overall,  Weak oppose * Pppery * it has begun 00:26, 2 October 2021 (UTC)
+ Weak oppose I'm with Pppery on this one. --Zabe (talk) 00:10, 15 November 2021 (UTC)
+User: Amitie 10g[edit]
+Requested user-rights: Translation administrator.
+Amitie 10g (talk&nbsp;•&nbsp;contribs&nbsp;•&nbsp;logs&nbsp;•&nbsp;rights&nbsp;•&nbsp;SUL utility)
+
+
+Hi, I'm interested in helping with translating documentation, and one of the flags I consider useful is the Translation administrator, as I cant mark for translation several documentation pages. My level of English is enough high. Currently, I'm a Translation administrator at Wikidata, so, I believe this flag will be useful here, too. Thanks iun advance. --Amitie 10g (talk) 00:32, 10 August 2021 (UTC)
+
+You don't seem to use the flag very frequently on wikidata (d:Special:Log/pagetranslation/Amitie_10g) - how often have you wanted to translate documentation here that needed to be marked for translation again? --DannyS712 (talk) 21:57, 26 August 2021 (UTC)
+DannyS712, as you may noticied, I'm not very active in the last time due job and other personal things. However, I'm still active as Property creator and active in the Spanish Wikipedia. Unlikely at WD, here are much more documentation pages, and I have enough time for making them translatable, as I'm already doing with some of them. --Amitie 10g (talk) 19:41, 29 August 2021 (UTC)
+Amitie 10g, sorry for the slow reply. Can you point to a page you prepared for translation, as an example (either here or elsewhere)? From the log I find some pages where you've been updating the tvars (thanks!) but it's a bit hard to find relevant edits from the log (and I couldn't find any useful edit summaries on your edits to identify them either). Nemo 09:08, 21 November 2021 (UTC)
+Other requests and requests for comments[edit]
+Archives: Other requests and Requests for comments
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Project:Requests&amp;oldid=4929103"
+		Category: MediaWiki.org websiteHidden category: Pages using red link template
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		MediaWiki.orgDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMeta-WikiWikibooksWikidataWikimaniaWikipedia
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		AcèhАлтай тилالعربيةAsturianuAzərbaycancaБашҡортсаБеларускаяभोजपुरीবাংলাکوردیEnglishEspañolفارسیहिन्दीHrvatskiBahasa IndonesiaItaliano日本語한국어ЛезгиLigureमैथिलीമലയാളംमराठीBahasa Melayuनेपालीଓଡ଼ିଆРусскийScotsSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSoomaaligaShqipไทยTürkçeТатарча/tatarçaУкраїнськаاردوTiếng Việt吴语Yorùbá中文Bân-lâm-gú粵語
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 22 November 2021, at 21:53.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

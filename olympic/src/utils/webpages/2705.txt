@@ -1,0 +1,824 @@
+
+
+
+
+Commons:Categories - Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Commons:Categories
+	
+		From Wikimedia Commons, the free media repository
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Translate this page; This page contains changes which are not marked for translation.Other languages:Alemannisch
+Bahasa Indonesia
+British English
+Cymraeg
+Deitsch
+Deutsch
+English
+Nederlands
+Tiếng Việt
+Türkçe
+als
+català
+dansk
+español
+français
+hrvatski
+italiano
+magyar
+polski
+português
+română
+svenska
+Österreichisches Deutsch
+čeština
+русский
+українська
+فارسی
+ไทย
+ဘာသာ မန်
+မြန်မာဘာသာ
+მარგალური
+中文
+日本語
+
+
+Shortcuts: COM:C&nbsp;• COM:CAT
+
+
+
+
+
+
+
+
+
+This page is considered an official policy on Wikimedia Commons.
+
+
+It has wide acceptance among editors and is considered a standard that everyone must follow. Except for minor edits (such as fixing typos, or bringing information up to date), please make use of the discussion page to propose changes to this policy.
+
+
+
+
+
+A category is a software feature of MediaWiki, a special page which is intended to group related pages and media. In practice, it implies that you'll associate a single subject with a given category. The category name would be enough to guess the subject, but some extra text can be useful to precisely define it. The category structure is the primary way to organize and find files on the Commons. It is essential that every file can be found by browsing the category structure. To allow this, each file must be put into a category directly. Each category should itself be in more general categories, forming a hierarchical structure.
+
+Contents
+
+1 Quick guide
+2 Category structure in Wikimedia Commons
+
+2.1 Principles
+
+2.1.1 Hierarchic principle
+2.1.2 Modularity principle
+2.1.3 Simplicity principle
+2.1.4 Selectivity principle
+2.1.5 Universality principle
+
+
+2.2 Types of reflected relations
+2.3 Major categories
+
+
+3 How to use categories
+
+3.1 Category names
+3.2 Categorizing pages
+3.3 Creating a new category
+3.4 Renaming or moving categories
+
+
+4 For more appropriate categorization
+
+4.1 Categorization tips
+4.2 Find an appropriate category
+4.3 Over-categorization
+
+4.3.1 Why over-categorization is a problem
+4.3.2 Improper categorization of categories is a cause of over-categorization
+4.3.3 Exception for images with more categorized subjects
+
+
+
+
+5 How to categorize: guidance by topic
+
+5.1 People
+5.2 Landscapes, outdoor views
+5.3 Texts
+5.4 GLAMs
+
+
+6 Categorization workflow
+7 Categories marked with "HIDDENCAT"
+8 Templates for categories
+9 Tools
+10 See also
+
+
+
+Quick guide
+
+
+1. How to find the appropriate categories
+
+Find categories with the search engine (see #Categorization tips)
+or check how similar files are categorized (some may not be categorized though)
+or start from the main topical category (Category:Topics)
+Starting from these categories, check their parent or sub-categories to find an appropriate category. Avoid picking too general categories.
+
+
+2. Add the categories to the file
+
+Select them on the upload form
+or: add them manually by adding, e.g. [[Category:Foobar]] to the file description page (see #Categorizing pages)
+or: use HotCat (see Help:Gadget-HotCat)
+or: use Cat-a-lot (see Help:Gadget-Cat-a-lot)
+Category structure in Wikimedia Commons
+Principles
+
+
+The main principles are: 
+
+Hierarchic principle
+
+
+The category structure is (ideally) a multi-hierarchy with a single root category, Category:CommonsRoot. All categories (except CommonsRoot) should be contained in at least one other category. There should be no cycles (i.e. a category should not contain itself, directly or indirectly).
+
+Modularity principle
+
+
+The page (file, category) should be put in the most specific category/categories that fit(s) the page (not directly to its parent categories). A category can have more parent categories. A category can combine two (or more) different criteria; such categories are called "compound categories" or "intersection categories". E.g. the root category Category:Churches and the root category Category:Russia have a common subcategory Churches in Russia. 
+
+Simplicity principle
+
+
+This principle suggests not to combine too many different criteria.
+
+Selectivity principle
+
+
+We should not classify items which are related to different subjects in the same category. The category name should be unambiguous and not homonymous. 
+
+Universality principle
+
+
+Identical items should have identical names for all countries and at all levels of categorization. Categorization structure should be as systematical and unified as possible, local dialects and terminology should be supressed in favour of universality if possible. Analogic categorization branches should have analogic structure.
+
+Types of reflected relations
+
+
+The category structure should reflect a hierarchy of concepts, from the most generic one down to the very specific. The structure uses and combines more types of relation, e. g.
+
+Hyponymy: a sort/kind/type of… (typically in biological taxonomy)
+Meronymy: a part of…, a member of… (typically for geographical division, building/room, device/component etc.)
+Attributes:
+Qualitative and general attributes (color, shape, size, ability or disability, nationality, technique, quality, awards…)
+Location: where, in…, from… (place/event, place/building, place/exhibit, place/people, country/language, source/work, factory or country/product etc.)
+Timing: when (time/event, time/depicted situation, time of birth, inception or construction, time of death, demolition or termination etc.)
+Agentive and influence relations: (creator/work, device/product, company/product, discipline or profession/their subjects and terms, parent/children, subordination, owner/property, initiator/follower, subject/other subjects dedicated to it or named after it, subject/its duplicate, imitiation, depiction or symbol etc etc.)
+Modification: original/modified or modified/original (avoid cyclic structure) – renamed, rebuilt, repurposed or transformed subjects.
+Major categories
+
+
+The top-most categories (the ones contained directly in CommonsRoot) divide the category structure by the purpose of the contained categories:
+
+Category:Topics – This category is the global common root of the media files categorized by the TOPIC. ALL media files should be categorized under this category for the sake of allowing others to find them by topic. Topical categories shouldn't be included through templates.
+Category:Copyright statuses – This category is the global common root of the media files categorized by the 'LICENSE. ALL media files should be categorized under this category with the appropriate license tag. This type of category is added by including it in the templates.
+Category:Media by source – This category is the global common root of the media files categorized by the SOURCE, where they come from (books, collections, sites, etc.). This type of category is generally added by template.
+Category:Media types – This category is the global common root of the media files categorized by the Media TYPE. Please note that this type of categorization is sometimes omitted for images, since the vast majority of files on the commons are images of some sort.
+Category:Commons – This category is the global common root of categorizing Commons maintenance tasks and pages (Commons:-, and Help:-) except for media files. The translated pages in each language should be categorized under their language categories, using the "Category:Commons-ISO-LANGUAGE-CODE" style. The structure of Category:Commons-en is the sample hierarchy for every other language sub category. Do not use two colons in category or page names. See this discussion and Help:Namespaces.
+There is a sub category Category:Commons maintenance content, which is for the special maintenance of Wikimedia Commons global common contents and which does not get translated.　ALL media files should be categorized under the first 4 categories below, but ONLY files having problems and needing to be fixed should also be in the sub-category Category:Commons maintenance content.
+Category:User categories – this is for categories that contain Commons users' galleries, images and texts, sorted by things like the language they speak. This also contains the Category:User galleries, which is for user specific (i.e. non-topic) galleries that don't need to be in English language.
+How to use categories
+
+
+You should always put your uploads into categories and/or gallery pages according to topic, so your contributions can be found and used by others.
+
+
+It is rarely necessary to create a new category (there are exceptions, such as uploading a new text and see People below). Before doing so, make sure you are familiar with the existing category structure, and with the customs and policies of the Commons. Please see if there exists a category scheme or a commons project for your topic, and follow the conventions described there.
+
+
+
+
+Category names
+
+
+Category names should generally be in English (see Commons:Language policy). However, there are exceptions such as some proper names, biological taxa and names for which the non-English name is most commonly used in the English language (or there is no evidence of usage of an English-language version). Latin alphabets are used in original form including diacritics and derived letters, non-Latin alphabets are transcribed to the English Latin script. Basic English characters (ISO/IEC 646) are preferred over national variants or extension character sets (for instance, 'straight' apostrophes over 'curly'), where reasonable.
+
+Types or groups of objects or people should generally have names in plural form: Category:Tools, Category:Artists, Category:Lakes, Category:Paintings, Category:Sculptures,  Category:Popes etc. and in English if possible.
+General themes or activities require a name in singular form usually: Category:History, Category:Weather, Category:Music, Category:Painting, Category:Sculpture, Category:Papacy etc. and in English if possible.
+A particular individual object (a specific person, building, monument, artwork, organization, event, etc.) generally uses a singular form (but not always). Proper nouns which do not have an established English variant are not translated ad hoc but use the original form.
+
+
+There is also a related failed proposal.
+
+
+Categories grouping subcategories by name should generally be named "by name" rather than "by alphabet" (e.g. Category:Ships by name).
+
+
+We still lack internationalization for category names, but this issue should be resolved with appropriate changes to the MediaWiki software (see T31928: Show translated titles per user language in categories too). Creating intermingled category structures in different languages would only make things worse.
+
+
+For a general discussion of MediaWiki's category feature, see the manual page on categories.
+
+Categorizing pages
+
+
+To add a page (be it an image, a gallery page, or a category page) to a category, add the following code to the end of the page. 
+
+[[Category:Category name]]
+
+
+For example, if you are uploading a diagram showing the orbit of comets, you could add the following to the image description page:
+
+[[Category:Astronomical diagrams]]
+[[Category:Comets]]
+
+
+This will make the diagram show up in the categories Astronomical diagrams and Comets.
+
+
+For information on how to find good categories for your uploads and galleries, read the section Find an appropriate category below.
+
+Creating a new category
+
+
+To create a new category:
+
+Do a thorough search, to be sure there isn't an existing category that will serve the purpose.
+Find images (or a gallery or other pages) which should be put in the new category. Edit this page, and at the end insert the new category reference. e.g. [[Category:Title]]. Save the edited page. The new category appears as a red link at the bottom of the page.
+Click on that red link. The new, empty, category page appears for editing.  You can now edit the category like any other wiki page.
+
+
+A category page should contain the following information (in order of importance):
+
+Category-links that put it into one or more parent categories. At the bottom of the new page, insert lines of the form [[Category:Relevant categories]].
+A short description text that explains what should be in the category, if the title is not clear or unambiguous enough on its own. Descriptions in particular languages can be tagged e.g. with the template {{ab|...}} for description in Abkhazian, {{en|...}} for description in English, etc, as listed in Commons:Language templates); or using the {{Multilingual description}} template to show only the description in the user’s preferred language if there is one.
+Interwiki or interlanguage links to the article or category with the same topic in Wikipedia by adding the appropriate sitelinks on the corresponding Wikidata page. After creating the category page, click "Add links" under "In Wikipedia" on the bottom of the sidebar to the left to add them.
+If the category should be sorted according to a different string than the category title, add a {{DEFAULTSORT:}}. For instance, the title of a category about a person would not be the right sort string. For such categories, insert just before the categories a line like {{DEFAULTSORT:Lastname, Firstname}} with the correct sort string. See meta:Categories#Sort key for more information.
+
+
+See also #How to categorize: guidance by topic for guidance on specific classes of category, e.g. categories about #People.
+
+Renaming or moving categories
+
+
+Please see Commons:Rename a category.
+
+For more appropriate categorization
+
+
+Pages (including category pages) are categorized according to their subject, and not to their contents, because the contents are generally not a permanent feature of the category page; in particular, you can momentarily find inappropriate contents in a category page.
+
+
+Example: Assume that Category:Spheres contains only pictures of crystal balls. You must not add Category:Glass in the category page, according to the current contents, because you can have spheres made with a great variety of materials. Normally, any picture showing a glass object would be already categorized in Category:Glass (or in a category of its substructure). So, if the Category:Spheres is really crowded with crystal balls pictures, it would be a better idea to create a new category page, like Category:Glass spheres or Category:Crystal balls, categorized in Category:Spheres and Category:Glass.
+
+
+Generally files should only be in the most specific category that exists for certain topic. For example files in Category:Looking up the center of the Eiffel Tower should not also be in Category:Paris (see over-categorization below). If you do not find a category that fits your purpose, you can create it — but carefully read the section about using categories first.
+
+
+This does not mean that an image only belongs in one category; it just means that images should not be in redundant or non-specific categories. For instance, an image of a Polar Bear being rescued from an iceberg by a helicopter should be in Category:Ursus maritimus, Category:Icebergs and Category:Rescue helicopters. It should not, however, be in Category:Ursidae, Category:Sea ice or Category:Aircraft.
+
+Categorization tips
+
+
+The categories (or galleries) you choose for your uploads should answer as many as possible of the following questions:
+
+what? / whom?: what or whom does the file show? What is the main subject? What are the noteworthy features of the image? For instance Category:Automobiles, Category:Felis silvestris catus or Category:Jimmy Wales
+where?: where was the image taken? What is the location of the subject? What is the location of the camera? This is especially important for pictures of places. E.g. Category:Basin Street, New Orleans
+also use {{Location}}
+when?: when did the depicted events happen, or when was the image created? When was the image taken? This is especially important for historical images. An example would be Category:Warsaw in September 1939, Category:April 2010 in Northern Ireland
+who?: who is the author? This is especially important for works of well known artists and for historical images, for example Category:Paintings by Rembrandt. You can also use the pages from the Creator namespace as templates to achieve this.
+how?: how does the file (or the image) do that? Specifically:
+what view?: what type of view does the image show? e.g. Category:Plan views, Category:Panoramics.
+what color?: which is the general color? e.g. Category:Yellow animals
+what photography technique?:. If the image uses a specific technique or effect, apply the corresponding category: e.g. Category:Tone-mapped HDR images, Category:Black and white photographs, Category:Double exposure
+
+
+The above questions cover the main aspects of the image to be categorized. For some images it makes sense to use all, for other images only one or two are reasonable. In addition there are several other aspects of the images that can be used to categorize the image:
+
+what source?: information about where the image came from. For example, Category:Images from the German Federal Archive
+what format?: information about the media type if it is unusual. For example, Category:Audio or Category:Animated GIF, Category:SVG
+what software?: information about software used to create the image. For example, Category:Created with Hugin
+what camera?: information about the camera. For example, Category:Taken with Nikon D80
+
+
+This last set is useful and important but should always be done in addition of the main set of criteria.
+
+
+Categorization in Wikimedia Commons is more detailed and deep than categorization in Wikipedia projects. Compared to them, Commons has more categories for individual subjects – places, people, organizations, events, terms, etc. Almost every article on a Wikipedia can have a corresponding category on Commons. However, even if there exist more images of an ordinary person or incidental event, it is practical to group them into a special category and categorize that category instead of categorizing all similar images individually to an identical set of parent categories.
+
+Find an appropriate category
+
+
+To find appropriate categories for your uploads, you should navigate the category structure starting from a generic category. Narrow your search down to subcategories until you find the most specific category that fits the file you uploaded. You can navigate the category structure by following links to subcategories, or expanding the tree of subcategories by clicking on the little ▶ symbols on subcategory names. The Major categories section above provides a starting point, and the How to categorize: guidance by topic covers some topics more.
+
+Over-categorization
+
+
+for the inclusion criteria (the equivalent of w:WP:OVERCAT) see Commons:Category inclusion criteria
+
+  Don't place an item into a category and its parent. For example, a black and white photo of the Eiffel Tower should be placed in Black and white photographs of the Eiffel Tower. It should not be placed in both that category and the Paris category at the same time.Shortcut
+COM:OVERCAT
+ 
+
+
+Over-categorization is placing a file, category or other page in several levels of the same branch in the category tree. The general rule is always place an image in the most specific categories, and not in the levels above those. Exceptions to this rule are explained in the section below.
+
+
+Example: An image needing to be categorized shows a yellow circle. This image should be placed in Category:Yellow circles. If it is also placed in Category:Circles, it is over-categorized. We already know that it's a circle, because all yellow circles are circles. Therefore, Category:Circles is redundant. Template:Uw-overcat can be used to advise users of this.
+
+
+This applies to most files: As mentioned under the adjacent illustration, files in Category:Black and white photographs of the Eiffel Tower should not also be in Category:Paris, files in Category:Albert Einstein should not be in Category:Physicists from Germany and so on.
+
+Why over-categorization is a problem
+
+
+It's often assumed that the more categories an image is in, the easier it will be to find it. Another example: By that logic, every image showing a man should be in Category:Men, because even if you know nothing more about the person you're looking for than that he is a man, you'll be able to find it. The result is that the top category fills up, making it necessary to go through hundreds, or in this case more likely thousands of images to find the one you want. You probably won't find what you're looking for, and what's more, those who are looking for a generic picture of a man to illustrate an article like en:Man will find that they've drowned out among the movie stars, scientists and politicians.
+
+
+On lower levels, the problem becomes less acute, since the number of images will be smaller — they can still easily reach into the hundreds, though. But there is still a problem: Let's go back to Einstein. I know that he's a physicist, so I'll look in the Category:Physicists category. I find an image of Einstein among the hundreds of images of other physicists, which I'm not too happy with, but it's the only one there. Since there was an image there, I assume that there are no more hidden elsewhere, rather than look further in Category:Physicists from Germany and thus find Category:Albert Einstein where there might be a better one. So over-categorization has led to two problems: The top category is cluttered, and users will stop looking for the most relevant category since they've reached one that has a relevant image.
+
+Improper categorization of categories is a cause of over-categorization
+
+
+Strange as it may sound, under-categorization can be a cause of over-categorization. When a category itself is not properly categorized, it can lead users to over-categorize files belonging in that category. An example of this: Category:Eivør Pálsdóttir was categorized only in Category:People by name. A user categorizing an image of her might then be tempted to also place the image in Category:Female vocalists from the Faroe Islands. The correct solution is to place the image only in Category:Eivør Pálsdóttir and to make that category a subcategory of Category:Female vocalists from the Faroe Islands. At that point, however, any images that were already placed into both categories become overcategorized and need to be manually removed from the parent category.
+
+
+A related problem is erroneous categorization. Notting Hill is a district within the borough of Kensington and Chelsea in London. When it was created, Category:Notting Hill was placed directly in Category:London instead of in the Category:Royal Borough of Kensington and Chelsea subcategory, where it should have been placed. A user categorizing an image of Notting Hill might then be tempted to place it both in Category:Notting Hill and in Category:Royal Borough of Kensington and Chelsea. Instead, each image should be placed only in the most specific categories, and those categories should in turn be placed in their most specific categories.
+
+
+When you encounter improperly categorized categories, please place them in the appropriate parent categories if you are able to do so. That will not only help avoid over-categorization, but it will also make it easier to move through the category tree.
+
+ Exception for images with more categorized subjects
+
+
+A file that depicts only one relevant subject should not be over-categorized.  Where a file depicts additional relevant subjects, and the additional subjects do not have their own subcategories, consideration can be given to temporarily categorizing the image in both the subcategory and the parent category. 
+
+
+For example, this situation might arise in the case of a photograph of three politicians, one of whom is Angela Merkel (who has her own Commons category), with two other politicians who do not yet have their own categories.  While the image would undoubtedly be categorized in Category:Angela Merkel or one of its subcategories, it would typically be considered to be over-categorization to also include it in Category:Politicians of Germany.  Users would, however, be unlikely to search for the two other politicians in the Merkel category.  Ideally, we would create specific subcategories for the two other politicians (where warranted), or find other relevant subcategories (e.g. Category:Politicians of Bavaria or Category:Members of the FDP, etc.), that would enable us to avoid over-categorization.  In some circumstances, however, we may need to temporarily categorize the image in Category:Politicians of Germany where other appropriate subcategories do not yet exist.
+
+
+Countries may be categorized as part of multiple overlapping categories. For example, Category:India is in Category:Countries of South Asia as well as Category:Countries of Asia.
+
+
+Also user categories are exempted of over-categorization as those are not visible to most viewers, and project users include them for many different purposes like sorting, stats, filling values for userboxes, etc.
+
+How to categorize: guidance by topic
+
+
+For some categories, there is special guidance on how best to sort content within that category.  This guidance can be found in a category scheme or a commons project for your topic. There is also some categorizing information in this section and sometimes there is guidance at the top of the category's page, in the Category namespace. So, for instance, some guidance on categorizing content depicting people is at the top of Category:People, and some is in the section People below.
+
+People
+
+
+Content depicting people should be put in categories which describe them, such as Category:Economists from the United States. Start exploring at Category:People.
+
+
+Please see Commons:Category scheme People for details on how to name and organize these categories.
+
+Landscapes, outdoor views
+
+
+Content depicting a given subject from a common vantage point are grouped in Views of Subject from Viewpoint categories such as Views of Cathedral of Seville from the Giralda. Such categories should be subcategories of both the subject's category (Cathedral of Seville in this example) and the viewpoint's category (Giralda in this example).
+
+
+In this example, the Views of Cathedral of Seville from the Giralda category is not placed directly in the subject and viewpoint categories, but in Views of the Cathedral of Seville and Views from Giralda. Such intermediate categories are often necessary to create structure and avoid over-categorization, particularly for views of a city from a vantage point located within the city. For example, Views of Rome from the Pincio needs the intermediate category Views of Rome to avoid placing it directly in Rome, which would constitute over-categorization.
+
+Texts
+
+
+Texts, such as scans of books, should normally have a category for each version of the scan and each edition of the text.  Thus a book published in three separate editions would have a parent category for the book, three subcategories for each text, and further subcategories for the text as a jpeg, a DjVu, etc., assuming each version had actually been uploaded. (Categories would not be created for editions not held on Commons.)  This is particularly important for files in formats other than DjVu and PDF, where the category is the only practical means of keeping the scans together; see eg. Category:The Chronicles of England, Scotland and Ireland, Holinshed, 1587 which contains 2857 jpeg images of page scans.
+
+GLAMs
+
+
+For categorization issues related to mass content donations from GLAMs (Galleries, Libraries, Archives &amp; Museums), please see Commons:Guide to batch uploading#Categories.
+
+Categorization workflow
+
+
+Currently, a bot checks if newly uploaded files are categorized in topical categories and attempts to categorize files that are not. Before 17 June 2015, CategorizationBot was responsible for this job. As of June 2019, SteinsplitterBot occasionally checks for uncategorized files.
+The workflow is the following: 
+
+User uploads a new file and adds categories (or not).
+A bot checks if the file is categorized.
+File is already categorized =&gt; ok
+File is not categorized =&gt; the bot tags the file for Category:Media needing categories. Today's files are in Category:Media needing categories as of 27 November 2021
+Users categorize files further (e.g. category diffusion below)
+
+
+See also: User:CategorizationBot#Process, categorization statistics
+
+
+Other, if manual, categorization workflows are possible&nbsp;:
+
+Category filling: Use appropriate keywords in the search engine to find the files that should be in a given category, and put them there.
+Category diffusing: Go to Category:Categories requiring diffusion, select a crowded category, create appropriate subcategories if needed, and move the files to the subcategories. Gadgets like Cat-a-lot and Hotcats can help.
+Categories marked with "HIDDENCAT"
+Shortcut
+COM:HIDDENCAT
+
+
+
+Many non-topical categories are marked with __HIDDENCAT__ or {{Hiddencat}} on the category page. For example, see Category:PD NASA in edit mode.
+
+
+While categories are generally visible on every page, categories marked __HIDDENCAT__ are only visible:
+
+on the edit screen: at the end of the screen, below the edit box
+on category pages:
+on subcategories to the hidden category: in the normal location, but on a separate line with a smaller typeface and the label "Hidden categories."
+on parent categories: in the same way as other categories
+on file description pages and gallery pages: for logged-in users who have selected to "Show hidden categories" in their appearance preferences. This is activated for all newly registered users.
+
+
+This feature is generally used for template-based categories, such as license tag based categories. For example, placing {{PD-old-100}} on a file description page adds the file to Category:Author died more than 100 years ago public domain images, which is marked with __HIDDENCAT__.
+
+
+For more details, see the help section on hidden categories for Mediawiki (the software that Commons uses).
+
+Templates for categories
+
+
+Some templates are designed for use on category pages - see Category:Category namespace templates. If the category is linked to a Wikidata entry, then you can use:
+
+{{Wikidata Infobox}}
+
+
+which displays a summary of the topic's information that is available on Wikidata, and also auto-adds birth/death/name/monument ID categories.
+
+
+Some of the more commonly used ones are Category:Category header templates such as:
+
+{{Category TOC}} and {{LargeCategoryTOC}} - to provide a table of contents for very large categories with many subcategories
+{{ImageTOC}} and {{FileCategoryTOC}} - to provide a table of contents for large categories with many files and few subcategories
+{{Image template notice}} and {{Autocat}} - for maintenance categories populated by a specific template.
+{{Global maintenance category}} and {{Local maintenance category}}
+{{MetaCat}} - for categories which should only contain other categories
+{{By country category}}, {{By language category}}, {{By century category}} - for specific types of meta category
+{{CatDiffuse}} (temporary) and {{Categorise}} (permanent) - for large categories which need maintenance to move files into subcategories
+{{Category tree}}
+Tools
+
+Further information: Commons:Tools 
+Gadgets enabled through the user preferences
+Cat-a-lot: A tool that helps with moving multiple files between categories or adding categories to search results. [documentation&nbsp;/&nbsp;talk]&nbsp;
+HotCat:&nbsp;d Easily add / remove / change a category on a page, with name suggestions. [documentation&nbsp;/&nbsp;example&nbsp;/&nbsp;talk]&nbsp;
+Gallery Details: Adds a link in the toolbox to display galleries and categories (and Newimages and Search result pages) with extensive details from file description pages and links to easily mark an image without source, etc. If Pretty log is activated, it also works on Log pages. [documentation&nbsp;/&nbsp;talk]&nbsp;
+Place categories above content, but below image on file description pages. &nbsp;Modifies the placement of categories on the user interface.
+Add a link to category pages to search for the category name with the option "-incategory". This excludes files already in the category (doesn't work if the category was added by a template). [talk]&nbsp;
+Toollabs / toolserver tools
+PetScan – this new version has other features
+English vCat – plots categories trees. For example https://tools.wmflabs.org/vcat/render?wiki=commonswiki&amp;category=Water%20wells generates graph for parent categories of Category:Water wells
+Database reports and special pages
+Categories that are their own parent categories
+Alphabetic lists of categories with files or other pages in them – including nonexistent categories
+Category tree
+Unused categories – including categories redirected with {{Category redirect}}
+Uncategorized categories
+Bookmarklets
+Category redirect bookmarklets
+Bookmarklets for categorization of aircraft by registration
+Scripts, software, etc.
+AutoWikiBrowser (for access: checkpage)
+pywikipediabot category.py (for access: request page)
+Degrandparent –  a tool to remove files from a category if they are also in one or more of its subcategories.
+Bots
+SieBot – renames or adds categories. See documentation – requests.
+EuseBot – adds additional parent categories to categories (and galleries) depending on which category an article in English Wikipedia is in. For requests.
+RussBot – clears Non-empty category redirects
+CategorizationBot – adds uncategorized images into Media needing categories – notifies uploaders, and attempts to categorize images (Media needing category review)
+Requests for work to be done
+See also
+MediaWiki's handbook section on categories
+Category schemes
+Deletion policy for categories
+Commons:Categories requiring diffusion - tabular listing
+Galleries
+Disambiguation
+Inclusion criteria
+vteWikimedia Commons policies and guidelinesPoliciesProject
+General disclaimer
+Project scope
+Allowable file types
+Evidence
+Neutral point of view
+Precautionary principle
+Pages, galleries and categories
+Use of gender neutral language
+Content
+Licensing policy
+De minimis
+Fair use
+When to use the PD-Art tag
+Deletion policy
+Criteria for speedy deletion
+Revision deletion
+Language policy
+Category policy
+Behaviour
+Blocking policy
+Page protection
+De-adminship
+Paid contribution disclosure
+Translation administrators
+Signatures
+Username policy
+GuidelinesContent
+What Commons is not
+Non-copyright restrictions
+Fan art
+Nudity
+Photographs of identifiable people
+Derivative works
+When to use the PD-scan tag
+Galleries
+Using ImageAnnotator
+File renaming
+Overwriting existing files
+Grandfathered old files
+Behaviour
+Assume good faith
+Ownership of pages and files
+Talk page guidelines
+User-specific galleries, templates and categories
+Administrators
+Vandalism
+Rollback
+Patrol
+Licensing help
+(Village pump)Choosing a license
+Copyright rules
+Copyright rules by subject matter
+Copyright rules by territory
+Copyright tags
+PD files
+Copyright principles
+Threshold of originality
+Derivative works
+2D copying
+Screenshots
+Freedom of panorama
+Using files
+Reusing content outside Wikimedia
+Credit line
+Reuse of PD-Art photographs
+How to detect copyright violations
+License laundering
+Problematic sources
+Flickr
+Picasa Web
+Bad sources
+License review
+WMF policies
+Privacy policy
+Office actions
+
+Community portal
+Help contents
+
+
+
+
+
+
+Retrieved from "https://commons.wikimedia.org/w/index.php?title=Commons:Categories&amp;oldid=607649519"
+		Categories: Commons policiesCommons categoriesCommons help
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ViewView sourceHistory
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigate
+	
+	
+		
+		Main pageWelcomeCommunity portalVillage pumpHelp center
+		
+	
+
+
+	
+	
+		
+		Participate
+	
+	
+		
+		Upload fileRecent changesLatest filesRandom fileContact us
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Meta-WikiWikibooksWikinewsWikipediaWikiversityWikivoyageWiktionary
+		
+	
+
+
+	
+	
+		
+		In Wikipedia
+	
+	
+		
+		Alemannischالعربيةمصرىঅসমীয়াAzərbaycancaتۆرکجهБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीবাংলাBosanskiCatalàCebuanoکوردیČeštinaDanskDeutschΕλληνικάEnglishEspañolEestiفارسیSuomiFrançaisGalegoગુજરાતીGaelgעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaItaliano日本語ქართული한국어KurdîKernowekLatinaLietuviųМакедонскиമലയാളംमराठीBahasa Melayuမြန်မာဘာသာPlattdüütschनेपालीNederlandsPolskiPortuguêsRomani čhibRomânăРусскийSicilianuScotsسنڌيDavvisámegiellaSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSundaSvenskaதமிழ்తెలుగుТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng Việt吴语ייִדיש中文粵語
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 16 November 2021, at 20:54.
+	Files are available under licenses specified on their description page. All structured data from the file namespace is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and the Privacy Policy.
+
+
+	
+	Privacy policy
+	About Wikimedia Commons
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,511 @@
+
+
+
+
+Wikipedia talk:Categories for discussion - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia talk:Categories for discussion
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		See also: WT:CFD/W, WT:CAT, and WT:CATP
+See also: Wikipedia talk:Categories for discussion/User and WT:CFD/W/M
+ShortcutWT:CFD
+
+
+WikiProject Categories 
+&nbsp;
+
+
+
+
+
+
+This page is within the scope of WikiProject Categories, a collaborative effort to improve the coverage of categories on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.CategoriesWikipedia:WikiProject CategoriesTemplate:WikiProject CategoriesCategories articles
+
+&nbsp;
+
+
+On May 2006, it was proposed that this page be moved from Wikipedia:Categories for deletion. The result of the discussion was page moved to Wikipedia:Categories for discussion.
+
+
+
+
+
+
+XFD backlog
+
+
+V
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Total
+
+
+CfD
+
+0
+
+1
+
+61
+
+90
+
+152
+
+
+TfD
+
+0
+
+0
+
+0
+
+12
+
+12
+
+
+MfD
+
+0
+
+0
+
+1
+
+10
+
+11
+
+
+FfD
+
+0
+
+0
+
+40
+
+12
+
+52
+
+
+AfD
+
+0
+
+0
+
+0
+
+0
+
+0
+
+
+
+
+&nbsp;Archives
+c. July–December 2004
+c. December 2004 – May 2005
+c. May–September 2005
+c. October–December 2005
+January – 4 April 2006
+April–June 2006
+June–August 2006
+August 2006 – January 2007
+2007
+2008
+2009
+2010
+2011
+2012
+2013–August 2014
+2014–January 2017
+January 2017–March 2019
+March 2019–November 2020
+November 2020–
+
+
+
+
+Sections older than 21&nbsp;days may be automatically archived.
+
+
+Contents
+
+1 WP:C2E
+2 Fixing broken CfD closure
+3 Gender - sex confusion in category titles
+4 Proposed rework of "Fictional Characters with Multiple Personalities" category
+5 Mass media Categories
+6 Recategorizing articles after speedily renaming the category
+7 Extinct Baronetcies
+8 Are Complex categories less accurate lists?
+
+
+
+WP:C2E[edit]
+
+
+I have just started: 
+
+https://en.wikipedia.org/wiki/Category:Populated_places_in_the_Sidon_District
+https://en.wikipedia.org/wiki/Category:Populated_places_in_the_Tyre_District
+https://en.wikipedia.org/wiki/Category:Populated_places_in_the_Jezzine_District
+
+
+Ugh, then I see that I should not have added the "the"; I should have called them
+
+https://en.wikipedia.org/wiki/Category:Populated_places_in_Sidon_District
+https://en.wikipedia.org/wiki/Category:Populated_places_in_Tyre_District
+https://en.wikipedia.org/wiki/Category:Populated_places_in_Jezzine_District
+
+
+Is there a quick way to change this? Or do I need to do it by hand? Huldra (talk) 20:46, 7 September 2021 (UTC)
+
+Huldra, you can follow the process at Wikipedia:Categories for discussion#Add requests for speedy renaming and merging here and give C2E as the reason. That should be fairly quick. TSventon (talk) 04:54, 8 September 2021 (UTC)
+Thanks, User:TSventon, have done do, Huldra (talk) 21:19, 8 September 2021 (UTC)
+Fixing broken CfD closure[edit]
+
+
+Coming across this bot edit, it appears that there was an error in the closure of the CfD. Instead of merging the Thai people categories to Category:Thai people of Chinese descent, the bot instead merged to Category:Thai politicians of Chinese descent (contribs). Is there a relatively easy way to fix this semi-automatically? (I originally asked at User talk:Good Olfactory, who doesn't appear to be currently active.) --Paul_012 (talk) 21:40, 11 September 2021 (UTC)
+
+As this was (erroneously) listed as such as CfD, I would propose to list the categories as Wikipedia:Categories for discussion/Speedy, if there are no objections we can process them in two days.--Ymblanter (talk) 08:41, 12 September 2021 (UTC)
+I don't think that would work, since most of the pages were correctly placed under Category:Thai politicians of Chinese descent before the error. I guess I could manually compile a list from the bot contribs and go through them with AWB though (or have a bot do so). --Paul_012 (talk) 13:11, 12 September 2021 (UTC)
+Done. --Paul_012 (talk) 13:30, 12 September 2021 (UTC)
+Great, thanks--Ymblanter (talk) 14:15, 12 September 2021 (UTC)
+Gender - sex confusion in category titles[edit]
+
+
+I'm not sure if this is the correct venue as I seem to have wandered into a meander of redirects to get here....
+
+
+I've noticed quite a few recent category moves to correct erroneous use of sex instead of gender, such as "Female Fooian writers" being moved to "Women Fooian writers". This however seems to be a fairly random process which I think could be streamlined and done more systematically by including "incorrect categorization by sex instead of gender" as an explicit speedy criterion and even doing it (semi-)automatically by bot or script. Roger (Dodger67) (talk) 10:48, 19 September 2021 (UTC)
+
+I've been looking unsuccessfully (out of curiosity, not opposition) for some discussion of this bulk change. --Northernhenge (talk) 22:51, 19 September 2021 (UTC)
+@JJMC89: --Northernhenge (talk) 22:53, 19 September 2021 (UTC)
+Aside from my bot completing the moves, I am not involved. The moves are likely being made under C2C like the singers at Special:PermaLink/1045159327#Current requests. You can check the history of WP:CFDS to see the requests. Knifegames seems to making requests for the music-related ones and may be able to provide more insight. — JJMC89 (T·C) 19:49, 20 September 2021 (UTC)
+Hi Roger (Dodger67) &amp; Northernhenge! Yes, I figured there must be a way to streamline that work, but unfortunately *I* don't know how to do it, ha; I decided I'd only tackle the music-related categories, &amp; for now that's all still on my user page here, broken down into:
+"women in music cats": This is all the categories I had renamed (I think 474), with links to (uneventful) CfRs for the first two batches (in July and August)––I kept the big list so I could track my own cleanup progress (correcting category explanations, classifications, etc.), removing redlinks as I went, &amp; I think that's all (at last!) finished now.
+"markup / remainders": I've only found 5 more "female" categories in music, &amp; those are listed there because I wasn't entirely sure how to handle them; for example, a couple people brought up being comfortable with the moves because the categories were unlikely to include children, so I don't want to switch over something like Category:Fictional female musicians without first checking to see if they're all "women"––but (to be frank!) I also don't care enough to prioritize that work right now…
+"using "women" as a modifier": One user had questions about grammar, accuracy, etc., &amp; I gave thorough explanations in response to their comments, both of which are copy/pasted there; in establishing precedent, that sub-subsection includes a full breakdown of the "women/female x"-formulated subcats under Women by occupation.
+It would be amazing to have an explicit speedy criterion making it easier for others to tackle that work! But I can't let myself resume doing it, as my drive to *complete* takes over a bit too much... Knifegames (talk) 21:48, 20 September 2021 (UTC)
+Here's the explanation you gave on that page: that "women" is more accurate (see Sex and gender distinction) and because it's the only way to ensure consistency: "women" refers to both cisgender and transgender women, so when "female" is used to describe that group, the word is just being used colloquially to mean "women". I'm not convinced at all by this - I don't believe there's any consensus view that transgender women are women, but they're not female. And speaking of accuracy, an article about a 6-year-old singer would be much more at home in a category called "Female singers" than "Women singers". My bigger question, though, is the same one Northernhenge has, about the process by which this mass change occurred. Was there a discussion about it, or did you just decide by yourself to make this change? Korny O'Near (talk) 01:59, 21 September 2021 (UTC)
+Korny O'Near, see WP:EGRS - we are required to accept the self-identification of the subject's  gender, it's not subject to consensus. The point of this discussion is to streamline the change and apply it more consistently. No one  else has so far raised any objection to it. It is in fact by definition wrong to use "female/male" instead of "woman/man" for people except when discussing them in biological terms. That is literally the difference between sex and gender. Roger (Dodger67) (talk) 06:27, 21 September 2021 (UTC)
+It is in fact by definition wrong to use "female/male" instead of "woman/man" for people except when discussing them in biological terms. This may be your opinion or normative view, but I think it finds little support in actual usage (or in lexicographic authorities, for that matter). The OED entry for female includes senses like "Of or relating to a woman or girl.", "Engaged in or exercised by women; done by women.", "Of a quality, attribute, etc.: peculiar to or characteristic of a woman or women." etc. These senses are plainly still in current use. e.g. This BBC article talks about a reality show having a "predominantly young and female audience particularly valuable to advertisers" - there's no salient biological context here, they're just saying its viewership includes lots of young women. Like many words, female has multiple definitions. The relevant definition at any given juncture will depend on context. It's like asking whether a tomato is a fruit, or whether a strawberry is a berry. There is no one universal "correct" answer - it depends on whether we're speaking in a biological context, a culinary context, an agricultural context, etc. Colin M (talk) 23:07, 21 September 2021 (UTC)
+Hello Korny O'Near! I think Roger (Dodger67) has already addressed your first note, but for the record we're in complete agreement that transgender women are not female. Regarding accuracy, I think the more relevant category for a 6-year-old is "child", as in Category:Child singers by nationality. I haven't known reliable sources fo confirm details about a 6-year-old's sex, and as I said above, I've held off on renaming some categories that I think include children; I'll be sure to keep articles about girls and women apart.
+Regarding "the process by which this mass change occurred", apologies that my above comment might've been too long for the relevant links to be clear! The first two batches went through traditional CfRs in July and August.
+Let me know if you have any more questions! // Knifegames (talk) 07:12, 21 September 2021 (UTC)
+Roger (Dodger67) - thank you for your response, though I confess I didn't really understand it. Should a category like Category:Male models be renamed to "Man models", since the former is "by definition wrong"?
+Knifegames - thank you for those links, although of course those are discussions about very particular renames ("African-American female composers" and "American female classical composers"), not discussions about a more general renaming. The last general discussion about changing "female" to "woman" in category names might have been this one in 2013, where the result was "no consensus; in general, users seem open to some case-by-case fixes." And interestingly, in both of those recent composer-related discussions, some people's rationale for supporting the rename was that children are unlikely to be composers, so that the issue with the word "women" not including girls would be moot. Of course, that's not the case with a "singer" category. Just to be clear, though, was this recent mass change of "female" to "women" in category names done without any discussion? Korny O'Near (talk) 13:58, 21 September 2021 (UTC)
+
+
+Comment - I don't have a dog in the category naming dispute at issue here, but did want to point out two principles that apply generally: (1) except where recent RS take a different approach (e.g., awards given pre-transition), WP uses the latest reliably sourced self-ID of BLP subjects to categorize them, and never any other principle of classification (e.g., sex assigned at birth); and (2) "women" and "female" are both, in the context of category names, labels for gender rather than sex (again with limited exceptions such as "women's reproductive health"). That is all. Newimpartial (talk) 01:25, 22 September 2021 (UTC)
+
+@Knifegames: any further comment on this? Korny O'Near (talk) 01:23, 28 September 2021 (UTC)
+
+
+I would just like to voice my strong opposition to this change, and I completely agree with Colin M that using the word "female" to refer to anything belonging to or relating to women in general is completely normal. I fail to see how anyone could be confused by someone like Laura Jane Grace, as an example, being referred to as a "female guitarist". That is an accurate description. Words like "female" and "male" simply do not, in common parlance, always refer to biology, and insisting that they do is both annoyingly prescriptivist and verging on transphobic. I'd also say that the fact that far more changes seem to have been made on this front to category titles using the word "female" rather than those using the word "male" seems like a wild double standard. Perhaps you'd like to familiarize yourselves with the concepts of transmisogyny and cissexism. Gravelove (talk) 01:04, 10 November 2021 (UTC)
+
+Proposed rework of "Fictional Characters with Multiple Personalities" category[edit]
+
+
+It was suggested on the talk page for Gollum from The Lord of the Rings that the Category:Fictional characters with multiple personalities category is malformed in its current state and needs to be reworked to only include accurate depictions of dissociative identity disorder, with the characters who do not meet the real-world diagnostic criteria -- for example, the Hulk or Sam Raimi's iteration of the Green Goblin -- should be removed using the precedent set by Gollum -- whose removal was predicated on a 2004 psychology paper saying that Gollum can't have dissociative identity disorder due to his split personalities being aware of one another and capable of interacting with each other. 2001:569:F875:3D00:510C:3AC8:DC1:83AD (talk) 22:28, 27 September 2021 (UTC)
+
+Mass media Categories[edit]
+
+
+I'm wondering if anybody knows what happened with the discussion that I had started about several ‎Mass media subcategories, which seems to have disappeared without a trace. I know that I posted a response to @Oculi:'s concerns a couple of weeks back, and that @Fayenatic london: had also posted a response. Unfortunately, we suffered a power outage here {thanks, PG&amp;E) before I had time/opportunity to post any further comments -- and quite honestly, I forgot about the whole thing after we got our power back on. So I'm hoping somebody can shed light on what happened to the missing discussion. Anomalous+0 (talk) 09:26, 13 October 2021 (UTC)
+
+It was a discussion at speedy as I recall, and these do indeed disappear without ceremony when the speedy is closed. My position is that all the subcats should be changed from 'media' to 'mass media' (moving down the tree and ignoring article names, which do not require the same consistency as category names). I did have a go at this some time ago; perhaps objections were raised. Oculi (talk) 10:12, 13 October 2021 (UTC)
+The discussion at WP:CFDS became stale, and was archived at Category talk:Media cooperatives (which I consider to be good practice –&nbsp;thanks, Marcocapelle). – Fayenatic London 10:40, 13 October 2021 (UTC)
+Recategorizing articles after speedily renaming the category[edit]
+
+
+If a category is renamed using speedily renaming, are the articles in that category automatically recategorized to the new category name?  I know there a bots that will do this for soft redirect categories, but will that happen automatically for renaming?  Needless to say I don't want to ask to rename a category and then have to edit all the articles in that category. Coastside (talk) 17:00, 19 October 2021 (UTC)
+
+Coastside yes, once a category renaming is approved by an admin, a bot moves the category page and recategorises the articles and subcategories in the category. TSventon (talk) 20:03, 19 October 2021 (UTC)
+Extinct Baronetcies[edit]
+
+
+For reasons which I don’t need to bore anyone with, I am anxious for both these articles Sir Charles Asgill, 1st Baronet and Sir Charles Asgill, 2nd   Baronet, to have categories which make it immediately clear that the baronetcy is extinct. This is currently not the case. Yesterday I added Category:Extinct baronetcies|Great Britain to their pages.  This was instantly reverted.  The following Asgill baronets explains clearly that the baronetcy became extinct in 1823, but how do I insert a category which links to that?  Is there any solution to my problem? Anne (talk) 08:46, 28 October 2021 (UTC)
+
+Presumably this could be done by splitting Category:Baronets in the Baronetage of Great Britain into two categories. Cordless Larry (talk) 16:47, 28 October 2021 (UTC)
+Cordless Larry, is another possibility to delete Category:Baronets in the Baronetage of Great Britain and replace it with Category:Extinct baronetcies Great Britain? That strikes me as s reasonable compromise. If I am supposed to be the one splitting categories, then that would be beyond me, I'm afraid. Anne (talk) 00:02, 29 October 2021 (UTC)
+Category:Extinct baronetcies is for the position, not a people category. There would have to be something like Category:Baronets of extinct baronetcies in the Baronetage of Great Britain. Oculi (talk) 01:49, 29 October 2021 (UTC)
+Arbil44, could you achieve your objective without changing the category structure? Introducing categories like Category:Baronets of extinct baronetcies in the Baronetage of Great Britain would be a major change as subcategories of Category:Baronets contain over 4,000 articles and should be consistent. It would only be justified if it clearly benefited navigation between all affected articles. TSventon (talk) 12:11, 29 October 2021 (UTC)
+TSventon, if it is too difficult, then I will have to accept no change can be made. I do have very compelling reasons for wishing the 2 mentioned pages to link to extinct baronetcies, but it would be inappropriate to make this evident within the articles themselves. Rather like stating the obvious, except it isn't obvious to anyone knowing little about the 2nd baronet's story. In every case of a baronetcy becoming extinct, it should, I think, be made clear in the categories, but if it really is a bridge too far, then I will have to let this drop. Probably a stupid question, but is there a way that a category could link to this Asgill baronets - or could that, as is, be a category link? I knew nothing about that page, so never knew it existed until Cordless Larry gave me a link. Once there, it links straight back to the 2 articles under discussion. Anne (talk) 12:27, 29 October 2021 (UTC)
+My sincere apologies, I've obviously missed that this link Asgill baronets is in the 2nd baronet's article. Still wondering if it can be used as a category, though? Anne (talk) 12:46, 29 October 2021 (UTC)
+I think you might be misunderstanding what categories are, Anne. Asgill baronets is an article, so it can't be used as a category. Articles sit in categories in much the same way that library books are organised into subject groups (except that articles here can belong to multiple categories). The links to categories along the bottom of a article page aren't the same as links to other articles in the text - they simply link to the index pages of the categories that the article is a member of. Cordless Larry (talk) 14:27, 29 October 2021 (UTC)
+I hope you have seen my numerous apologies for having failed to understand, and for having failed to see that the matter is well covered in the articles.  I've been having huge problems, elsewhere, and I was in over-drive; a situation in which mistakes arise, as now. I do hope this can all be archived now. I just cannot go on and on apologising over and over again. Anne (talk) 14:45, 29 October 2021 (UTC)
+There's nothing to apologise for, Anne. I was just explaining what I thought might be the source of confusion. Cordless Larry (talk) 15:23, 29 October 2021 (UTC)
+
+
+I have trouble imagining a scenario where it needs to be made clear in the article of a long-dead baronet, through categories, that their baronetcy is extinct; this is not a defining characteristic of the person, but of the baronetcy itself, and is already found because the baronetcy is in Category:Extinct baronetcies in the Baronetage of Great Britain. On the article of the last baronet, this is indicated by the succession box (at the bottom, right above the categories) stating "extinct": on the articles of earlier baronets, this is normally not important at all, or can be incorporated in the text if truly necessary ("the baronetcy became extinct in XXXX after the death of his son/grandson/whatever"). Categories are not a tool to record every minute detail, and this doesn't seem like a good candidate for a more detailed category. Fram (talk) 12:55, 29 October 2021 (UTC)
+
+I apologise once more. I am caught up in an off-line drama over this and leapt at the first thought coming to my mind to do something, totally missing what is already there. What more can I do but apologise? Anne (talk) 13:03, 29 October 2021 (UTC)
+Well, you were in your last post "still wondering" about it, so I replied... Fram (talk) 13:20, 29 October 2021 (UTC)
+My first apology was for missing the "Asgill baronets" link in the 2nd's article and my next apology was for missing "Extinct" in the 2nd's article, after your post.  I think I have apologised enough now.Anne (talk) 13:26, 29 October 2021 (UTC)
+Are Complex categories less accurate lists?[edit]
+
+
+I am trying to work out whether it is worth writing some reports on categories. I think many are inaccurate reports as not all articles are assigned.
+So
+
+From your experience, are more complex categories less likely to be complete OR just have one entry?
+Are they less likely to be viewed except by Bots/Crawlers?
+
+
+And is the information in info boxes more likely to be accurate than the category? Wakelamp d[@-@]b (talk) 00:06, 5 November 2021 (UTC)
+
+Wakelamp could you give a couple of examples of the kind of reports you are considering? Do you mean intersect categories like Category:Chemists as head of government?  TSventon (talk) 14:37, 5 November 2021 (UTC)
+BETTER VERSION&nbsp;:=) I was after intersects. If we had a search bar in category would it be useful and if it was smart would it get rid of many categories and would it be useful? By smart I mean that it could cope with things like noun/verb differences (France/French), century mapped to birth and death dates, 19th and 19 th century
+
+
+Wakelamp d[@-@]b (talk) 06:40, 6 November 2021 (UTC)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Categories_for_discussion&amp;oldid=1054434451"
+		Categories: WikiProject Categories pagesHidden categories: Pages automatically checked for incorrect links
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 10 November 2021, at 01:04&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

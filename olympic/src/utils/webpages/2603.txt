@@ -1,0 +1,641 @@
+
+
+
+
+Protected pages - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	Help
+	
+	Protected pages
+	
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+This is a list of all pages that are edit, move, or upload-protected. For pending changes protection, see Special:StablePages. For a list of create-protected pages, see Special:ProtectedTitles.
+
+Protected pagesNamespace:all(Article)TalkUserUser talkWikipediaWikipedia talkFileFile talkMediaWikiMediaWiki talkTemplateTemplate talkHelpHelp talkCategoryCategory talkPortalPortal talkDraftDraft talkTimedTextTimedText talkModuleModule talkGadgetGadget talkGadget definitionGadget definition talkPermission:EditMoveUploadRestriction level:any levelsemi protectedextended confirmed protectedtemplate editor protectedfully protectedFilters:Indefinite protections onlyCascading protections onlyHide redirectsMin sizeMax size:(bytes)
+Display pages
+First pagePrevious pageNext pageLast page
+Timestamp
+Page
+Expires
+Protecting user
+Protection parameters
+Reason
+
+
+
+Unknown
+Template:Facts‎ 38 bytes
+no expiry set
+Unknown user
+fully protected
+—
+
+
+Unknown
+User:23skidoo‎ 4,694 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:Rama/Nemo of honour‎ 3,006 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:MON‎ 96 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:BAN‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:BHU‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:BRU‎ 87 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:CAY‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:CGO‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:CHA‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:CRC‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:ESA‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:GAM‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:GEQ‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:GUI‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:HAI‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:IVB‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:LBA‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:LES‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:MGL‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:MRI‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:MTN‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:MYA‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:NCA‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:NIG‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:SAM‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:SEY‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:SKN‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:SOL‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:SUD‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:TAN‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:TGA‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:ZAM‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:TOG‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:VAN‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:VIN‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:CJLL Wright‎ 921 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:PaxEquilibrium‎ 3,719 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:Aktron‎ 2,200 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:OMA‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:KSA‎ 26 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:Tawker‎ 12,560 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:RobinCarmody‎ 114 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:Cyde/Ref converter‎ 7,968 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:Master son‎ 672 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+Template:Cite paper‎ 35 bytes
+no expiry set
+Unknown user
+fully protected
+—
+
+
+Unknown
+Wikipedia:Contact us/blocked‎ 160 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:Ta bu shi da yu/Quotes‎ 10,632 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+Unknown
+User:Sir Nicholas de Mimsy-Porpington/Archives‎ 3,265 bytes
+no expiry set
+Unknown user
+fully protected
+—
+
+
+Unknown
+User:Zakunsu‎ 28 bytes
+no expiry set
+Unknown user
+semi protected
+—
+
+
+First pagePrevious pageNext pageLast page
+Retrieved from "https://en.wikipedia.org/wiki/Special:ProtectedPages"
+		
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Special page
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		Upload fileSpecial pagesPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

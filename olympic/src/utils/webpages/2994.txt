@@ -1,0 +1,262 @@
+
+
+
+
+Wikipedia:Main Page - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Main Page
+	
+		From Wikipedia, the free encyclopedia
+		Redirect page
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Redirect to:Main Page This page is a redirect. The following categories are used to track and monitor this redirect:
+
+Fully protected: This is a redirect from a title that is fully protected from editing for any of several possible reasons. It may have been protected by an administrator, or it may be on the Cascade-protected list, or both.
+Please do not replace these redirected links with links directly to the target page unless expressly advised to do so below or elsewhere on this page, or if the change is supported by a policy or guideline.
+
+
+From a page move: This is a redirect from a page that has been moved (renamed) or is the result of a page move. One reason this page was kept as a redirect is to avoid breaking links, both internal and external, that may have been made to the old page name. Any redirect with a page move logged on its history page should be tagged with this rcat template.
+
+
+From outside mainspace: This is a redirect from a page outside the main-article namespace (mainspace) to an article in mainspace.  This redirect page must be outside of mainspace.
+Note:  If this redirect is in mainspace, then it will populate Category:Pages with templates in the wrong namespace instead.
+
+
+Used for convenience: This is a redirect from a title that is intended to make it easier to get to the target page; the target is a more appropriate page for the purpose of the redirected title.  This rcat is reserved for redirects that target talk pages to centralize discussion and redirects that may not fit other descriptions.
+For example, this may be a redirect from a title that is used colloquially; however, it is not currently an officially accepted term, though it may have been in the past.  It leads to the title in accordance with the naming conventions for common names and can help writing and searches.  This redirect does not need to be replaced with a piped link.
+
+When appropriate, protection levels are automatically sensed, described and categorized.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Main_Page&amp;oldid=785244069"
+		Hidden categories: Wikipedia move-protected project pagesFully protected redirectsRedirects from movesRedirects to the main namespaceRedirects for convenience
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 12 June 2017, at 11:50&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

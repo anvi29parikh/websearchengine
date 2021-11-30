@@ -1,0 +1,1294 @@
+
+
+
+
+Wikipedia:HTML 5 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:HTML 5
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikipedia information pageThis is an information page.
+It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.ShortcutWP:HTML5
+
+
+The development of HTML 5 is now so far advanced that it was incorporated into the MediaWiki software and has been the default on Wikimedia wikis since September 2012. 
+
+
+This project serves to help editors organize the adaptation of articles and other Wikipedia pages to HTML 5.  The fifty or so prepared searches reveal the obsolete tags. The edits range from  simple to complex, and the numbers from a few fixes anyone can enjoy updating manually, up to many thousands for a run with a Wikipedia:AutoWikiBrowser bot script.
+
+Contents
+
+1 Scope
+2 Obsolete elements and attributes
+
+2.1 center
+
+2.1.1 Text
+2.1.2 Templates
+2.1.3 Parser tags
+2.1.4 Tables
+2.1.5 Files
+
+
+2.2 font
+2.3 strike
+2.4 tt
+2.5 Table attributes
+2.6 Other obsolete attributes
+
+
+3 Misused elements
+
+3.1 cite
+
+
+4 Tools
+
+4.1 Bots
+4.2 Collection of further ideas
+
+
+5 Participants
+6 See also
+7 References
+
+
+
+Scope[edit]
+
+
+Implementation of the new HTML 5 attributes accepted by MediaWiki software. These include:
+
+The data-sort-value attributes in table cells for sorting. This is associated to the replacement of templates like Sort, Sortname, Number table sorting, and Dts.
+Other data attributes.
+
+Attributes for text formatting[1]
+
+
+obsolete in HTML 5[2][3]
+
+Replacements
+
+
+{| align="center"
+|- align="center"
+| align="center" | …
+
+
+{| class="center"           &lt;!-- corresponds to text-align: center,
+                                       and also margin: auto on inner elements --&gt;
+{| class="centered"               &lt;!-- corresponds to margin: auto --&gt;
+{| style="margin:auto;"
+|- style="text-align:center;"
+| class="center"
+
+
+
+Attention, none of the data is equivalent. The obsolete code centered much more things, however the CSS values apply either to inline or block elements only. In some cases, substantial changes may be necessary to replicate with CSS the appearance which was obtained with the old code.
+
+
+
+align="right"
+
+{| class="float-right"
+
+
+style="text-align:right;"
+
+
+Positioning can be made using position: or float:, display: inline-block;, and alignments using text-align: as a replacement.
+
+
+
+valign="top"
+
+style="vertical-align:top;"
+
+
+valign can be replaced by CSS vertical-align: on a cell or row. Note that it cannot be applied to a whole table.
+
+
+
+&lt;tt&gt;...&lt;/tt&gt;
+
+&lt;code&gt;...&lt;/code&gt;
+
+
+&lt;kbd&gt;...&lt;/kbd&gt;
+
+
+&lt;samp&gt;...&lt;/samp&gt;
+
+
+&lt;span style="font-family:monospace,monospace;"&gt;
+
+
+Depending on the desired semantic, &lt;code&gt; is for fragments of computer code, &lt;kbd&gt; for user input and &lt;samp&gt; for outputs, and even &lt;var&gt; for variables.[4]
+
+
+Note: font-family:monospace,monospace is correct, and prevents an unexpectedly small font in Gecko- and WebKit-based browsers, see WP:MONO.
+
+
+
+{| bgcolor="gray"
+
+
+| bgcolor="gray"
+
+
+{| style="background-color:gray;"
+
+
+| style="background-color:gray;"
+
+
+
+Obsolete since HTML4[2][5]
+
+Replacements
+
+
+&lt;center&gt;...&lt;/center&gt;
+
+&lt;div class="center"&gt;...&lt;/div&gt;
+
+
+&lt;div style="text-align:center;"&gt;...&lt;/div&gt;
+
+
+&lt;div class="centered"&gt;...&lt;/div&gt;               
+
+
+&lt;div style="margin:auto;"&gt;...&lt;/div&gt;
+
+
+Attention, none of the data is equivalent. The obsolete code centered much more things, however the CSS values apply either to inline or block elements only. In some cases, substantial changes may be necessary to replicate with CSS the appearance which was obtained with the old code.
+
+
+
+&lt;strike&gt;...&lt;/strike&gt;
+
+&lt;s&gt;...&lt;/s&gt;
+
+
+&lt;del&gt;...&lt;/del&gt;
+
+
+&lt;span style="text-decoration:line-through;"&gt;...&lt;/span&gt;
+
+
+
+&lt;font size="3"&gt;...&lt;/font&gt;
+
+&lt;span style="font-size:125%;"&gt;...&lt;/span&gt;
+
+
+{{small}}
+
+
+Here a percentage makes sense. A simple conversion is not possible as the result depends on the surrounding code and partly also on the browser used. One should simply decide which value is appropriate, often rounded to 10% percentage for the particular application. Note that &lt;small&gt;...&lt;/small&gt; is for fine print, not for stylistic issues.
+
+
+
+&lt;font color="red"&gt;...&lt;/font&gt;
+
+&lt;span style="color:red;"&gt;...&lt;/span&gt;
+
+
+&lt;span class="error"&gt;...&lt;/span&gt;
+
+
+
+&lt;font face="Courier"&gt;...&lt;/font&gt;
+
+&lt;span style="font-family:Courier, monospace;"&gt;...&lt;/span&gt;
+
+
+&lt;span style="font:125% Courier, monospace;"&gt;...&lt;/span&gt;  
+
+
+The specification should definitely end with a generic font, usually serif, sans-serif, ormonospace, and rarely cursive or fantasy. In general, these inflexible specifications of a font should be removed entirely or replaced by semantic elements, such as &lt;code&gt; (see below).
+
+
+The following attributes relevant for Wikipedia tables are also considered obsolete in HTML 5: bgcolor, border, bordercolor, cellpadding, cellspacing.
+The following elements were formerly obsolete in HTML4 and "rehabilitated" in HTML 5: u and s[5]
+Obsolete elements and attributes[edit]
+center[edit]
+Text[edit]
+
+
+For most text, &lt;center&gt;...&lt;/center&gt; can be replaced with {{center}}.
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;center&gt;Content&lt;/center&gt;
+
+{{center|Content}}
+
+(search articles)(search templates)(search all)
+
+Templates[edit]
+
+
+To center templates, check the template documentation as most have a parameter for general styling or specifically for alignment. If the template does not have an alignment parameter, consider adding one.
+
+
+Searches for templates do not find redirects, but you can alter the query to complete the search for that template's obsolete usage:
+for each template list its redirects with the "What Links Here" tool, 
+and replace the two occurrences of its template name.  
+Do this for each of its redirects in turn.
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;center&gt;{{gallery}}&lt;/center&gt;
+
+{{gallery|align=center}}
+
+(search articles)(search all)
+
+
+&lt;center&gt;{{location&nbsp;map}}&lt;/center&gt;
+
+{{location&nbsp;map|float=center}}
+
+(search articles)(search all)
+
+
+&lt;center&gt;{{listen}}&lt;/center&gt;
+
+{{listen|pos=center}}
+
+(search articles)(search all)
+
+
+&lt;center&gt;{{family&nbsp;tree/start}}&lt;/center&gt;
+
+{{family&nbsp;tree/start|align=center}}
+
+(search articles)(search all)
+
+
+&lt;center&gt;{{ahnentafel}}&lt;/center&gt;
+
+{{ahnentafel|align=center}}
+
+(search articles)(search all)
+
+
+&lt;center&gt;{{chart/start}}&lt;/center&gt;
+
+{{chart/start|align=center}}
+
+(search articles)(search all)
+
+
+&lt;center&gt;{{wide&nbsp;image}}&lt;/center&gt;
+
+{{wide&nbsp;image}} (centered by default)
+
+(search articles)(search all)
+
+
+{{wide&nbsp;image|image|&lt;center&gt;caption&lt;/center&gt;}}
+
+{{wide&nbsp;image|image|align-cap=center|caption}}
+
+(search articles)(search articles)
+
+Parser tags[edit]
+
+
+Some parser tags can use CSS styles:
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;center&gt;&lt;gallery&gt;...&lt;/gallery&gt;&lt;/center&gt;
+
+&lt;gallery class="center"&gt;...&lt;/gallery&gt;
+
+(search articles)(search all)
+
+
+
+
+These parser tags will accept class="center"
+
+
+&lt;categorytree&gt;
+&lt;gallery&gt;
+&lt;poem&gt; (centers all lines)
+&lt;pre&gt;
+&lt;syntaxhighlight&gt;
+&lt;source&gt;
+
+
+(search articles) (search all)
+(search articles) (search all)
+(search articles) (search all)
+(search articles) (search all)
+(search articles) (search all)
+(search articles) (search all)
+
+
+These parser tags do not handle CSS; use {{center}}
+
+
+&lt;hiero&gt;
+&lt;math&gt;
+&lt;score&gt;
+&lt;timeline&gt;
+
+
+
+
+These parser tags use other means
+
+
+&lt;imagemap&gt; uses a center parameter; see the documentation
+
+
+(search articles) (search all)
+
+
+These parser tags default to center alignment
+
+
+&lt;inputbox&gt;
+
+
+(search articles) (search all)
+
+
+These parser tags do not handle CSS and do not need alignment
+
+
+&lt;charinsert&gt;
+&lt;indicator&gt;
+&lt;nowiki&gt;
+&lt;ref&gt;
+&lt;references&gt;
+&lt;section&gt;
+&lt;templatedata&gt;
+
+
+
+Tables[edit]
+
+
+To center a table, use CSS styling:
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;center&gt;
+{|
+⋮
+|}
+&lt;/center&gt;
+
+
+
+
+&lt;div align="center"&gt;
+{|
+⋮
+|}
+&lt;/div&gt;
+
+
+{| style="margin: 1em auto;"
+
+(search articles)
+
+
+
+
+(search articles)
+
+
+
+
+And likewise to center a cell:
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+| &lt;center&gt;Content&lt;/center&gt;
+
+|style="text-align: center;" | Content
+
+(search articles)
+
+
+
+Header cells are centered by default.
+
+Files[edit]
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;center&gt;[[File:Image.jpg]]&lt;/center&gt;
+
+[[File:Image.jpg|center]]
+
+
+
+font[edit]
+
+
+The &lt;font&gt; element has three attributes with equivalent CSS properties:
+
+
+
+
+Font attribute
+CSS
+
+
+color
+color
+
+
+face
+font-family
+
+
+size
+font-size
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;font color="red"&gt;Content&lt;/font&gt;
+
+&lt;span style="color:red;"&gt;Content&lt;/span&gt; OR {{font&nbsp;color|red|Content}}
+
+(search articles)(search all)
+
+
+
+Note that for color names, only the W3C specified basic and extended colors are valid with CSS. &lt;font&gt; accepts a larger set of color names that does not work with CSS. When converting to CSS, a nonstandard color name can be replaced either with its hexadecimal color code or a valid color name that is nearest to its shade. For example:
+
+
+
+
+Obsolete
+
+Replacement
+
+
+&lt;font color="harlequin"&gt;Content&lt;/font&gt;
+
+&lt;span style="color:#3FFF00;"&gt;Content&lt;/span&gt; OR &lt;span style="color:chartreuse;"&gt;Content&lt;/span&gt; OR {{font&nbsp;color|#3FFF00|Content}}
+
+
+
+
+Hexadecimal color codes without the # prefix is valid with &lt;font&gt;, but # is mandatory with CSS. Only 3 and 6 digit hex codes are valid in CSS. When 4 and 5 digit codes have to be converted to CSS, they need to be appended with 00 and 0 respectively. For 8 digit hex codes, the last two digits have to discarded.
+
+
+
+
+Obsolete
+
+Replacement
+
+
+&lt;font color="#FC045E;"&gt;Content&lt;/font&gt;
+
+&lt;span style="color:#FC045E;"&gt;Content&lt;/span&gt; OR {{font&nbsp;color|#FC045E|Content}}
+
+
+&lt;font color="FC045E;"&gt;Content&lt;/font&gt;
+
+&lt;span style="color:#FC045E;"&gt;Content&lt;/span&gt; OR {{font&nbsp;color|#FC045E|Content}}
+
+
+&lt;font color="#FC04;"&gt;Content&lt;/font&gt;
+
+&lt;span style="color:#FC0400;"&gt;Content&lt;/span&gt; OR {{font&nbsp;color|#FC0400|Content}}
+
+
+&lt;font color="#FC045;"&gt;Content&lt;/font&gt;
+
+&lt;span style="color:#FC0450;"&gt;Content&lt;/span&gt; OR {{font&nbsp;color|#FC0450|Content}}
+
+
+&lt;font color="#FC045E33;"&gt;Content&lt;/font&gt;
+
+&lt;span style="color:#FC045E;"&gt;Content&lt;/span&gt; OR {{font&nbsp;color|#FC045E|Content}}
+
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;font face="Times, serif"&gt;Content&lt;/font&gt;
+
+&lt;span style="font-family:Times, serif;"&gt;Content&lt;/span&gt; OR {{font​|text=Content​|font=Times, serif}}
+
+(search articles)(search all)
+
+
+
+Note that in HTML the value for the size attribute does not correspond to any CSS value; it only accepts values 1 through 7.[6]
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;font size="1"&gt;Content&lt;/font&gt;
+&lt;span style="font-size:x-small;"&gt;Content&lt;/span&gt; OR {{font|text=Content|size=x-small}}
+
+(search articles)(search all)
+
+
+&lt;font size="2"&gt;Content&lt;/font&gt;
+&lt;span style="font-size:small;"&gt;Content&lt;/span&gt; OR {{font|text=Content|size=small}}
+
+
+&lt;font size="3"&gt;Content&lt;/font&gt;
+&lt;span style="font-size:medium;"&gt;Content&lt;/span&gt; OR {{font|text=Content|size=medium}}
+
+
+&lt;font size="4"&gt;Content&lt;/font&gt;
+&lt;span style="font-size:large;"&gt;Content&lt;/span&gt; OR {{font|text=Content|size=large}}
+
+
+&lt;font size="5"&gt;Content&lt;/font&gt;
+&lt;span style="font-size:x-large;"&gt;Content&lt;/span&gt; OR {{font|text=Content|size=x-large}}
+
+
+&lt;font size="6"&gt;Content&lt;/font&gt;
+&lt;span style="font-size:xx-large;"&gt;Content&lt;/span&gt; OR {{font|text=Content|size=xx-large}}
+
+
+
+The above searches will find all permutations of the three color attributes. For example:
+
+
+
+
+Obsolete
+Replacement
+
+
+&lt;font size="3" color="red" face="times, serif"&gt;Content&lt;/font&gt;
+
+&lt;span style="font-size:medium; color:red; font-family:Times, serif;"&gt;Content&lt;/span&gt; OR {{font|text=Content​|size=medium​|font=Times, serif​|color=red}}
+
+strike[edit]
+
+
+&lt;strike&gt;...&lt;/strike&gt; formats strike-through characters. (search articles) (search all)
+
+Use &lt;s&gt;...&lt;/s&gt; for text that is no longer correct, accurate, or relevant.
+Use &lt;del&gt;...&lt;/del&gt; for text that has been deleted or marked for deletion.
+tt[edit]
+
+
+&lt;tt&gt;...&lt;/tt&gt; formats text in a fixed-width font. (search articles) (search all)
+
+Use {{code}} or &lt;code&gt; for source code.
+Use {{kbd}} or &lt;kbd&gt; for computer input (it need not represent actual keystrokes)
+Use {{samp}} or &lt;samp&gt; for sample output from a program or system (can include directory listings and other matter)
+Use {{var}} or &lt;var&gt; for variable names (in code, mathematics, or even syntactic variables in regular writing).
+Use {{mono}} for monospace-styled text without the semantics of any of the above.
+Table attributes[edit]
+
+
+Obsolete table attributes.[7]
+
+
+
+Obsolete attribute
+CSS style on cell
+CSS style on table
+Search
+
+
+align="left"align="right"align="center"
+
+text-align: lefttext-align: right;text-align: center;
+
+margin-left: automargin-right: auto;margin: 1em auto;
+
+(search articles)(search all)
+
+
+bgcolor="#ddd"
+
+background-color: #ddd;
+
+background-color: #ddd;
+
+(search articles)(search all)
+
+
+border="2"
+
+border-width: 2px;
+
+border-width: 2px;
+
+(search articles)(search all)
+
+
+cellpadding="2"
+
+padding: 2px;
+
+
+
+(search articles)(search all)
+
+
+cellspacing="2"
+
+
+
+border-spacing: 2px;
+
+(search articles)(search all)
+
+
+cellpadding="0" cellspacing="0"
+
+padding: 0;
+
+border-collapse: collapse;
+
+
+
+
+valign="top"valign="middle"valign="bottom"
+
+vertical-align: top;vertical-align: middle;vertical-align: bottom;
+
+
+
+(search articles)(search all)
+
+
+width="25%"
+
+width: 25%;
+
+width: 25%;
+
+(search articles)(search all)
+
+
+{| summary="foo"&lt;table summary="foo"&gt;...&lt;/table&gt;
+
+
+
+See T43917
+
+(search articles)(search all)
+
+
+
+Allowed, obsolete but rarely used table attributes:
+
+frame: Use CSS for borders. (search articles) (search all)
+rules: Use CSS for borders. (search articles) (search all)
+axis: Use scopeon the table header. (search articles) (search all)
+align on &lt;caption&gt;. (search articles) (search all)
+height: Use height or line-height. (search articles) (search all)
+
+
+Additionally, these attributes are obsolete on table cells.[8][9]
+
+abbr: Elaborate content of the cell
+scope on table cell: scopeis valid only on table header
+
+
+There are instances where a table is used to align a template. In many cases the template has an alignment parameter; if not, one should be added.
+
+
+
+
+Markup
+Valid 
+
+
+{|align=right
+|{{navbar|Foo}}
+|}
+
+
+
+
+{{navbar|Foo|style=float:right}}
+
+
+
+
+
+
+
+
+Other obsolete attributes[edit]
+clear on &lt;br /&gt;
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;br clear=all /&gt;
+
+&lt;div style="clear: both;"&gt;&lt;/div&gt; OR {{clear}}
+
+(search articles)(search all)
+
+
+&lt;br clear=left /&gt;
+
+&lt;div style="clear: left;"&gt;&lt;/div&gt; OR {{clear|left}}
+
+
+&lt;br clear=right /&gt;
+
+&lt;div style="clear: right;"&gt;&lt;/div&gt; OR {{clear|right}}
+
+align on &lt;div&gt;
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;div align=center&gt;...&lt;/div&gt;
+
+&lt;div style="text-align:​center"&gt;...&lt;/div&gt;
+
+(search articles)(search all)
+
+
+&lt;div align=left&gt;...&lt;/div&gt;
+
+&lt;div style="text-align:​left"&gt;...&lt;/div&gt;
+
+
+&lt;div align=right&gt;...&lt;/div&gt;
+
+&lt;div style="text-align:​right"&gt;...&lt;/div&gt;
+
+
+&lt;div align=justify&gt;...&lt;/div&gt;
+
+&lt;div style="text-align:​justify"&gt;...&lt;/div&gt;
+
+
+
+Obsolete, allowed but rarely used attributes:
+
+width on &lt;hr&gt;...&lt;/hr&gt; (search articles) (search all)
+align on &lt;h1&gt;...&lt;/h1&gt; through &lt;h6&gt;...&lt;/h6&gt;
+type on &lt;li&gt;...&lt;/li&gt; (search articles) (search all)
+align on &lt;p&gt;...&lt;/p&gt; (search articles) (search all)
+width on &lt;pre&gt;...&lt;/pre&gt; (search articles) (search all)
+type on &lt;ul&gt;...&lt;/ul&gt; (search articles) (search all)
+Misused elements[edit]
+cite[edit]
+
+
+Under the previous HTML 4.01 and XHTML 1.1 usage &lt;cite&gt;...&lt;/cite&gt; defined an entire citation. With HTML 5, a long-running dispute has erupted:
+
+The W3C specs preserve the broad usage, though now require that the material contain at least one of: the title of the cited work, its author, a URL to the work, or an abbreviated reference (short citation, as used in Harvard referencing). This is the spec followed by most Web developers.
+The WHATWG specs have limited the element to the title of the work only.  This is the spec followed by most browser developers. The only practical implications of WHATWG's break from W3C on this element is that the default browser treatment of the element (to italicize its content) would be applied to more material than the title. However, Wikipedia's site-wide CSS turns off this stylization anyway (per MOS:TITLES, only titles of particular kinds of works should be italicized).
+
+
+W3C briefly switched to WHATWG's definition in the draft stages of HTML 5, but switched back to their own definition in 2012 after protest from the Web developer community. This difference subsequently disappeared when the W3C's version was subsumed into the WHATWG's version in the late 2010s and now the WHATWG's version is the only version in relation to the cite element.
+
+
+Following common practice (e.g. the use of &lt;cite&gt; around links to author IDs in blog and forum software, and many other well-deployed uses for the element for more than work titles), Wikipedia is following the W3C HTML 5.2 Recommendation, which has superseded HTML 4.01, XHTML 1.1, and all other previous W3C [X]HTML specs. Our citation template system wraps the entire citation in the &lt;cite&gt;...&lt;/cite&gt; element.
+
+
+Note that uses of &lt;cite&gt; exist without the closing &lt;/cite&gt;, or incorrectly closed by &lt;/span&gt;; these need to be repaired.
+
+
+Where used with a Citation Style 1 or Citation Style 2 template, a manually-added &lt;cite&gt; should be removed as redundant markup:
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;cite&gt;{{cite book |last=Sappol |first=Michael |title=A traffic of dead bodies: anatomy and embodied social identity in nineteenth-century America |publisher=Princeton University Press |location=Princeton, New Jersey |date=2002 |isbn=0-691-05925-X |url=http://books.google.com/books/princeton?id=-9cKRzEx6ywC&amp;printsec=frontcover&amp;dq=A+Traffic+of+Dead+Bodies}}&lt;/cite&gt;
+
+{{cite book |last=Sappol |first=Michael |title=A traffic of dead bodies: anatomy and embodied social identity in nineteenth-century America |publisher=Princeton University Press |location=Princeton, New Jersey |date=2002 |isbn=0-691-05925-X |url=http://books.google.com/books/princeton?id=-9cKRzEx6ywC&amp;printsec=frontcover&amp;dq=A+Traffic+of+Dead+Bodies}}
+
+(search articles)(search all)
+
+
+
+Where an anchor id is manually used with a citation template, the id should be moved to the |ref= parameter. Additionally when removing cite tags with id=CITEREF please understand that this was a manual reference, and must be updated by removal, then making sure that the all the numbered |last= parameters such as |last1= are available, which in turn may require changing any (deprecated) numbered |authorx= parameter used into a |lastx= parameter and a matching |firstx= one.  See the example with and without the id=CITEREF... and |author3=, below.
+
+
+
+
+Obsolete
+Replacement
+Search
+
+
+&lt;cite id=Alberti&gt;{{cite book |last=Arnold |first=David L. G. ||editor-first=John |editor-last=Alberti |date=2003 |title=[[Leaving Springfield|Leaving Springfield: The Simpsons and the Possibility of Oppositional Culture]] |location=Detroit |publisher=[[Wayne State University Press]] |chapter=Use a Pen, Sideshow Bob: The Simpsons and the Threat of High Culture |isbn=0-8143-2849-0}}&lt;/cite&gt;
+
+ {{cite book |last=Arnold |first=David L. G. |editor-first=John |editor-last=Alberti |date=2003 |title=[[Leaving Springfield|Leaving Springfield: The Simpsons and the Possibility of Oppositional Culture]] |location=Detroit |publisher=[[Wayne State University Press]] |chapter=Use a Pen, Sideshow Bob: The Simpsons and the Threat of High Culture |isbn=0-8143-2849-0 |ref=Alberti}}
+
+(search articles)(search all)
+
+
+&lt;cite id="CITEREFAsphaugRyanZuber2003"&gt;{{cite journal |last=Asphaug |first=Erik |last2=Ryan |first2=Eileen V. |author3=Zuber, Maria T. |title=Asteroid Interiors |journal=Asteroids III |pages=463–484 |publisher=University of Arizona |location=Tucson |date=2003 |url= http://www-geodyn.mit.edu/asphaug.interiors.pdf |access-date=2009-01-04 |bibcode=2002aste.conf..463A}}&lt;/cite&gt;
+
+{{cite journal |last=Asphaug |first=Erik |last2=Ryan |first2=Eileen V. |last3=Zuber |first3=Maria T. |title=Asteroid Interiors |journal=Asteroids III |pages=463–484 |publisher=University of Arizona |location=Tucson |date=2003 |url= http://www-geodyn.mit.edu/asphaug.interiors.pdf |access-date=2009-01-04 |bibcode=2002aste.conf..463A}}
+
+(search articles)(search all)
+
+Tools[edit]
+This section is an excerpt from Wikipedia:WikiProject Check Wikipedia § Tools.[edit]
+
+
+The following tools may be useful when checking Wikipedia:
+
+WPCleaner (WPC) (multiple languages)
+AutoWikiBrowser (AWB) (multiple languages)
+JavaScript Wiki Browser (JWB) (English)
+
+
+The following scripts may also be helpful when checking Wikipedia:
+
+AutoEd cleans up WikiSyntax and HTML elements. (English)
+autoFormatter (English and German)
+ArticleInfo gadget (multiple languages)
+lintHint (English and German)
+
+
+The following user CSS may be of further help in identifying material to clean up while editing normally:
+
+lint.css (language-independent; English instructions)
+
+
+See also: Wikipedia:Linter §&nbsp;Reports
+
+Bots[edit]
+
+
+Bots based upon AWB or Pywikibot can correct many of the problems.
+
+
+Here are the bots actively working on English Wikipedia.  They can be ported to other languages.
+
+
+
+Name
+
+Active?
+
+Errors fixed
+(by CW task number)
+
+
+BG19bot&nbsp;(task list&nbsp;· contribs)
+
+No
+
+many
+
+
+Dexbot&nbsp;(task list&nbsp;· contribs)
+
+Yes
+
+7, 19, 25, 83
+
+
+FrescoBot&nbsp;(task list&nbsp;· contribs)
+
+Yes
+
+16, 48, 64
+
+
+Josvebot&nbsp;(task list&nbsp;· contribs)
+
+Yes
+
+6, 16, 37
+
+
+MalnadachBot&nbsp;(task list&nbsp;· contribs)
+
+Yes
+
+532, 535, 539, 541
+
+
+MenoBot&nbsp;(task list&nbsp;· contribs)
+
+Yes
+
+many
+
+
+PkbwcgsBot&nbsp;(task list&nbsp;· contribs)
+
+Yes
+
+2, 3, 7, 16, 17, 25, 32, 85, 86, 88, 90, 91, 524
+
+
+WikiCleanerBot&nbsp;(task list&nbsp;· contribs)
+
+Yes
+
+1, 2, 7, 16, 17, 25, 46, 48, 61, 64, 83, 85, 88, 90, 91, 92, 106, 513, 532, 534, 539, 540, 543, 547, 548, 549, 550, 551, 553, 555, 557, 558, 565, 567
+
+
+Xqbot&nbsp;(task list&nbsp;· contribs)
+
+Yes
+
+3
+
+
+Yobot&nbsp;(task list&nbsp;· contribs)
+
+No
+
+many
+
+Bots fix some of the errors here automatically. Any error tagged with "BOT" is usually fixed by bot at some point, so manually fixing them is unnecessary.
+Collection of further ideas[edit]
+A bot to insert data attributes based on the syntax of the SortKey.  ÅñŧóñŜûŝî&nbsp;(Ð)
+Warn the user using Special:AbuseFilter.
+Adapt de:MediaWiki:Gadget-Extra-Editbuttons.js (discussion)
+Adapt de:Benutzer:PerfektesChaos/js/WikiSyntaxTextMod
+Participants[edit]
+This partcipants list is rather moribund; it's probably more practical to add yourself to Wikipedia:WikiProject Check Wikipedia/Participants, since that's a full-scale wikiproject devoted to this and other forms of Wikipedia technical cleanup.
+All&nbsp;the&nbsp;best: Rich&nbsp;Farmbrough, 20:04, 15 October 2015 (UTC).
+
+Good to go. — CpiralCpiral 07:25, 23 December 2015 (UTC).
+
+I'm ready! User:TurboSonic,  2:30 12 March 2019 (UTC).  
+
+Been at this for years already.  — SMcCandlish ☏ ¢ 😼  06:41, 3 May 2019 (UTC)
+See also[edit]
+Help:HTML in wikitext
+mw:Parsing/Replacing Tidy/FAQ §&nbsp;What will editors need to do? – simplified instructions for fixing pages for the modern MediaWiki parser
+Wikipedia:WikiProject Check Wikipedia – finds some obsolete HTML tags, among other forms of cleanup work
+Wikipedia:Linter – MediaWiki extension to identify broken and problematic markup which cannot be fixed automatically by the server
+Wikipedia:Manual of Style/Accessibility
+Wikipedia:WikiProject Accessibility
+References[edit]
+
+
+^ HTML element#Presentation
+
+^ a b "15.2 Non-conforming features". HTML Living Standard.
+
+^ http://www.w3.org/TR/html5-diff/#obsolete-elements
+
+^ SELFHTML – List of items for markup
+
+^ a b SELFHTML – HTML/deprecated
+
+^ W3C (2018-03-10). "CSS Fonts Module Level 3". Retrieved 2018-06-23.
+
+^ "Table". W3C.
+
+^ "Table cell". W3C.
+
+^ "Table header cell". W3C.
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:HTML_5&amp;oldid=1047938860"
+		Categories: Wikipedia information pagesHidden categories: Project pages with short descriptionSearch link templates with namespace parametersWikipedia maintenance
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		DeutschEsperantoHrvatskiLatviešuPortuguêsSvenska
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 3 October 2021, at 11:28&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

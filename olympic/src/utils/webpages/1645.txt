@@ -1,0 +1,783 @@
+
+
+
+
+Wikipedia:Counter-Vandalism Unit - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	Wikipedia:Counter-Vandalism Unit
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Project to deal with vandals and vandalism on Wikipedia
+
+
+
+
+
+
+
+
+
+
+You want to revert vandalism, but don't yet know the ropes?
+You want to share your experience in training the next generation of vandalism fighters?
+Either way, your search stops here, at the CVU Academy!
+
+
+ Introductionview
+
+
+ShortcutsWP:CVUWP:VANDWAR
+
+
+The Counter-Vandalism Unit (CVU) is a Wikipedia project  whose aim is to help detect and remove vandalism on Wikipedia by using tools and experience, and to provide advice on dealing with vandals. All members of the Wikipedia community can revert vandalism at any time. Active vandalism patrollers who join this project will receive occasional newsletters with information on training, software updates, and new or modified policies and guidelines.
+
+Some active members have volunteered to train other editors in countering vandalism. If you would like to learn more about the process or if you think you would like to train others, please see the Counter-Vandalism Academy.
+
+
+
+
+ Goalsview
+
+
+Protect Wikipedia from disruption.
+React to vandalism in progress.
+Inform active counter-vandalism users on updates and new software.
+Train new counter-vandals.
+Study the effects of vandalism on the encyclopedia.
+
+
+ Helpview
+
+
+
+
+How to help:
+
+Identify that an edit qualifies as vandalism.
+Restore the page to the last non-vandalized version.
+Inform the editor that the edits were perceived as vandalism.
+Report the editor if vandalism persists.
+
+
+ Associatesview
+
+
+
+
+
+
+
+New Pages Patrol —  review New Pages to detect copyright violations, vandalism, attack pages, hoaxes and spam, making minor improvements, and listing inappropriate pages for deletion.
+
+
+
+ClueBot NG — a bot that uses a vandalism-detection algorithm to automatically revert most vandalism.
+
+
+
+Recent Changes Patrol — users who regularly patrol Recent Changes in real time and, among other things, remove vandalism. 
+
+
+
+
+Counter Vandalism Network (CVN) — recent changes broadcasted live on IRC channel #cvn-wp-en connect with information on how likely the edit is to be vandalism.
+
+
+
+ Recognitionview
+
+
+
+
+
+
+
+
+
+
+
+The Anti-Vandalism Barnstar 
+
+
+may be awarded to those who show great contributions to protecting and reverting attacks of vandalism on Wikipedia. Use barnstars sparingly – don't  dilute their importance.
+
+
+
+
+
+The Silver CVU Award
+
+
+is awarded to those who make significant contributions to The Counter-Vandalism Unit or to counter-vandalism.
+
+
+
+
+
+The Gold CVU Award
+
+
+is awarded for outstanding contributions to The Counter-Vandalism Unit or to counter-vandalism where the Silver CVU Award would be insufficient.
+
+
+
+
+
+
+
+
+ Questions?view
+
+
+
+
+If you have any questions about counter-vandalism, feel free to
+
+
+post them here.
+
+
+ Discussionsview
+
+
+
+
+Discussions that may be of interest to CVU members:
+
+New Pages Feed
+
+
+Unwatched pages
+
+
+
+ Divisionsview
+
+
+
+
+
+
+The Academy
+
+
+For users wishing to learn more about Counter-Vandalism.
+
+
+
+
+
+Vandalism Studies
+
+
+For research on unconstructive edits.
+
+
+
+
+
+Subtle Vandalism Taskforce (SVT)
+
+
+For resources and discussion about subtle, sneaky vandalism.
+
+
+
+
+
+Tools
+
+
+Descriptions of various tools and scripts used to counter vandalism.
+
+
+
+
+
+ Participantsview
+
+
+
+
+See this list for all unit members.
+
+
+CVU Userboxes
+
+
+Code:
+
+Results in:
+
+
+{{User wikipedia/CVU-Vandal Fighter}}
+
+This user fights vandalism.
+
+
+{{user CVU1-en}}
+
+
+This user is a member of the
+Counter-Vandalism Unit.
+
+
+{{User CVU9-en}}
+
+This user trains others to fight vandalism at the Counter Vandalism Unit's Academy.
+
+
+{{User CVU10-en}}
+
+This user learns to fight vandalism at the Counter Vandalism Unit's Academy.
+
+
+
+CVU Topicon
+
+
+Code:
+
+Results in:
+
+
+{{CVU topicon}}
+
+ A little CVU seal will be displayed in the same way as it does here, in the top-right corner.
+
+
+If you prefer not to use userboxes or a topicon, you can add yourself to Category:Wikipedians in the Counter-Vandalism Unit.
+
+
+This is a WikiProject, an area for focused collaboration among Wikipedians. New participants are welcome; please feel free to participate!
+
+Guide to WikiProjects
+Directory of WikiProjects  
+vteNoticeboardsWikipedia's centralized discussion, request, and help venues. For a listing of ongoing discussions and current requests, see the dashboard.General
+Administrators
+main
+incidents
+Bots
+Bureaucrats
+Centralized discussion
+Closure requests
+Education
+Interface admins
+Main Page errors
+Open proxies
+VRT
+Oversight
+User permissions
+Articles and content
+Biographies of living persons
+Copyrights
+questions on media
+problems
+Dispute resolution
+External links
+Fringe theories
+Neutral point of view
+Original research
+Reliable sources
+Resource requests
+Spam
+blacklist
+whitelist
+Scalable vector graphics
+Titleblacklist
+Translation
+Page handling
+History merges
+Mergers
+Splits
+Moves
+Protection
+Importation
+XfD
+Articles
+Redirects
+Categories
+Templates
+Files
+Miscellany
+Undeletion
+User conduct
+Conflict of interest
+Contributor copyright
+Edit warring and 3RR
+Sanctions
+Personal restrictions
+General sanctions
+Discretionary sanctions
+Sockpuppets
+Usernames
+Vandalism
+Other
+Arbitration
+Committee noticeboard
+requests
+enforcement
+Edit filters
+requested
+false positives
+Questions
+Help desk
+Teahouse
+Reference desk
+New articles
+Requests for comment
+Village pump
+policy
+technical
+proposals
+idea lab
+WMF
+miscellaneous
+WikiProject proposals
+ Category:Wikipedia noticeboards
+Skip to bottom
+
+vteWikipedia communityFor a listing of current collaborations, tasks, and news, see the Community portal.
+For a listing of ongoing discussions and current requests, see the Dashboard.General community
+topics
+Administration
+News
+The Signpost
+Goings-on
+In the media
+Meetups
+Mailing lists
+Wikipedians
+Statistics
+The Wikipedia Library
+Centralized discussion
+Village pump
+Idea lab
+Policy
+Proposals
+Technical
+Miscellaneous
+WMF
+Bots
+Contents and grading
+Requested articles
+Most-wanted articles
+Images needing articles
+Articles needing images
+Articles for creation
+WP:AFC/R
+Creation
+Help
+Vital articles
+Articles for improvement
+Peer review
+Good article nominations
+Featured article candidates
+Lists
+Pictures
+Topics
+Article translation
+Pages
+Main Page
+Errors
+WikiProjects
+and collaborations
+Directory
+Culture and the arts
+Geographical
+History and society
+Science, technology and engineering
+Wikipedia assistance and tasks
+Patrols
+Recent changes
+Counter-Vandalism Unit
+Version 1.0 Editorial Team
+Accessibility
+Organizations category
+Awards and feedback
+Reward board
+Contests
+A nice cup of tea and a sit down
+Charitableness
+WikiLove
+Compliment before criticism
+Kindness Campaign
+Thanks!
+Maintenance tasks
+Task Center
+Open tasks
+Backlog
+Category
+Admin category
+Edit requests
+Category
+Database reports
+Category tracker
+Dusty articles
+Special pages
+New pages
+Recent changes
+Controversial issues
+Administrators
+and noticeboards
+Administrators' noticeboard
+Incidents
+Edit warring
+Vandalism
+Admin dashboard
+Admin requests
+Closure
+Page protection
+User permissions
+Sockpuppets
+Open proxies
+Revision deletion
+Oversight
+Request
+Usernames
+Changing
+Title blacklist
+OTRS
+Bureaucrats'
+Requests for adminship and bureaucratship
+Arbitration Committee
+Requests
+Enforcement
+Content dispute
+resolution
+Requests for comment
+Third opinion
+Dispute resolution noticeboard
+Biographies of living persons
+Conflict of interest
+External links
+Fringe theories
+Neutral point of view
+No original research
+Reliable sources
+Other noticeboards
+and assistance
+Regional notice boards
+Requests for help
+Category
+Asking&nbsp;questions
+Teahouse
+Help&nbsp;desk
+Reference&nbsp;desk
+Adopt-a-user
+Copyright assistance
+Copyright investigations
+Text problems
+Media questions
+Resource requests
+Mergers
+History mergers
+Moves
+Page importation
+Spam
+Blacklist
+Whitelist
+Bots
+Education
+General sanctions
+Editor sanctions
+Long-term abuse
+Deletion
+discussions
+Guide
+Admin
+Today
+Articles
+Templates
+Files
+Categories
+Redirects
+Miscellany
+Speedy
+Proposed
+BLP
+Review
+Undeletion
+Arguments to avoid
+Arguments to make
+Article Rescue
+Elections and votings
+Requests for comment (meta)
+Wikimedia Foundation elections
+WP Democracy
+Voting is not evil
+Milestones
+Directories, indexes,
+and summaries
+Departments
+Edit summary legend
+Editor's index
+Essays
+FAQs
+Glossary
+Abbreviations
+Help
+Manual of Style
+Simplified
+Rules
+Five pillars
+Policies
+Guidelines
+Shortcuts
+Templates
+Citation templates
+Tips
+Today
+Tools
+Wiki markup
+
+Media
+Category
+Templates
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Counter-Vandalism_Unit&amp;oldid=998258763"
+		Categories: Active WikiProjectsWikipedia WikiProjectsWikipedia vandalism studiesHidden categories: Project pages with short descriptionWikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsWikibooksWikidata
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		ČeštinaDeutschEspañolفارسی한국어Bahasa IndonesiaItalianoNederlandsPolskiPortuguêsSvenskaไทยTürkçeTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 4 January 2021, at 15:09&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

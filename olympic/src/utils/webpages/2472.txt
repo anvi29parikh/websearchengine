@@ -1,0 +1,499 @@
+
+
+
+
+
+
+
+
+Policies - Creative Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+ Menu
+
+
+Share your work
+Use &amp; remix
+What We Do
+Blog
+Creative Commons Global Network
+Search the Commons
+ 
+
+Share your work
+Use &amp; remix
+What We Do
+Blog
+ 
+
+Search for CC images
+Global Network
+Newsletter
+Store
+Contact
+ 
+
+Facebook
+Twitter
+Mail
+ 
+
+
+
+
+
+
+
+
+
+
+
+Help us build a vibrant, collaborative global commons
+Donate Now
+
+ 
+
+
+
+
+
+Creative Commons &gt; Policies 
+
+
+Find news by topic
+
+About CC
+
+Arts / culture
+
+CC-Licensed Projects
+
+Community
+
+Education / OER
+
+Events
+
+Global affiliates
+
+Journalism
+
+Legal tools / licenses
+
+Open access
+
+Open data
+
+Open science
+
+Policy / advocacy / copyright reform
+
+Press
+
+Public Domain
+
+Share your work
+
+Technology
+
+Uncategorized
+
+Weblog
+
+
+ 
+In this sectionPolicies pre&nbsp;2010-08-04
+ 
+
+
+Policies 
+
+
+
+Creative Commons maintains and publishes policies that apply to the use of our legal tools, our websites, content and software that we publish, our trademarks, and to those participating in the Creative Commons Global Network. Note that some of these policies are maintained on other website pages but can be viewed by clicking on the relevant link below.
+Legal Tool Policies
+
+
+The following policies are applicable to CC legal tools:
+
+
+
+Legal Code Errata
+Legal Code Defined
+License Modification Policy (part of CC’s Trademark Policy)
+Legal Code Translation Policy
+ShareAlike Compatibility Process &amp; Criteria
+
+
+
+Website Policies
+
+
+The following policies are applicable to anyone who uses our websites.
+
+Privacy Policy&nbsp;
+Cookies Notice
+Creative Commons Master Terms of Use
+DMCA Notice &amp; Takedown Procedure
+
+Trademark Policy
+
+
+The Creative Commons Trademark Policy&nbsp;applies to anyone who uses the CC trademarks.
+Copyright Licensing Statement
+
+
+The CC Licensing Statement for Content and Software Code describes the copyright status of the website content, including the text of the CC licenses, and other content and code created by Creative Commons.
+CC Global Network Policies
+
+
+When you participate in the Creative Commons Global Network (“CCGN”) as an individual and institutional member or as a non-member participating in CC projects around the world, in addition to the generally applicable policies on this page, the following legal policies apply to you as you engage with CC and the network:
+
+Network Charter
+CCGN Internet Services Policy
+Chapter Logo Policy
+
+
+
+
+
+CC’s Licensing Statement for Content and Software Code
+
+
+Other than the Creative Commons trademarks (licensed subject to the Trademark Policy below) and the text of Creative Commons legal tools and human-readable Commons deeds (dedicated to the public domain as specified below), all content on this site is licensed under the Creative Commons Attribution 4.0 International license unless otherwise marked.
+
+Software: All of the software code we create is free software. Please check our code repository for the specific license that applies to software code you wish to use.
+
+
+Legal text (we call this legal code) and Commons deeds: Creative Commons makes the legal code of its licenses and the CC0 Public Domain Dedication available under the CC0 Public Domain Dedication. CC also makes the Commons deeds associated with its licenses, the CC0 Public Domain Dedication, and the Public Domain Mark available under the CC0 Public Domain Dedication. This allows anyone to reuse those texts for any purpose; however, CC reserves fully and unconditionally all trademark and branding rights associated with the licenses, the CC0 Public Domain Dedication, and the Commons deeds. See the Trademark Policy below for more detail.
+
+
+
+
+
+
+
+Creative Commons Trademark Policy
+
+
+Our trademarks: Trademarks are words, graphic designs, or other indicia that identify the source of a product or service. Creative Commons uses a variety of trademarks. Some Creative Commons trademarks serve the purpose of (i) communicating the type of legal tool chosen by the rights holder and/or (ii) indicating that the creator has applied a Creative Commons license to her work. Our registered trademarks and other trademarks include CREATIVE COMMONS (regardless of stylization, capitalization, translation, or other presentation), CC (including the CC in a circle logo (the “CC Logo”) and CC standing alone), CC+ (within a circle or standing alone) and CCPlus, CC0, all of the Creative Commons license and public domain buttons and icons, and any combination of the foregoing, whether integrated into a larger whole or standing alone. This also includes all of the CC trademarks incorporated into Unicode and any other similar standard.
+How you can use CC trademarks: 
+
+
+CC’s trademarks are not licensed under a Creative Commons license. You are authorized to use our trademarks subject to this Trademark Policy, and only on the further condition that you download images of the trademarks directly from our website or apply them through software that incorporates the trademarks in Unicode. You are not authorized to use any modified versions of our trademarks, except that you may use a different color for the CC logo and its background so long as the two colors chosen have a contrast ratio of at least 3:1.
+Additional specific rules for particular trademarks:&nbsp;
+
+
+Creative Commons Public Copyright License Marks: Creative Commons licenses the use of its public copyright license marks, which include the CC Logo, on the conditions that you use the marks solely to describe the Creative Commons license that applies to a particular work and, in a manner reasonable to the medium and context, include the URI or a hyperlink to the corresponding Commons deed on the Creative Commons server.
+
+
+Public Domain Dedication Marks: Creative Commons licenses the use of its public domain dedication marks, on the conditions that you use the mark solely to describe that the CC0 Public Domain Dedication applies to a particular work and, in a manner reasonable to the medium and context, include the URI or a hyperlink to the Commons deed on the Creative Commons server.
+
+
+Public Domain Mark: Creative Commons licenses the use of its trademarked Public Domain Mark badge on the conditions that you use the mark solely to describe that the Creative Commons Public Domain Mark applies to a particular work and, in a manner reasonable to the medium and context, include the URI or hyperlink to the Public Domain Mark on the Creative Commons server.
+
+
+Open COVID Pledge: Creative Commons licenses the use of its Open COVID Pledge marks as set forth at https://opencovidpledge.org/terms-of-use/.
+
+
+Creative Commons License Buttons and Icons: Creative Commons licenses the use of its button marks that describe a particular legal tool and its icon marks that describe a key license element, such as BY, NC, ND, and SA, on the conditions that you use the mark solely to describe the Creative Commons legal tool that applies to a particular work and, in a manner reasonable to the medium and context, include the URI or hyperlink to the relevant Commons deed on the Creative Commons server.
+
+
+Legacy marks: Creative Commons has retired some of its prior legal tools, all of which have associated trademarks, such as the Developing Nations License, the Sampling License, and Founder’s Copyright. Although these tools have been retired and are no longer recommended for use, they are still legally effective as to works to which they are applied. Therefore, those trademarks may only be used under the terms and conditions of this Trademark Policy. Creative Commons licenses the use of its legacy marks on the conditions that you use the mark solely to describe the Creative Commons legal tool that applies to the particular work and, in a manner reasonable to the medium and context, include the URI or hyperlink to the relevant Commons deed on the Creative Commons server. Note that legacy marks are not available for download on our website.
+Specific rules for particular uses of trademarks:&nbsp;
+
+
+Promotional Uses: If you would like to use the Creative Commons or other CC trademarks on event titles, product names, merchandise, and other promotional uses (e.g., “Creative Commons Film Festival”), you must first receive permission from Creative Commons. Please submit your request to legal@creativecommons.org with a description of your event or product, and an explanation as to how Creative Commons, CC licensing, and/or CC-licensed works are integral to it.&nbsp;&nbsp;
+
+
+Domain Names: Because of the likelihood of confusion, using the Creative Commons name in a domain name is prohibited without express permission from Creative Commons.
+
+
+Referential uses: For the avoidance of doubt, you do not need our permission to use our corporate logo for referential use (e.g., to refer to Creative Commons as an organization), provided that such use does not imply endorsement by or association with Creative Commons.
+
+
+Descriptive uses: For the avoidance of doubt, you do not need our permission to use the license buttons and icons, public domain dedication marks, and other trademarks for descriptive use (e.g., to describe CC licensing in explanatory materials), provided that such use does not imply endorsement by or association with Creative Commons.
+
+
+
+License Modification:
+
+
+To prevent confusion and maintain consistency, you are not allowed to use CREATIVE COMMONS, CC, the CC Logo, or any other Creative Commons trademarks with modified versions of any of our legal tools or Commons deeds. Specifically:
+
+If you make a change to the text of any CC license, you may no longer refer to it as a Creative Commons or CC license, and you must not use any CC trademarks (including the Creative Commons name) or branding in connection with the license. For the avoidance of doubt, this includes translations of CC licenses that have not been made and approved by CC in accordance with the&nbsp;Legal Code Translation Policy.
+If you place any restriction on use of a CC-licensed work that has the effect of limiting or further conditioning the permissions granted to the public under the standard CC license, you must not use any CC trademarks or branding in connection with the license or in any way that suggests the work is available under a CC license. These restrictions often appear in terms of use on websites where CC-licensed content is hosted, or as part of terms for downloading CC-licensed content.
+
+Right to revoke:
+
+
+Creative Commons retains the right to revoke any trademark license for any reason or for no specified reason. Creative Commons is particularly likely to revoke a license if, in its sole discretion, it finds that your use of the trademark is likely to bring disrepute to Creative Commons or any of its trademarks, or confuses the public.
+Additional trademark permissions: 
+
+
+In addition to the trademark permissions granted in advance to the public as set forth above, Creative Commons may agree to grant additional permissions upon request. Please submit any such request to legal@creativecommons.org. 
+
+
+
+
+CCGN Internet Services Policy
+
+
+This Policy governs the operation of websites, social media accounts, and mailing lists for CC Chapters in the Creative Commons Global Network.
+
+
+Chapter Websites
+
+
+To avoid confusion, all Chapters should have one principal public source of online information about the Chapter and its activities. Chapters can choose to use a subdomain provided and hosted by CC HQ, or Chapters can use a domain name of their own and host/manage the site themselves. If Chapters use their own domain name, the subdomain will be forwarded, so that everyone coming to creativecommons.org can find the site.
+
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Subdomains:&nbsp;Creative Commons will establish a subdomain on its main website for each Chapter. The sub-domain will consist of xx.creativecommons.org, where xx is the top-level domain extension for the Project’s jurisdiction (e.g., ca.creativecommons.org). The subdomain will be maintained by CC HQ as part of a WordPress multisite setup. Each Chapter is asked to designate at least one representative to be on point to correspond with CC about administrator access privileges to the subdomain.
+
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Top-Level Domain Names (“TLDs”) and Country Code Top-Level Domains (“ccTLD”):&nbsp;Chapters may decide to use a separate domain name. We ask that such website holders hold the domain name and website in trust for Creative Commons, and add Creative Commons as a technical contact on the WHOIS for the site. If, at any time, the Chapter decides that the website and domain should be operated by another person or institution or retired, the website holder must cooperate in the transfer or lapse of the website and domain, as applicable. Creative Commons reserves the right to decide that a TLD must be transferred to Creative Commons or shut down in order to avoid trademark confusion, if a Chapter was unable to continue operating, or for any other reason.
+
+
+Chapter Website Content
+
+
+All website content on Chapter Websites should be made available under a CC license, ideally CC BY 4.0 or CC0. Chapters should establish their own guidelines for continued operation and updating of their Chapter Website, consistent with the Chapter Guidelines (https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md) and other CC policies. All Chapter Websites must include a prominent disclaimer that the website does not provide legal advice. CC reserves the right to request the removal of any content that fails (in CC’s sole discretion) to comply with this or other CC policies.
+
+
+Chapter Website Administration
+
+
+As part of the main Creative Commons website, the subdomains are managed by Creative Commons and therefore subject to all of the policies of the CC site, including the&nbsp;DMCA policy,&nbsp;terms of service, and&nbsp;privacy policy. Every participant in a Chapter agrees to comply with all such policies and will take any actions requested by CC in order to ensure compliance. Unlike subdomains, Chapters that choose to operate TLDs in accordance with the above are alone responsible for ensuring that they establish and maintain terms of service, a privacy policy, and any other policies necessary to comply with applicable laws, including copyright and data privacy laws.
+
+
+Chapter Social Media Accounts
+
+
+Chapters may establish and maintain a single account on a reasonable number of public-facing social media platforms on behalf of the Chapter. The Chapter should track the accounts, platforms, and login information as they are established, and alert CC as to which accounts it has and who operates them on behalf of the Chapter. The Chapter is responsible for ensuring consistency and quality in the content and operation of those accounts, and may establish guidelines in accordance with the Chapter Guidelines (https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md) to achieve this.
+
+
+Chapter Mailing Lists
+
+
+If a Chapter wants to set up and maintain a mailing list for its activities, the Chapter may use the services provided by Creative Commons. Whether or not using CC-provided mailing lists, everyone participating in a Chapter must comply with data privacy laws when dealing with participant email addresses and other personal information.
+
+
+Chapter Github Repositories
+
+
+Each Chapter may request that Creative Commons open one repository on their behalf on CC’s organization account on Github. The Chapter is responsible for ensuring that the repository is used in accordance with Github terms and applicable law.
+
+
+Note: This policy may be updated from time to time following consultation and collaboration with the Global Network Council.
+
+
+
+
+Chapter Logo Policy 
+
+
+Every CC Chapter around the world, once established in accordance with the Charter and other applicable rules and guidelines, may create a single logo to designate their particular country chapter (“Chapter Logo”). The Chapter Logo must include our “Creative Commons” name and/or our CC in a circle logo in their original font and style. 
+
+
+Chapter Logo Approval: The Chapter Lead must submit the Chapter Logo to legal@creativecommons.org for approval. For the avoidance of doubt, this approval requirement applies even in cases where a Chapter selects a logo that was previously used in connection with a CC affiliate team under the prior network governance model. 
+
+
+Use of the Chapter Logo: We give you permission to use the approved Chapter Logo of the CC Chapter in which you are a participant, solely in order to promote and further the CC-related work done by your CC Chapter consistent with the Charter [https://creativecommons.org/network/charter/], the rules established by the CC Global Network Council, and the policies and positions established by Creative Commons. We recognize that you and the other individuals and institutions involved in your CC Chapter are also engaged in jobs, projects, and activities that are tangentially or unrelated to CC. &nbsp;For the avoidance of doubt, you and others involved in the CC Chapter are not entitled to use the Chapter Logo for any purposes other than those stated above.
+
+
+We will continue to work with you to ensure that you and others involved in the CC Chapter use the Chapter Logo in a manner consistent with the principles and policies of CC. &nbsp;You agree to fully cooperate with and take any actions requested by CC relating to all usage of the Chapter Logo by anyone involved in your CC Chapter. It is understood that CC can end this permission at any time in its sole discretion, including if at any time your status as a participant ends, the CC Chapter becomes inactive, or if you or others involved in the CC Chapter fail to cooperate with or adhere to the policies of CC. &nbsp;
+
+
+You further agree to comply with any policies set forth by your Chapter as to how the Chapter Logo may or may not be used. In the event of a conflict between a guideline set forth by your Chapter and a policy of Creative Commons, the Creative Commons policy will govern. 
+
+
+Ownership of the Chapter Logo: All uses of the Chapter Logo will inure solely to Creative Commons. You and the others involved in your CC Chapter will obtain no ownership or other rights to the Chapter Logo. &nbsp;You agree not to contest, oppose, impair, or challenge CC’s ownership of the Chapter Logos or any of its other trademarks. You will not register or attempt to register the Chapter Logo as a trademark in any jurisdiction and will not oppose CC’s registration or use of the Chapter Logo.
+
+
+
+Page last updated: 7 June 2021
+
+
+
+
+
+
+ 
+In this sectionPolicies pre&nbsp;2010-08-04
+ 
+
+
+
+
+
+
+
+
+
+
+
+Donate to help keep the internet free and open!$25$50$75$100EmailThis field is for validation purposes and should be left unchanged.
+
+ 
+
+
+
+
+
+
+
+
+
+The growing commons
+
+2.0 billion works and counting. Explore these featured Creative Commons Licensed resources below — from literary works, to videos, photos, audio, open education, scientific research and more! Or you can share your work, and help light up the global commons!
+ 
+
+
+
+
+
+
+
+ 
+
+Contact
+Privacy
+Policies
+Terms
+ 
+  Search for:    Search  
+
+
+
+We'd love to hear from you!
+
+Creative Commons
+
+PO Box 1866, Mountain View, CA 94042
+
+
+info@creativecommons.org
+1-415-429-6753
+Frequently Asked Questions
+
+
+
+
+
+
+
+
+
+
+
+
+Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license. Icons by The Noun Project.
+
+
+
+
+  Search for:    Search  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1183 @@
+
+
+
+
+Wikipedia:Close paraphrasing - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Close paraphrasing
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This is an explanatory supplement to the Wikipedia:Copyright violations policy and the Wikipedia:Plagiarism guideline. 
+ This page is intended to provide additional information about concepts in the page(s) it supplements. This page is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutsWP:PARAPHRASEWP:CLOP
+This page in a nutshell: Summarize in your own words instead of closely paraphrasing. Closely paraphrased material that infringes on the copyright of its source material should be rewritten or deleted to avoid infringement, and to ensure that it complies with Wikipedia policy. Public domain sources and CC-BY-SA-compatible sources may be closely paraphrased, and limited close paraphrasing of copyrighted sources may also be permitted as fair use. Attribution is always required.
+For information on copy and pasting text, see Wikipedia:Copying text from other sources.
+Wikipedia copyright
+Policy
+Copyright policy
+Copyright violation policy
+Reusing Wikipedia content
+License text (CC BY-SA 3.0GFDL)
+
+Guidelines
+Public domain content
+Non-free content
+Non-U.S. copyrights
+Copying within Wikipedia
+Copyright information index
+
+Advice
+Frequently asked questions
+Donating copyrighted material
+Copying text from other sources
+Close paraphrasing
+Requesting copyright permission
+Guidance for text copyright problems
+
+Processes
+Copyright problems
+Files for discussion
+Contributor copyright investigations
+
+Resources
+General help
+Copyright assistance
+Media copyright questions
+File copyright tags
+Declaration of consent
+vte
+
+
+Close paraphrasing is the superficial modification of material from another source. Editors should generally summarize source material in their own words, adding inline citations as required by the sourcing policy.
+
+
+Limited close paraphrasing is appropriate within reason, as is quoting, so long as the material is clearly attributed in the text – for example, by adding "John Smith wrote ...", together with a footnote containing the citation at the end of the clause, sentence or paragraph. Limited close paraphrasing is also appropriate if there are only a limited number of ways to say the same thing. 
+
+
+Close paraphrasing without in-text attribution may constitute plagiarism, and when extensive (with or without in-text attribution) may also violate Wikipedia's copyright policy, which forbids Wikipedia contributors from copying an excessive amount of material directly from other sources. Public domain material must likewise be attributed to avoid plagiarism. If the source material bears a free copyright license that is compatible with Wikipedia's licenses, copying or closely paraphrasing it is not a copyright violation so long as the source is attributed somewhere in the article, usually at the end. 
+
+
+The best way to prevent close paraphrasing is to understand clearly when it is a problem, how to avoid it, and how to address it when it appears.
+
+Contents
+
+1 Concepts
+
+1.1 Copyright law
+1.2 Creative expression
+
+1.2.1 Translation
+1.2.2 Selection and arrangement
+
+
+1.3 Moral rights
+1.4 Substantial similarity
+1.5 Wikipedia's guidelines
+
+
+2 When is close paraphrasing permitted?
+
+2.1 Public domain or compatibly-licensed content
+2.2 Quotation of non-free text
+2.3 When there are a limited number of ways to say the same thing
+
+
+3 Example
+4 How to write acceptable content
+5 Existing close paraphrasing
+
+5.1 Detecting
+5.2 Addressing
+
+5.2.1 Example approaches to discussing with other editors
+
+5.2.1.1 Extensive problems
+5.2.1.2 Limited problems
+
+
+
+
+
+
+6 Relevant policies and guidelines
+7 See also
+8 References
+9 External links
+
+
+
+Concepts[edit]
+  Copying isn't the only way to violate copyright or plagiarize. Close paraphrasing can be a problem too.
+
+
+There are legal, ethical, and organizational standard considerations regarding the use of close paraphrasing. 
+
+Copyright law[edit]
+
+
+Wikipedia's primary concern is with the legal constraints imposed by copyright law. Close paraphrasing of the creative expression in a non-free copyrighted source is likely to be an infringement of the copyright of the source. In many countries close paraphrasing may be also seen as mutilation or distortion of an author's work, infringing on their moral rights.
+
+Creative expression[edit]
+ShortcutsWP:FACTSONLYWP:NOCREATIVE 
+
+
+Facts and ideas cannot be protected by copyright, but creative expression is protected. The test of creativity is minimal.
+
+
+
+Hilaire Belloc's 1897 More Beasts: (for Worse Children) illustrates creative expression in his description  of a llama: 
+
+The Llama is a woolly sort of fleecy hairy goat, with an indolent expression and an undulating throat; like an unsuccessful literary man.
+
+ If this somewhat dubious source was used for the article on llamas and was still protected by copyright, it would be acceptable to say that the llama is an animal with a shaggy coat, and perhaps that it has a long neck. These are facts. But use of the phrases "indolent expression" and "undulating throat" might violate copyright. The original choice of words is part of Belloc's creative expression. Going further, the simile "like an unsuccessful literary man" is also creative, and is also protected. A clumsy paraphrase like "resembling a failed writer" might violate copyright even though the words are entirely different. More than the facts have been copied.
+
+
+It is of course also necessary that other requirements for copyright violation also exist, such as being a "substantial" taking.
+
+Translation[edit]
+
+
+Translation from a foreign language is a form of paraphrase, since all the words or phrases have been replaced with equivalent English-language words or phrases. This may or may not be acceptable, depending on whether any creative expression – anything other than simple statements of fact – has been taken from the foreign-language source. For example, consider two translations from the Turkish language:
+
+"Istanbul is a large city"
+"The sun looms through the haze like a red omen"
+
+
+The first is a simple statement of fact and should be acceptable. The second carries over the figurative expressions "looms through" and "like a red omen", so presumably is not acceptable despite using completely different words from the original. But even if you only carry across statements of fact, the more you translate and the more closely you translate, the more likely you are to create a copyright problem.
+
+Selection and arrangement[edit]
+
+
+Although facts are not subject to copyright, a selection or arrangement of facts may be considered creative and therefore protected. For example, an alphabetical list of states in the US giving their name, size and population cannot be copyrighted. However, a shorter list of states giving the name, size and population as before, but ranked as the "top most livable states" would be subject to copyright. The selection and ranking is creative.[1][2]
+
+Moral rights[edit]
+Main page: Wikipedia:Moral rights
+
+
+Wikipedia does not have an official policy regarding moral rights of authors. 
+
+
+The "moral rights" of an author are independent of copyright ownership. 
+They include the author's right to control first publication of a work; the author's right to be attributed or to remain anonymous; the author's right for the work to be published without distortion or mutilation. As with copyright, moral rights apply to creative expression but not to mere facts. Respecting moral rights can help ensure that Wikipedia content can be reused as widely as possible. 
+
+
+In accordance with verifiability policy, Wikipedia editors should not use unpublished work (note: unpublished work in public collections may be suitable). With published work, editors should attribute each source to the author where the publication names the author, and attribute the source to the publication if it does not name the author. It is sometimes relevant for an article to include a short quotation such as a significant statement made by the subject of the article or a notable comment about the subject. In these cases a verbatim quotation should be given rather than a paraphrase. Quotations should be used sparingly, typically only if the information within cannot be conveyed otherwise. They should be clearly identified and formatted as defined in MOS:QUOTE.
+
+Substantial similarity[edit]
+
+
+The US Copyright Office states that, "Copyright law does not protect names, titles, or short phrases or expressions... The Copyright Office cannot register claims to exclusive rights in brief combinations of words ... To be protected by copyright, a work must contain a certain minimum amount of authorship ... Names, titles, and other short phrases do not meet these requirements."[3] However, if a source creatively combines, selects or arranges names, titles, short phrases or expressions, following it too closely may infringe on its copyright.
+
+
+Paraphrasing rises to the level of copyright infringement when there is substantial similarity between an article and a copyrighted source. This may exist when the creative expression in an important passage of the source has been closely paraphrased, even if it is a small portion of the source, or when paraphrasing is looser but covers a larger part of the source or covers "the heart" (the most essential content). A close paraphrase of one sentence from a book may be of low concern, while a close paraphrase of one paragraph of a two-paragraph article might be considered a serious violation. Editors must therefore take particular care when writing an article, or a section of an article, that has much the same scope as a single source. The editor must be especially careful in these cases to extract the facts alone and present the facts in plain language, without carrying forward anything that could be considered "creative expression".
+
+
+Under US copyright law, however, substantial similarity does not always indicate infringement. It does not indicate infringement, for instance, where the doctrine of fair use permits the use of the material.[4] Wikipedia deliberately adopts a narrower limitation and exception from copyright than fair use. Our policy and guideline are set out at Wikipedia:Non-free content.
+
+
+Substantial similarity is also immaterial when strong evidence exists that the content was created independently.[5] An author may think they are being original when they write "Charles de Gaulle was a towering statesman", not realizing that many other authors have independently come up with these identical words. What looks like copying or close paraphrasing may thus be accidental. These similarities are more likely to exist where content is less creative and more formulaic. Independent creation is less likely when there is evidence that the source was consulted or close following is extensive.
+
+Wikipedia's guidelines[edit]
+
+
+Even when content is verifiably public domain or released under a compatible free license, close paraphrasing may be at odds with Wikipedia's guideline related to plagiarism (see Wikipedia:Plagiarism). While in this context, too, close paraphrasing of a single sentence is not as much of a concern, if a contributor closely paraphrases public domain or freely licensed content, they should explicitly acknowledge that content is closely paraphrased. (See below.)
+
+
+Another potential problem arises when a contributor copies or closely paraphrases a biased source either purposefully or without understanding the bias. This can make the article appear to directly espouse the bias of the source, which violates our neutral point of view policy.
+
+When is close paraphrasing permitted?[edit]
+
+
+Further information: Wikipedia:FAQ/Copyright §&nbsp;Can I add something to Wikipedia that I got from somewhere else?
+
+
+There are a few specific situations when close paraphrasing is permitted. If information is gathered from the public domain or is free use content, close paraphrasing may be acceptable. In some instances it is helpful to capture the words as written, in which case the guidelines for Quotations apply. Lastly, there may be some instances where it's difficult to paraphrase because of the nature of the content; in such cases, there are a couple of tips below about how to limit the degree of close paraphrasing to avoid issues. 
+
+
+When using a close paraphrase legitimately, citing a source is in most cases required and highly recommended.[6]
+
+Public domain or compatibly-licensed content[edit]
+
+
+In some limited cases, close paraphrasing may be an acceptable way of writing an article. For example, many Wikipedia articles are (or were) based on text from the 1911 Encyclopaedia Britannica (see Wikipedia:1911 Encyclopaedia Britannica). If the source is in the public domain, such as work of the U.S. government, or is available under a license compatible with the CC-BY-SA license (a partial table of license compatibility can be found at the Copyright FAQ), then the source may be closely paraphrased if the source is appropriately attributed. Attribution in such instances may include in-text attribution that makes clear whose words or ideas are being used (e.g. "John Smith wrote that ...") or may include more general attribution that indicates the material originates from a free source, either as part of an inline citation or as a general notice in the article's "References" section (for further information on how to attribute free sources, see Wikipedia:Plagiarism#Copying material from free sources).
+
+Quotation of non-free text[edit]
+
+
+Limited quotation from non-free copyrighted sources is allowed, as discussed in Wikipedia's non-free content policy and guideline. Quotations should have in-text attribution and should be cited to their original source or author (see WP:When to cite). With direct quotation, editors should clearly distinguish the quoted material from the original text of the article following the guidelines for quotations. Extensive use of quotation from non-free sources is generally not acceptable. Even if content is attributed, it can still create copyright problems if the taking is too substantial. To avoid this risk, Wikipedia keeps this—like other non-free content—minimal.
+
+
+Quotation from non-free sources may be appropriate when the exact words in the source are relevant to the article, not just the facts or ideas given by the source. Examples may include statements made by a person discussed in the article; brief excerpts from a poem, song, or book described in the article; or significant opinions about the subject of the article. Quotation should not, however, be treated as an alternative to extracting facts and presenting them in plain language. Thus:
+
+Right: Churchill said, "I have nothing to offer but blood, toil, tears and sweat."[1]
+Right: The New York Times reviewer found the film "pretentious and boring".[2]
+Wrong: According to Bulgarian Butterflies, "the patient observer may be fortunate enough to glimpse this rare moth flitting along the mossy banks of a woodland stream."[3]
+When there are a limited number of ways to say the same thing[edit]
+ShortcutWP:LIMITED
+
+
+Close paraphrasing is also permitted when there are only a limited number of ways to say the same thing. This may be the case when there is no reasonable way to avoid using technical terms, and may also be the case with simple statements of fact. 
+
+
+Names or titles of people, organizations, books, films and so on may be given in full – there is no creative expression in a name or title, which is often the only way to identify the subject. Short catchphrases, slogans or mottos may also be reproduced where relevant to the discussion. It is acceptable to use a technical term such as "The War of the Spanish Succession" or "Relational Database Management System (RDBMS)" when the term is almost always used by sources that discuss the subject, and when such sources rarely use any other term. In this case, the technical term is considered to be "merged" with the idea expressed. There is no reasonable alternative way of expressing the idea, and since ideas are not subject to copyright the term is also not protected. However, if different sources use different terms for the concept, it may be best for the article to use a different term from the source or to include the term in a sourced quote.
+
+
+An example of closely paraphrased simple statements of fact is given by a biography that relies on two sources for the basic outline. The sources and the article start with:
+
+Source1: John Smith was born in Hartford, Connecticut on February 2nd 1949... He attended State University, obtaining an M.D. in 1973.
+Source2: John Smith was born on 2 February 1949 in Hartford... He graduated with a medical degree from State University in 1973.
+Article: John Smith was born on 2 February 1949 in Hartford, Connecticut... He studied medicine at State University, and earned an MD in 1973.
+
+
+In this example, the wording of the article is very close to that of both sources. However, the article merely presents standard facts for a topic like this in standard sequence. The article does not copy any creative words or phrases, similes or metaphors, and makes an effort at paraphrasing in the second sentence. Just two short sentences are close to the sources. For these reasons the close paraphrasing should be acceptable. 
+Note, however, that closely paraphrasing extensively from a non-free source may be a copyright problem, even if it is difficult to find different means of expression. The more extensively we rely on this exception, the more likely we are to run afoul of compilation protection.
+
+Example[edit]
+
+
+In this example, Wikipedia's article text is an attempt at paraphrasing the source. However, almost all of the original word choice, word order and sentence structure is retained.
+
+
+
+Source[7]
+
+Close paraphrase[8]
+
+
+"A statement from the receiver, David Carson of Deloitte, confirmed that 480 of the 670 employees have been made redundant ... At least 100 Waterford Crystal employees are refusing to leave the visitors' gallery at the factory tonight and are staging an unofficial sit-in. The employees say they will not be leaving until they meet with Mr. Carson. There were some scuffles at one point and a main door to the visitors' centre was damaged ... Local Sinn Féin Councillor Joe Kelly, who is one of those currently occupying the visitors' gallery, said the receiver had told staff he would not close the company while there were interested investors."
+
+"A statement issued by the receiver, Deloitte's David Carson, confirmed that, of the 670 employees, 480 of them would be laid off. The workers responded angrily to this unexpected decision and at least 100 of them began an unofficial sit-in in the visitors' gallery at the factory that night. They insisted they would refuse to leave until they had met with Carson. Following the revelations, there was a minor scuffle during which the main door to the visitors' centre was damaged. Local Sinn Féin Councillor Joe Kelly was amongst those who occupied the visitors' gallery."
+
+
+
+Analysis:
+
+"A statement issued by the receiver, Deloitte's David Carson, confirmed that, of the 670 employees, 480 of them would be laid off" vs. "A statement from the receiver, David Carson of Deloitte, confirmed that 480 of the 670 employees have been made redundant".
+The structure of Wikipedia's statement is essentially the same as the original. Changing a single word and slightly reordering one phrase is not enough to constitute a paraphrase.
+"They insisted they would refuse to leave until they had met with Carson" vs. "The employees say they will not be leaving until they meet with Mr. Carson".
+The structure of this sentence is the same as the original with too much similarity within the structure of the paragraph.
+"there was a minor scuffle during which the main door to the visitors' centre was damaged" vs. "There were some scuffles at one point and a main door to the visitors' centre was damaged".
+The structure and language of the two sentences are the same.
+"Local Sinn Féin Councillor Joe Kelly was amongst those who occupied the visitors' gallery" vs. "Local Sinn Féin Councillor Joe Kelly, who is one of those currently occupying the visitors' gallery".
+This slight rewording does not change the fact that the underlying structure and language are the same. Minor changes, such as "was amongst those" --&gt; "is one of those" and "occupied" --&gt; "currently occupying", are not enough to constitute an original rewriting of the passage.
+
+
+See below for an example of an unusable paraphrase repaired to become acceptable.
+
+How to write acceptable content[edit]
+
+
+ShortcutWP:FIXCLOSEPARA
+
+
+To properly paraphrase content, you review information from reliable sources, extract the salient points, and use your own words, style and sentence structure to draft text for an article.[9][10]
+
+
+Take notes
+
+One of the key factors in the creation of inadvertent close paraphrasing is starting with text taken directly from the source. The word choice and style can easily resurface since it is foremost in our minds. An approach to ensure that information is fully understood and formed into unique thoughts is to isolate the essential information by taking notes.
+Start off by taking notes of essential information only, excluding the use of phrases.
+Record the source for the citation.
+Collect information from multiple sources. This will have several benefits: it promotes a tone with a neutral point of view and produces a well-rounded understanding of the topic. It also makes it less likely that your end result will follow too closely on any one source.
+Gather short quotations when they powerfully illustrate a point for your article. Overuse can result in a disjointed article and may breach copyright. (Extensive quotations are forbidden by policy.)
+
+
+Write a draft
+
+Gather related items from the multiple sources and explain it to yourself: The point is to rephrase or summarize a body of information in your own words and sentence structure.
+Add inline citations in accordance with the sourcing guideline.
+Allow time between note-taking and drafting to clear your mind of the original diction and better paraphrase the content.
+Don't paraphrase information in the same order it was presented from the source.
+
+
+Review
+
+After material has been written, return to the source to double check for content and properly paraphrased language.
+Information has been gathered from several sources and distilled in your words.
+Quotations are used appropriately and infrequently.
+Words or ideas do not follow the same pattern and order as the source material.
+
+
+The example above on this page illustrates a common way in which people closely paraphrase content; this one demonstrates how to properly synthesize and paraphrase information.
+
+
+
+
+
+Example: close paraphrasing repaired
+
+
+
+
+
+Consider the following example of a close paraphrase (unacceptable version) and ways to correct it to make an acceptable version:
+
+
+
+Example
+
+Wording
+
+Comments
+
+
+Source
+Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936–1938 contains more than 2,300 first-person accounts of slavery and 500 black-and-white photographs of former slaves. These narratives were collected in the 1930s as part of the Federal Writers' Project of the Works Progress Administration (WPA) and assembled and microfilmed in 1941 as the seventeen-volume Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves. This online collection is a joint presentation of the Manuscript and Prints and Photographs Divisions of the Library of Congress and includes more than 200 photographs from the Prints and Photographs Division that are now made available to the public for the first time. Born in Slavery was made possible by a major gift from the Citigroup Foundation. Source: Born in Slavery, Library of Congress
+
+
+
+Unacceptable version
+A collection of more than 2,300 accounts of slavery taken directly from former slaves and 500 black-and-white photographs make up the Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936–1938. In the 1930s these narratives were compiled in the 1930s as part of the Federal Writers' Project of the Works Progress Administration (WPA). They were aggregated and microfilmed in 1941 as the seventeen-volume Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves. The collection is a united effort of the Manuscript and Prints and Photographs Divisions of the Library of Congress. Citigroup Foundation made the Born in Slavery possible by a major gift.
+The structure of this version is essentially the same as the original. Changing a few words and slightly reordering phrases is not enough to constitute a paraphrase.
+
+
+Correcting issues – step 1) Bring in other source(s).
+The Slave Narrative Collection provides a unique and virtually unsurpassed collective portrait of a historical population. Indeed, historian David Brion Davis has argued that the voluminous number of documented slave testimonies available in the United States "is indisputably unique among former slaveholding nations." In addition to the substantial number of life histories it contains, the most compelling feature of the collection is the composition of the sample of people who made up its informants. Although not a representative sample of the slave population, they were a remarkably diverse and inclusive cross-section of former slaves. Those whose voices are included in the collection ranged in age from one to fifty at the time of emancipation in 1865, which meant that more than two-thirds were over eighty when they were interviewed. Source: A Collective Portrait
+Bringing in other sources helps to ensure that there's a good understanding of the topic and a neutral point of view.
+
+
+Correcting issues – step 2) Read source information, preferably taking notes to extract essential points, and write a summary in your own words, thereby producing an acceptable version.
+In the 1930s a Works Progress Administration (WPA) project, called Federal Writers' Project, was conducted to capture the history record of people born into slavery. At the time of the project 2/3rds of the more than 2,300 men and women interviewed were over the age of eighty, having been one to fifty years of age when they obtained their freedom in 1865. Over 500 black and white photographs were taken of interview subjects. The Library of Congress Manuscript and Print and Photograph Divisions assembled a seventeen-volume collection from the set, called "Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936–1938." David Brion Davis, a historian, claimed that the large collection "is indisputably unique among former slaveholding nations."
+This version brings together information from two sources, without maintaining the previous sentence structure or style.
+
+
+
+See also: Wikipedia:The perfect article
+Existing close paraphrasing[edit]
+Detecting[edit]
+
+
+Unlike straightforward copyright violations, close paraphrasing is notoriously difficult to detect; frequently the contributor will add wiki syntax and write in the style of a Wikipedia article (as indeed they should). Here are some ways you might detect it:
+
+Look for disjointed and sudden changes in the tone, vocabulary, and style of content introduced by the same contributor. For example, "The cat is a small predatory carnivorous species of crepuscular mammal. Housecats like to kill mice and bats."
+Look for redundant content; this may be a sign that two or more sources were closely paraphrased. For example, "The cat is a small predatory carnivorous species of crepuscular mammal. Like many pets, domestic cats are carnivorous."
+Look for content that resembles content included in a quotation.
+Examine the talk pages of major contributors and other pages where they have written in their own words, and determine if their article contributions substantially differ in tone, structure, and vocabulary from these discussions.
+Take short phrases from the article and put them in a search engine. Take a look at the results and see if they closely resemble the article.
+Addressing[edit]
+
+
+Your approach may vary depending upon the severity of the concern. Here are a couple of ways to manage close-paraphrase concerns.
+
+Flag the problem
+
+
+
+Insert a dispute template and/or engage in a copyright-infringement discussion: Your approach here may depend upon the extensiveness of the issues you discover.
+
+You can use the {{Close paraphrasing}} template, which can be customized to identify the source and to indicate if the source is public domain, to mark it for cleanup (and usually one would also open a talk page discussion about the matter):
+This article or section contains close paraphrasing of one or more non-free copyrighted sources. Ideas in this article should be expressed in an original manner. See the talk page for details.
+However, if you believe that the close paraphrasing in question is so close that it infringes copyright, instead follow the instructions at Template:Copyvio, which may require removing the paraphrasing content until it can be repaired. Unless close paraphrasing is immediately obvious, it is good practice to cite specific passages alongside the corresponding passage from the source on the talk page to highlight their similarity; this will provide objective evidence of close paraphrasing.
+Notice to the contributor
+
+
+
+It is important to discuss your concerns with the contributor. Many people who paraphrase too closely are not intentionally infringing, but just don't know how to properly paraphrase. It might help to point them to this essay or to the references and resources listed here, which include some pointers for proper paraphrasing.
+
+Example approaches to discussing with other editors[edit]
+
+
+Note: All text in these examples is dedicated by its authors to the public domain
+
+
+The following example messages can be copied and pasted directly from this page, although you will need to fill in your own example close paraphrases as well as supplying the article's title and the source URL. The messages strive to avoid accusations while at the same time pointing to clear instructions on how to fix errors of this sort. The spaces for examples from the editor's inappropriate text are provided because even experienced or good faith editors may not recognize where the issues lie without them. If there is a passage of several consecutive sentences which is a continuous close paraphrase, this may alone be a sufficient demonstration. Otherwise, showing the pattern in several separated sentences is typically better than offering one, brief example.
+
+Extensive problems[edit]
+
+
+The following example was engineered for cases when the paraphrasing is close enough to require blanking of the article and listing at Wikipedia:Copyright problems. It would not be appropriate for situations where the {{close paraphrasing}} template is used, since rewriting can be done on the spot rather than in a temporary page. You may use this example verbatim, if you wish, but may and should modify it if it is not completely appropriate to the circumstances.
+
+
+
+
+
+Hi. I'm afraid the [[ArticleName]] article you wrote may be a problem under our copyright policies, since the text seems very [[Wikipedia:Close paraphrasing|closely paraphrased]] from [source]. While facts are not copyrightable, creative elements of presentation – including both structure and language – are. For an example of close paraphrasing, consider the following:
+
+:example from source
+
+The article says:
+
+:example from article
+
+There are other passages that similarly follow quite closely.
+
+
+As a website that is widely read and reused, Wikipedia takes copyright very seriously to protect the interests of the holders of copyright as well as those of the Wikimedia Foundation and our reusers. Wikipedia's [[Wikipedia:Copyrights|copyright policies]] require that the content we take from non-free sources, aside from brief and clearly marked quotations, be rewritten from scratch. 
+
+
+The article has been replaced with a notice of these copyright concerns that includes directions for resolving them. If the material can be verified to be [[Wikipedia:Compatible license|compatibly licensed]] or [[Wikipedia:Public domain|public domain]] or if [[Wikipedia:Copyright problems#Copyright owners who submitted their own work to Wikipedia (or people editing on their behalf)|permission is provided]], we can use the original text with proper attribution. If you can resolve it that way, please let me know if you need assistance with those directions. Otherwise, so that we can be sure it does not constitute a derivative work, this article should be rewritten; there is a link to a temporary space for that purpose in the instructions which now appear in place of the article. The essay [[Wikipedia:Close paraphrasing]] contains some suggestions for rewriting that may help avoid these issues. The article [[Wikipedia:Wikipedia Signpost/2009-04-13/Dispatches]], while about plagiarism rather than copyright concerns, also contains some suggestions for reusing material from sources that may be helpful, beginning under "Avoiding plagiarism".
+
+
+Please let me know if you have questions about this. --~~~~
+
+
+
+Limited problems[edit]
+
+
+This example was engineered for cases when the paraphrasing is not enough of a concern to require blanking and listing and the {{close paraphrasing}} template is used instead. You may use this example verbatim, if you wish, but may and should modify it if it is not completely appropriate to the circumstances.
+
+
+
+
+
+Hi. I'm afraid the [[ArticleName]] article you contributed to has parts which are very [[WP:close paraphrasing|closely paraphrased]] from [source]. This can be a problem under both our [[Wikipedia:Copyrights|copyright policy]] and our [[Wikipedia:Plagiarism|guideline on plagiarism]].
+
+
+While facts are not copyrightable, creative elements of presentation – including both structure and language – are. For an example of close paraphrasing, consider the following:
+
+The source says:
+
+:example from source
+
+The article says:
+
+:example from article
+
+This is an example; there are other passages that similarly follow quite closely.
+
+
+As a website that is widely read and reused, Wikipedia takes copyright very seriously to protect the interests of the holders of copyright as well as those of the Wikimedia Foundation and our reusers. Wikipedia's [[Wikipedia:Copyrights|copyright policies]] require that the content we take from non-free sources, aside from brief and clearly marked quotations, be rewritten from scratch. So that we can be sure it does not constitute a [[derivative work]], this article should be revised to separate it further from its source. The essay [[Wikipedia:Close paraphrasing]] contains some suggestions for rewriting that may help avoid these issues. The article [[Wikipedia:Wikipedia Signpost/2009-04-13/Dispatches]] also contains some suggestions for reusing material from sources that may be helpful, beginning under "Avoiding plagiarism".
+
+
+Please let me know if you have questions about this. --~~~~
+
+
+
+Relevant policies and guidelines[edit]
+
+
+A number of Wikipedia policies and guidelines are relevant to this essay. They include:
+
+Wikipedia:No original research – policy stating that, while articles should be written in your own words, they should substantially retain the meaning of the source material
+Wikipedia:Copyrights – policy that describes general principles that apply to use of copyrighted work
+Wikipedia:Copyright violations – policy that describes copyright violations and how to address them
+Wikipedia:Non-free content criteria – policy that defines limitations on use of non-free content
+Wikipedia:Non-free content – guideline that expands on WP:NFCC and describes when non-free material may be used under the "fair use" principle
+Wikipedia:Plagiarism – guideline that describes the importance of attributing the sources used, even when they may be out of copyright
+Wikipedia:Manual of Style#Quotations – guideline that describes how quotations should be faithfully reproduced, clearly identified as quotations
+
+
+Several Wikipedia articles discuss related topics such as Copyright law of the United States, fair use, plagiarism, moral rights and paraphrasing of copyrighted material. These may be of interest to editors. However, they may have inaccuracies or omissions, and Wikipedia has a broader aim of providing material that may be used anywhere for any purpose, which imposes further restrictions that are defined in our policies and guidelines.
+
+See also[edit]
+Wikipedia:Plagiarism (guideline) – Guideline on Wikipedia's definition of and approach to handling plagiarism to avoid making the work of others look like your own.
+"Let's get serious about plagiarism", Wikipedia Signpost (op-ed) – Thorough discussion of Wikipedia's position regarding plagiarism, including how to avoid it, good practices, and how to detect it.
+Wikipedia:Copy-paste (information page) – Information about plagiarism and copyright concerns with copy-paste, which cannot be done except in the case of short quotations.
+Paraphrasing of copyrighted material (article) – An overview of how close paraphrasing is treated under various jurisdictions' copyright laws.
+Idea-expression divide (article) – Idea-expression divide limits the scope of copyright protection by differentiating an idea from the expression or manifestation of that idea.
+Wikipedia:FAQ/Copyright §&nbsp;Derivative works (information page) – Discussion of derivative work: a copyright concern where something that is "based on and a close copy of" another work.
+Wikipedia talk:Copyrights/Archive 12 §&nbsp;Derivative works (talk page) – Discussion of paraphrase and abridgement, a copyright concern.
+Wikipedia:Quotations §&nbsp;Copyrighted material and fair use (essay) – Proper use of quotations in articles, with copyright and "fair use" considerations.
+Substantial similarity (article) – Substantial similarity is the standard developed and used by United States courts to determine whether a defendant has infringed the reproduction right of a copyright.
+Scènes à faire (article) – Sometimes there are only so many ways to say something.
+Wikipedia:How to write a plot summary (essay) – Information about how to write a plot summary for a work of fiction.
+Wikipedia:Plot-only description of fictional works (essay) – Among other things, discusses how to avoid copyright violations when writing about fictional works.
+Plagiarism detection (article) – Includes a list of free and commercial plagiarism detection tools.
+Template:uw-paraphrase (template) – User warning which can be left on the talk page of an editor who paraphrases copyrighted material too closely on Wikipedia.
+References[edit]
+
+
+^ In Feist Publications v. Rural Telephone Service, the United States Supreme Court noted that factual compilations of information may be protected with respect to "selection and arrangement, so long as they are made independently by the compiler and entail a minimal degree of creativity," as "[t]he compilation author typically chooses which facts to include, in what order to place them, and how to arrange the collected data so that they may be used effectively by readers"; the Court also indicated that "originality is not a stringent standard; it does not require that facts be presented in an innovative or surprising way" and that "[t]he vast majority of works make the grade quite easily, as they possess some creative spark, 'no matter how crude, humble or obvious' it might be."("Decision". Feist Publications, Inc., v. Rural Telephone Service Co., 499 U.S. 340 (1991).)
+
+^ But also "thick protection is the norm, but when there are very few articulable, concrete similarities based on protected aspects of a work and a limited number of ways in which the underlying ideas could be expressed differently, or where the only protectable aspect of a work is the 'unique selection and arrangement' of otherwise unprotectable elements, a work is entitled only to 'thin' protection, where 'virtually identical copying' is required to support a finding of infringement." [https://www.documentcloud.org/documents/2447394-jerseyboys.html Robert Jones, in the Jerseyboys case.
+
+^ "Copyright Protection Not Available for Names, Titles, or Short Phrases" (PDF). United States Copyright Office. Retrieved 2 October 2014.
+
+^ Bruce P. Keller and Jeffrey P. Cunard (2001). Copyright Law: A Practitioner's Guide. Practising Law Institute. p.&nbsp;§11–41. ISBN&nbsp;1-402-40050-0.
+
+^ Keller and Cunard, §11–40.
+
+^ An exception would be when closely paraphrasing a compatibly licensed source that is not permissible as a citation. For instance, one may closely paraphrase another Wikipedia article or use content from another compatibly licensed user-generated wiki, so long as the content meets core content policies. Attribution may be required, as explained at Wikipedia:Plagiarism#Copying material from free sources, but citing it is a source might be against policy.
+
+^ "Staff protest over Waterford Crystal closure". Retrieved 2011-06-28.
+
+^ Wikipedia article 2008–2009 Irish financial crisis, 2009-04-11
+
+^ Purdue OWL contributors (2010-04-21). "Paraphrase: Write it in Your Own Words". The Writing Lab &amp; The OWL at Purdue and Purdue University. Retrieved 2011-06-28.
+
+^ "How to Paraphrase Without Plagiarizing". Colorado State University. 1993–2011. Retrieved 2011-06-28.
+
+
+External links[edit]
+WMF legal's comments on close paraphrasing
+Paraphrase: Write it in Your Own Words, Purdue University
+How to Paraphrase Without Plagiarizing, Colorado State University
+vteWikipedia essaysEssays on building, editing, and deleting contentPhilosophy
+Articles must be written
+All Five Pillars are the same height
+Avoid vague introductions
+Be a reliable source
+Civil POV pushing
+Cohesion
+Competence is required
+Concede lost arguments
+Dissent is not disloyalty
+Don't lie
+Don't search for objections
+Editing Wikipedia is like visiting a foreign country
+Editors will sometimes be wrong
+Eight simple rules for editing our encyclopedia
+Explanationism
+External criticism of Wikipedia
+Here to build an encyclopedia
+Levels of competence
+Most ideas are bad
+Need
+Neutrality of sources
+Not editing because of Wikipedia restriction
+The one question
+Oversimplification
+Paradoxes
+Paraphrasing
+POV and OR from editors, sources, and fields
+Process is important
+Product, process, policy
+Purpose
+Reasonability rule
+Systemic bias
+There is no seniority
+Ten Simple Rules for Editing Wikipedia
+Tendentious editing
+The role of policies in collaborative anarchy
+The rules are principles
+Trifecta
+Wikipedia in brief
+Wikipedia is an encyclopedia
+Wikipedia is a community
+Article construction
+100K featured articles
+Acronym overkill
+Advanced source searching
+Adding images improves the encyclopedia
+Advanced article editing
+Advanced table formatting
+Advanced template coding
+Advanced text formatting
+Alternatives to the "Expand" template
+Amnesia test
+A navbox on every page
+An unfinished house is a real problem
+Articles have a half-life
+Autosizing images
+Avoid mission statements
+Bare URLs
+Be neutral in form
+Beef up that first revision
+Blind men and an elephant
+BOLD, revert, discuss cycle
+Build content to endure
+Cherrypicking
+Chesterton's fence
+Children's lit, adult new readers, &amp; large-print books
+Citation overkill
+Citation underkill
+Common-style fallacy
+Concept cloud
+Creating controversial content
+Criticisms of society may be consistent with NPOV and reliability
+Deprecated sources
+Dictionaries as sources
+Don't demolish the house while it's still being built
+Don't get hung up on minor details
+Don't hope the house will build itself
+Don't panic
+Don't revert due solely to "no consensus"
+Don't teach the controversy
+Editing on mobile devices
+Editors are not mindreaders
+Encourage the newcomers
+Endorsements (commercial)
+Featured articles may have problems
+Fruit of the poisonous tree
+Give an article a chance
+Identifying and using independent sources
+History sources
+Law sources
+Primary sources
+Science sources
+Style guides
+Tertiary sources
+Ignore STRONGNAT for date formats
+Inaccuracies in Wikipedia namespace
+Inaccuracy
+Introduction to structurism
+Link rot
+Mine a source
+Merge Test
+Minors and persons judged incompetent
+"Murder of" articles
+Not every story/event/disaster needs a biography
+Not everything needs a navbox
+Not everything needs a WikiProject
+Nothing is in stone
+Organizing disambiguation pages by subject area
+Permastub
+Potential, not just current state
+Presentism
+Principle of Some Astonishment
+Printability
+Pruning article revisions
+Publicists
+Put a little effort into it
+Restoring part of a reverted edit
+Robotic editing
+Sham consensus
+Specialized-style fallacy
+Stub Makers
+Run an edit-a-thon
+Temporary versions of articles
+Tertiary-source fallacy
+There is a deadline
+There is no deadline
+The deadline is now
+Understanding Wikipedia's content standards
+Walled garden
+What an article should not include
+Wikipedia is a work in progress
+Wikipedia is not a reliable source
+Wikipedia is not being written in an organized fashion
+The world will not end tomorrow
+Write the article first
+Writing better articles
+Writing article content
+Avoid thread mode
+Gender-neutral language
+Proseline
+Use feminine pronouns
+Write the article first
+Writing about women
+Writing better articles
+Removing or
+ deleting content
+Adjectives in your recommendations
+AfD is not a war zone
+Arguments to avoid in deletion discussions
+Arguments to avoid in deletion reviews
+Arguments to avoid in image deletion discussions
+Arguments to make in deletion discussions
+Avoid repeated arguments
+Before commenting in a deletion discussion
+But there must be sources!
+Confusing arguments mean nothing
+Content removal
+Counting and sorting are not original research
+Delete the junk
+Does deletion help?
+Don't attack the nominator
+Don't confuse stub status with non-notability
+Don't overuse shortcuts to policy and guidelines to win your argument
+Follow the leader
+How to save an article proposed for deletion
+I just don't like it
+Identifying blatant advertising
+Identifying test edits
+Immunity
+Keep it concise
+Liar liar pants on fire
+Nothing
+Nothing is clear
+Overzealous deletion
+Relisting can be abusive
+Relist bias
+The Heymann Standard
+Unopposed AFD discussion
+Wikipedia is not Whack-A-Mole
+Why was the page I created deleted?
+What to do if your article gets tagged for speedy deletion
+When in doubt, hide it in the woodwork
+No Encyclopedic Use
+Essays on civilityThe basics
+Accepting other users
+Apology
+Contributing to complicated discussions
+Divisiveness
+Edit at your own pace
+Encouraging the newcomers
+Enjoy yourself
+Expect no thanks
+High-functioning autism and Asperger's editors
+How to be civil
+Maintaining a friendly space
+Negotiation
+Obsessive–compulsive disorder editors
+Relationships with academic editors
+Thank you
+Too long; didn't read
+Truce
+Unblock perspectives
+We are all Wikipedians here
+Philosophy
+A weak personal attack is still wrong
+Advice for hotheads
+An uncivil environment is a poor environment
+Be the glue
+Beware of the tigers!
+Civility warnings
+Deletion as revenge
+Failure
+Forgive and forget
+It's not the end of the world
+Nobody cares
+Most people who disagree with you on content are not vandals
+Old-fashioned Wikipedian values
+Profanity, civility, and discussions
+Revert notification opt-out
+Shadowless Fists of Death!
+Staying cool when the editing gets hot
+The grey zone
+The last word
+There is no Divine Right Of Editors
+Most ideas are bad
+Nothing is clear
+The rules of polite discourse
+There is no common sense
+Two wrongs don't make a right
+Wikipedia is not about winning
+Writing for the opponent
+Reader
+Dos
+Argue better
+Assume good faith
+Assume the assumption of good faith
+Assume no clue
+Avoid personal remarks
+Avoid the word "vandal"
+Be excellent to one another
+Beyond civility
+Call a spade a spade
+Candor
+Deny recognition
+Desist
+Discussing cruft
+Drop the stick and back slowly away from the horse carcass
+Encourage full discussions
+Get over it
+How to lose
+Imagine others complexly
+Just drop it
+Keep it down to earth
+Mind your own business
+Say "MOBY"
+Read before commenting
+Settle the process first
+Don'ts
+ALPHABETTISPAGHETTI
+Civil POV pushing
+Cyberbullying
+Don't accuse someone of a personal attack for accusing of a personal attack
+Don't be a fanatic
+Don't be a jerk
+Don't be an ostrich
+Don't be ashamed
+Don't be a WikiBigot
+Don't be high-maintenance
+Don't be inconsiderate
+Don't be obnoxious
+Don't be prejudiced
+Don't be rude
+Don't be the Fun Police
+Don't bludgeon the process
+Don't call a spade a spade
+Don't call the kettle black
+Don't call things cruft
+Don't come down like a ton of bricks
+Don't cry COI
+Don't demand that editors solve the problems they identify
+Don't drink the consensus Kool-Aid
+Don't eat the troll's food
+Don't fight fire with fire
+Don't give a fuck
+Don't help too much
+Don't make a smarmy valediction part of your signature
+Don't remind others of past misdeeds
+Don't shout
+Don't spite your face
+Don't take the bait
+Don't template the regulars
+Don't throw your toys out of the pram
+Do not insult the vandals
+Griefing
+Nationalist editing
+No angry mastodons
+just madmen
+No Nazis
+No, you can't have a pony
+Passive aggression
+Please don't bite the newcomers
+POV railroad
+There are no oracles
+You can't squeeze blood from a turnip
+WikiRelations
+WikiBullying
+WikiCrime
+WikiHarassment
+WikiHate
+WikiLawyering
+WikiLove
+WikiPeace
+Essays on notability
+Advanced source searching
+All high schools can be notable
+Alternative outlets
+Arguments to avoid in deletion discussions
+Articles with a single source
+Avoid template creep
+Bare notability
+Big events make key participants notable
+Bombardment
+Businesses with a single location
+But it's true!
+Citation overkill
+Common sourcing mistakes
+Clones
+Coatrack
+Discriminate vs indiscriminate information
+Drafts are not checked for notability or sanity
+Every snowflake is unique
+Existence ≠ Notability
+Existence does not prove notability
+Extracting the meaning of significant coverage
+Fart
+Google searches and numbers
+High Schools
+Inclusion is not an indicator of notability
+Independent sources
+Inherent notability
+Insignificant
+Masking the lack of notability
+Make stubs
+News coverage does not decrease notability
+No amount of editing can overcome a lack of notability
+No big loss
+No one cares about your garage band
+No one really cares
+Notability/Historical/Arguments
+Notability cannot be purchased
+Notability comparison test
+Notability is not a level playing field
+Notability is not a matter of opinion
+Notability is not relevance or reliability
+Notability means impact
+Notability points
+Notability sub-pages
+Notabilitymandering
+Not every single thing Donald Trump does deserves an article
+Obscurity ≠ Lack of notability
+Offline sources
+One hundred words
+One sentence does not an article make
+Other stuff exists
+Overreliance upon Google
+Perennial websites
+Pokémon test
+Read the source
+Reducing consensus to an algorithm
+Run-of-the-mill
+Significant coverage not required
+Solutions are mixtures and nothing else
+Subjective importance
+Third-party sources
+Trivial mentions
+Video links
+Vanispamcruftisement
+What BLP1E is not
+What is and is not routine coverage
+What notability is not
+What to include
+Wikipedia is not here to tell the world about your noble cause
+Humorous essays
+Anti-Wikipedian
+Asshole John rule
+Assume bad faith
+Assume faith
+Assume good wraith
+Assume stupidity
+Assume that everyone's assuming good faith, assuming that you are assuming good faith
+Avoid using preview button
+Avoid using wikilinks
+Bad Jokes and Other Deleted Nonsense
+BOLD, revert, revert, revert
+Boston Tea Party
+Barnstaritis
+Don't stuff beans up your nose
+Don't-give-a-fuckism
+Editcountitis
+Edits Per Day
+Editsummarisis
+Emerson
+Seven Ages of Editor, by Will E. Spear-Shake
+Go ahead, vandalize
+How many Wikipedians does it take to change a lightbulb?
+How to put up a straight pole by pushing it at an angle
+Is that even an essay?
+Newcomers are delicious, so go ahead and bite them
+Legal vandalism
+LTTAUTMAOK
+No climbing the Reichstag dressed as Spider-Man
+Oops Defense
+Please be a giant dick, so we can ban you
+Please bite the newbies
+R-e-s-p-e-c-t
+Requests for medication
+Requirements for adminship
+Rouge admin
+Rouge editor
+Sarcasm is really helpful
+Sausages for tasting
+The Night Before Wikimas
+The first rule of Wikipedia
+The Five Pillars of Untruth
+Things that should not be surprising
+The WikiBible
+Watchlistitis
+Why not create an account?
+You don't have to be mad to work here, but
+About essaysAbout essays
+Essay guide
+Value of essays
+Difference between policies, guidelines and essays
+Don't cite essays as if they were policy
+Avoid writing redundant essays
+Finding an essay
+Quote your own essay
+Policies and guidelines
+About policies and guidelines
+Policies
+Guidelines
+How to contribute to Wikipedia guidance
+Policy writing is hard
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Close_paraphrasing&amp;oldid=1055318337"
+		Categories: Wikipedia supplemental pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		CatalàDanskதமிழ்ไทย
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 15 November 2021, at 04:56&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

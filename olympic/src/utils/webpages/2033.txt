@@ -1,0 +1,1945 @@
+
+
+
+
+User talk:Qwerfjkl - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	User talk:Qwerfjkl
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+Discussions
+
+
+
+Centralized discussions[edit]
+
+
+Centralized discussion
+
+
+Village pumps
+policy
+tech
+proposals
+idea lab
+WMF
+misc
+
+
+
+Reliability of GEONet Names Server
+Voting in the Arbitration Committee elections
+Allowing the talk header template on new talk pages
+RfA reform
+Portal links on the main page
+
+For a listing of ongoing discussions, see the dashboard.
+
+
+
+
+view
+edit
+history
+watch
+archive
+talk
+purge
+
+
+Village pump[edit]
+
+
+
+Village Pump (policy) (8 threads)Most recent:
+Suspending an AFD&nbsp;?
+Possible need to clarify/reword aspects of the closing guidelines/information pages
+RfC on whether and how to cover J. K. Rowling's trans-related views in the lead at her article
+
+
+
+
+
+Notability for denominations and dioceses
+Notability Guideline for Future Films
+WP:PROXYING (banning policy): Clarification needed
+Fringe, Anti-fringe, and Turning Wikipedia's Values Upside-down
+Deletion of TimedText Pages
+
+
+
+
+Village Pump (technical) (23 threads)Most recent:
+TwinkleMobile
+Unicode characters outside the BMP in MediaWiki:Gadget-charinsert-core.js
+Advice on scripts
+
+
+
+
+
+Auto watch transcluded templates on watched page?
+Copy-paste
+Table sorting issue
+Is there a report on what happens to new articles?
+Navigation templates and categories are missing from mobile
+US Census Bot needed
+Template:WPBS causing expansion depth errors
+Toolforge archive claims I'm blocked
+Unable to remove the final extra line in Template:Antimatter.
+Elements in custom CSS disabled
+Auto shortdescs in infoboxes causing incorrect additions to :Category:Articles with long short description
+Make dark mode toggle script a gadget?
+Search also getting Wikidata results
+Is this available by year? Wikipedia - all rated article quality and importance data
+Can't use my current password to add an email or change my password even though I used it to sign in
+After leaving a tab open in the background, memory usage spikes
+Gadget-CollapsibleNav (Allow navigation menus to be collapsed) needs to be updated
+Unable to login to the secure poll for the ACE
+VisualEditor duplicating named citations
+Performance issue with syntax highlighting
+
+
+
+
+Village Pump (proposals) (13 threads)Most recent:
+Add disclaimers link in mobile view
+rfc: shall we update cs1/2?
+Dark mode
+
+
+
+
+
+Modify HTML title of historical page versions to include date &amp; time
+Suggestion for attracting additional editors to wiki
+Allow file uploads by URL
+Spoken narrations of the blurbs at Today's featured article (TFA)
+Removing some empty sections via bot
+Notability guidelines for Influencers?
+Changes to the universal editnotice
+Removing links to portals from the Main Page's top banner
+Make FA and GA icons in articles more noticeable #2
+Enable Article / Talk tab bar for mobile anon users
+
+
+
+
+Village Pump (idea lab) (19 threads)Most recent:
+Merging flag template system with the ISO 3166 system
+Getting more freely licensed media by allowing fair use images of living persons
+URFA addition to article milestones
+
+
+
+
+
+Adding "AfD closer" status
+Redesigning and simplifying the English Wikipedia website
+Pillar 2 NPOV means Notability should be predictable in Article Wizard
+How can we help WMF Operations" - Which data/Processes/Tools take up the most processing time
+Prevent basic errors getting into articles
+Bot collation of questions on low-watched talk pages
+Another page of users with most edits
+Representation&nbsp;: Wikipedia Foundation Election Statistics
+Sticky header
+Are we too focused on number of edits?
+Add corporate Company/Charity ID to company info box. Cross check with registries
+Spoken Wikipedia at WP:TFA, part 2
+Google Doodle advance notice
+Talk and Article integration to reduce editing time
+Blockchain and Wikipedia
+Report :Do proposal discussion Editors match Active Editor Demographics
+
+
+
+
+Village Pump (WMF) (6 threads)Most recent:
+Everipedia violates Wikipedia's free license
+User confused by sandbox
+New IP Masking implementation updates available
+
+
+
+
+
+WMF donation ads
+Wikipedia Foundation Election Statistics
+What we've got here is failure to communicate (some mobile editors you just can't reach)
+
+
+
+
+Village Pump (miscellaneous) (9 threads)Most recent:
+Film article with outdated plot vs new plot with flaws
+Petition to add Robert Mikelsons to the list of serial rapists
+Talk to the Community Tech: The future of the Community Wishlist Survey
+
+
+
+
+
+English fundraising banner campaign to start next week
+Current editor retention statistics?
+Dead links in https://en.wikipedia.org/wiki/Wikipedia:Editor%27s_index_to_Wikipedia
+Long-term abuse purge
+Whether to put common name first or full official name first when it comes to country or political-entity articles
+Very big pages
+
+
+
+
+
+
+Administrative noticeboards[edit]
+
+
+
+Administrators' noticeboard (29 threads)Most recent:
+Requested redirect creations for blacklisted music-note titles
+Arbitration motion regarding Horn of Africa
+Slow edit war
+
+
+
+
+
+User:Vakkachan Chirayath
+Horror movie editors, I'm calling on your institutional memory
+Global ban for 1Goldberg2
+Ivana Alawi
+User safeguarding controversial web page?
+Concern about admin at Alpha Motor Corporation Page
+Bruce Majors and his possible sockpuppets attempting to push fake news and POV onto pages
+User "ZaniGiovanni" canvassing on Wiki, trying to push his POV
+:Arshad Khan (writer/director , India)
+Request for an uninvolved administrator to close a discussion
+Speedy deletion - deleted previously via AFD
+Backlog at WP:UAA
+ANI archive fix
+Appeal for change of restrictions
+Likely case of block evasion
+User:ManaliJain
+Mass killings under communist regimes content resolution
+Failed login attempts
+Unban request from Hulged (Wahhid)
+Whatsupkarren / Tariq afflaq unban request
+Elmar Baxşəliyev re-blocked for copyright violations, 28 recent articles remain
+Disruption by User:Benchu937711
+Standard offer&nbsp;: ElijahPepe
+Appeal of topic ban for Paul Krugman for User:Deicas
+Pages recently put under extended-confirmed protection
+Open tasks
+
+
+
+
+Administrators' noticeboard: Incidents (27 threads)Most recent:
+Fedepip's unexplained cosmetic edits
+Parag Agrawal
+Two IP user repeatedly adding uncited materials in many BLP articles
+
+
+
+
+
+SAMBLAman seemingly not here to build an encyclopedia
+LTA evasion
+Dubious cast additions by IP 2001:1C04:431F:5600
+Leonold70
+User:Succcculent's abusive message
+Venting on an article talk page rather than a personal talk page.
+SPA with edit warring and neutrality issues at Cher Scarlett
+insulting language and disruptive edits
+Continued to disruptive edits
+Transkar
+User:Infact1
+user:Persianprince99
+Progress on the Julian Assange Basketcase
+Sumausa edit-warring violations of WP:BLP, WP:RS etc into the 2021 Waukesha Christmas parade attack article.
+201.187.68.208
+Disruptive editing by FOX52; intentionally ignore RfC consensus
+Kaş, Turkey
+User:EliProzes personal attacks
+WP:TENDENTIOUS editing by TagaworShah
+Request to have all Wiki contributions blacklisted
+Special:Contributions/2A00:23C7:2B86:9800:24BB:9FE5:EE96:7C05
+Massive deletion of Woody Woodpecker films
+The Pollster immediately returning to disruptive behavior
+203.145.95.X harassment, personal attack and possible part of off site canvassing behaviours
+
+
+
+
+Edit warring noticeboard (8 threads)Most recent:
+User:Rosekennedyrad reported by User:MrOllie (Result: Blocked 24 hours)
+User:Geraldo Perez reported by User:Cpu8 (Result: Cpu8 indeffed)
+User:WikiLinuz reported by User:Binksternet (Result: )
+
+
+
+
+
+User: MehmoodS reported by User:Suthasianhistorian8 (Result: Page protected)
+User:108.30.187.155 reported by User:Springee (Result: )
+User:SavageCabbages reported by User:Laterthanyouthink (Result: Warned)
+User: Nableezy reported by User:Bob drobbs (Result: No violation, request withdrawn)
+User:2806:2F0:60C0:849F:E5:1FD:9245:87A6 reported by User:Lavalizard101 (Result: Semi)
+
+
+
+
+Bureaucrats' noticeboard (3 threads)Most recent:
+Resigning admin permissions
+Voluntarily resigning my administrative permissions
+Epbr123
+
+
+
+
+
+
+
+
+
+Bots noticeboard (3 threads)Most recent:
+Double redirects not fixed for several days
+DumbBOT
+Bot that applied ShadowsCommons tags
+
+
+
+
+
+
+
+
+
+Arbitration Committee noticeboard (5 threads)Most recent:
+Arbitration motion regarding Horn of Africa
+Level 1 desysop of Epbr123
+Temporary checkuser privileges for scrutineers
+
+
+
+
+
+GeneralNotability promoted to full clerk
+Eostrix Blocked
+
+
+
+
+Arbitration Enforcement noticeboard (3 threads)Most recent:
+Interfase
+AmirahBreen
+Hijiri88
+
+
+
+
+
+
+
+
+
+
+
+Editors requesting help[edit]
+
+
+
+Wikipedians looking for help (0 requests)
+
+
+
+0 page(s) currently transcluding the {{Help me}} template.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requests for adminship[edit]
+
+
+
+Requests for adminship
+
+
+
+
+
+
+
+
+
+
+
+
+
+RfA candidate
+S
+O
+N
+S%
+Ending (UTC)
+Time left
+Dups?
+Report
+
+
+RfB candidate
+S
+O
+N
+S%
+Ending (UTC)
+Time left
+Dups?
+Report
+
+
+
+No RfXs since 10:38, 21 October 2021 (UTC).—cyberbot ITalk to my owner:Online
+
+
+
+
+
+Recently closed RfAs and RfBs (update)
+
+
+Candidate
+
+Type
+
+Result
+
+Date of close
+
+Tally
+
+
+S
+
+O
+
+N
+
+%
+
+
+Eostrix
+
+RfA
+
+Unsuccessful
+
+20 Oct 2021
+
+123
+
+1
+
+2
+
+99
+
+
+Blablubbs
+
+RfA
+
+Successful
+
+11 Sep 2021
+
+288
+
+5
+
+0
+
+98
+
+
+BusterD 2
+
+RfA
+
+Successful
+
+9 Jul 2021
+
+189
+
+2
+
+0
+
+99
+
+
+
+
+Click here to start a new discussion
+
+
+This is Qwerfjkl's talk page, where you can send them messages and comments.
+
+
+
+
+
+Put new text under old text. Click here to start a new topic.
+Sign your posts by typing four tildes (~~~~).
+New to Wikipedia? Welcome! Learn to edit; get help.
+
+
+Assume good faith
+Be polite and avoid personal attacks
+Be welcoming to newcomers
+Seek dispute resolution if needed
+
+
+
+Archives: 1, 2, 3, 4, 5Auto-archiving period: 30&nbsp;days&nbsp;
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Due to the COVID 19 pandemic, this user asks you to take precautions:
+
+
+1. Maintain social distancing by starting new posts in new sections, to avoid contaminating other users. 
+
+
+2. Follow the one-way system by putting new posts at the bottom.
+
+
+3. Sign your comments to facilitate contact tracing. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Centralized discussions
+2 Village pump
+3 Administrative noticeboards
+4 Editors requesting help
+5 Requests for adminship
+6 Wilhelm Schmalz
+7 DisamAssist
+8 Shell
+9 Short descriptions
+10 RfA Reform 2021 Phase 2 has begun
+11 The Signpost: 31 October 2021
+12 Administrators' newsletter – November 2021
+13 Tech News: 2021-44
+14 Trouted
+15 Feedback request: Wikipedia style and naming request for comment
+16 Display title
+17 Trouted
+18 Speedy deletion nomination of Category:Government ministers with physical disabilities
+19 WT talk:USPOLITICS
+20 Trouted
+21 Trouted
+22 Speedy deletion nomination of Category:Recursive acronyms
+23 Category:Recursive acronyms has been nominated for discussion
+24 Tech News: 2021-45
+25 Jerrold Mundis
+26 Feedback request: Wikipedia style and naming request for comment
+27 pokemon bdsp
+28 bot problem?
+
+28.1 Bot blocked
+
+
+29 "Ralphthemoviemaker" listed at Redirects for discussion
+30 Richard Aylmer
+31 Mobcap
+32 Test
+33 Rupert Bruce-Mitford
+34 Question from SimDefinitions (20:19, 14 November 2021)
+35 New page reviewer granted
+36 Tech News: 2021-46
+37 Question from HELLO IM NAZEEF (08:07, 16 November 2021)
+38 Question from HELLO IM NAZEEF (16:40, 16 November 2021)
+39 Change content model
+40 Question from Cavygoagoses on Activated charcoal (medication) (05:18, 20 November 2021)
+41 Question from Chabot4me (14:07, 21 November 2021)
+42 Can you give me some details in how to make a proper list?
+43 Tech News: 2021-47
+44 ArbCom 2021 Elections voter message
+45 Dang, you did a number on my redirect "awesome brah island"
+46 Trouted
+47 Question from Tejas Mohan Bhave (05:37, 26 November 2021)
+48 Relisting discussions at RfD
+49 Special:Nuke
+50 Can you move my List of mayors of Columbia, Missouri to draft please
+51 The Signpost: 29 November 2021
+
+
+
+
+
+
+
+
+
+
+
+Wilhelm Schmalz[edit]
+
+
+My edit of the page of Wilhelm Schmalz was removed. I am doing research about the legacy of Wilhelm Schmalz and found one of his distant descendants. This edit was removed without any reason. TSchmlz (talk) 15:49, 30 October 2021 (UTC)
+
+@TSchmlz I gave reasons each time I reverted you (Serols didn't).
+Don't add content like==Famous Relatives==
+P.J.F.G. Schmalz: Dutch student. He is known as a womanizer and a beautiful robberYou have violated several of Wikipedia's policies (WP:NPOV, WP:CITE, WP:EDITWAR etc.)&nbsp;―&nbsp;Qwerfjkltalk 16:22, 30 October 2021 (UTC)
+DisamAssist[edit]
+
+
+Hello.  I see you've installed a modified version of DisamAssist.  Please beware that there are a few differences between "my" version and the "official" one, listed here, and they may diverge further in future.  Code diffs: DisamAssist and core.  Happy editing, Certes (talk) 23:39, 30 October 2021 (UTC)
+
+Shell[edit]
+
+
+Thank you for letting me know. Will be glad to adhere to your request. Red Director (talk) 12:30, 31 October 2021 (UTC)
+
+Short descriptions[edit]
+
+
+Hello again. I do not think it is a good idea to do those semi-automatically. In my experience working on those, various article subjects have some unique differences about them that require some notice to detail. Most are uniform for the most part, but I do run into some that require kind of a unique or close to unique short description. I welcome any advice on your side though. Red Director (talk) 13:37, 31 October 2021 (UTC)
+
+RfA Reform 2021 Phase 2 has begun[edit]
+
+
+
+Following a 2 week brainstorming period and a 1 week proposal period, the 30 day discussion of changes to our Request for Adminship process has begun. Following feedback on Phase 1, in order to ensure that the largest number of people possible can see all proposals, new proposals will only be accepted for the for the first 7 days of Phase 2. The 30 day discussion is scheduled to last until November 30. Please join the discussion or even submit your own proposal.
+
+
+There is 1 future mailing planned with the results of Phase 2. To opt-out of future mailings, please remove yourself here.
+
+
+
+
+16:13, 31 October 2021 (UTC)
+
+The Signpost: 31 October 2021[edit]
+ 
+From the editor: Different stories, same place
+News and notes: The sockpuppet who ran for adminship and almost succeeded
+In the media: China bans, and is there intelligent life on this planet?
+Opinion: A photo on Wikipedia can ruin your life
+Discussion report: Editors brainstorm and propose changes to the Requests for adminship process
+Recent research: Welcome messages fail to improve newbie retention
+Community view: Reflections on the Chinese Wikipedia
+Traffic report: James Bond and the Giant Squid Game
+Technology report: Wikimedia Toolhub, winners of the Coolest Tool Award, and more
+Serendipity: How Wikipedia helped create a Serbian stamp
+Book review: Wikipedia and the Representation of Reality
+WikiProject report: Redirection
+Humour: A very Wiki crossword   * Read this Signpost in full * Single-page * Unsubscribe * MediaWiki message delivery (talk) 20:15, 31 October 2021 (UTC) 
+Administrators' newsletter – November 2021[edit]
+
+
+News and updates for administrators from the past month (October 2021).
+
+
+
+
+
+
+
+
+ Administrator changes
+
+ Clpo13
+ Brian0918 • JDoorjam • Karanacs • MrDarcy • Mindspillage
+
+
+ Interface administrator changes
+
+ Evad37
+
+
+
+
+
+
+
+
+
+
+ CheckUser changes
+
+ Dreamy Jazz • Ferret • GeneralNotability • Girth Summit • RoySmith
+
+
+ Oversight changes
+
+ Dreamy Jazz • LuK3
+
+
+ 
+
+
+
+
+ Guideline and policy news
+
+Phase 2 of the 2021 RfA review has commenced which will discuss potential solutions to address the 8 issues found in Phase 1. Proposed solutions that achieve consensus will be implemented and you may propose solutions till 07 November 2021.
+
+
+ Technical news
+
+Toolhub is a catalogue of tools which can be used on Wikimedia wikis. It is at https://toolhub.wikimedia.org/.
+
+
+ Arbitration
+
+GeneralNotability, Mz7 and Cyberpower678 have been appointed to the Electoral Commission for the 2021 Arbitration Committee Elections. Ivanvector and John M Wolfson are reserve commissioners.
+Eligible editors are invited to self-nominate themselves to stand in the 2021 Arbitration Committee elections from 07 November 2021 until 16 November 2021.
+
+
+ Miscellaneous
+
+The 2021 CheckUser and Oversight appointments process has concluded with the appointment of five new CheckUsers and two new Oversighters.
+
+
+Discuss this newsletter
+Subscribe
+Archive
+
+Sent by MediaWiki message delivery (talk) 16:44, 1 November 2021 (UTC)
+Tech News: 2021-44[edit]
+
+
+
+Latest tech news from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. Translations are available.
+
+
+Recent changes
+
+There is a limit on the amount of emails a user can send each day. This limit is now global instead of per-wiki. This change is to prevent abuse. [1]
+
+
+Changes later this week
+
+ The new version of MediaWiki will be on test wikis and MediaWiki.org from 2 November. It will be on non-Wikipedia wikis and some Wikipedias from 3 November. It will be on all wikis from 4 November (calendar).
+
+
+Tech news prepared by Tech News writers and posted by bot&nbsp;• Contribute&nbsp;• Translate&nbsp;• Get help&nbsp;• Give feedback&nbsp;• Subscribe or unsubscribe.
+
+
+
+
+20:27, 1 November 2021 (UTC)
+
+Trouted[edit]
+
+
+
+
+
+Whack! 
+ 
+
+You've been whacked with a wet trout.Don't take this too seriously. Someone just wants to let you know you did something silly.
+
+
+
+You have been trouted for 2 years! 111.65.63.83 (talk) 22:33, 1 November 2021 (UTC)
+
+Feedback request: Wikipedia style and naming request for comment[edit]
+Your feedback is requested  at Wikipedia talk:Manual of Style  on a "Wikipedia style and naming" request for comment. Thank you for helping out!
+You were randomly selected to receive this invitation from the list of Feedback Request Service subscribers. If you'd like not to receive these messages any more, you can opt out at any time by removing your name.  Message delivered to you with love by Yapperbot&nbsp;:) | Is this wrong? Contact my bot operator. | Sent at  13:31, 2 November 2021 (UTC)
+Display title[edit]
+
+
+Hey, I like how you've customized the display title of your user page. I tried copy and pasting the template to mine but it doesn't seem to have any effect. Any idea what I might be doing wrong? AHollender (WMF) (talk) 18:09, 2 November 2021 (UTC)
+
+@AHollender (WMF) (I actually shamelessly stole this from User:Sportzpikachu.) It gave the error
+Warning: Display title "User:Qwerfjkl" was ignored since it is not equivalent to the page's actual title.
+so I fixed that.&nbsp;―&nbsp;Qwerfjkltalk 18:20, 2 November 2021 (UTC)
+awesome, thank you, that helped me. working now&nbsp;: ) AHollender (WMF) (talk) 18:55, 2 November 2021 (UTC)
+I actually stole it from User:Chlod lol, you can even see the exact same disclaimer. I modified it for my talk page though, so it says "sportzpikachu: talk" instead of "User talk:Sportzpikachu". Involves lots of css trickery with positioning so if you want to copy that be sure to play around with the values ―sportzpikachu my talkcontribs 02:29, 4 November 2021 (UTC)
+Trouted[edit]
+
+
+
+
+
+Whack! 
+ 
+
+You've been whacked with a wet trout.Don't take this too seriously. Someone just wants to let you know you did something silly.
+
+
+
+You have been trouted for: Hahaha!!! 111.65.63.97 (talk) 12:44, 3 November 2021 (UTC)
+
+Speedy deletion nomination of Category:Government ministers with physical disabilities[edit]
+
+
+
+A tag has been placed on Category:Government ministers with physical disabilities indicating that it is currently empty, and is not a disambiguation category, a category redirect, a featured topics category, under discussion at Categories for discussion, or a project category that by its nature may become empty on occasion. If it remains empty for seven days or more, it may be deleted under section C1 of the criteria for speedy deletion. 
+
+
+If you think this page should not be deleted for this reason you may contest the nomination by visiting the page and clicking the button labelled "Contest this speedy deletion". This will give you the opportunity to explain why you believe the page should not be deleted. Please do not remove the speedy deletion tag from the page yourself.   Liz Read! Talk! 17:41, 3 November 2021 (UTC)
+
+Hello, Qwerfjkl,
+I realize that you create categories on request. The editor who requested this one has 7 days to assign a page to this category or it will be deleted so that's a sufficient amount of time. Categories deleted only for being empty can be recreated whenever there is a need for them later. Thanks. Liz Read! Talk! 17:43, 3 November 2021 (UTC)
+It's fine, I can easily mass-categorise articles.&nbsp;―&nbsp;Qwerfjkltalk 17:45, 3 November 2021 (UTC)
+WT talk:USPOLITICS[edit]
+
+
+What had you actually intended here? Came across it on NPP and I feel that there's some story behind this. Just curious, not judging&nbsp;:) Sennecaster (Chat) 17:48, 3 November 2021 (UTC)
+
+@Sennecaster: Oops. WP:AFCRC helper script can't handle non-mainspace requests, so I have to manually tag them for deletion. See:
+[17:33, 3 November 2021]
+[17:32, 3 November 2021]
+[17:32, 3 November 2021]
+[17:32, 3 November 2021]
+[17:32, 3 November 2021]
+[17:32, 3 November 2021]
+[17:31, 3 November 2021]
+Pinging script maintainer @Enterprisey.&nbsp;―&nbsp;Qwerfjkltalk 17:52, 3 November 2021 (UTC)
+Oh wow, yeah, quite interesting. Thanks for explaining, I'll keep that in mind until Enterprisey weighs in, and I guess there goes their hard-fought 0 pings... Sennecaster (Chat) 17:56, 3 November 2021 (UTC)
+Should handle talk pages better now. (I think those diff links are a little suspicious, by the way...) Enterprisey&nbsp;(talk!) 06:42, 4 November 2021 (UTC)
+Trouted[edit]
+
+
+
+
+
+Whack! 
+ 
+
+You've been whacked with a wet trout.Don't take this too seriously. Someone just wants to let you know you did something silly.
+
+
+
+You have been trouted for: Hahaha!! 😂 111.65.61.253 (talk) 06:44, 4 November 2021 (UTC)
+
+Trouted[edit]
+
+
+
+
+
+Whack! 
+ 
+
+You've been whacked with a wet trout.Don't take this too seriously. Someone just wants to let you know you did something silly.
+
+
+
+You have been trouted for: Hahaha!! 😭 111.65.61.253 (talk) 06:46, 4 November 2021 (UTC)
+
+Speedy deletion nomination of Category:Recursive acronyms[edit]
+
+
+
+A tag has been placed on Category:Recursive acronyms indicating that it is currently empty, and is not a disambiguation category, a category redirect, a featured topics category, under discussion at Categories for discussion, or a project category that by its nature may become empty on occasion. If it remains empty for seven days or more, it may be deleted under section C1 of the criteria for speedy deletion. 
+
+
+If you think this page should not be deleted for this reason you may contest the nomination by visiting the page and clicking the button labelled "Contest this speedy deletion". This will give you the opportunity to explain why you believe the page should not be deleted. Please do not remove the speedy deletion tag from the page yourself.   Liz Read! Talk! 18:36, 4 November 2021 (UTC)
+
+Category:Recursive acronyms has been nominated for discussion[edit]
+Category:Recursive acronyms has been nominated for possible deletion, merging, or renaming. A discussion is taking place to decide whether this proposal complies with the categorization guidelines. If you would like to participate in the discussion, you are invited to add your comments at the category's entry on the categories for discussion page. Thank you. * Pppery * it has begun... 01:05, 8 November 2021 (UTC)
+Tech News: 2021-45[edit]
+
+
+
+Latest tech news from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. Translations are available.
+
+
+Recent changes
+
+Mobile IP editors are now able to receive warning notices indicating they have a talk page message on the mobile website (similar to the orange banners available on desktop). These notices will be displayed on every page outside of the main namespace and every time the user attempts to edit. The notice on desktop now has a slightly different colour. [2][3]
+
+
+Changes later this week
+
+Wikidata will be read-only for a few minutes on 11 November. This will happen around 06:00 UTC. This is for database maintenance. [4]
+There is no new MediaWiki version this week.
+
+
+Future changes
+
+In the future, unregistered editors will be given an identity that is not their IP address. This is for legal reasons. A new user right will let editors who need to know the IPs of unregistered accounts to fight vandalism, spam, and harassment, see the IP. You can read the suggestions for how that identity could work and discuss on the talk page.
+
+
+Tech news prepared by Tech News writers and posted by bot&nbsp;• Contribute&nbsp;• Translate&nbsp;• Get help&nbsp;• Give feedback&nbsp;• Subscribe or unsubscribe.
+
+
+
+
+20:35, 8 November 2021 (UTC)
+
+Jerrold Mundis[edit]
+
+
+Hi --is there any way you could look at this article? Thanks so much. Isabel Ochone https://en.wikipedia.org/wiki/Draft:Jerrold_Mundis —&nbsp;Preceding unsigned comment added by Iochone (talk • contribs) 16:06, 10 November 2021 (UTC)
+
+Feedback request: Wikipedia style and naming request for comment[edit]
+Your feedback is requested  at Talk:BBC Sport  on a "Wikipedia style and naming" request for comment. Thank you for helping out!
+You were randomly selected to receive this invitation from the list of Feedback Request Service subscribers. If you'd like not to receive these messages any more, you can opt out at any time by removing your name.  Message delivered to you with love by Yapperbot&nbsp;:) | Is this wrong? Contact my bot operator. | Sent at  02:31, 11 November 2021 (UTC)
+pokemon bdsp[edit]
+
+
+Hello, you accepted pokemon bdsp but didn't create it.  Did you forget, or did you intend to create Pokemon BDSP in its place?  Thank you for monitoring AFC/R!  107.11.98.87 (talk) 14:10, 11 November 2021 (UTC)
+
+Yes, I intentionally created Pokemon BDSP instead, it seemed a more common term. I meant to leave a comment but misclicked.&nbsp;―&nbsp;Qwerfjkltalk 17:16, 11 November 2021 (UTC)
+bot problem?[edit]
+
+
+Hello Qwerfjkl, please check your settings for your bot, User:Qwerfjkl (bot). In Wikipedia:Bots/Requests for approval/Qwerfjkl (bot) 2 it is listed as exclusion compliant, however in this edit it appears to have ignored that: Special:PermaLink/1054543578.  Notice that your bot was already in a deny list when it made that edit. — xaosflux Talk 18:09, 11 November 2021 (UTC)
+
+@John Maynard Friedman: - this is the follow up from VP. — xaosflux Talk 18:10, 11 November 2021 (UTC)
+
+
+Hello Qwerfjkl, is the correct syntax {{bots|deny=Qwerfjkl (bot)}}, because it doesn't fend off the bot. {{bots|deny=Qwerfjkl}} hasn't been over-ridden yet but is that just good luck? --John Maynard Friedman (talk) 20:02, 11 November 2021 (UTC)
+
+Hi, I'll check my settings and try to reply sometime tomorrow. (I'm currently on mobile.)&nbsp;―&nbsp;Qwerfjkltalk 20:41, 11 November 2021 (UTC)
+@Xaosflux Hmm... I do have "ignore {{bots}} and {{nobots}}" unchecked. If it helps, these are my settings:
+
+
+
+
+Extended content
+
+
+
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;AutoWikiBrowserPreferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xml:space="preserve" Version="6.2.1.0"&gt;
+  &lt;Project&gt;wikipedia&lt;/Project&gt;
+  &lt;LanguageCode&gt;en&lt;/LanguageCode&gt;
+  &lt;CustomProject /&gt;
+  &lt;Protocol&gt;http://&lt;/Protocol&gt;
+  &lt;LoginDomain /&gt;
+  &lt;List&gt;
+    &lt;ListSource&gt;101&lt;/ListSource&gt;
+    &lt;SelectedProvider&gt;CheckWikiWithNumberListProvider&lt;/SelectedProvider&gt;
+    &lt;ArticleList&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Berbati Valley&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Chinese patchwork&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Chinyere Stella Okunna&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Chitharesh Natesan&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;David J. McComas&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Gedion Timotheos&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Great Little Box Company&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Hisham Algakh&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Ilha Fiscal&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Jurbarkas Manor&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;K-Startup Grand Challenge&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;K. Alison Clarke-Stewart&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;K. C. Paul&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kadannappalli Ramachandran&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kaithapram Damodaran Namboothiri&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kakhovka&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kalamazoo Promise&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kalimavkion&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kamakhya Prasad Tasa&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kampot (pepper)&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kanazawa Bunko&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;KansasFest&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kappela&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Karam Chand Bachhawat&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Karlheinz Brandenburg&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kartena Hillfort&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Kasaya (clothing)&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of border conflicts&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of NJ Transit bus routes (100–199)&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of Polish divisions in World War I&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Assembly of Madrid&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Basque Parliament&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Cortes of Aragon&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Cortes of Castile and León&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Cortes of Castilla–La Mancha&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Corts Valencianes&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Extremaduran Assembly&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Parliament of Andalusia&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Parliament of Cantabria&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Parliament of La Rioja&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Parliament of Navarre&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Parliament of the Canary Islands&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of presidents of the Regional Assembly of Murcia&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of Ptolemaic governors of Cyprus&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of public art in St James's&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of Puskás Akadémia FC seasons&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of Rajya Sabha members from Odisha&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of Royal Military College of Canada people&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of SC Pick Szeged seasons&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of second-generation Major League Baseball players&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of songs recorded by Fats Domino&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;List of typographical symbols and punctuation marks&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Miss World Singapore&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Mobcap&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Muhammad Taha Al-Qaddal&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;National Treasure (Vietnam)&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Ordinal indicator&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Pallab Bhattacharyya&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Projections of population growth&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Richard Aylmer (politician)&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Risk management for cultural heritage&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Somaliland&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;The Babylonian Marriage Market&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;Wavinya Ndeti&lt;/Name&gt;
+      &lt;/Article&gt;
+      &lt;Article NameSpaceKey="0"&gt;
+        &lt;PreProcessed&gt;false&lt;/PreProcessed&gt;
+        &lt;Name&gt;West Indies cricket team&lt;/Name&gt;
+      &lt;/Article&gt;
+    &lt;/ArticleList&gt;
+  &lt;/List&gt;
+  &lt;FindAndReplace&gt;
+    &lt;Enabled&gt;false&lt;/Enabled&gt;
+    &lt;IgnoreSomeText&gt;false&lt;/IgnoreSomeText&gt;
+    &lt;IgnoreMoreText&gt;false&lt;/IgnoreMoreText&gt;
+    &lt;AppendSummary&gt;true&lt;/AppendSummary&gt;
+    &lt;Replacements&gt;
+      &lt;Replacement&gt;
+        &lt;Find&gt;\[\[Category:&lt;/Find&gt;
+        &lt;Replace&gt;[[Category:&lt;/Replace&gt;
+        &lt;Comment /&gt;
+        &lt;IsRegex&gt;false&lt;/IsRegex&gt;
+        &lt;Enabled&gt;true&lt;/Enabled&gt;
+        &lt;Minor&gt;false&lt;/Minor&gt;
+        &lt;BeforeOrAfter&gt;false&lt;/BeforeOrAfter&gt;
+        &lt;RegularExpressionOptions&gt;IgnoreCase&lt;/RegularExpressionOptions&gt;
+      &lt;/Replacement&gt;
+    &lt;/Replacements&gt;
+    &lt;AdvancedReps /&gt;
+    &lt;SubstTemplates /&gt;
+    &lt;IncludeComments&gt;false&lt;/IncludeComments&gt;
+    &lt;ExpandRecursively&gt;true&lt;/ExpandRecursively&gt;
+    &lt;IgnoreUnformatted&gt;false&lt;/IgnoreUnformatted&gt;
+  &lt;/FindAndReplace&gt;
+  &lt;Editprefs&gt;
+    &lt;GeneralFixes&gt;true&lt;/GeneralFixes&gt;
+    &lt;Tagger&gt;false&lt;/Tagger&gt;
+    &lt;Unicodify&gt;true&lt;/Unicodify&gt;
+    &lt;Recategorisation&gt;0&lt;/Recategorisation&gt;
+    &lt;NewCategory /&gt;
+    &lt;NewCategory2 /&gt;
+    &lt;ReImage&gt;1&lt;/ReImage&gt;
+    &lt;ImageFind /&gt;
+    &lt;Replace /&gt;
+    &lt;SkipIfNoCatChange&gt;false&lt;/SkipIfNoCatChange&gt;
+    &lt;RemoveSortKey&gt;false&lt;/RemoveSortKey&gt;
+    &lt;SkipIfNoImgChange&gt;false&lt;/SkipIfNoImgChange&gt;
+    &lt;AppendText&gt;false&lt;/AppendText&gt;
+    &lt;AppendTextMetaDataSort&gt;false&lt;/AppendTextMetaDataSort&gt;
+    &lt;Append&gt;true&lt;/Append&gt;
+    &lt;Text /&gt;
+    &lt;Newlines&gt;0&lt;/Newlines&gt;
+    &lt;AutoDelay&gt;0&lt;/AutoDelay&gt;
+    &lt;BotMaxEdits&gt;5000&lt;/BotMaxEdits&gt;
+    &lt;SupressTag&gt;false&lt;/SupressTag&gt;
+    &lt;RegexTypoFix&gt;false&lt;/RegexTypoFix&gt;
+  &lt;/Editprefs&gt;
+  &lt;General&gt;
+    &lt;AutoSaveEdit&gt;
+      &lt;Enabled&gt;false&lt;/Enabled&gt;
+      &lt;SavePeriod&gt;30&lt;/SavePeriod&gt;
+      &lt;SaveFile /&gt;
+    &lt;/AutoSaveEdit&gt;
+    &lt;SelectedSummary&gt;clean up; fix [[Wikipedia:WikiProject Check Wikipedia/List of errors#101|CW Error #101]]: Ordinal numbers should be in regular text, not inside &amp;lt;sup&amp;gt; tags.&lt;/SelectedSummary&gt;
+    &lt;Summaries&gt;
+      &lt;string&gt;clean up&lt;/string&gt;
+      &lt;string&gt;re-categorisation per [[WP:CFD|CFD]]&lt;/string&gt;
+      &lt;string&gt;clean up and re-categorisation per [[WP:CFD|CFD]]&lt;/string&gt;
+      &lt;string&gt;removing category per [[WP:CFD|CFD]]&lt;/string&gt;
+      &lt;string&gt;[[Wikipedia:Template substitution|subst:'ing]]&lt;/string&gt;
+      &lt;string&gt;[[Wikipedia:WikiProject Stub sorting|stub sorting]]&lt;/string&gt;
+      &lt;string&gt;[[WP:AWB/T|Typo fixing]]&lt;/string&gt;
+      &lt;string&gt;bad link repair&lt;/string&gt;
+      &lt;string&gt;Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]]&lt;/string&gt;
+      &lt;string&gt;Unicodifying&lt;/string&gt;
+      &lt;string&gt;clean up (from [[Wikipedia:Typo Team/moss/M]]&lt;/string&gt;
+      &lt;string&gt;Clean up (from [[Wikipedia:Typo Team/moss/M]])&lt;/string&gt;
+      &lt;string&gt;Per [[Wikipedia:Categories for discussion/Log/2021 July 10#Category:RTTNEURO|this CfD discussion]]&lt;/string&gt;
+      &lt;string&gt;Per [[||this CfD discussion]]&lt;/string&gt;
+      &lt;string&gt;clean up; [WP:CHECKWIKI|Checkwiki]] error fix #101:  Ordinal number found inside &amp;lt;sup&amp;gt; tags.&lt;/string&gt;
+      &lt;string&gt;clean up; [[WP:CHECKWIKI|Checkwiki]] error fix #101:  Ordinal number found inside &amp;lt;sup&amp;gt; tags.&lt;/string&gt;
+      &lt;string&gt;clean up; fic [[Wikipedia:WikiProject Check Wikipedia/List of errors#101|CW Error #101]]: Ordinal numbers should be in regular text, not inside &amp;lt;sup&amp;gt; tags.&lt;/string&gt;
+      &lt;string&gt;clean up; fix [[Wikipedia:WikiProject Check Wikipedia/List of errors#101|CW Error #101]]: Ordinal numbers should be in regular text, not inside &amp;lt;sup&amp;gt; tags.&lt;/string&gt;
+      &lt;string&gt;Create disambiguation page redirect&lt;/string&gt;
+    &lt;/Summaries&gt;
+    &lt;PasteMore&gt;
+      &lt;string /&gt;
+      &lt;string /&gt;
+      &lt;string /&gt;
+      &lt;string /&gt;
+      &lt;string /&gt;
+      &lt;string /&gt;
+      &lt;string /&gt;
+      &lt;string /&gt;
+      &lt;string /&gt;
+      &lt;string /&gt;
+    &lt;/PasteMore&gt;
+    &lt;FindText&gt;==&lt;/FindText&gt;
+    &lt;FindRegex&gt;false&lt;/FindRegex&gt;
+    &lt;FindCaseSensitive&gt;false&lt;/FindCaseSensitive&gt;
+    &lt;WordWrap&gt;true&lt;/WordWrap&gt;
+    &lt;ToolBarEnabled&gt;false&lt;/ToolBarEnabled&gt;
+    &lt;BypassRedirect&gt;false&lt;/BypassRedirect&gt;
+    &lt;AutoSaveSettings&gt;false&lt;/AutoSaveSettings&gt;
+    &lt;noSectionEditSummary&gt;false&lt;/noSectionEditSummary&gt;
+    &lt;restrictDefaultsortAddition&gt;true&lt;/restrictDefaultsortAddition&gt;
+    &lt;restrictOrphanTagging&gt;true&lt;/restrictOrphanTagging&gt;
+    &lt;noMOSComplianceFixes&gt;false&lt;/noMOSComplianceFixes&gt;
+    &lt;syntaxHighlightEditBox&gt;false&lt;/syntaxHighlightEditBox&gt;
+    &lt;highlightAllFind&gt;false&lt;/highlightAllFind&gt;
+    &lt;PreParseMode&gt;false&lt;/PreParseMode&gt;
+    &lt;NoAutoChanges&gt;false&lt;/NoAutoChanges&gt;
+    &lt;OnLoadAction&gt;0&lt;/OnLoadAction&gt;
+    &lt;DiffInBotMode&gt;false&lt;/DiffInBotMode&gt;
+    &lt;Minor&gt;true&lt;/Minor&gt;
+    &lt;AddToWatchlist&gt;3&lt;/AddToWatchlist&gt;
+    &lt;TimerEnabled&gt;false&lt;/TimerEnabled&gt;
+    &lt;SortListAlphabetically&gt;false&lt;/SortListAlphabetically&gt;
+    &lt;AddIgnoredToLog&gt;false&lt;/AddIgnoredToLog&gt;
+    &lt;EditToolbarEnabled&gt;true&lt;/EditToolbarEnabled&gt;
+    &lt;filterNonMainSpace&gt;false&lt;/filterNonMainSpace&gt;
+    &lt;AutoFilterDuplicates&gt;false&lt;/AutoFilterDuplicates&gt;
+    &lt;FocusAtEndOfEditBox&gt;false&lt;/FocusAtEndOfEditBox&gt;
+    &lt;scrollToUnbalancedBrackets&gt;true&lt;/scrollToUnbalancedBrackets&gt;
+    &lt;TextBoxSize&gt;10&lt;/TextBoxSize&gt;
+    &lt;TextBoxFont&gt;Courier New&lt;/TextBoxFont&gt;
+    &lt;LowThreadPriority&gt;false&lt;/LowThreadPriority&gt;
+    &lt;Beep&gt;false&lt;/Beep&gt;
+    &lt;Flash&gt;false&lt;/Flash&gt;
+    &lt;Minimize&gt;false&lt;/Minimize&gt;
+    &lt;LockSummary&gt;true&lt;/LockSummary&gt;
+    &lt;SaveArticleList&gt;true&lt;/SaveArticleList&gt;
+    &lt;SuppressUsingAWB&gt;false&lt;/SuppressUsingAWB&gt;
+    &lt;AddUsingAWBToActionSummaries&gt;false&lt;/AddUsingAWBToActionSummaries&gt;
+    &lt;IgnoreNoBots&gt;false&lt;/IgnoreNoBots&gt;
+    &lt;ClearPageListOnProjectChange&gt;false&lt;/ClearPageListOnProjectChange&gt;
+    &lt;SortInterWikiOrder&gt;true&lt;/SortInterWikiOrder&gt;
+    &lt;ReplaceReferenceTags&gt;true&lt;/ReplaceReferenceTags&gt;
+    &lt;LoggingEnabled&gt;true&lt;/LoggingEnabled&gt;
+    &lt;AlertPreferences /&gt;
+  &lt;/General&gt;
+  &lt;SkipOptions&gt;
+    &lt;SkipNonexistent&gt;true&lt;/SkipNonexistent&gt;
+    &lt;Skipexistent&gt;false&lt;/Skipexistent&gt;
+    &lt;SkipDontCare&gt;false&lt;/SkipDontCare&gt;
+    &lt;SkipWhenNoChanges&gt;false&lt;/SkipWhenNoChanges&gt;
+    &lt;SkipSpamFilterBlocked&gt;false&lt;/SkipSpamFilterBlocked&gt;
+    &lt;SkipInuse&gt;false&lt;/SkipInuse&gt;
+    &lt;SkipWhenOnlyWhitespaceChanged&gt;false&lt;/SkipWhenOnlyWhitespaceChanged&gt;
+    &lt;SkipOnlyGeneralFixChanges&gt;false&lt;/SkipOnlyGeneralFixChanges&gt;
+    &lt;SkipOnlyMinorGeneralFixChanges&gt;false&lt;/SkipOnlyMinorGeneralFixChanges&gt;
+    &lt;SkipOnlyCosmetic&gt;true&lt;/SkipOnlyCosmetic&gt;
+    &lt;SkipOnlyCasingChanged&gt;false&lt;/SkipOnlyCasingChanged&gt;
+    &lt;SkipIfRedirect&gt;false&lt;/SkipIfRedirect&gt;
+    &lt;SkipIfNoAlerts&gt;false&lt;/SkipIfNoAlerts&gt;
+    &lt;SkipDoes&gt;false&lt;/SkipDoes&gt;
+    &lt;SkipDoesText /&gt;
+    &lt;SkipDoesRegex&gt;false&lt;/SkipDoesRegex&gt;
+    &lt;SkipDoesCaseSensitive&gt;false&lt;/SkipDoesCaseSensitive&gt;
+    &lt;SkipDoesAfterProcessing&gt;false&lt;/SkipDoesAfterProcessing&gt;
+    &lt;SkipDoesNot&gt;false&lt;/SkipDoesNot&gt;
+    &lt;SkipDoesNotText /&gt;
+    &lt;SkipDoesNotRegex&gt;false&lt;/SkipDoesNotRegex&gt;
+    &lt;SkipDoesNotCaseSensitive&gt;false&lt;/SkipDoesNotCaseSensitive&gt;
+    &lt;SkipDoesNotAfterProcessing&gt;false&lt;/SkipDoesNotAfterProcessing&gt;
+    &lt;SkipNoFindAndReplace&gt;false&lt;/SkipNoFindAndReplace&gt;
+    &lt;SkipMinorFindAndReplace&gt;false&lt;/SkipMinorFindAndReplace&gt;
+    &lt;SkipNoRegexTypoFix&gt;false&lt;/SkipNoRegexTypoFix&gt;
+    &lt;SkipNoDisambiguation&gt;false&lt;/SkipNoDisambiguation&gt;
+    &lt;SkipNoLinksOnPage&gt;false&lt;/SkipNoLinksOnPage&gt;
+    &lt;GeneralSkipList /&gt;
+  &lt;/SkipOptions&gt;
+  &lt;Module&gt;
+    &lt;Enabled&gt;false&lt;/Enabled&gt;
+    &lt;Language&gt;C# 3.5&lt;/Language&gt;
+    &lt;Code&gt;        public string ProcessArticle(string ArticleText, string ArticleTitle, int wikiNamespace, out string Summary, out bool Skip)
+        {
+            Skip = false;
+            Summary = "test";
+            ArticleText = "test \r
+\r
+" + ArticleText;
+            return ArticleText;
+        }&lt;/Code&gt;
+  &lt;/Module&gt;
+  &lt;ExternalProgram&gt;
+    &lt;Enabled&gt;false&lt;/Enabled&gt;
+    &lt;Skip&gt;false&lt;/Skip&gt;
+    &lt;Program /&gt;
+    &lt;Parameters /&gt;
+    &lt;PassAsFile&gt;true&lt;/PassAsFile&gt;
+    &lt;OutputFile /&gt;
+  &lt;/ExternalProgram&gt;
+  &lt;Disambiguation&gt;
+    &lt;Enabled&gt;false&lt;/Enabled&gt;
+    &lt;Link /&gt;
+    &lt;Variants /&gt;
+    &lt;ContextChars&gt;20&lt;/ContextChars&gt;
+  &lt;/Disambiguation&gt;
+  &lt;Special&gt;
+    &lt;namespaceValues /&gt;
+    &lt;remDupes&gt;true&lt;/remDupes&gt;
+    &lt;sortAZ&gt;true&lt;/sortAZ&gt;
+    &lt;filterTitlesThatContain&gt;false&lt;/filterTitlesThatContain&gt;
+    &lt;filterTitlesThatContainText /&gt;
+    &lt;filterTitlesThatDontContain&gt;false&lt;/filterTitlesThatDontContain&gt;
+    &lt;filterTitlesThatDontContainText /&gt;
+    &lt;areRegex&gt;false&lt;/areRegex&gt;
+    &lt;opType&gt;0&lt;/opType&gt;
+    &lt;remove /&gt;
+  &lt;/Special&gt;
+  &lt;Tool&gt;
+    &lt;ListComparerUseCurrentArticleList&gt;0&lt;/ListComparerUseCurrentArticleList&gt;
+    &lt;ListSplitterUseCurrentArticleList&gt;0&lt;/ListSplitterUseCurrentArticleList&gt;
+    &lt;DatabaseScannerUseCurrentArticleList&gt;0&lt;/DatabaseScannerUseCurrentArticleList&gt;
+  &lt;/Tool&gt;
+  &lt;Plugin /&gt;
+&lt;/AutoWikiBrowserPreferences&gt;
+&nbsp;―&nbsp;Qwerfjkltalk 15:04, 12 November 2021 (UTC)
+That's something you would need to discuss with the developers of your framework.  If it isn't working right you will need to stop using it until you can resolve it.  Did you reivew the specific edit I linked to and agree that you should not have made that edit based on the bots directive? — xaosflux Talk 15:11, 12 November 2021 (UTC)
+Yes, I agree the bot should not have made this edit.&nbsp;―&nbsp;Qwerfjkltalk 15:33, 12 November 2021 (UTC)
+@Xaosflux Adding the skip condition "contains \{\{(no)?bots" seems to have worked.&nbsp;―&nbsp;Qwerfjkltalk 15:41, 12 November 2021 (UTC)
+Thanks, that is probably overkill, but certainly will fix this problem.  Overkill in that it will make you skip pages like {{bots|deny=Someotherbot}}. — xaosflux Talk 15:42, 12 November 2021 (UTC)
+Better than editing pages that explicitly deny the bot. Thank you for your time, Xaoslfux, and thank you @John Maynard Friedman for alerting me to this issue (indirectly).&nbsp;―&nbsp;Qwerfjkltalk 15:44, 12 November 2021 (UTC)
+Bot blocked[edit]
+User:Qwerfjkl (bot) has been blocked for not respecting exclusion compliance indicated in Wikipedia:Bots/Requests for approval/Qwerfjkl (bot) 2.  Pleae review your bot code.  Once you have resolve your programming issue, please let me know for an unblock.  Any admin is welcome to unblock this account once Qwerfjkl validates that the error has been resolved. — xaosflux Talk 19:53, 17 November 2021 (UTC)
+Example of the offending edit: here. — xaosflux Talk 19:54, 17 November 2021 (UTC)
+Thanks. I'll check this more carefully this time and ensure it is exclusion compliant.&nbsp;―&nbsp;Qwerfjkltalk 20:01, 17 November 2021 (UTC)
+Have you been able to validate that the problem is actually resolved - you should be able to test that without editing. (Please @ping me here when done for an unblock). — xaosflux Talk 16:17, 18 November 2021 (UTC)
+@Xaosflux: The skipping now works (according to the skip log) on Ordinal indicator (after I re-added the template). Can you unblock the bot so I can make sure it works properly?&nbsp;―&nbsp;Qwerfjkltalk 17:51, 18 November 2021 (UTC)
+
+ This user's unblock request has been reviewed by an administrator, who accepted the request. 
+
+
+Qwerfjkl (block log • active blocks • global blocks • contribs • deleted contribs • filter log • creation log • change block settings • unblock • checkuser (log))
+
+
+
+
+
+Request reason:
+
+See above.
+
+
+Accept reason:
+
+Unblocked per above. — xaosflux Talk 18:16, 18 November 2021 (UTC)
+
+
+
+If you want to make any further unblock requests, please read the guide to appealing blocks first, then use the {{unblock}} template again. If you make too many unconvincing or disruptive unblock requests, you may be prevented from editing this page until your block has expired.
+
+
+@Xaosflux: The most recent run seems to have worked, so it should be fine now.&nbsp;―&nbsp;Qwerfjkltalk 10:45, 19 November 2021 (UTC)
+"Ralphthemoviemaker" listed at Redirects for discussion[edit]
+
+
+
+A discussion is taking place to address the redirect Ralphthemoviemaker. The discussion will occur at Wikipedia:Redirects for discussion/Log/2021 November 12#Ralphthemoviemaker until a consensus is reached, and anyone, including you, is welcome to contribute to the discussion.  ★Trekker (talk) 07:04, 12 November 2021 (UTC)
+
+Richard Aylmer[edit]
+
+
+Please don't keep changing the quotes on this page. That's the original spelling. It's a quote. BeatriceCastle (talk) 16:59, 12 November 2021 (UTC)
+
+@BeatriceCastle To stop the bot editing a page, add {{bots|deny=AWB}}.&nbsp;―&nbsp;Qwerfjkltalk 18:09, 12 November 2021 (UTC)
+Thank you, I will do that. BeatriceCastle (talk) 20:16, 12 November 2021 (UTC)
+Mobcap[edit]
+
+
+Please don't keep changing the quotes on this page. That's the original spelling. It's a quote. BeatriceCastle (talk) 17:00, 12 November 2021 (UTC)
+
+Test[edit]
+
+
+Testing Qwerfjkl (alt) (talk) 00:04, 13 November 2021 (UTC)
+
+Rupert Bruce-Mitford[edit]
+
+
+Many of these edits were helpful. An SBN, however, is not the same thing as an ISBN (history discussed here), leading to the errors seen here. Also, although the bot's edit description noted that "Ordinal numbers should be in regular text, not inside &lt;sup&gt; tags", the &lt;sup&gt; tags that were used were to maintain the formatting of the source. --Usernameunique (talk) 23:28, 13 November 2021 (UTC)
+
+@Usernameunique Hi, thanks for reporting this! You can stop this bot (and any other AWB bot) from re-editing the page by adding {{Bots|deny=AWB}} anywhere in the page (an invisible comment will help). You can see the related discussions above this section. Regarding the ISBN → SBN change, you might want to follow this up at WT:AWB, as it is part of AWB's Genfixes.&nbsp;―&nbsp;Qwerfjkltalk 23:37, 13 November 2021 (UTC)
+Question from SimDefinitions (20:19, 14 November 2021)[edit]
+
+
+Hi! It's not letting me write anything when editing texts. The keyboard's not popping up and I don't know what's wrong. --SimDefinitions (talk) 20:19, 14 November 2021 (UTC)
+
+@SimDefinitions Hi, can you describe the exact steps to reproduce this, including the browser and device? I presume from The keyboard's not popping up you're on mobile.&nbsp;―&nbsp;Qwerfjkltalk 20:55, 14 November 2021 (UTC)
+New page reviewer granted[edit]
+
+
+
+Hi Qwerfjkl. Your account has been added to the "New page reviewers" user group. Please check back at WP:PERM in case your user right is time limited or probationary. This user group allows you to review new pages through the Curation  system and mark them as patrolled, tag them for maintenance issues, or nominate them for deletion. The list of articles awaiting review is located at the New Pages Feed. New page reviewing is vital to maintaining the integrity of the encyclopedia. If you have not already done so, you must read the  tutorial at New Pages Review, the linked guides and essays, and fully understand the deletion policy. If you need any help or want to discuss the process, you are welcome to use the new page reviewer talk page. In addition, please remember:
+
+Be nice to new editors. They are usually not aware that they are doing anything wrong. Do  make use of the message feature when tagging  pages for  maintenance so  that  they are aware.
+You will frequently be asked by users to explain why their page is being deleted. Please be formal and polite in your approach to them – even if they are not.
+If you are not sure what to do with a page, don't review it – just leave it for another reviewer.
+Accuracy is more important than speed. Take your time to patrol each page. Use the message feature to communicate with article creators and offer advice as much as possible.
+
+
+The reviewer right does not change your status or how you can edit articles. If you no longer want this user right, you also may ask any administrator to remove it for you at any time. In cases of abuse or persistent inaccuracy of reviewing, or long-term inactivity, the right may be withdrawn at administrator discretion.  Seddon talk 23:16, 14 November 2021 (UTC)
+
+I have listed a page you reviewed for deletion at Wikipedia:Articles for deletion/Brian Femminella.  A second page you reviewed, Three Thousand Stitches, appears to be using Goodreads as a source, which is discouraged.  And a third, Laurie Franks, has some obviously malformed references.  Please be more diligent when doing NPP reviews. User:力 (powera, π, ν) 01:22, 21 November 2021 (UTC)
+Tech News: 2021-46[edit]
+
+
+
+Latest tech news from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. Translations are available.
+
+
+Recent changes
+
+Most large file uploads errors that had messages like "stashfailed" or "DBQueryError" have now been fixed. An incident report is available.
+
+
+Problems
+
+Sometimes, edits made on iOS using the visual editor save groups of numbers as telephone number links, because of a feature in the operating system. This problem is under investigation. [5]
+There was a problem with search last week. Many search requests did not work for 2 hours because of a configuration error. [6]
+
+
+Changes later this week
+
+ The new version of MediaWiki will be on test wikis and MediaWiki.org from 16 November. It will be on non-Wikipedia wikis and some Wikipedias from 17 November. It will be on all wikis from 18 November (calendar).
+
+
+Tech news prepared by Tech News writers and posted by bot&nbsp;• Contribute&nbsp;• Translate&nbsp;• Get help&nbsp;• Give feedback&nbsp;• Subscribe or unsubscribe.
+
+
+
+
+22:05, 15 November 2021 (UTC)
+
+Question from HELLO IM NAZEEF (08:07, 16 November 2021)[edit]
+
+
+Help. --HELLO IM NAZEEF (talk) 08:07, 16 November 2021 (UTC)
+
+@HELLO IM NAZEEF: Do you still need help with the problem you described here, or do you have another problem?&nbsp;―&nbsp;Qwerfjkltalk 16:28, 16 November 2021 (UTC)
+Question from HELLO IM NAZEEF (16:40, 16 November 2021)[edit]
+
+
+Hello.
+Can you please help me with:
+1. How to upload an image while editing an article on mobile?
+
+
+2. How to make a template while editing an article on mobile? --HELLO IM NAZEEF (talk) 16:40, 16 November 2021 (UTC)
+
+@HELLO IM NAZEEF:
+You can try the mobile app, which I believe is the easiest way to upload images.
+Add a link to the template (you can do this in your sandbox)  e.g. [[Template:Red-linked template]] → Template:Red-linked template. Then, click on the link, and add the wikitext. You may find Help:Templates of use.
+&nbsp;―&nbsp;Qwerfjkltalk 17:58, 16 November 2021 (UTC)
+Change content model[edit]
+ Moved to Wikipedia:Interface administrators' noticeboard §&nbsp;Change content model – &nbsp;―&nbsp;Qwerfjkltalk 08:33, 20 November 2021 (UTC)
+Question from Cavygoagoses on Activated charcoal (medication) (05:18, 20 November 2021)[edit]
+
+
+Hallo.... why can we not give activated charcoal when poisoned with acid methanol etc --Cavygoagoses (talk) 05:18, 20 November 2021 (UTC)
+
+(Talk page enjoyer) @Cavygoagoses: Per the source cited in the article [7]: May be used for treatment (GI decontamination) in most oral poisonings except those [...] for which its absorptive capacity is too low to be clinically useful (e.g., iron salts, lithium, boric acid, arsenic, malathion, or organic solvents such as methanol, ethanol, or ethylene glycol). Basically, it can't absorb a sufficient amount of the chemical to prevent significant harm. Elli (talk | contribs) 05:50, 20 November 2021 (UTC)
+Question from Chabot4me (14:07, 21 November 2021)[edit]
+
+
+Hello, 
+I tried changing the address location on the page gor Leo Louis Chabot I created so it could have better attention. But I got a message it is not allowed because apparently I changed the User. So my question is… Is there a way to change the address so he can be found easier? --Chabot4me (talk) 14:07, 21 November 2021 (UTC)
+
+@Chabot4me: Hi, are you talk about the draft located at User:Chabot4me/Sandbox? Are you trying to get the draft moved to mainspace?&nbsp;―&nbsp;Qwerfjkltalk 17:02, 21 November 2021 (UTC)
+
+
+Yes that is correct, I was trying to move the draft. Or is that done by the robot.  —&nbsp;Preceding unsigned comment added by Chabot4me (talk • contribs) 20:48, 21 November 2021 (UTC) 
+
+@Chabot4me: You can submit the draft for review by adding {{subst:submit}} to the top of the page. Please read WP:YFA.&nbsp;―&nbsp;Qwerfjkltalk 20:57, 21 November 2021 (UTC)
+Can you give me some details in how to make a proper list?[edit]
+
+
+All of my drafts are being deleted or rejectd for the same reason. My lists are incorrect and i dont know why. Scottlinehan1999 (talk) 12:52, 22 November 2021 (UTC)
+
+@Scottlinehan1999: Wikipedia:Lists links to some helpful pages. You can also try looking at other list articles, such as List of The Sopranos characters.&nbsp;―&nbsp;Qwerfjkltalk 16:21, 22 November 2021 (UTC)
+Tech News: 2021-47[edit]
+
+
+
+Latest tech news from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. Translations are available.
+
+
+Changes later this week
+
+There is no new MediaWiki version this week.
+The template dialog in VisualEditor and in the new wikitext mode Beta feature will be heavily improved on a few wikis. Your feedback is welcome.
+
+
+Tech news prepared by Tech News writers and posted by bot&nbsp;• Contribute&nbsp;• Translate&nbsp;• Get help&nbsp;• Give feedback&nbsp;• Subscribe or unsubscribe.
+
+
+
+
+20:01, 22 November 2021 (UTC)
+
+ArbCom 2021 Elections voter message[edit]
+
+Hello! Voting in the 2021 Arbitration Committee elections is now open until 23:59 (UTC) on Monday, 6 December 2021. All eligible users are allowed to vote. Users with alternate accounts may only vote once.
+
+
+The Arbitration Committee is the panel of editors responsible for conducting the Wikipedia arbitration process. It has the authority to impose binding solutions to disputes between editors, primarily for serious conduct disputes the community has been unable to resolve. This includes the authority to impose site bans, topic bans, editing restrictions, and other measures needed to maintain our editing environment. The arbitration policy describes the Committee's roles and responsibilities in greater detail.
+
+
+If you wish to participate in the 2021 election, please review the candidates and submit your choices on the voting page.  If you no longer wish to receive these messages, you may add {{NoACEMM}} to your user talk page. MediaWiki message delivery (talk) 01:04, 23 November 2021 (UTC)
+
+
+
+Dang, you did a number on my redirect "awesome brah island"[edit]
+
+
+That being said, I made that link years ago and it was certainly an inside joke that did not stand up to any scrutiny and was likely correctly admonished as a "blatant hoax", or at least "implausible"&nbsp;;)....I suppose I am just as sad to see it go as I am glad that the powers at be do not allow such jiggery pokery to go on indefinitely. 
+
+
+cheers, Funga (talk) 05:00, 25 November 2021 (UTC)
+
+Trouted[edit]
+
+
+
+
+
+Whack! 
+ 
+
+You've been whacked with a wet trout.Don't take this too seriously. Someone just wants to let you know you did something silly.
+
+
+
+You have been trouted for: YOUR REASON HERE 112.198.193.117 (talk) 03:18, 26 November 2021 (UTC)
+
+Question from Tejas Mohan Bhave (05:37, 26 November 2021)[edit]
+
+
+Hello, how to content and create my wikipedia page --Tejas Mohan Bhave (talk) 05:37, 26 November 2021 (UTC)
+
+If, by my wikipedia page, you mean a user page, then click on the red link in your username, add some text, and click Publish&nbsp;―&nbsp;Qwerfjkltalk 07:08, 26 November 2021 (UTC)
+@Tejas Mohan Bhave If, however, you mean an autobiography, then you are strongly discouraged from writing one.&nbsp;―&nbsp;Qwerfjkltalk 07:09, 26 November 2021 (UTC)
+Relisting discussions at RfD[edit]
+
+
+Please refrain from relisting discussions for a third time (especially if no discussion has occurred after the second relist). These type of discussions should be left for the next patrolling admin to handle them. And in some cases, a "no consensus" close is better than a relist. I recommend reading WP:RELIST and WP:SILENCE which will guide you on how to relist discussions properly. Thanks. CycloneYoris talk! 22:43, 26 November 2021 (UTC)
+
+Special:Nuke[edit]
+This request for help from administrators has been answered. If you need more help or have additional questions, please reapply the {{admin help}} template, or contact the responding user(s) directly on their own user talk page.
+
+
+
+Can an admin quickly deleted a bunch of pages I just accidentally created?&nbsp;―&nbsp;Qwerfjkltalk 12:07, 28 November 2021 (UTC)
+
+Apparently already done.--Bbb23 (talk) 16:01, 28 November 2021 (UTC)
+Can you move my List of mayors of Columbia, Missouri to draft please[edit]
+
+
+To improve it and avoid deletion Scottlinehan1999 (talk) 16:36, 28 November 2021 (UTC)
+
+The Signpost: 29 November 2021[edit]
+ 
+In the media: Denial: climate change, mass killings and pornography
+WikiCup report: The WikiCup 2021
+Deletion report: What we lost, what we gained
+From a Wikipedia reader: What's Matt Amodio?
+Arbitration report: ArbCom in 2021
+Discussion report: On the brink of change – RFA reforms appear imminent
+Technology report: What does it take to upload a file?
+WikiProject report: Interview with contributors to WikiProject Actors and Filmmakers
+Serendipity: "Did You Know ..." featured a photo of the wrong female WWII pilot
+News from Diff: Content translation tool helps create one million Wikipedia articles
+Traffic report: Reporting ticket sales on the edge of the Wiki, if Eternals should fail
+Recent research: Vandalizing Wikipedia as rational behavior
+Humour: A very new very Wiki crossword   * Read this Signpost in full * Single-page * Unsubscribe * MediaWiki message delivery (talk) 00:47, 29 November 2021 (UTC) 
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=User_talk:Qwerfjkl&amp;oldid=1057716647"
+		Categories: Wikipedians with red-linked categories on their user talk pageWikipedians who should probably stop screwing around with categories, lest they draw unwanted attention from the Categories PolicePeople paid by Big Pharma/Big Government/Big Science/Big Skepticism/Big Atheism to shillWikipedians who are secretly one of "Them"Abusive, mean, petty WikipediansWikipedians who are "out to get you" and/or your garage bandWikipedians who have had the appearance of their user page modified against their willHidden categories: Pages with syntax highlighting errors
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		User pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUser contributionsUser logsView user groupsUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 29 November 2021, at 06:58&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

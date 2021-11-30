@@ -1,0 +1,1528 @@
+
+
+
+
+Wikipedia:WikiProject Radio Stations - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:WikiProject Radio Stations
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikimedia subject-area collaboration
+This is a WikiProject, an area for focused collaboration among Wikipedians. New participants are welcome; please feel free to participate!
+
+Guide to WikiProjects
+Directory of WikiProjects  ShortcutWP:WPRS
+  A concentration of radio towers, atop Mount Wilson in California.
+
+
+
+
+In Memoriam
+Dravecky (1968-2016)A driving force behind this WikiProject.
+He will be missed.
+
+
+Welcome to WikiProject Radio Stations.  We are a group dedicated to improving Wikipedia's coverage of radio stations.
+
+Scope[edit]
+
+
+The scope of this project is predominantly articles about individual radio stations. However, technology and content contributions are also appreciated, along with articles related to the people who produce such material (provided they meet the notability guidelines).
+
+Contents
+
+1 Scope
+2 Open tasks
+3 Article alerts
+4 Participants
+
+4.1 Active members
+4.2 Inactive members
+
+
+5 Article naming conventions
+
+5.1 Naming conventions for stations without call signs
+
+5.1.1 Modifying article titles for stations that change their station names
+
+
+5.2 Naming conventions for stations with call signs
+
+5.2.1 Modifying article titles for stations that change their call signs
+
+
+
+
+6 Article content
+
+6.1 Infobox
+6.2 Introduction
+6.3 Body
+6.4 Stubs
+
+6.4.1 Stub templates
+
+
+6.5 Categories
+
+6.5.1 Geographical
+6.5.2 Ownership
+6.5.3 Format
+
+
+6.6 Assessments
+
+
+7 Lists
+8 Useful templates
+
+8.1 Talk page template
+8.2 Userbox template
+8.3 Database templates
+
+8.3.1 FCC
+8.3.2 Radio-Locator
+8.3.3 Nielsen Audio
+8.3.4 Recnet
+8.3.5 IFT
+
+
+8.4 Rebroadcaster templates
+
+
+9 Logos
+10 HD Radio
+11 Parent projects
+12 Related projects
+13 Task forces
+14 Other resources
+15 Clean up list
+
+
+
+Open tasks[edit]
+
+ To-do list for Wikipedia:WikiProject Radio Stations: edit · history · watch · refresh · Updated 2021-04-24
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Here are some tasks awaiting attention: 
+  Article requests :                           Please watchlist the Article alerts page to be notified automatically when articles enter or leave deletion or review processes.Verify :                                            For all stations with call signs, check that the call sign used in the article (and article title, where applicable) is the correct one for that station.Other :                                                   *Create infoboxes for articles included in Category:Radio station articles without infoboxes.
+For all U.S. AM and full-power FM radio stations, check that the {{AM station data}} or {{FM station data}} template is in the "External links" section to display FCC, Radio Locator, and Arbitron links for the station.
+For all U.S. radio stations, check that the article is in exactly one geographic category.
+For Mexican radio stations, ensure that the {{Mexico-inf}} (AM or FM variant) template in the infobox to generate a citation to the IFT tables.
+ 
+
+
+
+
+
+
+
+
+
+
+Cleanup listing for this project is available. See also the tool's wiki page and the index of WikiProjects.
+
+
+
+Article alerts[edit]
+
+
+
+Did you know
+
+15 Nov 2021 – KGRZ (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was nominated for DYK by Sammi Brie (t&nbsp;·&nbsp;c); see discussion
+
+
+Articles for deletion
+
+20 Nov 2021 – Friends FM (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) AfDed by Uness232 (t&nbsp;·&nbsp;c) was closed as redirect by Superastig (t&nbsp;·&nbsp;c) on 27 Nov 2021; see discussion (5 participants)
+18 Nov 2021 – Wave Radio (internet) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) AfDed by Bearcat (t&nbsp;·&nbsp;c) was closed as delete by Explicit (t&nbsp;·&nbsp;c) on 25 Nov 2021; see discussion (3 participants)
+
+
+Proposed deletions
+
+27 Nov 2021 – ABSU FM, 101.9 (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was PRODed by Dan arndt (t&nbsp;·&nbsp;c): Fails WP:GNG, requires significant coverage in multiple independent secondary sources and endorsed by Whiteguru (t&nbsp;·&nbsp;c) on 28 Nov 2021
+
+
+Templates for discussion
+
+21 Nov 2021 – Template:Quintana Roo Radio (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) TfDed by TheImaCow (t&nbsp;·&nbsp;c) was closed; see discussion
+
+
+Files for discussion
+
+17 Nov 2021 – File:KYOO YourCountry99.1-1200 logo.png (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) (on 1, 2) FfDed by Ixfd64 (t&nbsp;·&nbsp;c) was closed; see discussion
+17 Nov 2021 – File:KYOO-FM station logo.jpg (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) (on KYOO-FM) FfDed by Hog Farm (t&nbsp;·&nbsp;c) was closed; see discussion
+
+
+Articles to be merged
+
+22 Nov 2021 – GM Broadcasting (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to WLTB by Wcquidditch (t&nbsp;·&nbsp;c); see discussion
+21 Oct 2021 – Parliamentary and News Network (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to ABC NewsRadio by Laterthanyouthink (t&nbsp;·&nbsp;c); see discussion
+29 Nov 2020 – KFUO-FM (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to KLJY by Wcquidditch (t&nbsp;·&nbsp;c); see discussion
+
+
+Articles to be split
+
+21 Nov 2019 – Capital Scotland (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by 2A02:C7F:242F:EA00:D893:D891:CA7E:BB79 (t&nbsp;·&nbsp;c); see discussion
+04 Dec 2018 – List of radio stations in the Netherlands (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by JSH-alive (t&nbsp;·&nbsp;c); see discussion
+
+
+Articles for creation
+
+15 Nov 2021 – Draft:Corey B (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by RadioGuyNYC (t&nbsp;·&nbsp;c)
+02 Oct 2021 – Draft:Argyll FM (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by Omnipax (t&nbsp;·&nbsp;c)
+25 Sep 2021 – Draft:ALAYN (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by Musictastemaker (t&nbsp;·&nbsp;c)
+15 Aug 2021 – Draft:List of mediumwave radio broadcasters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by John B123 (t&nbsp;·&nbsp;c)
+
+
+
+
+Participants[edit]
+
+
+If you are interested in participating in this project, please add your username to the list by adding an asterisk (*) followed by three tildes (~~~). Members whose names are in bold are Wikipedia administrators, who can be contacted for special functions such as deletions, undeletions, complex page moves and initial dispute resolution.
+
+Active members[edit]
+
+Grumpygills270 (talk)
+805mike (talk)
+Allreet
+Amanuense
+CalD4est
+Bbabybear02
+Bearcat
+Boothy443
+Caleb Bond
+Caleb Woods
+Carter
+Ckatz
+Creativity-II
+Dane|Geld
+Davey2010
+DJSharke
+Dogru144
+DonnaHalper
+DoulosBen
+DrChuck68
+Eddie Blick
+Emarsee
+Enock4seth
+eternalschala
+Fylbecatulous
+Formulairis990
+GETONERD84
+GrouseyGrouse
+Hyunah661992
+jbl1975
+Jeh
+Jimj wpg
+User:JmbranumJmbranum (talk)
+JoeCool950
+JPG-GR
+Jbegle
+Kathleen.wright5
+K-Johnson_127
+Levdr1lp
+Lisapollison
+LukeBK
+Manway
+Mark Sublette
+mbrstooge
+Milonica
+Mlaffs
+MrRadioGuy
+Namcokid47
+Neutralhomer
+Newenglandradio
+Paewiki
+Pageographer
+PC-XT
+Philedmondsuk
+RadioFan
+Remagoxer (talk)
+RobDe68
+Robert Moore
+Sammi Brie (she/her)
+StereoHotHits
+Stereorock
+Stickymatch
+Stopnswop
+Strikerforce
+Tcr25
+Tdl1060
+Tghe-retford
+Tod55 (talk)
+TomCat4680
+TomStike (talk)
+Vanstrat
+Zpb52
+Zzrocket
+Unknown User1234 (talk)
+
+Inactive members[edit]
+
+
+These users joined the project at some point but have made few or no mainspaces edit to any radio-related article in roughly six months. Any user listed here is welcome to place themselves back on the active members list.
+
+
+AAARanger5
+Adam850
+Alexh1013
+AMAPO
+AntL
+Anymediaguy
+Badbilltucker
+Bhuston
+Blueturtle01
+Bsherr
+Candlewicke
+Cash082
+Consultant100
+Corey.spring
+Coxwal
+Denzillacey
+DHowell
+Div60
+Doncolangelo
+Donegal92
+Dravecky
+eddieh
+Endsider
+Ericmke
+Fightingirish
+FirefoxRocks
+Friedfish
+Froginabox
+FWINDUSA76
+Geoff271989
+GoldMan60
+GregX102
+Guy-Smiley
+Hankie1016
+Itfc+canes=me
+Jacketed
+Jake4d
+Jdbullrat
+Jeep15603
+jenkinslane
+JHawkins1128
+Jimj_wpg
+Jjc104
+Jonradio
+kd4dcy
+Kozhi
+Lakers244805
+Lostvalley
+MAP91
+Marbles
+Mattdp
+Mavros
+Mhking
+Michael Kramer
+Milk the cows
+Mjr346
+Mrhattigan
+Mulad
+Nthnhwtt
+NYYankee2684
+Orry Verducci
+ParticularlyEvil
+PastorMatt
+PhantomS
+Philcobill
+Radiofan14
+Recordbuyer19
+Rjcabral
+Rockrules897
+SamMichaels
+Scca8704
+Sector001
+Snozzwanger
+Sobar
+Somnabot
+SwissCelt
+Tapeisback
+Tcoco01830
+Tegra3
+Terabyte_cam
+The Punk
+The Stuart
+Timothyda
+Tinminer
+TorontoStorm
+Transent
+Trupial
+Walshga
+Wilbur2012
+Winger84
+Wootking
+Wrk3
+Zawadifreddy
+Raddyroro
+
+Article naming conventions[edit]
+Main page: Wikipedia:Naming conventions (broadcasting)
+ShortcutWP:RADIONAMING
+Naming conventions for stations without call signs[edit]
+
+
+For articles on stations located in countries which do not use government-issued call signs, including much of Europe and Asia, as a general rule use the station name as used on-air.
+
+Example: Use 'All FM', not 'ALL FM South Manchester'.
+If disambiguation is needed, station names should be in the format 'station name (location)' with a disambiguation page at 'station name'.
+Example: Since the station name Touch FM is used multiple times in the UK, an article for a station located in Coventry would have the name Touch FM (Coventry) with a link placed on the Touch FM disambiguation page.
+Modifying article titles for stations that change their station names[edit]
+If the renamed station retains the existing format
+
+Move the article to the station's new name, keeping the old name as a redirect. Then, update the article to refer to any changes to the station's name/ownership.
+Example: The Bear 102 becomes Touch FM (Stratford-upon-Avon).
+If the renamed station adopts a new format (in effect, a new station using the existing frequency), or if the station is changed due to regulatory intervention (loss of frequencies, etc.)
+Create a new article for the new station, but include a brief reference to the old station. Furthermore, the first air date field of the article's infobox should refer to the launch date of the new station. In addition, the article for the old station should be updated to indicate that the station in that form is now defunct. A good way to indicate this would be to append ''(defunct)'' to the station's name in its infobox.
+If a station retains its existing name, but radically changes its format
+Create a new section within the existing article about the format change.
+Naming conventions for stations with call signs[edit]
+
+
+For articles on stations located in countries which do use government-issued call signs, the official call sign should be used. However, in places with a mix of call signs and station names, such as most of Central and South America and Australian FM Radio, the station name should normally be used, except when the call sign is well-known.
+
+
+Several countries keep databases of official call signs:
+
+Canada
+Industry Canada Broadcasting Database – easier to use than web interface, however requires database program such as dBase or Microsoft Access
+Spectrum Direct - see Radio Frequency Search section. Easiest search is by call sign however only exact matches will be returned, e.g. "CHEX-TV" will find record for Peterborough station but not CHEX-TV-2 Oshawa, and "CHEX" will not find any records. Ensure relevant options at bottom of search page are checked off.
+REC Networks does a weekly download and update of the Industry Canada database, and is thus a valid and equally authoritative alternative to the Industry Canada site. It may in some cases return search results much more quickly, and does not require an exact match — for example, this site does allow you to type in "CHEX" and then choose whether you want to look at the Peterborough or Oshawa stations. As well, unlike Spectrum Direct, RecNet search results actually provide distinct page URLs that can be used as Wikipedia external links — accordingly, {{RecnetCanada}} is the primary template for Canadian radio station database links.
+Canadian Communications Database - not an official call sign database, but does have useful information about the ownership and license histories of most radio stations. However, due to edit inconsistencies you will occasionally need to watch for situations where the main page's summary chart actually contradicts the same station's extended history page about certain details — when this occurs, try to find an additional source. These can also be used on Wikipedia as external links, although due to the site structure you'll have to copy the URL by right-clicking on the individual link from the listings page, rather than from your own address bar.
+Mexico:
+IFT lists of radio and TV stations — updated regularly and citable using {{mexico-inf}}
+United States
+FCC AM Query
+FCC FM Query
+FCC LPFM Query
+FCC TV Query
+For stations with suffixes (-FM for FM stations, -LP for low-power FM stations, etc.) that do not have other articles using the same call sign
+A redirect not containing the suffix should be created.
+Example: CIMX-FM has no other stations using that call sign. Therefore, CIMX would be created as a redirect.
+NOTE: In the case of the United States, suffixes are only assigned by the FCC when the station specifically requests it (usually because another station already uses the unsuffixed call sign).  AM radio stations will never have a suffix.  In Canada, FM radio stations always have the FM suffix regardless of whether an AM or TV station shares the same call sign; Canada does not use the -LP suffix at all.  In Mexico, all stations carry suffixes (-AM or -FM).
+If more than one article has the same base call sign, or if an acronym or some other common usage shares that call sign
+A disambiguation page should be created at the base call sign.
+If a disambiguation page exists at the base call sign
+Use the format 'KXXX (AM)', 'KXXX (FM)', 'KXXX (TV)', etc. for stations without suffixes in their official names.
+Example: Since there are multiple stations with the base call sign KCBS, a disambiguation page is created at KCBS that points to the stations at KCBS (AM), KCBS-FM, and KCBS-TV
+If a station has an unusual suffix, such as '-LP' (low-power FM) or '-CA' (low-power TV)
+A redirect containing the usual suffix should be created.
+Example: For the station 'WXYZ-CA', a redirect at 'WXYZ-TV' would be created.
+Modifying article titles for stations that change their call signs[edit]
+If a station changes its call sign
+Move (rename) the article to the current call sign, since the old call sign may subsequently be reassigned to a new station, keeping the old name as a redirect. In addition, all links to the station's old call sign should now point towards the new article name.
+Example: If a station with the call sign 'CXXX' receives a new call sign of 'CYYY', the article is moved to 'CYYY' and all links to 'CXXX' are changed to point to 'CYYY'. In addition, the old name of 'CXXX' is set up as a redirect to 'CYYY' (automatically, as a result of the move). Later, when 'CXXX' is reassigned to a separate station, the 'CXXX' redirect will become the new station's article.
+Note: In some rare situations, it may be unclear whether a new call sign should be considered a successor to an old one or an entirely new station. If there is any doubt, solicit opinions on this project's talk page.
+Note 2: For Mexican AM-FM migrations, callsigns must be verified as some callsigns have an E added (e.g. XEMIT-AM -&gt; XHEMIT-FM) but others do not. In addition disambiguation pages may be needed when a new FM station has similar calls to a TV station (such as XHLAC). In addition, there are some 23 pairs of stations where the AM-FM migration caused duplication of the same callsign: see User:Sammi Brie/Mexican double callsigns.
+
+
+When and if the call sign is reassigned, the article about the new station should include a brief mention that the call sign was previously used by another station, including a link to that station's current calls. This is best done either as a dab line at the top of the article, or toward the end of the article in a "Other notes" or similar section.
+
+If a station retains its call sign, but radically changes its format
+Create a new section within the existing article about the format change.
+Article content[edit]
+Infobox[edit]
+
+
+{{Infobox radio station}} should be utilized for all radio station articles. Usage instructions are available on the template page.
+
+Introduction[edit]
+
+
+Here is one suggestion on how to begin:
+
+KLMN (102.3 FM, "The Illuminator") is a radio station broadcasting an oldies music format.  Licensed to the suburb of Smallville, Kansas, United States, it serves the Metropolis metropolitan area.  It first began broadcasting in 1933 under the call sign KRYP.  The station is currently owned by Lexcorp.
+
+
+Note: Link "AM" to AM broadcasting and "FM" to FM broadcasting, instead of "AM" to amplitude modulation and "FM" to frequency modulation, since the broadcasting articles are less generic.
+
+Body[edit]
+
+
+Include a detailed history of the station. In addition, when applicable, include a complete call sign history. (For stations in the United States, the FCC database can help provide call sign history for as far back as about 1980, while the History Cards linked from the database can provide call sign and all other history back to a station's beginning.) Per WP:NOTDIR, an article on a radio station generally should not list upcoming events, current promotions, phone numbers, current schedules, etc., although mention of major events, promotions, or historically significant program lists and schedules may be acceptable. 
+
+
+You may add properly sourced, encyclopedic content describing a station's programming, but a simple list of a station's on-air staff should not be added. To a reader who isn't already familiar with the station, a plain airstaff list doesn't do anything to help them understand or get a feel for the topic. Describing a station's programming gives the reader a much better sense of the station, its personalities and its on-air style than a meaningless list of people they've never heard of.
+
+Stubs[edit]
+
+
+If you only know a few details about a particular station, add a stub tag to the bottom of the article, in order to inform other project members that the article needs help being completed. Please be as geographically-specific as possible in the stub tag added. For most international stations, use a country-specific stub tags. For countries with a large number of radio stations, use regional-specific stub tags, or where applicable, state- or province-specific stub tags. 
+
+Stub templates[edit]
+
+
+If an adequate geographically-specific stub tag can not be found for a station, use the {{radio-station-stub}} tag.
+
+{{NorthAm-radio-station-stub}}
+{{US-radio-station-stub}}
+Additionally, there are stub templates for each of the 50 states, of the form {{StateName-radio-station-stub}} Most US states, as well as Puerto Rico and Guam, have corresponding categories, but a few of the smallest states, and all other territories, get sorted into a regional stub category rather than a state-specific one.
+{{Canada-radio-station-stub}}
+There are also stub templates for each individual province and territory. Ontario and Quebec have corresponding categories; due to the smaller number of stations, all other provinces and territories get sorted into Atlantic or Western Canadian regional stub categories.
+{{Mexico-radio-station-stub}}
+{{SouthAm-radio-station-stub}}
+{{Europe-radio-station-stub}}
+{{UK-radio-station-stub}}
+{{Africa-radio-station-stub}}
+{{Namibia-radio-station-stub}}
+{{SouthAfrica-radio-station-stub}}
+{{Asia-radio-station-stub}}
+{{PRChina-radio-station-stub}}
+{{India-radio-station-stub}}
+{{Taiwan-radio-station-stub}}
+{{Philippines-radio-station-stub}}
+{{Oceania-radio-station-stub}}
+{{Australia-radio-station-stub}}
+{{NewZealand-radio-station-stub}}
+Other stub templates are specified in the subcategories of Category:Broadcasting stubs and Category:Radio station stubs.
+Note: New stub types will first need to be proposed at Wikipedia:WikiProject Stub sorting/Proposals.
+Categories[edit]
+
+
+As a general rule, radio station articles should not utilize a sort key when categorizing, as these categories often include both radio stations with different initial call letters, as well as articles whose names are not call signs.
+
+Geographical[edit]
+
+
+For most countries, use the general radio stations category for the country as a whole. 
+
+
+However, for some countries where Wikipedia already has a large number of articles, more specific regional categories should be used instead of the primary country category when possible:
+
+United States, Australia, Mexico and Canada: All first-level divisions (states, provinces and/or territories) have their own dedicated "Radio stations in (Division)" subcategories. The only exceptions are the American, Australian and Mexican capital districts — because all three are essentially coterminous with the capital city itself, they are represented by categories at the city level (Washington, Canberra, Mexico City) rather than distinct district-level categories. Regardless of an individual category's current size, these should be kept as comprehensive sets; nearly all of them still have further articles to be written anyway. Some markets may also have their own "Radio stations in (City)" categories as well. Use only the city category if one exists, and use only the divisional category otherwise — do not apply both categories simultaneously, and do not use the primary national category.
+United Kingdom: England, Scotland, Northern Ireland and Wales each have their own dedicated subcategories. Numerous county-level regional categories do exist for England, and city-level categories exist for London, Manchester, Dundee, Bristol, Birmingham, Edinburgh, Aberdeen and Glasgow, but neither of these levels of categorization currently exist as a comprehensive set. For those areas, use only the regional or city subcategories. Outside of those areas, use the categories at the appropriate constituent-country level, or create and populate a suitable subcategory at the regional or city level. The primary UK category should be used only in those rare cases where none of the more specific categories fits at all, such as a station that's heard in all four countries on a digital radio platform.
+Philippines: Several city-level subcategories are in use (see Category:Radio stations in the Philippines by city), and a few provinces now have province-level categories (see Category:Radio stations in the Philippines by province). For those areas, use the appropriate regional category. However, for a city or province which does not have its own dedicated category yet, either create one or use the main Category:Radio stations in the Philippines, and do not leave articles sitting in a redlinked city or province category.
+
+
+Generally, a station should not be added to more than one geographical category. In cases where a station is heard across multiple geographic areas (states or countries), select the one category that best describes where the station is licensed (or the transmitter is located). In a few very unusual and isolated cases where a station actually has operations — not just audience, but official operational status — on both sides of a state, provincial or national border, it may be necessary to add a station to multiple geographic categories, but this should only be done after soliciting input from this WikiProject. A station should never be added to a country or divisional-level category that already parents the same station's regional-or-city-level category. 
+
+
+If an appropriate country-level category does not already exist, create it rather than adding a station directly to Category:Radio stations. Creation of new regional or local subcategories is also permitted, but you should immediately populate it with all of the relevant articles. Do not create a new city or regional category if you're not prepared to populate it, do not create a new city or regional category with only one or two articles in it, and do not leave an article sitting with a redlinked category on it. When in doubt, solicit opinions on this project's talk page as to whether a new geographic subcategory is warranted or not.
+
+Notes
+
+The U.S. states of Georgia, New York, and Washington have peculiar category names to avoid conflict with the country of Georgia, with New York City, and with Washington, D.C.: Category:Radio stations in Georgia (U.S. state), Category:Radio stations in New York (state), and Category:Radio stations in Washington (state).
+For geographical categories that include radio stations where a vast majority of the call signs begin with the same letter, utilize a sort key that drops the initial letter. As the articles will not be forced under the initial call letter of the region (such as W, K, or C), the category will be easier to navigate. Do not, however, drop the first letter from the sort key in any category which mixes articles with different first letters.
+Example: WHFS utilizes the geographical category code [[Category:Radio stations in Baltimore|HFS]]. However, it uses no sort code in non-geographic categories — i.e. [[Category:Talk radio stations]].
+Use of the {{DEFAULTSORT}} tag is discouraged in radio station articles because of the sorting notes above. Even in an article where only a geographic category is present at the moment, non-geographic categories will very likely be added in the future, which would then sort improperly.
+Ownership[edit]
+
+
+A station should be added to an appropriate ownership category (if it exists). These ownership categories are categorized under Category:Radio stations by owner by country. Some examples of these are Category:iHeartMedia radio stations, Category:Disney radio stations, Category:Citadel Broadcasting, and Category:Bell Media radio stations.
+
+Format[edit]
+
+
+A station should be added to an appropriate format category (if it exists). These categories can be found in Category: Radio stations by format. Many of these categories include sub-categories sorted by nation - use these if applicable. Format-by-country subcategories should not, however, be further subdivided by state or province.
+
+Assessments[edit]
+  The single Blaw-Knox transmission tower for radio station WLW in Cincinnati, Ohio.
+
+
+Click on the category listing in the table below to view all articles in that category. See the article's talk page for more information about the article's status, including its featured article review process, good article review process, and peer review (if available).
+
+
+
+
+
+
+
+
+Radio station articles by quality and importance
+
+
+Quality
+
+Importance
+
+
+Top
+
+High
+
+Mid
+
+Low
+
+NA
+
+???
+
+Total
+
+
+ FA
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
+ GA
+
+
+
+1
+
+5
+
+6
+
+
+
+
+
+12
+
+
+B
+
+1
+
+8
+
+24
+
+58
+
+
+
+
+
+91
+
+
+C
+
+
+
+27
+
+127
+
+336
+
+
+
+1
+
+491
+
+
+Start
+
+1
+
+15
+
+278
+
+3,072
+
+
+
+1,525
+
+4,891
+
+
+Stub
+
+
+
+
+
+39
+
+5,508
+
+3
+
+7,506
+
+13,056
+
+
+List
+
+
+
+
+
+162
+
+419
+
+1
+
+113
+
+695
+
+
+Category
+
+
+
+
+
+
+
+14
+
+1,241
+
+
+
+1,255
+
+
+Disambig
+
+
+
+
+
+
+
+1
+
+80
+
+
+
+81
+
+
+File
+
+
+
+
+
+
+
+
+
+11,223
+
+
+
+11,223
+
+
+Project
+
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+
+
+Template
+
+
+
+
+
+
+
+27
+
+1,669
+
+
+
+1,696
+
+
+NA
+
+
+
+
+
+
+
+221
+
+4,588
+
+1
+
+4,810
+
+
+Other
+
+
+
+
+
+
+
+
+
+16
+
+
+
+16
+
+
+Assessed
+
+2
+
+51
+
+635
+
+9,663
+
+18,822
+
+9,146
+
+38,319
+
+
+Unassessed
+
+
+
+
+
+
+
+2
+
+
+
+2,618
+
+2,620
+
+
+Total
+
+2
+
+51
+
+635
+
+9,665
+
+18,822
+
+11,764
+
+40,939
+
+ 
+
+
+
+
+
+
+
+Lists[edit]
+
+
+Lists of radio stations are currently organized by country, with sublists by state or province for some countries with a larger number of radio stations. These should be organized as a single list, using the "wikitable sortable" format so that it can be rearranged to list the stations in the sort order of the reader's choice. Do not create multiple articles listing the same group of stations in a different order.
+
+
+Additionally, do not create standalone "List of radio stations in (city)" articles for individual radio markets. Radio market templates are used for this purpose. However, it is permitted and encouraged to create more general "Media in (city)" articles which can discuss and list the city's radio stations, television stations and print media in a single article.
+
+Useful templates[edit]
+Talk page template[edit]
+{{WikiProject Radio Stations|class=|importance=}} — should be added to the top of the talk page of all articles maintained by this project.
+Userbox template[edit]
+{{User WikiProject Radio Stations}} — Place on user page to show support for this project.
+Database templates[edit]
+
+
+These templates are a combination of FCC call sign, Radio-Locator and Arbitron queries for AM or full-power and low-power FM stations.
+
+{{AM station data|callsign}} — entries for an AM station
+{{FM station data|callsign}} — entries for an FM station
+{{LPFM station data|callsign}} — entries for a low-power FM station
+FCC[edit]
+
+
+Information in the infobox should come from the FCC database as it's the only official source for U.S. stations. However, these templates should not be used for non-U.S. stations: those FCC records include only facility changes to which the U.S. has the right to object under international agreements, and thus do not reflect a station's status with its own regulators.
+
+{{AMQ|callsign}} — FCC database entry for an AM station
+{{FMQ|callsign}} — FCC database entry for an FM station
+Radio-Locator[edit]
+
+
+Links to a station's Radio-Locator.com (formerly the M.I.T. List of Radio Stations) entry may be included for convenience.  These pages are also convenient for finding station URLs and other information. However, Radio-Locator.com is not always accurate and only the FCC database should be considered official for U.S. stations. Note that Radio-Locator is also subject to the same limitations as the FCC site when it comes to non-US stations.
+
+{{AML|callsign}} — Radio Locator entry for an AM station
+{{FML|callsign}} — Radio Locator entry for an FM station
+{{FMXL|callsign}} — Radio Locator entry for an FM translator station
+{{LPL|callsign}} — Radio Locator entry for a Low-Power FM station
+Nielsen Audio[edit]
+
+
+Links to a U.S. station's Nielsen Audio (formerly Arbitron) entry may also be included for convenience. Note that many low-power FM stations are not included in Nielsen's database.
+
+{{AMARB|callsign}} — Nielsen Audio entry for an AM station
+{{FMARB|callsign}} — Nielsen Audio entry for an FM station
+Recnet[edit]
+{{RecnetCanada}} — To be used for Canadian stations. This site does a straight weekly import of the official Industry Canada database, and is thus an equivalent authority. Note that because the site updates weekly, however, major ownership or technical changes may not be reflected for a few days after IC's initial update.
+IFT[edit]
+{{Mexico-inf|AM}}
+{{Mexico-inf|FM}} — This template (which has a parameter to select AM or FM) provides centrally updated references to the Mexican Federal Telecommunications Institute's PDF lists of AM and FM radio stations in the country. The lists include information such as effective radiated power, concession/permit status of the station, location and licensee. It should be used with the |accessdate= parameter and, unlike the other templates, generates an inline citation.
+Rebroadcaster templates[edit]
+
+
+Some U.S. stations use rebroadcast translators to broadcast over a wider geographic area. Translators should be included in the parent station's article and should not have their own page.
+
+{{RadioTranslators}}
+
+
+Rebroadcasters located in other countries should also be included in the parent station's article and should not have their own page. However, because the above template includes links to the FCC and Radio-Locator databases, there is a separate template for listing rebroadcasters of non-US stations:
+
+{{RadioRebroadcasters}}
+
+
+In both cases, however, a rebroadcaster should have a separate article only if it has a sourceable and verifiable history of originating its own programming prior to becoming a rebroadcaster of another station.
+
+Logos[edit]
+
+
+When uploading radio station logos for use in articles, be sure that the image(s) passes the fair-use criteria and that the rationale is properly documented on the image's page. For logos used in infoboxes, consider using 
+
+{{logo fur|Article=NAME|Use=Infobox|Source=SOURCE}}
+
+
+remembering to change "NAME" to the title of the article and "SOURCE" to the source of the image.  The FURME tool can be helpful in fixing fair-use criteria issues on existing logo images.
+
+
+When a station changes logos, this is usually triggered by a significant event in the station's history (format change, ownership change, etc.) that logo should be archived along with the rest of the station's history.  The old logo should be moved from the infobox to the section of the article describing the history of the station while that logo was in use. If no such section is available, consider creating one or move the old logo to the end of the article's history section and use gallery tags to organize the previous logos.  Include the years the logo was in use in the image caption.
+
+HD Radio[edit]
+
+
+To emphasize that HD Radio is available on a station, add {{HD Radio}} next to the frequency in the Radio Station infobox. See KESN for an example.  A list of HD Radio stations in the United States is available here.
+
+Parent projects[edit]
+WikiProject Radio
+Related projects[edit]
+WikiProject Amateur radio
+WikiProject BBC Radio
+WikiProject Television Stations
+Radio related articles nominated for deletion
+Task forces[edit]
+UK Radio task force - also covers UK radio stations
+Other resources[edit]
+
+Popular pages list
+/Recognized content
+List of Australian Radio Stations
+wiki Reference tag generator
+Category identifying radio station articles that are missing an infobox
+List of U.S. stations lacking Wikipedia articles maintained by a WPRS volunteer.
+Radio-Locator
+PublicRadioFan.com
+
+Clean up list[edit]
+
+
+
+Cleanup listing for this project is available. See also the tool's wiki page and the index of WikiProjects.
+
+
+vteWikipedia help pages
+Visit the Teahouse or the Help desk for an interactive Q &amp; A forum.
+
+FAQs&nbsp;(?)
+Reference desks&nbsp;(?)
+Noticeboards&nbsp;(?)
+Cheatsheet&nbsp;(?)
+ Directories&nbsp;(?)
+About Wikipedia&nbsp;(?)
+Administration
+Purpose
+Principles
+Policies and guidelines
+What Wikipedia is not
+Disclaimer&nbsp;(parental advice)
+Making requests
+Who writes Wikipedia?
+Help for readers&nbsp;(?)
+FAQ
+Books
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia&nbsp;(?)
+Advice for young editors
+Avoiding common mistakes
+Etiquette
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Your first article&nbsp;(article wizard)
+Getting started&nbsp;(?)
+Why create an account?
+Introductions by topic
+Graphics tutorials
+Picture tutorial
+IRC (live chat) tutorial
+VisualEditor user guide
+Dos and don'ts&nbsp;(?)
+Accessibility
+Biographies
+Biographies (living)
+Categorization
+Consensus
+Discussions
+Disambiguation
+Images
+Leads
+Links
+Lists
+References
+Tables
+Titles (of articles)
+How-to pages and
+information pages&nbsp;(?)
+Appealing blocks
+Article deletion
+Categories
+Citations/references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+Minor edit
+toolbar
+edit conflict
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking&nbsp;(link color)
+Logging in
+Merging
+Page name
+Renaming pages
+Redirect
+Passwords
+Email confirmation
+Reverting
+Simple vandalism cleanup
+Talk pages&nbsp;(archiving
+simple archiving)
+User contributions
+WP search protocol
+Coding&nbsp;(?)
+Wiki markup
+Barcharts
+Calculations
+Characters
+Columns
+Hidden text
+HTML
+Lists
+Magic words
+Music symbols
+Sections
+Sounds
+Tables
+Templates
+Transclusion
+URL
+Visual files
+Directories&nbsp;(?)
+Abbreviations
+Contents (Encyclopedia proper)
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Manual of Style 
+Policies
+Tasks
+Tips
+Tools
+ Missing Manual
+
+Ask for help on your talk page&nbsp;(?)
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+vte&nbsp;WikiProject Council&nbsp;WikiProject guides
+WikiProject Council
+Talk
+Guidelines/Intro
+WikiProjects
+Task forces
+Technical notes
+Assessment FAQ
+Work via WikiProjects
+&nbsp;Directories and summaries
+Directory
+Proposals
+Signpost
+Shortcuts
+Popular pages
+Database reports
+Watchers
+&nbsp;Culture and the arts
+Arts
+Music
+Performing
+Plastic
+Visual
+Broadcasting
+Crafts and hobbies
+Entertainment
+Games and toys
+Food and drink
+Internet culture
+Language and literature
+Biography
+Linguistics
+Media
+Philosophy and religion
+Sports
+&nbsp;Geographical
+Bodies of water
+Cities
+Countries
+Africa
+Americas
+Asia
+Europe
+Oceania
+Landforms
+Maps
+Parks, conservation areas and historical sites
+&nbsp;History and society
+History and society
+Business and economics
+Education
+Military and warfare
+Politics and government
+Transportation
+&nbsp;Science, technology
+and engineering
+Science
+Biology
+Chemistry
+Economics
+Geosciences
+Information science
+Mathematics
+Medicine
+Meteorology
+Physics
+Space
+Technology
+Time
+&nbsp;Wikipedia assistance
+and tasks
+Contents systems
+Maintenance
+Files
+Article improvement and grading
+Classroom projects
+WikiProjects
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Radio_Stations&amp;oldid=1053639088"
+		Categories: Active WikiProjectsWikipedia pages with to-do listsWikiProject Radio StationsWikiProject RadioMedia WikiProjectsTechnology WikiProjectsHidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 5 November 2021, at 03:06&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,559 @@
+
+
+
+
+Help:Unified login - Meta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Help:Unified login
+	
+		From Meta, a Wikimedia project coordination wiki
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Translate this pageOther languages:Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+British English
+Canadian English
+Cymraeg
+Deutsch
+English
+Esperanto
+Ido
+Lëtzebuergesch
+Nederlands
+Simple English
+Sunda
+Tagalog
+Tiếng Việt
+Türkçe
+azərbaycanca
+català
+dansk
+español
+français
+interlingua
+italiano
+kurdî
+lietuvių
+magyar
+occitan
+polski
+português
+português do Brasil
+română
+slovenčina
+slovenščina
+suomi
+svenska
+čeština
+Ελληνικά
+български
+русский
+українська
+עברית
+اردو
+العربية
+جهلسری بلوچی
+فارسی
+अवधी
+नेपाली
+मराठी
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+తెలుగు
+മലയാളം
+ไทย
+ဘာသာ မန်
+中文
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+
+
+
+←Help pages 
+
+Unified login
+
+
+
+
+   
+      Shortcut: 
+H:UL Your global account (also called unified login or SUL/single user login) is your single username reserved across all Wikimedia sister projects (except some special wikis e.g. Wikitech). This gives you a consistent identity throughout Wikimedia, enables features like global user pages, reduces vectors for impersonation, and lets you visit many projects without manually logging in on each wiki. You can create a global account by visiting Special:MergeAccount on a project where you already have an account and following the instructions there.
+   
+
+Contents
+
+1 About global accounts
+
+1.1 What it is
+1.2 How to unify your accounts
+1.3 What it changes
+1.4 What it doesn't change
+1.5 Conflict resolution
+
+
+2 Frequently asked questions
+
+2.1 Can my global username be renamed?
+2.2 I have two or more accounts with different names. Can they be merged into one account?
+2.3 Someone is using my name on another wiki. How can I get that account?
+2.4 Will I have autoconfirmed status on other wikis?
+2.5 Can I merge accounts from restricted-account-creation wikis?
+
+
+3 See also
+
+3.1 Announcements and news
+
+
+4 Notes
+
+
+
+About global accounts
+What it is
+
+
+The Wikimedia Foundation operates many editable wikis in many languages. Traditionally, users had to create separate user accounts on each wiki. This made it more difficult to participate across many wikis, especially as Wikimedia Commons made multimedia integration more essential and Wikidata became the central wiki for interwiki links.
+
+
+Your global account solves these problems by reserving your name on all wikis (so nobody else can impersonate you), and automatically creating your local account when you visit a wiki you've never visited before.
+
+How to unify your accounts
+
+
+User accounts are now global by default, but older accounts had to be manually unified by visiting Special:MergeAccount. You can use Special:CentralAuth to view details about your global account. The email address and password you configure on Special:Preferences will be used on all wikis. This means that you will be able to log in at any public Wikimedia project with just one single username and password.
+
+What it changes
+
+
+Registering a username on any public Wikimedia wiki automatically reserves that name on all the others; this means different users can no longer register with the same account name on different wikis. Users only need to set and confirm their email address in one account. Changing the password in any wiki changes it in all wikis accordingly. Special:UserLogin now logs the user in to every unified wiki simultaneously, noting that navigating away from the login page before it is fully loaded may result in incomplete login (i.e. users may not log in to all wikis successfully).
+
+
+Additional wikis will be added to the user's login the first time they are visited, and a local account will be created on that wiki. For example, a regular user at Commons and German Wikipedia will not automatically login to English Wikibooks, but if that user visits English Wikibooks once while logged in, they will then login to English Wikibooks each time (to see which wikis you have logged into, see Special:CentralAuth).
+
+What it doesn't change
+Some things are still local:
+User rights are mostly local, which means that administrators will not have administrator access everywhere. Global groups such as global rollback, global sysop, global interface editors and global IP block exemption can be requested at Steward requests/Global permissions.
+User preferences are local, although the email address only needs to be set and confirmed in one place. You can continue to have different preferences on different sites. It is possible however to set global preferences if you so wish.[1]
+Users can still have differently named accounts on two sites; however, these accounts will not be linked together into one global account.
+The global account system is only available for open Wikimedia projects; sites which run on the MediaWiki software but are not operated by the Foundation will continue to have separate account systems, even if they installed CentralAuth extension, which is responsible for the unified login system.
+Conflict resolution
+See also: Single User Login finalisation announcement 
+
+
+The system will automatically merge identically named accounts if they have the same authenticated email address, or the user can correctly provide their password.
+
+
+Because registration has for a long time been separate for each wiki, there are many usernames that belong to different people on different projects. The new system only allows one user per name, so there are some cases where accounts will need to be renamed. This must be done manually by a steward (see Steward requests/Username changes).
+
+
+Users may search for collisions before merging by using Special:CentralAuth.
+
+Frequently asked questions
+Can my global username be renamed?
+
+
+Yes. You can request renames by using this form or by placing a request at Steward requests/Username changes, where a steward or a global renamer will look into your request. See the global rename policy for details.
+
+I have two or more accounts with different names. Can they be merged into one account?
+
+
+No. Note that usernames on most individual projects can preemptively be renamed.
+
+Someone is using my name on another wiki. How can I get that account?
+
+
+The existence of the other account does not necessarily stop you from getting the global account. However, you might not be the one with the superior claim to the username if, for example, the other user has more edits or is a member of certain groups such as sysops or bureaucrats. You may have to ask them to rename, or you may have to rename your account.
+
+
+You can place a request at Steward requests/Username changes to "usurp" another username which is already in use.
+
+Will I have autoconfirmed status on other wikis?
+
+
+No. You will have to wait the appropriate amount of time after first logging into each particular wiki, before getting autoconfirmed status.
+
+Can I merge accounts from restricted-account-creation wikis?
+
+
+No, this is not currently possible. This is to prevent a user from creating an account on an open wiki and then merging it into a restricted wiki, which would allow the user access to the restricted one.
+
+See also
+Special:CentralAuth
+Special:MergeAccount
+Special:GlobalRenameRequest
+Steward requests/Username changes
+Global rename policy 
+Implementation notes in code base
+SUL finalisation
+Announcements and news
+Status updates at MediaWiki.org
+Single-User Login provides access to all wikis — Wikimedia Blog
+Notes
+
+↑ Global preferences
+
+
+vteUser groups Local
+groupsIn MetaWithout
+global effects
+confirmed user
+IP block exemption
+autopatroller
+patroller
+uploader
+flooder
+translation admin
+transwiki importer
+bureaucrat
+oversighter
+checkuser
+account creator
+With
+global effects
+administrator
+centralnotice admin
+interface admin
+OAuth administrators
+push subscription managers
+massmessage sender
+global renamer
+WMF Support and Safety
+WMF Office IT
+In some wikis
+uploader
+autopatroller
+patroller
+reviewer
+rollbacker
+autochecked user
+extended confirmed user
+file mover
+interface editor
+edit filter manager
+template editor
+eliminator
+translation admin
+massmessage sender
+image reviewer
+ArbCom member
+page mover
+suppressredirect
+technician
+bot admin
+flooder
+curator
+ engineer
+In one wiki
+(except Meta)
+noratelimit user
+GWToolset user
+Upload Wizard campaign editor
+test admin
+property creator
+Wikidata staff
+Cross-wiki
+blocked user
+unregistered user
+newly-registered user
+registered user
+confirmed user
+autoconfirmed user
+account creator
+bot
+administrator
+interface admin
+bureaucrat
+oversight
+checkuser
+IP block exempt
+importer
+transwiki importer
+Flow bot
+Historical groups
+Extended uploaders
+course coordinator, instructor, online and campus volunteer
+mover
+zeroadmin
+Global
+groups
+locked account
+unified account
+CAPTCHA exemptions
+API high limit requestor
+bot
+rollbacker
+abuse filter helper
+abuse filter maintainer
+interface editor
+recursive export
+IP block exemption
+new wikis importer
+deleter
+sysop
+ombuds
+VRT member
+founder
+staff
+WMF researcher
+two-factor authentication testers
+WMF ops monitoring
+Flow creator
+system administrator
+steward
+Links in italic are separate account statuses that are not assigned through user groups.
+
+See also: Wikimedia user groups
+
+
+
+
+
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Help:Unified_login&amp;oldid=22160833"
+		Categories: User groupsUnified login
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+		
+	
+
+
+	
+	
+		
+		Community
+	
+	
+		
+		Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+		
+	
+
+
+	
+		
+		Beyond the Web
+	
+	
+		
+		Meet WikimediansEventsMovement affiliatesDonate
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMediaWikiWikipedia
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		EnglishNorsk
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 11 October 2021, at 01:23.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About Meta
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

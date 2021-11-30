@@ -1,0 +1,481 @@
+
+
+
+
+Commons:Username policy - Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Commons:Username policy
+	
+		From Wikimedia Commons, the free media repository
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Translate this pageOther languages:Bahasa Indonesia
+British English
+Deutsch
+English
+Türkçe
+català
+dansk
+español
+français
+italiano
+polski
+português
+Ελληνικά
+русский
+українська
+العربية
+فارسی
+ગુજરાતી
+ᏣᎳᎩ
+中文
+日本語
+
+
+Shortcuts: COM:UPOLICY&nbsp;• COM:UPOL&nbsp;• COM:upol
+
+
+
+
+
+
+
+
+
+This page is considered an official policy on Wikimedia Commons.
+
+
+It has wide acceptance among editors and is considered a standard that everyone must follow. Except for minor edits (such as fixing typos, or bringing information up to date), please make use of the discussion page to propose changes to this policy.
+
+
+
+
+
+This policy describes what kinds of usernames are acceptable on Wikimedia Commons. In most cases you will be able to use the same username and password to log in to other language Wikipedias and other Wikimedia Foundation supported projects, see Help:Unified login on Meta-Wiki.
+
+Contents
+
+1 Well-known names and names of organizations
+2 Inappropriate usernames
+
+2.1 Confusing usernames
+
+
+3 Changing your username
+
+3.1 Deleting your account
+
+
+
+
+
+Well-known names and names of organizations
+See also: Commons:Role accounts. 
+
+
+
+
+
+Well-known names
+
+
+Do not use a username that implies you are (or are related to) a specific, identifiable person, unless it is your real name. If you have the same name as a well-known person to whom you are unrelated, and are using your real name, you should state clearly on your userpage that you are unrelated to the well-known person. If you are a well-known person, you need to have your identity verified by contacting the OTRS team at info-commonswikimedia.org.
+
+Organizations
+
+
+Use of the names of organizations is allowed on Commons only if you verify your account, proving that you are or represent the respective organization. While Commons allows using the name of an organization as a username, English Wikipedia and many other Wikimedia projects do not. You can use different accounts for Commons and Wikipedia, but if you want to use the same account for all projects you should comply with the more restrictive Wikipedia username policy.
+
+
+Be aware that your organization account is responsible for all of its edits. Do not give any employee that doesn't fully understand Commons policies access to the account credentials. Policy violations will not be waived because "Jerry did it".
+
+
+Using Commons to upload promotional material that is outside of Commons' scope is not permitted, even if the account has been verified. Unambiguously promotional accounts may be blocked.
+
+Account verification
+
+
+If you want to verify your account, do one or both of the following:
+
+Use an official e-mail account to send an e-mail to info-commonswikimedia.org, stating that the account in question belongs to you or the organization. Please be aware that the OTRS system that handles e-mail is operated entirely by volunteers.
+Link a page on your website or a verified social media account from your user page at Commons and link back to your Commons user page from that page/account.
+
+
+
+
+Inappropriate usernames
+Shortcut
+COM:IU
+
+
+
+Usernames that are inappropriate for editing on Wikimedia Commons may be blocked. These names include attempts to advertise, mislead, or disrupt. Please note that Commons is a multi-lingual project – names of users in one language may appear offensive in another language, but are perfectly acceptable if they make sense in the language of the user's speaking.
+
+Promotional usernames that are used to promote a group or company.
+Disruptive usernames, this includes outright trolling or personal attacks, or otherwise clearly disruptive intentions.
+Misleading usernames that may give the impression that the account has authority it does not have. Usernames should not contain the terms "administrator", "bureaucrat", "steward", "checkuser", "oversight", "developer", "bot" or similar terms meaning the same thing like "admin", "sysop" or "moderator".
+Offensive usernames that make harmonious editing difficult or impossible.
+
+
+If you have encountered an inappropriate username, you have several different options for how to proceed. You should choose one based on the severity of the problem, and based on what resolution would be the best for Wikimedia Commons. Use common sense when making your choice.
+
+
+Usernames that are obviously inappropriate may be blocked on sight by any administrator and may be reported at Commons:Administrators' noticeboard/Blocks and protections.
+
+Usernames that are clearly unacceptable for use on Commons, but have no obvious disruptive intent may be blocked indefinitely, but the block should only affect that account (disable autoblocks, and disable "prevent account creation"). If your account has been blocked for this reason, don't take it personally; the block is intended to disable the username you chose, not to prevent you from contributing. Please read this page carefully and choose a new and more appropriate name.
+Disruptive usernames that have been created only to cause trouble should be blocked indefinitely. Here the administrator will usually also prevent anonymous editing and stop any further accounts from being created (enable autoblocks, and enable "prevent account creation"). Such disruptive usernames may contain harassment or personal attacks, or be easily identifiable as a previously-blocked vandal.
+Any block based on a user's behavior may take their username into account if it is adding to the problem. These blocks may be indefinite blocks, to disallow the username.
+
+
+Inappropriate usernames do not need to be reported or blocked if the user has made no contributions; most user accounts that are registered are never used. When there is no evidence that an account was created in bad faith, administrators should explain the exact reason why they have blocked the user in either the block log or in a message on the editor's talk page and include a link to the appropriate part of this policy.
+
+
+If the user has been registered before this guide was written and the username is widely accepted and well known in the community and a rename would be difficult, no action should take place.
+
+Confusing usernames
+
+
+The purpose of a username is to identify contributors. If your username or your signature is unnecessarily confusing, editors may ask you to change it. Usernames like "Dasdpoieqdmcoiaq" that are random characters, or are too similar to other contributor's usernames, or confusing for other reasons can be blocked, but the user should usually be allowed to register under a new name.
+
+
+Confusing usernames can often be a red flag for other problems. An editor with a confusing username or signature may be blocked sooner than usual for other policy violations such as disruption or vandalism, if their confusing username contributes to the disruption. As with all other blocks, admins should use their discretion and common sense.
+
+
+If an otherwise good-faith contributor ignores requests to change their username, and goes on using a name that other editors agree is too confusing, then that username may be blocked. (Though this is best avoided if possible).
+
+Changing your username
+
+
+Usernames can be changed by Global renamers and Stewards. Complicated requests should be made at Steward requests/Username changes, while simple renames can be requested via this form.
+
+
+Once a username has been changed, existing contributions will be listed under the new name in page histories, diffs, logs, and user contributions. Signatures on discussion pages will continue to use the old name; while these can be changed manually, it is not recommended unless a contributor wishes to remove as much information as possible about their previous name for privacy reasons. In such situations the old name will still be available in old versions of discussion pages. Username changes are listed in the user rename log.
+
+Deleting your account
+
+
+It is not possible to delete user accounts. One reason for this is the need for all contributions to be assigned to some identifier; either a username or, in the case of anonymous contributions, an IP address. However, you may request that your user page and user talk page be deleted using the {{SD|U1}} tag and have your account renamed as described above.
+
+vteWikimedia Commons policies and guidelinesPoliciesProject
+General disclaimer
+Project scope
+Allowable file types
+Evidence
+Neutral point of view
+Precautionary principle
+Pages, galleries and categories
+Use of gender neutral language
+Content
+Licensing policy
+De minimis
+Fair use
+When to use the PD-Art tag
+Deletion policy
+Criteria for speedy deletion
+Revision deletion
+Language policy
+Category policy
+Behaviour
+Blocking policy
+Page protection
+De-adminship
+Paid contribution disclosure
+Translation administrators
+Signatures
+Username policy
+GuidelinesContent
+What Commons is not
+Non-copyright restrictions
+Fan art
+Nudity
+Photographs of identifiable people
+Derivative works
+When to use the PD-scan tag
+Galleries
+Using ImageAnnotator
+File renaming
+Overwriting existing files
+Grandfathered old files
+Behaviour
+Assume good faith
+Ownership of pages and files
+Talk page guidelines
+User-specific galleries, templates and categories
+Administrators
+Vandalism
+Rollback
+Patrol
+Licensing help
+(Village pump)Choosing a license
+Copyright rules
+Copyright rules by subject matter
+Copyright rules by territory
+Copyright tags
+PD files
+Copyright principles
+Threshold of originality
+Derivative works
+2D copying
+Screenshots
+Freedom of panorama
+Using files
+Reusing content outside Wikimedia
+Credit line
+Reuse of PD-Art photographs
+How to detect copyright violations
+License laundering
+Problematic sources
+Flickr
+Picasa Web
+Bad sources
+License review
+WMF policies
+Privacy policy
+Office actions
+
+Community portal
+Help contents
+
+
+
+
+
+
+
+
+
+Retrieved from "https://commons.wikimedia.org/w/index.php?title=Commons:Username_policy&amp;oldid=528677518"
+		Category: Commons policies
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ViewView sourceHistory
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigate
+	
+	
+		
+		Main pageWelcomeCommunity portalVillage pumpHelp center
+		
+	
+
+
+	
+	
+		
+		Participate
+	
+	
+		
+		Upload fileRecent changesLatest filesRandom fileContact us
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Meta-WikiWikidataWikinewsWikipediaWikiquoteWikiversity
+		
+	
+
+
+	
+	
+		
+		In Wikipedia
+	
+	
+		
+		العربيةAsturianuАварAzərbaycancaتۆرکجهБашҡортсаБългарскиभोजपुरीবাংলাBosanskiCatalàکوردیČeštinaDanskΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGalegoગુજરાતી客家語/Hak-kâ-ngîहिन्दीHrvatskiHornjoserbsceMagyarՀայերենInterlinguaBahasa IndonesiaIlokanoItaliano日本語JawaKongoҚазақша한국어LatinaМакедонскиമലയാളംМонголमराठीBahasa Melayuမြန်မာဘာသာनेपालीNederlandsଓଡ଼ିଆPolskiپښتوRomânăTarandíneРусскийСаха тылаسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSundaSvenskaதமிழ்తెలుగుไทยTürkçeУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng Việt吴语中文粵語
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 27 January 2021, at 11:37.
+	Files are available under licenses specified on their description page. All structured data from the file namespace is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and the Privacy Policy.
+
+
+	
+	Privacy policy
+	About Wikimedia Commons
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

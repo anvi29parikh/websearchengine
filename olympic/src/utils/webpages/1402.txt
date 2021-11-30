@@ -1,0 +1,512 @@
+
+
+
+
+Commons:Protection policy - Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Commons:Protection policy
+	
+		From Wikimedia Commons, the free media repository
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Translate this pageOther languages:Bahasa Indonesia
+British English
+Canadian English
+Deutsch
+English
+Nederlands
+Simple English
+Tiếng Việt
+Türkçe
+català
+dansk
+español
+français
+magyar
+polski
+português
+português do Brasil
+suomi
+čeština
+русский
+українська
+العربية
+فارسی
+ไทย
+中文
+日本語
+한국어
+
+
+Shortcuts: COM:P&nbsp;• COM:PROTECT
+
+
+
+
+
+
+
+
+
+This page is considered an official policy on Wikimedia Commons.
+
+
+It has wide acceptance among editors and is considered a standard that everyone must follow. Except for minor edits (such as fixing typos, or bringing information up to date), please make use of the discussion page to propose changes to this policy.
+
+
+
+
+
+
+Administrators can protect a page or file to restrict editing or moving of that page. Such protection may be indefinite or expire after a specified time.
+
+
+This ability is usually only used to combat vandalism and edit wars and the protection is usually temporary. Some exceptions include heavily used templates and archived user right request pages.
+
+
+The protection log shows a record of which pages have been protected, by whom, and the reason they gave for protection. All the pages that are currently protected are listed on Special:Protectedpages. Nonexistent pages that are protected against creation are listed on Special:Protectedtitles.
+
+
+Fully protected pages should be tagged with the appropriate protection template to inform others and to auto-categorize the page under Category:Protected. Semi-protected pages are generally not tagged.
+
+Contents
+
+1 Types of protection
+
+1.1 Full protection
+1.2 Template protection
+1.3 Semi-protection
+1.4 Move protection
+1.5 Cascading protection
+1.6 Upload protection
+
+
+2 Requesting protection and unprotection
+3 See also
+
+
+
+
+
+
+
+Types of protection
+
+
+
+
+Full protection
+
+Shortcut
+COM:FULL
+
+
+
+Full protection disables editing for everyone except administrators. Fully protected media files cannot be overwritten by new uploads except by administrators. Pages may be full protected indefinitely if they are heavily used images or frequently transcluded templates to prevent vandalism. Indefinite full protection may also be used for pages which should not be modified for copyright or legal reasons, such as Commons:GNU Free Documentation License.
+
+
+Pages experiencing edit warring as the result of a dispute may be temporarily protected. During this time, administrators should only make significant changes if there is consensus to do so. Any proposed changes should be discussed on the talk page. Such requests may, if they are immediate and uncontroversial, be accompanied by the {{Editprotected}} tag to attract administrators' attention.
+
+
+
+
+Template protection
+
+Shortcut
+COM:TP
+
+
+
+Template protection is used on higher risk templates, such as those with a high transclusion count or those with licensing information. Templates under this protection can only be edited by administrators and those with the template editor user right.
+
+
+
+
+Semi-protection
+
+Shortcut
+COM:SEMI
+
+
+
+Semi-protection disables editing for anonymous users and registered accounts less than four days old. This is the most common type of protection and is commonly used to prevent IP vandalism.
+
+
+
+
+Move protection
+
+Shortcut
+COM:MOVP
+
+
+
+Move protection protects the page solely from being moved. By default, fully protected pages are also move protected.
+
+
+
+
+Cascading protection
+
+Shortcut
+COM:CASCADE
+
+
+
+Cascading protection fully protects all pages transcluded on the protected page, including any images and their file description page, and any templates. Due to the widespread and powerful nature of cascading protection, its usage should be kept to a minimum. On Commons, cascading protection should only be used in rare situations where there's a consensus to do so.
+
+
+In the past, it wasn't possible to protect nonexistent pages from being created. As a workaround, these pages were transcluded on a page that had cascading protection. It is now possible to protect pages using MediaWiki's built-in protection of nonexistent pages, which is applied in the same manner as ordinary protection.  However, the old method has not been abandoned completely.
+
+
+Cascading semiprotection is disabled, because it enabled non-sysops to fully protect pages by transcluding them.
+
+
+
+
+Upload protection
+
+Shortcut
+COM:UPLOAD-P
+
+
+
+Upload protection might be used to prevent overwriting of files that are either heavily used across Wikimedia projects (e.g. template icons) or used in a dangerous location (e.g. wiki's main pages) in order to prevent vandalism. These protections might be indefinitely or temporary, for example only as long as a file is on a wiki's main page. For “heavily used” files [upload=sysop] and (to prevent malicious or accidental moves) [move=sysop] should be used. [edit=sysop] is not needed (and not useful since it, for example, does not allow category changes) if just the file's contents are important (e.g. if only very few views of the file page can be expected as it happens in non-linked template use).
+
+Requesting protection and unprotection
+To request protection
+
+Ask an administrator or make a request on Commons:Administrators' noticeboard/Blocks and protections.
+To request unprotection
+
+First, ask the administrator who protected the page.
+If they are unresponsive, ask a different administrator or ask at Commons:Administrators' noticeboard/Blocks and protections.
+See also
+Protected pages considered harmful (Meta)
+Commons:Auto-protected files
+Title blacklist
+Spam blacklist
+vteWikimedia Commons policies and guidelinesPoliciesProject
+General disclaimer
+Project scope
+Allowable file types
+Evidence
+Neutral point of view
+Precautionary principle
+Pages, galleries and categories
+Use of gender neutral language
+Content
+Licensing policy
+De minimis
+Fair use
+When to use the PD-Art tag
+Deletion policy
+Criteria for speedy deletion
+Revision deletion
+Language policy
+Category policy
+Behaviour
+Blocking policy
+Page protection
+De-adminship
+Paid contribution disclosure
+Translation administrators
+Signatures
+Username policy
+GuidelinesContent
+What Commons is not
+Non-copyright restrictions
+Fan art
+Nudity
+Photographs of identifiable people
+Derivative works
+When to use the PD-scan tag
+Galleries
+Using ImageAnnotator
+File renaming
+Overwriting existing files
+Grandfathered old files
+Behaviour
+Assume good faith
+Ownership of pages and files
+Talk page guidelines
+User-specific galleries, templates and categories
+Administrators
+Vandalism
+Rollback
+Patrol
+Licensing help
+(Village pump)Choosing a license
+Copyright rules
+Copyright rules by subject matter
+Copyright rules by territory
+Copyright tags
+PD files
+Copyright principles
+Threshold of originality
+Derivative works
+2D copying
+Screenshots
+Freedom of panorama
+Using files
+Reusing content outside Wikimedia
+Credit line
+Reuse of PD-Art photographs
+How to detect copyright violations
+License laundering
+Problematic sources
+Flickr
+Picasa Web
+Bad sources
+License review
+WMF policies
+Privacy policy
+Office actions
+
+Community portal
+Help contents
+
+
+
+
+
+
+
+
+
+Retrieved from "https://commons.wikimedia.org/w/index.php?title=Commons:Protection_policy&amp;oldid=601817124"
+		Category: Commons policies
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ViewView sourceHistory
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigate
+	
+	
+		
+		Main pageWelcomeCommunity portalVillage pumpHelp center
+		
+	
+
+
+	
+	
+		
+		Participate
+	
+	
+		
+		Upload fileRecent changesLatest filesRandom fileContact us
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Multilingual WikisourceWikibooksWikidataWikinewsWikipediaWikiquoteWikisourceWikiversityWikivoyageWiktionary
+		
+	
+
+
+	
+	
+		
+		In Wikipedia
+	
+	
+		
+		AfrikaansAragonésÆngliscالعربيةمصرىঅসমীয়াAzərbaycancaتۆرکجهБеларуская (тарашкевіца)БългарскиবাংলাBosanskiCatalàCebuanoکوردیČeštinaCymraegDanskDeutschދިވެހިބަސްΕλληνικάEnglishEsperantoEspañolEestiفارسیSuomiFøroysktFrançaisGalegoעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaIlokanoÍslenskaItaliano日本語Jawaქართულიភាសាខ្មែរ한국어कॉशुर / کٲشُرKurdîLatinaLëtzebuergeschLietuviųМакедонскиМонголमराठीBahasa MelayuMaltiမြန်မာဘာသာनेपालीNederlandsNorskଓଡ଼ିଆPolskiPortuguêsRomânăРусскийСаха тылаSarduسنڌيSängöසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaСрпски / srpskiSundaSvenskaதமிழ்తెలుగుไทยTürkçeУдмуртУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng Việtმარგალურიייִדיש中文粵語
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 24 October 2021, at 22:21.
+	Files are available under licenses specified on their description page. All structured data from the file namespace is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and the Privacy Policy.
+
+
+	
+	Privacy policy
+	About Wikimedia Commons
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

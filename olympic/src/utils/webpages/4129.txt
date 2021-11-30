@@ -1,0 +1,425 @@
+
+
+
+
+Wikipedia:Content forking - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Content forking
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This page documents an English Wikipedia content guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.ShortcutsWP:CFORKWP:CONTENTFORKWP:CONTENTFORKING
+This page in a nutshell: Articles should not be split into multiple articles just so each can advocate a different stance on the subject.
+
+
+A content fork is the creation of multiple separate articles all treating the same subject. Content forks that are created unintentionally result in redundant or conflicting articles and are to be avoided. On the other hand, as an article grows, editors often create summary-style spin-offs or new, linked articles for related material. This is acceptable, and often encouraged, as a way of making articles clearer and easier to manage. Examples of this might be the cuisine of a particular region forking from an article about the region in general, a filmography forking from an article about an actor or director or a sub-genre of an aspect of culture such as a musical style. 
+
+
+A point of view (POV) fork is a content fork deliberately created to avoid a neutral point of view (including undue weight), often to avoid or highlight negative or positive viewpoints or facts. All POV forks are undesirable on Wikipedia, as they avoid consensus building and therefore violate one of our most important policies.
+
+Contents
+
+1 Unacceptable types of forking
+
+1.1 Redundant content forks
+1.2 Point of view (POV) forks
+
+
+2 Acceptable types of forking
+
+2.1 Project-level forking
+2.2 Article spinoffs: "Summary style" meta-articles and summary sections
+2.3 Articles whose subject is a point of view (POV)
+2.4 Related articles
+2.5 Temporary subpages
+2.6 List formats
+
+
+3 Tags
+4 See also
+
+4.1 Tools for automatic detection of content forks
+
+
+
+
+
+Unacceptable types of forking[edit]
+Redundant content forks[edit]
+ShortcutWP:REDUNDANTFORK
+
+
+Content forking can be unintentional or intentional. Although Wikipedia contributors are reminded to check to make sure there is not an existing article on the subject before they start a new article, there is always the chance they will forget, or that they will search in good faith but fail to find an existing article, or simply flesh out a derivative article rather than the main article on a topic. If you suspect a content fork, check with people who watch the respective articles and participate in talk page discussions to see if the fork was justified. If the content fork was unjustified, the more recent article should be merged back into the main article.
+
+Point of view (POV) forks[edit]
+ShortcutsWP:POVFORKWP:POVSPLIT
+
+
+In contrast POV forks generally arise when contributors disagree about the content of an article or other page. Instead of resolving that disagreement by consensus, another version of the article (or another article on the same subject) is created to be developed according to a particular point of view. This second article is known as a "POV fork" of the first, and is inconsistent with policy: all facts and major points of view on a certain subject should be treated in one article. As Wikipedia does not view article forking as an acceptable solution to disagreements between contributors, such forks may be merged, or nominated for deletion.
+
+
+Since what qualifies as a "POV fork" can itself be based on a POV judgement, it may be best not to refer to the fork as "POV" except in extreme cases of persistent disruptive editing. Instead, apply Wikipedia's policy that requires a neutral point of view:  regardless of the reasons for making the fork, it still must be titled and written in a neutral point of view. It could be that the fork was a good idea, but was approached without balance, or that its creators mistakenly claimed ownership over it.
+
+
+The most blatant POV forks are those which insert consensus-dodging content under a title that should clearly be made a redirect to an existing article; in some cases, editors have converted existing redirects into content forks.  However, a new article can be a POV fork even if its title is not a synonym of an existing article's title.  If one has tried to include one's personal theory that heavier-than-air flight is impossible in an existing article about aviation, but the consensus of editors has rejected it as  complete nonsense, that does not justify creating an article named "Unanswered questions about heavier-than-air flight" to expound the rejected personal theory.
+
+
+The creator of the new article may be sincerely convinced that there is so much information about a certain aspect of a subject that it justifies a separate article. Any daughter article that deals with opinions about the subject of parent article must include suitably-weighted positive and negative opinions, and/or rebuttals, if available, and the original article should contain a neutral summary of the split article. There is currently no consensus whether a "Criticism of..." article is always a POV fork, but many criticism articles nevertheless suffer from POV problems. If possible, refrain from using "criticism" and instead use neutral terms such as "perception" or "reception"; if the word "criticism" must be used, make sure that such criticism considers both the merits and faults, and is not entirely negative (consider what would happen if a "Praise of..." article was created instead).
+
+Acceptable types of forking[edit]
+
+
+There are things that occur from time to time that may be mistaken for content forking.
+
+
+Note that meeting one of the descriptions listed here does not preclude something from also being a content fork.
+
+Project-level forking[edit]
+Main page: Wikipedia:Mirrors and forks
+
+
+There is a difference between article forking within Wikipedia and the legitimate practice of project-level forking.  The latter occurs when someone wishes to create their own wiki, according to their own standards and practices, but they want to use Wikipedia's content as a starting place.  As long as the new project adheres to their legal obligations under the CC BY-SA or GFDL in exchange for use of this content, as set out at Wikipedia's copyright policy, this is perfectly acceptable. Project-level forks are not bound in any way by Wikipedia's community policies or customs, like the five pillars. Project-level forking is discussed in more detail at Wikipedia:Forking FAQ.
+
+Article spinoffs: "Summary style" meta-articles and summary sections[edit]
+
+
+ShortcutWP:SPINOFF
+Further information: Wikipedia:Summary style
+See also: WP:SPINOUT 
+
+
+There are two situations where spinoff subarticles become necessary, and, when done properly, they create the opportunity to go into much more detail than otherwise permissible:
+
+Articles where the expanding volume of an individual section creates an undue weight problem
+Large summary style overview meta-articles which are composed of many summary sections
+
+
+In both cases, summary sections are used in the main article to briefly describe the content of the much more detailed subarticle(s).
+
+
+Sometimes, when an article gets too long (see Wikipedia:Article size), an unduly large section of the article is made into its own highly detailed subarticle, and the handling of that subject in the main article is condensed into a brief summary section. This is completely normal Wikipedia procedure. The new subarticle is sometimes called a "spinoff" from the main article ("spinout" leads elsewhere); Wikipedia:Summary style explains the technique.
+
+
+Even if the subject of the new article is controversial, this does not automatically make the new article a forbidden POV fork. However, the moved material must leave a WP:NPOV summary section of that material behind. If it doesn't, then the "spinning off" is really a clear act of POV forking: a new article has been created so that the main article can favor some viewpoints over others and ignore one viewpoint.
+
+
+A common situation is when a particular controversial incident gets a lot of attention from reliable sources representing different points of view, expanding until every item of evidence is included and referenced. This kind of detailed examination of a single incident in a general article will usually be considered to give undue weight to the incident, so it is more appropriate to break that section out as a separate subarticle and just leave a summary section in the main article.
+
+
+Here are some examples:
+
+Evolution as fact and theory is a subarticle of Evolution
+Creation–evolution controversy is a subarticle of Creationism
+O. J. Simpson murder case and O. J. Simpson robbery case are subarticles of O. J. Simpson
+Jimmy Savile sexual abuse scandal is a subarticle of Jimmy Savile
+
+
+Summary style meta-articles, with subarticles giving greater detail, are not POV forking, provided that all the subarticles, and the summary sections, conform to WP:NPOV. Essentially, it is generally acceptable to have different levels of detail of a subject in different articles, provided that each provides a balanced view of the subject matter.
+
+
+Here are some examples of "summary style" meta-articles where many or most sections are summaries of more detailed subarticles:
+
+Film
+Physics
+United States
+Caution
+
+
+Article splits are permissible only if written from a neutral point of view and must not be an attempt to evade the consensus process at another article. On the other hand, having a separate article on a controversial incident may give undue weight to that incident. For this reason Mel Gibson DUI incident was folded back into a Mel Gibson article section.
+
+
+However, it is possible for article spinoffs to become POV forks.  If a statement is inadmissible for content policy reasons at an article [[XYZ]], then it is also inadmissible at a spinoff [[Criticism of XYZ]]. Spinoffs are intended to improve readability and navigation, not to evade Wikipedia's content policies.
+
+Articles whose subject is a point of view (POV)[edit]
+ShortcutWP:SUBPOV
+
+
+Different articles can be legitimately created on subjects which themselves represent points of view, as long as the title clearly indicates what its subject is, the point-of-view subject is presented neutrally, and each article cross-references articles on other appropriate points of view. Thus Evolution and Creationism, Capitalism and Communism, Biblical literalism and Criticism of the Bible, etc., all represent legitimate article subjects. As noted above, "Criticism of" type articles should generally start as sections of the main article and be spun off by agreement among the editors.
+
+Related articles[edit]
+ShortcutsWP:RELARWP:RELART
+See also: Wikipedia:Copying within Wikipedia
+
+
+Articles on distinct but related topics may well contain a significant amount of information in common with one another.  This does not make either of the two articles a content fork.  As an example, clearly Joséphine de Beauharnais will contain a significant amount of information also in Napoleon I of France; this does not make it a fork.  Another example is where two articles cover the same topic, but are clearly directed at different audiences.  In such cases, one of the articles will be prefixed by the text "Introduction to ...", for example General relativity and Introduction to general relativity.
+
+
+Further, in encyclopedias it is perfectly proper to have separate articles for each different definition of a term; unlike dictionaries, a single encyclopedia article covers a topic, not a term. (cf. Wikipedia:Wikipedia is not a dictionary)
+
+Temporary subpages[edit]
+Main page: Wikipedia:Subpages
+
+
+One technique sometimes used to reach consensus on difficult articles is to create a temporary copy which people can then edit to show others proposed rephrasing or other changes.  This can be helpful for controversial subjects or controversial changes; editors can show others exactly what their vision for a proposed change is&nbsp;– without the controversy of having that new proposed version automatically replace the existing version.
+
+
+However, just as "spinout" articles have sometimes been mistaken for POV forks, temporary subpages have been mistaken for POV forks.  Care should be taken on both sides to minimize such mistakes.  New drafts should be written in the "user:" or "talk:" namespace and not in the main namespace; however, accidents happen and those who think they have found a POV fork, in turn, should check to see whether the article title indicates a temporary subpage and whether the talk page of the main article indicates that this is a place to work on consensus rather than to dodge it.
+
+List formats[edit]
+
+
+Stand-alone lists can be formatted as tables or without using the table syntax. Tables don't work well on various devices (hand-held screens, omitted when using Wikipedia's PDF export function,... and the "sortability" advantage is lost in some cases). For that reason it is often a good idea to retain a structured list (or bullet list, or numbered list, ...) even when a table is provided with basically the same content. However, having two list pages with roughly the same content, one of them presenting the list content in a "sortable table" format, and the other not using table syntax for the list content, is only possible when:
+
+There is no other way to avoid a WP:PAGESIZE problem
+There is a true advantage to presenting the list as a sortable table
+It is worthwhile to put (usually considerable) maintenance efforts in two pages that roughly cover the same topic
+There is no notability issue for either of the pages
+
+
+Also, provide a link to the differently formatted list high up on the page, preferably before the TOC or first section header, so that readers can switch to the other format if that works better for the device with which they are accessing the list. Example (see Wikipedia:Naming conventions (music)#Lists): List of compositions by Franz Schubert (sortable table format) and List of compositions by Franz Schubert by genre (structured list).
+
+Tags[edit]
+Template:Duplication
+Template:Move portions and Template:Move portions from
+See also[edit]
+Wikipedia:Content forking/Internal – related advice about forking of Wikipedia-internal content, including discussions and policy pages
+Wikipedia:Avoiding POV funnels
+Wikipedia:Be neutral in form
+Wikipedia:Criticism (essay on the way criticism can be included in Wikipedia articles)
+Wikipedia:Splitting
+Wikipedia:Tendentious editing
+Wikipedia:Integrate
+Wikipedia:Semi-duplicate
+m:Content forking and m:Separatism
+MeatBall:ViewPoint (original proposal)
+Tools for automatic detection of content forks[edit]
+WP:Duplication detector
+Duplicate content report for en.wikipedia.org
+Similar page checker to find duplicated content on two Wikipedia pages
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Content_forking&amp;oldid=1055610104"
+		Categories: Wikipedia content guidelinesWikipedia neutral point of view
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AfrikaansالعربيةتۆرکجهবাংলাفارسیFrançaisBahasa IndonesiaҚазақшаNorsk bokmålРусскийکوردی中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 16 November 2021, at 20:55&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

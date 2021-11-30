@@ -1,0 +1,1076 @@
+
+
+
+
+Help:Substitution - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Help:Substitution
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Help about using templates
+For detailed guidance on when to use substitution rather than transclusion, see Wikipedia:Substitution.
+This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutH:SUBST
+
+
+Substitution is a function whereby, when an editor saves a page, an item in the wikicode is permanently replaced with its current value. In particular, templates and magic words can be substituted, as an alternative to transclusion. The difference is that when a template is substituted on a page, its appearance on that page will no longer be affected by later changes made to the template itself (as is the case in a transcluded template).
+
+
+Substitution is done using the subst: modifier after the double opening braces. For example, to substitute the template {{afd}}, type {{subst:afd}}. You can check the resulting wikitext before saving by clicking "Show changes" (and see what the page will look like by clicking "Show preview").
+
+
+Variables and parser functions can also be substituted, meaning that their current value will be recorded permanently on the page – they will not be re-evaluated whenever someone views the page.
+
+Contents
+
+1 When to use substitution
+2 Syntax
+3 Technical implementation
+
+3.1 The safesubst: modifier
+
+
+4 Recursive substitution
+
+4.1 Recursive substitution in guided tours
+4.2 An example of recursion in action
+4.3 Further examples
+
+
+5 Making templates behave differently when transcluded or substituted
+6 Documenting substitution
+7 Limitation
+8 Templates for substitution
+9 See also
+
+
+
+When to use substitution[edit]
+
+
+Generally speaking, templates are transcluded rather than substituted, although there are some that are specifically designed to be substituted (and may not work if transcluded). Some reasons for substituting templates include:
+
+making the resulting page independent of future changes to the template
+enabling other automatic replacements to occur (for example, a template may contain four tildes, which will be replaced by the user's signature and timestamp provided the template is substituted)
+enabling the page to be copied to another project without copying the template
+making page rendering faster for the server
+making the correspondence between wikitext and rendered page easier to understand (the opposite may also apply)
+
+
+Disadvantages of substitution may include:
+
+Updates to the template will not be reflected on the target page
+The resulting wikitext is longer and more complicated
+Other users cannot see that the text was produced using a template (and will not learn to use the template)
+Many templates add a hidden comment such as &lt;!-- Template:Foo --&gt; to the end of their output to mitigate this issue.
+
+
+Time-dependent variables are substituted to make the rendered page independent of the time at which it is viewed. Substituting page-dependent variables makes the resulting wikitext independent of renaming of the page and of copying to another page.
+
+
+For more detailed guidance, including lists of templates which should or should not be substituted, see Wikipedia:Substitution.
+
+Syntax[edit]
+
+
+To substitute a template, use the same syntax as for transclusion, but include subst: after the opening double braces. For example, to substitute the template {{afd}}, type {{subst:afd}}. Parameters can be included as in the case of transclusion, for example {{subst:afd|Some article}}.
+
+
+Pages not in the template namespace can also be substituted, e.g. {{subst:User:Cleverclogs/My box}}. To substitute the current content of a page in mainspace (i.e. one with no namespace prefix), two colons are required, as in {{subst::Page}}. If a substituted page or template does not exist, the entire expression (with braces and subst:) will remain unchanged in the wikitext and on the page.
+
+
+Use the same syntax to substitute variables and parser functions, e.g. {{subst:PAGENAME}} or {{subst:#switch:{{NUMBEROFADMINS}}|1=Foo|1000=Bar|#default=Baz}}.
+
+
+There may be whitespace between the opening braces and the "subst:". However it is recommended not to have any space or newlines immediately after the "subst:", as this will not work in every case.
+
+Technical implementation[edit]
+
+
+Substitution is part of the process performed on saving a page, and causes the wikitext saved as a result of the edit to differ from the text which the user actually entered in the edit window. Other replacements performed during this process include expansion of links using the pipe trick, and replacement of multiple tildes with signatures and timestamps.
+
+
+This means that substitution necessarily occurs before any actions performed at the time of page rendering (conversion of the stored wikitext to HTML). In particular, substitutions are done before transclusions. So typing {{subst:Help:L{{in(tut)}}k}} will not do substitution, even though {{in(tut)}} returns the text "in" and Help:Link exists. The transclusion of {{in(tut)}} has not yet taken place when the substitution is attempted. However, replace {{in(tut)}} with {{subst:in(tut)}}, and both substitutions will be performed in the expected order.
+
+
+Similarly:
+
+Typing {{subst:#if:{{x0}}|yes|no}} gives the wikitext "yes", even though {{x0}} is an empty template, since the conditional parameter evaluates to the non-empty string "{{x0}}". However {{subst:#if:{{subst:x0}}|yes|no}} produces "no", since the inner substitution is performed first.
+Typing {{subst:#expr:2*{{{p|3}}}}} returns Expression error: unrecognised punctuation character "{", as the undefined parameter {{{p}}} has not been replaced by its default value (3) when the substitution occurs.
+If {{t6}} contains the text "t2|a", then {{ {{subst:t6}} }} will produce the wikitext "{{ t2|a }}", rendered as "[[w:List of people by name: a{{{2}}}|a{{{2}}}]]" Contrast this with the behaviour of {{ {{t6}} }}, which is rendered as "{{ t2|a }}", because the parser does not reinterpret the pipe as a separator during the non-substituted expansion stage. (Similarly, {{subst:{{subst:t6}} }} gives the wikitext {{subst:t2|a }}, which only on the next edit will be substituted with [[w:List of people by name: a{{{2}}}|a{{{2}}}]].)
+
+
+Clicking the "Show changes" button during editing shows the wikitext that will result after substitution and other immediate replacements are carried out. Clicking "Show preview" shows what the rendered page will look like after these replacements.
+
+
+If a page substitutes itself (e.g. in the noinclude part of a template page) it substitutes the old version, as it was before the current edit.
+
+
+If the expansion of a substituted template itself contains instances of the subst: syntax, then the substitutions are performed recursively. However substitution is not automatically recursive – if a substituted template contains ordinary transclusions or variables and parser functions which are not explicitly substituted, then these will not be substituted.
+
+
+Note also that if instances of the subst: syntax appear in a template that is being transcluded, then they will be rendered unchanged (as "{{subst:...}}"), since no substitution in wikitext is possible at the rendering stage. This feature can be exploited to control template behaviour (see §&nbsp;Making templates behave differently when transcluded or substituted). However, it may be inconvenient when a template is designed to be possible to transclude as well as substitute – in this case safesubst: can be used instead of subst: (see §&nbsp;The safesubst: modifier).
+
+The safesubst: modifier[edit]
+ShortcutWP:SAFESUBST
+
+
+The subst: modifier can be replaced by the alternative modifier safesubst:. The two have the same behaviour, except when they are encountered during non-substituted expansion (transclusion or direct viewing) of a template. In such a situation, the code {{subst:...}} remains unparsed, whereas the {{safesubst:...}} is treated as if no modifier were present – and so the subtemplate is transcluded or the variable or parser function evaluated.
+
+
+Hence the safesubst: modifier is used in the code of templates which are designed to produce recursive substitution when substituted; but that are also intended to work when transcluded or simply to be viewed directly. Contrasted with using the subst: modifier, such templates would break in such cases of transclusion (and possibly on direct viewing).
+
+
+For details on how to implement this (in particular, how to prevent the substitution from being performed as soon as the template code is saved), see §&nbsp;Recursive substitution.
+
+Recursive substitution[edit]
+
+
+As mentioned above, substitution is not automatically recursive. So if a substituted template has code containing transclusions of other templates and parser functions, that code will be copied "as is" into the resulting wikitext – the transcluded items will not themselves be substituted.
+
+
+To make substitution work recursively, you must include the subst: syntax in the code of the calling template. However, you cannot do this by simply typing "subst:" within the template, as the substitution would then be performed as soon as the template is saved. There are two ways to work around this problem:
+
+Use subst:&lt;noinclude/&gt; in place of plain subst:. The noinclude tag breaks up the substitution syntax when the template is saved, but will be stripped away when it is later substituted, allowing the inner substitution to take effect.
+Make "subst:" the possible value of an expression containing a parameter, such as {{{subst-foo|subst:}}}, which will evaluate to "subst:" provided the parameter subst-foo is not set. This is a more flexible solution, as it allows the behaviour to be controlled via the parameter. For example, such a template might be called using {{subst:Templatename|subst-foo=|..}}, assigning the parameter an empty value and thus turning off the second level of substitution. If it is not planned to use the parameter, the parameter name is often chosen to be the empty string, giving {{{|subst:}}}.
+
+
+To ensure that the template will still work as intended if it is transcluded instead of substituted, use safesubst: instead of subst:. This also applies if the template is also to be viewed directly, on its own page (although in this case, if the first of the above methods is used, plain subst: will still work, as the includeonly tags will cause the parser to ignore the subst: on direct viewing).
+
+
+To see what a template will produce when fully expanded, without the need to explicitly substitute all subtemplates etc., the Special:ExpandTemplates tool can be used.
+
+
+For more information, see the Recursive conversion of wikitext help page at Meta. See also Help:Calculation §&nbsp;Substitution, m:Template:Example table with computations, with optional substitution&nbsp;(backlinks edit), and the feature request at substall.
+
+Recursive substitution in guided tours[edit]
+
+
+Guided tours can make posts on behalf of users, such as automatically posting the contents of a wiki page onto a talk page. Unlike normal substitution or transclusion, however, this function of guided tours does not respect &lt;includeonly&gt;...&lt;/includeonly&gt; and similar markup. To make recursive substitution work via guided tour posting, you can use the Delaying Template:subst method described on Meta.
+
+An example of recursion in action[edit]
+
+
+This is an example using the actual Template:Like, and a hypothetical Template:Foo. You are attempting to include the Template:Foo, and indirectly the Template:Like, on a third page through transclusion and substitution. Template:Like displays this symbol:  Like
+
+
+For example, let's say the Template:Foo contained the wikitext {{Like}}. If you then transclude it, using the wikitext {{Foo}}, this will transclude the Template:Like as you would expect. But if you use the wikitext {{subst:Foo}}, when you save it, you find the wikitext {{Like}} substituted rather than the wikitext of the page Template:Like. The substitution has not been recursive.
+
+
+An example of recursion would be if the Template:Foo contained the wikitext {{{{{|safesubst:}}}Like}}. Now if you transclude it, using the wikitext {{Foo}}, this will transclude the Template:Like just as before. And if you save {{subst:Foo}} it will substitute the full actual wikitext of the Template:Like. You have therefore achieved recursive substitution.
+
+Further examples[edit]
+
+
+Note: {{!}} substitutes to |.
+
+
+
+
+Wikitext of Template:Foo
+
+When you view Template:Foo,
+it looks like:
+
+The result of {{Foo}}
+if included on this page
+
+The result of {{subst:Foo}}
+if included on this page
+
+
+saves as:
+
+renders as:
+
+saves as:
+
+renders as:
+
+
+
+{{!}}
+
+{{PAGENAME}}
+
+{{#if: 1 | yes | no}}
+
+
+|
+
+
+Foo
+
+
+yes
+
+
+
+{{Foo}}
+
+
+|
+
+
+Substitution
+
+
+yes
+
+
+
+{{!}}
+
+{{PAGENAME}}
+
+{{#if: 1 | yes | no}}
+
+
+|
+
+
+Substitution
+
+
+yes
+
+
+
+
+{{{{{|subst:}}}!}}
+
+{{{{{|subst:}}}PAGENAME}}
+
+{{{{{|subst:}}}#if: 1 | yes | no}}
+
+
+{{subst:!}}
+
+
+{{subst:PAGENAME}}
+
+
+{{subst:#if: 1 | yes | no}}
+
+
+
+{{Foo}}
+
+
+{{subst:!}}
+
+
+{{subst:PAGENAME}}
+
+
+{{subst:#if: 1 | yes | no}}
+
+
+
+|
+
+Substitution
+
+yes
+
+
+|
+
+
+Substitution
+
+
+yes
+
+
+
+
+{{{{{|safesubst:}}}!}}
+
+{{{{{|safesubst:}}}PAGENAME}}
+
+{{{{{|safesubst:}}}#if: 1 | yes | no}}
+
+
+|
+
+
+Foo
+
+
+yes
+
+
+
+{{Foo}}
+
+
+|
+
+
+Substitution
+
+
+yes
+
+
+
+|
+
+Substitution
+
+yes
+
+
+|
+
+
+Substitution
+
+
+yes
+
+
+Making templates behave differently when transcluded or substituted[edit]
+
+
+Sometimes it is desirable to make a template behave differently when substituted than when transcluded. A common trick for doing this is to use an expression like {{{{{subst|subst:}}}ns:0}}. This evaluates to the empty string if the template is being substituted (since the inner substitution takes effect, giving the prefix of namespace 0, which is empty), but to "{{subst:ns:0}}" if the template is being transcluded (since substitution cannot take place after transclusion).
+
+
+A common application is in templates which are designed only to be substituted, to make them produce a warning if they are mistakenly transcluded instead. This is done in templates like {{prod}}, which are designed to produce a timestamp (e.g. for adding pages to dated categories), and will not be able to do this if transcluded.
+
+
+A template, {{issubst}}, has been created to simplify this. It returns "yes" if substitution is being performed, or the empty string otherwise. This can then be used as the parameter of a conditional parser function to make the template display a warning method if it is being transcluded, or to otherwise change the behaviour of a template depending on whether it is being transcluded or substituted.
+
+Documenting substitution[edit]
+
+
+Usage of a template through subst: does not automatically show up in page histories. Therefore, providing the line of wikitext containing "subst:" in the edit summary is especially useful.
+
+
+Also, pages with a substituted template do not show up in backlinks, and the template does not appear in the list of transcluded templates on the edit page. The template could add pages to a category to track substitutions, but listing this category on a page may clutter the list of content-based categories the page is in. Also, comments outside noinclude tags are included in the wikitext. Thus a comment can be used to mention the template. Substitution of parameters does not work inside comments, but a workaround for this is to begin an intended comment with &lt;!&lt;noinclude /&gt;-- so that it turns into a comment once transcluded.
+
+Limitation[edit]
+
+
+Substitution is not available inside &lt;ref&gt;...&lt;/ref&gt; and &lt;gallery&gt;...&lt;/gallery&gt; tags. If you write {{subst:foo}}, it is not substituted nor transcluded, but remains as-is (it's a known bug, see T4700 and gerrit:272916 for current status).
+
+
+However it is possible to bypass this limitation by using the magic word #tag. If you write, for instance, {{safesubst:#tag:ref|content of the reference}}, the content of the reference will be substituted and the {{#tag:ref|...}} will be replaced with &lt;ref&gt;...&lt;/ref&gt;.  A more concrete example:
+If you write for instance {{safesubst:#tag:ref|...Title=ExampleTitle|archivedate={{subst:TODAY}}|Edition=Hardcover...}}
+then the software will perform substitutions on the text within the last field and the {{#tag:ref|...}} will be replaced with &lt;ref&gt;...&lt;/ref&gt;around the altered text, and the reference will be saved with the substitution; it'll be saved as "{{|...Title=ExampleTitle|archivedate=29 January 2016|Edition=Hardcover|...}}" with &lt;ref&gt;...&lt;/ref&gt; around it.
+In other words, first the software will expand the templates and then place that expanded text within reference tags.
+
+
+
+
+
+Templates for substitution[edit]
+{{require subst}} can wrap templates which require subst:
+{{issubst}} - Returns "yes" when substituted.
+{{ifsubst}} - Similar to #if: magic word, judging from substituted or not.
+See also[edit]
+Substitution for Dummies
+m:Help:Substitution, a longer and more technical help page at Meta
+mw:Extension:ExpandTemplates
+bugzilla:2003 – feature request to allow marking a template as being substituted without "subst:"
+Templates containing a call to itself with "subst:" and producing a similar call with updated info, either replacing or adding to the previous info:
+m:Template:last edit&nbsp;(backlinks edit) – example: last edit
+m:Template:page history&nbsp;(backlinks edit)
+WikiProject Check Wikipedia §&nbsp;Template programming element lists articles where templates were substituted rather than transcluded.[dead link] (According to the Wayback Machine, the last time this link worked was May 2010. It appears to have been removed since then. Perhaps this tools page may help find articles substituted rather than transcluded?)
+vteWikipedia templatesMain namespace
+General
+Cleanup
+Verifiability and sources
+Disputes
+Hatnotes
+Infoboxes
+Links
+External link templates
+Linking country articles
+Lists
+Main page
+Section
+Sources of articles
+Quick reference
+Standard boxes
+Stub types
+Translation
+Other namespaces
+Compact TOC
+Category
+File
+Talk
+Template
+User
+Userboxes
+User talk
+Wikipedia
+WikiProject banners
+All namespaces
+Deletion (Speedy)
+Formatting
+Maintenance
+Merging
+Moving
+Requested
+Navigation
+Redirect pages
+Functional index
+Language codes
+Splitting
+Wikimedia sister projects
+Navboxes
+with templates
+Archive
+Articles for deletion
+Birth, death and age
+Button
+Category header
+Citation and verifiability
+Citation Style 1
+Deletion review
+Editnotice
+Hatnotes
+Help desk
+Inline cleanup
+Introduction cleanup
+IPA
+Math
+Notice and warnings
+Organization infoboxes
+Proposed article mergers
+Protection
+Quotation
+Redirects
+Search
+Semantics
+Speedy deletion
+Notices
+String-handling
+Sup and sub-related
+Top icon
+Transwiki maintenance
+Unicode
+User talk pages
+User noticeboard notices
+Userboxes
+User rights
+Userspace linking
+Userspace Disclaimers
+Wikibreak
+WikiLove
+Inline images
+Wikipedia icons
+Discussion icons
+Comment icons
+Emoji
+Related topics
+Template documentation
+Examples of templates
+Maintenance template removal
+Requested templates
+WikiProject Templates
+Template help
+Template namespace
+Search  
+  Category
+
+vteWikipedia help pages
+Visit the Teahouse or the Help desk for an interactive Q &amp; A forum.
+
+FAQs&nbsp;(?)
+Reference desks&nbsp;(?)
+Noticeboards&nbsp;(?)
+Cheatsheet&nbsp;(?)
+ Directories&nbsp;(?)
+About Wikipedia&nbsp;(?)
+Administration
+Purpose
+Principles
+Policies and guidelines
+What Wikipedia is not
+Disclaimer&nbsp;(parental advice)
+Making requests
+Who writes Wikipedia?
+Help for readers&nbsp;(?)
+FAQ
+Books
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia&nbsp;(?)
+Advice for young editors
+Avoiding common mistakes
+Etiquette
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Your first article&nbsp;(article wizard)
+Getting started&nbsp;(?)
+Why create an account?
+Introductions by topic
+Graphics tutorials
+Picture tutorial
+IRC (live chat) tutorial
+VisualEditor user guide
+Dos and don'ts&nbsp;(?)
+Accessibility
+Biographies
+Biographies (living)
+Categorization
+Consensus
+Discussions
+Disambiguation
+Images
+Leads
+Links
+Lists
+References
+Tables
+Titles (of articles)
+How-to pages and
+information pages&nbsp;(?)
+Appealing blocks
+Article deletion
+Categories
+Citations/references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+Minor edit
+toolbar
+edit conflict
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking&nbsp;(link color)
+Logging in
+Merging
+Page name
+Renaming pages
+Redirect
+Passwords
+Email confirmation
+Reverting
+Simple vandalism cleanup
+Talk pages&nbsp;(archiving
+simple archiving)
+User contributions
+WP search protocol
+Coding&nbsp;(?)
+Wiki markup
+Barcharts
+Calculations
+Characters
+Columns
+Hidden text
+HTML
+Lists
+Magic words
+Music symbols
+Sections
+Sounds
+Tables
+Templates
+Transclusion
+URL
+Visual files
+Directories&nbsp;(?)
+Abbreviations
+Contents (Encyclopedia proper)
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Manual of Style 
+Policies
+Tasks
+Tips
+Tools
+ Missing Manual
+
+Ask for help on your talk page&nbsp;(?)
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Substitution&amp;oldid=1055914248"
+		Categories: Wikipedia how-toWikipedia template helpHidden categories: Help pages with short descriptionWikipedia help
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		MediaWikiMeta-WikiWikidata
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		অসমীয়াবাংলাभोजपुरीCatalàDanskEsperantoFrançaisItalianoPortuguêsසිංහලSimple Englishسنڌي中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 18 November 2021, at 16:05&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

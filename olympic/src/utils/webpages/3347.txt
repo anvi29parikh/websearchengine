@@ -1,0 +1,222 @@
+
+
+
+
+MediaWiki:Captchahelp-text/cs - Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	MediaWiki:Captchahelp-text/cs
+	
+		From Wikimedia Commons, the free media repository
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Webové stránky, do kterých mohou přispívat jejich návštěvníci (jako například tato wiki), jsou často terčem spammerů, kteří pomocí automatických nástrojů vkládají své odkazy na velké množství stránek. Přestože lze tento spam odstranit, představuje nepříjemné obtěžování.
+
+
+Někdy, zvláště při přidávání nových webových odkazů, vám může wiki ukázat obrázek barevného či pokrouceného textu a požádat vás o opsání zobrazených znaků. Jelikož takovou úlohu lze jen těžko automatizovat, skuteční lidé mohou dále přispívat, zatímco většinu spammerů a jiných robotických útočníků to zastaví.
+
+
+Bohužel to však může představovat nepříjemný problém pro uživatele se zrakovým postižením či uživatele používající textové prohlížeče či hlasové čtečky. V současné době nemáme alternativní zvukovou verzi. Kontaktujte prosím správce serveru, pokud vám to brání v užitečných příspěvcích a potřebujete pomoc.
+
+
+Pro návrat na předchozí stránku stiskněte ve svém prohlížeči tlačítko „zpět“.
+
+Retrieved from "https://commons.wikimedia.org/wiki/MediaWiki:Captchahelp-text/cs"
+		
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Interface pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ViewView source
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigate
+	
+	
+		
+		Main pageWelcomeCommunity portalVillage pumpHelp center
+		
+	
+
+
+	
+	
+		
+		Participate
+	
+	
+		
+		Upload fileRecent changesLatest filesRandom fileContact us
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereSpecial pagesPrintable versionPage information
+		
+	
+
+
+	
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About Wikimedia Commons
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

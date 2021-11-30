@@ -1,0 +1,794 @@
+
+
+
+
+Commons:Shortcuts - Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Commons:Shortcuts
+	
+		From Wikimedia Commons, the free media repository
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Shortcut
+COM:COM
+This project page in other languages:
+
+
+
+čeština&nbsp;| 
+Deutsch&nbsp;| 
+English&nbsp;| 
+español&nbsp;| 
+日本語&nbsp;| 
+português&nbsp;| 
+中文（简体）&nbsp;| 
+中文（繁體）&nbsp;| 
++/−
+
+
+
+
+
+Following is a list of Wikimedia Commons shortcuts for English pages (Commons — Categories). CAT: is an alias for Category: (see Help:Namespaces), CT: is a not (yet) very popular prefix for shortcuts to important Commons talk pages. COM: is actually an alias for Commons: or Project:, e.g., COM:COM and Project:COM arrive at Commons:COM, where they are redirected to this page Commons:Shortcuts. Likewise, COM:Shortcuts and Project:Shortcuts go to this page (without redirection).   
+
+
+
+
+Shortcut
+Full name
+
+
+Maintenance and request pages
+
+
+COM:A, COM:ADMIN
+Commons:Administrators
+
+
+COM:A/RV
+Commons:Administrators/Requests and votes
+
+
+COM:ABL, COM:LOABL
+Commons:List of administrators by language
+
+
+COM:B
+Commons:Bureaucrats
+
+
+COM:BABEL, COM:BBL
+Commons:Babel
+
+
+COM:BOT, COM:BOTS
+Commons:Bots
+
+
+COM:BR
+Commons:Bots/Work requests
+
+
+COM:BRL
+Commons:Bild-Richtlinien
+
+
+COM:CFD
+Commons:Categories for discussion
+
+
+COM:CLI
+Commons:Command-line upload
+
+
+COM:CHU
+Commons:Changing username
+
+
+COM:CU, COM:RCU, COM:CHECK
+Commons:Requests for checkuser
+
+
+COM:DEL, COM:DR
+Commons:Deletion requests
+
+
+COM:O
+Commons:Oversight
+
+
+COM:OTRS
+Commons:OTRS
+
+
+COM:R, COM:PR
+Commons:Picture requests
+
+
+COM:RFR
+Commons:Requests for rights
+
+
+COM:UPDATE
+Commons:Requested updates to protected images
+
+
+COM:UR, COM:UNDEL
+Commons:Undeletion requests
+
+
+COM:W, COM:WL
+Commons:Welcome log
+
+
+COM:CDC
+User:CommonsDelinker/commands
+
+
+Project pages
+
+
+COM:FP
+Commons:Featured pictures
+
+
+COM:FPC
+Commons:Featured picture candidates
+
+
+COM:FV
+Commons:Featured videos
+
+
+COM:FVC
+Commons:Featured video candidates
+
+
+COM:GL
+Commons:Graphic Lab
+
+
+COM:GL/I
+Commons:Graphic Lab School/Images to improve
+
+
+COM:MFC
+Commons:Media for cleanup
+
+
+COM:MOTD
+Commons:Media of the day
+
+
+COM:OFFICE
+Commons:Office actions
+
+
+COM:PJ
+Commons:WikiProject
+
+
+COM:POTD
+Commons:Picture of the day
+
+
+COM:POTY
+Commons:Picture of the Year
+
+
+COM:PSF
+Commons:Pearson Scott Foresman
+
+
+COM:QI
+Commons:Quality images
+
+
+COM:QIC
+Commons:Quality images candidates
+
+
+COM:VI
+Commons:Valued images
+
+
+COM:VIC
+Commons:Valued image candidates
+
+
+COM:VICR
+Commons:Valued image criteria
+
+
+COM:WLE
+Commons:Wiki Loves Earth
+
+
+COM:WLE2015
+Commons:Wiki Loves Earth 2015
+
+
+Help pages
+
+
+COM:COA
+Commons:Coats of Arms
+
+
+COM:CB, COM:CSM
+Commons:Copyright rules by subject matter
+
+
+COM:COM
+Commons:Shortcuts (this page)
+
+
+COM:COWN
+Commons:Contributing your own work
+
+
+COM:CT
+Commons:Copyright tags
+
+
+COM:EI
+Commons:Essential information
+
+
+COM:EIC, COM:EITC
+Commons:Editor's index to Commons
+
+
+COM:ET, COM:EMAIL
+Commons:Email templates
+
+
+COM:F, COM:FI, COM:FLICKR
+Commons:Flickr images
+
+
+COM:FAQ
+Commons:FAQ
+
+
+COM:FOP
+Commons:Freedom of panorama
+
+
+COM:FS
+Commons:First steps
+
+
+COM:FT
+Commons:File types
+
+
+COM:HD
+Commons:Help desk
+
+
+COM:HELP, COM:HLP
+Help:Contents
+
+
+COM:HPM, COM:TCC
+Commons:Help page maintenance
+
+
+COM:I
+Commons:Image guidelines
+
+
+COM:IRC
+Commons:Internet Relay Chat
+
+
+COM:MRD
+Commons:Machine-readable data
+
+
+COM:MT
+Commons:Message templates
+
+
+COM:OVERCAT
+Commons:Categories#Over-categorization
+
+
+COM:PRS
+Commons:Problematic sources
+
+
+COM:REDCAT
+Commons:Rename a category#Should_the_old_category_be_deleted.3F
+
+
+COM:REUSE
+Commons:Reusing content outside Wikimedia
+
+
+COM:SS
+Commons:Screenshots
+
+
+COM:T
+Commons:Templates
+
+
+COM:TOOLS, COM:TUL
+Commons:Tools
+
+
+COM:V
+Commons:Vandalism
+
+
+COM:YT
+Commons:YouTube files
+
+
+Policies and guidelines
+
+
+COM:AP
+Commons:Patrol#Autopatrolled
+
+
+COM:ART, COM:PDART
+Commons:When to use the PD-Art tag
+
+
+COM:BP, COM:BLOCK
+Commons:Blocking policy
+
+
+COM:C, COM:CAT
+Commons:Categories
+
+
+COM:CSD, COM:SPEEDY, COM:GCSD
+Commons:Criteria for speedy deletion
+
+
+COM:CSCR
+Commons:Country specific consent requirements
+
+
+COM:D, COM:DG
+Commons:Deletion policy
+
+
+COM:DESYSOP
+Commons:Administrators/De-adminship
+
+
+COM:DW
+Commons:Derivative works
+
+
+COM:FU, COM:FAIRUSE
+Commons:Fair use
+
+
+COM:FAN
+Commons:Fan art
+
+
+COM:IDENT, COM:PEOPLE
+Commons:Photographs of identifiable people
+
+
+COM:INUSE, COM:EDUSE
+Commons:Project scope#in use
+
+
+COM:L
+Commons:Licensing
+
+
+COM:LP
+Commons:Language policy
+
+
+COM:NPOV
+Commons:Project scope/Neutral point of view
+
+
+COM:NUDE
+Commons:Nudity
+
+
+COM:OWN
+Commons:Ownership of pages and files
+
+
+COM:P
+Commons:Page protection
+
+
+COM:POL
+Commons:Policy and Guideline
+
+
+COM:PRP
+Commons:Project scope/Precautionary principle
+
+
+COM:PS, COM:SCOPE
+Commons:Project scope
+
+
+COM:PSP
+Commons:Project scope/Pages, galleries and categories
+
+
+COM:SCAN
+Commons:When to use the PD-scan tag
+
+
+COM:SIG
+Commons:When to use the PD-signature tag
+
+
+COM:TALK, COM:ARCHIVE
+Commons:Talk page guidelines
+
+
+COM:USER
+Commons:User-specific galleries, templates and categories policy
+
+
+Discussion pages
+
+
+COM:AN, COM:ANB
+Commons:Administrators' noticeboard
+
+
+COM:AN/B, COM:AN/P
+Commons:Administrators' noticeboard/Blocks and protections
+
+
+COM:AN/U
+Commons:Administrators' noticeboard/User problems
+
+
+COM:AN/V
+Commons:Administrators' noticeboard/Vandalism
+
+
+COM:DI
+Commons:Discussion index
+
+
+COM:DN
+Commons:Disputes noticeboard
+
+
+COM:GVP
+Commons:Graphics village pump
+
+
+COM:VP, COM:PUMP
+Commons:Village pump
+
+
+CT:L
+Commons talk:Licensing
+
+
+CT:FOP
+Commons talk:Freedom of panorama
+
+
+Miscellaneous
+
+
+COM:BS, COM:STAR, COM:BARNSTAR
+Commons:Barnstars
+
+
+COM:MELLOW
+Commons:Staying mellow
+
+
+COM:SALT
+Commons:Protected against recreation
+
+
+COM:SB, COM:SANDBOX
+Commons:Sandbox
+
+
+COM:U, COM:UL
+Commons:Upload
+
+
+COM:UBX, COM:USERBOX
+Commons:Userboxes
+
+
+WikiProjects
+
+
+COM:F&amp;D, COM:FD
+Commons:WikiProject Food and drink
+
+
+Categories
+
+
+CAT:CAT
+Category:Categories
+
+
+CAT:COM:T
+Category:Commons templates
+
+
+CAT:CSD
+Category:Candidates for speedy deletion
+
+
+CAT:CV
+Category:Copyright violations
+
+
+CAT:DESKTOP
+Category:Commons featured desktop backgrounds
+
+
+CAT:DR
+Category:Deletion requests
+
+
+CAT:HELP
+Category:Commons help
+
+
+CAT:IFC
+Category:Images for cleanup
+
+
+CAT:RFC
+Category:Requests for comment
+
+
+
+
+
+
+Retrieved from "https://commons.wikimedia.org/w/index.php?title=Commons:Shortcuts&amp;oldid=601016415"
+		Category: Commons help templates
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ViewView sourceHistory
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigate
+	
+	
+		
+		Main pageWelcomeCommunity portalVillage pumpHelp center
+		
+	
+
+
+	
+	
+		
+		Participate
+	
+	
+		
+		Upload fileRecent changesLatest filesRandom fileContact us
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		WikipediaWikiquoteWikisource
+		
+	
+
+
+	
+	
+		
+		In Wikipedia
+	
+	
+		
+		العربيةবাংলাDeutschEnglishEspañolEuskaraفارسیGalegoעבריתÍslenska日本語한국어मराठीNederlandsPolskiPortuguêsසිංහලSlovenščinaSundaTürkçeУдмуртOʻzbekcha/ўзбекча中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 22 October 2021, at 01:23.
+	Files are available under licenses specified on their description page. All structured data from the file namespace is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and the Privacy Policy.
+
+
+	
+	Privacy policy
+	About Wikimedia Commons
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

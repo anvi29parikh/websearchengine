@@ -1,0 +1,433 @@
+
+
+
+
+Wikipedia:Party and person - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Party and person
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This is an essay on the Wikipedia:Reliable sources guideline.
+It contains the advice or opinions of one or more Wikipedia contributors. This page is not an encyclopedia article, nor is it one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community. Some essays represent widespread norms; others only represent minority viewpoints.ShortcutWP:P&amp;P
+
+
+Different content policies and guidelines use slightly different standards.  One of the commonly misunderstood distinctions is between "secondary source" and "third party".
+
+
+"Secondary" does not mean "independent" or "uninvolved".  Most independent sources are not secondary sources.
+
+Contents
+
+1 What is a primary or secondary source?
+2 What is a third-party source?
+3 Combinatorics
+4 Doesn't "third party" mean "independent"?
+5 Doesn't "third party" mean "third person"?
+6 See also
+
+
+
+What is a primary or secondary source?[edit]
+Main page: Wikipedia:Identifying and using primary sources
+
+
+Primary source material is original material, without analysis, interpretation, or transformation by others.  Secondary source material is based on primary and other secondary source material, and may include synthesis and novel conclusions.  A tertiary source is one that is based on a broad base of material, usually secondary, without introducing new synthesis or conclusions.  Many sources contain a combination of primary/secondary or secondary/tertiary material, sometimes all three. A source that is secondary in one context may be primary in another (e.g. a history book is a secondary source for the facts it reports, but a primary source for what the author wrote about an event).
+
+
+What constitutes "original material" depends on the context.  As a rule of thumb, if the document is dramatically closer to the event than you are, then it should be treated as a primary source.  For example, any ancient manuscript will be considered an "original document" by modern scholars.  Wikipedia normally treats century-old newspaper reports as primary sources for notability analysis, and sometimes for verifiability analysis (especially if covering something that could have changed or about which understanding could have changed, such as the causes of a war).
+
+
+Examples
+
+
+Person
+
+Simple cases
+
+
+Primary source material
+
+
+An account of an event, written by an eyewitness
+Novel conclusions in a scientific paper or government report
+Court filings, legal documents, and patents
+Speeches given by politicians or activists about their views and goals
+
+
+Secondary source material
+
+
+A magazine article based on previous media reports
+A book about a historical event, based on letters and diaries written at the time
+A systematic review or literature review that combines the results of previous research
+
+What is a third-party source?[edit]
+Further information: Wikipedia:Third-party sources
+
+
+A third-party source is a source that isn't involved in the event.  The third party is generally expected to be an independent, outside observer.  It is common for the third party to be neutral and even-handed, but, in some instances, the third party may have strong opinions about the event.  However, they take no direct part in the event.
+
+
+Examples
+
+
+First party
+
+Third party
+
+
+An eyewitness account of an event, by a person participating in the event
+
+An eyewitness account of an event, by a bystander who was not participating in the event
+
+
+The inventor of a new device
+
+A subject-matter expert who reviews the inventor's new device
+
+
+A press release from a political campaign
+
+A journalist reporting on the campaign
+
+
+The website or other marketing materials for a company
+
+A consumer organization writing about the company's products
+
+
+
+For some subjects, there are no first-party sources.  For example, no one is an "involved" party in simple arithmetic or basic anatomy, so any reliable source supporting a statement like "two plus two equals four" or "the human hand typically has four fingers and one thumb" will be a third-party source.
+
+
+For other subjects, no third-party sources exist, because the only people who have published information are the people involved in it.  Wikipedia should not have articles on any topic that third-party sources have never written about, or have published only trivial, routine, or passing mentions; they are not notable.
+
+
+Some sources combine first-party and third-party material.  For example, journalist Rose Kushner's first book, Breast Cancer: A Personal History and Investigative Report, presents both the author's personal experiences with having breast cancer in the 1970s (first-party material) and information that she researched from academic and professional sources (third-party material).
+
+Combinatorics[edit]
+
+
+Here's how this combines:
+
+
+Examples
+
+
+
+
+First party
+
+Third party
+
+
+Primary source
+
+Scientist publishes an original report about their experiments.
+
+Eyewitnesses at a house fire write about what they saw.
+
+
+Secondary source
+
+Scientist combines data from a dozen of their own previously published experiments into a meta-analysis.
+
+Author uses eyewitness reports to write a book about house fires.
+
+
+Tertiary source
+
+Scientist includes peer-reviewed conclusions from some of their previously published papers when writing a work of popular science.
+
+A database on house fires that includes information from books and other secondary sources (and perhaps also accepts information submitted by eyewitnesses)
+
+Doesn't "third party" mean "independent"?[edit]
+  A represents independent sources; B represents third-party sources.  Some third-party sources are not completely independent because they have a conflict of interest.
+Further information: Wikipedia:Independent sources
+
+
+Although third-party sources are often also independent (that is, without a conflict of interest), it is not always the case.  An independent source is a source that has no vested interest in a written topic and therefore it is commonly expected to describe the topic from a disinterested perspective. 
+
+
+Imagine that two large companies are involved in a lawsuit.  An investor who is not part of the dispute may still have a conflict of interest, because of plans to profit from the stock market's response to the lawsuit.  This investor is a third party, but is not financially independent.  They may have a vested interest in the dispute being seen in a particular light, or being prolonged, even though the investor is not directly involved in the lawsuit.
+
+
+Consider an election with multiple candidates.  Candidate Smith gives a speech attacking Candidate Jones.  A third candidate, Roberts, publishes an advertisement decrying the attack.  Roberts is a third party—he is not attacking or being attacked—but he is not independent, because he has a vested interest in the situation.
+
+Doesn't "third party" mean "third person"?[edit]
+Further information: Grammatical person
+
+
+Whether a source is first-person, second-person, or third-person is strictly a matter of grammar, not factual content.
+
+
+
+
+Person
+
+Singular
+
+Plural
+
+
+First person
+
+I walked across the room.
+
+We walked across the room.
+
+
+Second person
+
+You walked across the room.
+
+You / You all / You lot walked across the room.
+
+
+Third person
+
+She/he/it walked across the room.
+
+They walked across the room.
+
+See also[edit]
+{{Third-party inline}}, to mark sentences needing an independent or third-party source
+{{Third-party}}, to mark articles that contain zero independent or third-party sources
+Wikipedia:Identifying and using primary and secondary sources
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Party_and_person&amp;oldid=991882495"
+		Categories: Wikipedia essays about reliable sourcesWikipedia essays about notability
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		فارسیമലയാളം
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 2 December 2020, at 08:24&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

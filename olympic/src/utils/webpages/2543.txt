@@ -1,0 +1,747 @@
+
+
+
+
+Wikipedia:Wikipedia Signpost/Newsroom - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Wikipedia Signpost/Newsroom
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia:Wikipedia Signpost
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Newsroom for the Wikipedia Signpost
+
+← Current issueWP:POST/NNewsroom
+
+↓↓Skip to section: Article status
+
+
+Welcome to the central hub of The Signpost!
+
+
+
+
+
+
+
+
+
+
+This is The Signpost Newsroom, a place where The Signpost team can coordinate with writers, both regular and occasional, and people who have suggestions for topics to cover. See the boxes below if you have suggestions (something for the team to write about in regular columns), proposal/submissions (for articles you want to write/have written yourself), or want to create a pre-formated draft article in your userspace, with helpful links and easy-to-edit syntax.
+
+
+Discussion of upcoming issues is done at the newsroom talk page. For general feedback on The Signpost as whole, go to our talk page. To learn more about The Signpost, see our about page.
+
+
+
+
+
+Suggest a topic
+
+
+
+
+
+To suggest a topic to be covered by The Signpost, simply click on the button below or post to our suggestions page manually. Example of good topics are
+
+
+Editors that did something extraordinary/wonderful
+Ongoing discussions
+Media coverage of Wikipedia
+Technical news
+Updates to important tools and templates
+Wikipedia-related events
+
+
+but many more exist.
+
+
+
+
+
+
+
+
+Email a private tip to the EiC
+
+
+
+
+
+
+
+
+Propose/submit an article
+
+
+
+
+
+If you have an idea for an article you would like to write, you can submit it for review by the editorial team. You can do so by clicking the button below or by posting to our submissions page manually.
+
+News articles should be kept relatively neutral and report on a specific piece of actual news. They can be on any topic of interest to Wikipedians, from general events, to technical news.
+Opinion pieces are evaluate on originality, relevance to Wikipedians, and the quality of the arguments. They should provoke thought and encourage productive discussion.
+Special pieces cover things that don't fall neatly in the above two categories. If it's interesting to you, it's likely interesting to someone else as well. Check with us and we'll see what can be done!
+
+
+
+
+
+
+
+Create a draft
+
+
+
+
+
+To create a draft of an article in your userspace, simply copy-paste {{subst:Wikipedia:Wikipedia Signpost/Templates/Story-preload}} at User:USERNAME/Signpost draft (replacing USERNAME with your own username).
+
+
+You can also use the button below. This will preload a form, which you can then save and edit. We recommend saving without making any edits to the preloaded form before starting to write your article.
+
+
+
+
+vteActive Wikimedia newsletters
+All newsletters
+Recent Changes
+(t) = Google Translate
+Signpost-like
+Alemannic (t)
+Assamese (t)
+Chinese (t)
+Danish (t)
+English
+French: RAW (t)
+French: Wikimag (t)
+German (t)
+Hebrew (t)
+Ukrainian (t)
+Wikimedia
+
+
+Chapters:  Wikimedia Belgium&nbsp;·  Wikimedia Deutschland (t)&nbsp;·  
+Wikimedia Nederland (t)&nbsp;· 
+Wikimedia Poland (t)&nbsp;· 
+Wikimedia Taiwan (t)&nbsp;· 
+MediaWiki: News&nbsp;· 
+Growth/Newsletters&nbsp;· 
+Meta: Books &amp; Bytes&nbsp;· 
+Goings-on&nbsp;· 
+Learning Quarterly&nbsp;· 
+Referencing with VisualEditor&nbsp;· 
+Research Newsletter&nbsp;· 
+Tech News&nbsp;· 
+Wikimedia News&nbsp;· 
+Outreach: This Month in Education&nbsp;· 
+This Month in GLAM&nbsp;· 
+Planet Wikimedia: Homepage&nbsp;· 
+Wikidata: Facto Post&nbsp;· 
+News&nbsp;· 
+Status updates&nbsp;· 
+Wikisource: News&nbsp;· 
+Wikimedia Foundation: News&nbsp;· 
+Wiktionary: Actualités (t)
+
+English
+Wikipedia
+Administrators
+Bots
+Bunbunmaru Shinbun: Wikipedia Edition (bbm) (2nd Ias distribution)
+Discontent Content
+Facto Post
+GLAM
+Goings-on
+New pages patrol
+Scripts++
+The Signpost
+VisualEditor
+WikiCup
+TheWikiWizard
+WikiProjects
+Children's literature
+Christianity: Ichthus
+Guild of Copy Editors
+Malaysia
+Medicine
+Military history: The Bugle
+NASCAR
+Spaceflight: The Downlink
+Tree of Life
+Tropical cyclones: The Hurricane Herald
+Video games
+Voting systems
+Yorkshire
+
+Noticeboards
+Noticeboard links
+
+vteCurrent issue (RC)&nbsp;·  Next issue (RC)&nbsp;·  Submissions &nbsp;·  SuggestionsGoogle News&nbsp;· TechMEME
+
+
+The Signpost&nbsp;(talk)
+
+
+About
+Archives
+
+Subscribe
+
+
+Newsroom (talk)
+Coordination
+Submissions
+Suggestions
+
+
+Writing
+Content
+Formatting
+(cheatsheet)
+Resources
+Style
+
+
+Newslettersvte
+
+
+Refresh the page to update the newsroom
+Deadlines (vte)Writing: 27 December 20:00 UTC (28 days left; 96%)
+Publishing: 28 December 20:00 UTC (29 days left; 100%)
+Article status[edit]
+
+
+
+From the editor
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+approved, but may not leave it here Smallbones(smalltalk) 00:37, 30 October 2021 (UTC)
+
+
+
+News and notes
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+In the media
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+Opinion
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+From a Wikipedia reader
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+Please do not create unless approved on the submissions page
+
+
+
+Disinformation report
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+Approved by E-in-C
+
+
+
+Discussion report
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+Recent research
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+As usual, we are preparing this regular survey on recent academic research about Wikipedia, doubling as the Wikimedia Research Newsletter (now in its eleventh year). Help is welcome to review or summarize the many interesting items listed here, as are suggestions of other new research papers that haven't been covered yet. Regards, HaeB (talk) 11:54, 26 November 2021 (UTC)
+
+@Smallbones: I think this is in a publishable state now. Regards, HaeB (talk) 20:52, 28 November 2021 (UTC)
+
+
+
+Deletion report
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+aproved by e-i-c
+
+
+
+WikiCup report
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+Arbitration report
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+Traffic report
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+Technology report
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+Serendipity
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+News from Diff
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+Book review
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+Approved Smallbones(smalltalk) 01:52, 29 October 2021 (UTC)
+
+
+
+From the archives
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+WikiProject report
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+Humour
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+
+Placeholders for special and irregular columns
+
+
+
+
+
+Move these up to the appropriate position as required (e.g. adjacent to News and Notes). Copy the section header from the submission page into the |Submission= parameter so that the "Check status" button appears and works correctly.
+
+
+
+
+Forum
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+Please do not create unless approved on the submissions page
+
+
+
+In focus
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+Please do not create unless approved on the submissions page
+
+
+
+Interview
+Not started
+
+
+Content guidance&nbsp;· Resources
+
+
+
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Newsroom&amp;oldid=1057644557"
+		Hidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		DanskEspañolPortuguês中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 28 November 2021, at 20:52&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,610 @@
+
+
+
+
+Wikipedia:Disruptive editing - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Disruptive editing
+	
+		From Wikipedia, the free encyclopedia
+		&nbsp;&nbsp;(Redirected from Wikipedia:DE)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Editing that occurs over a period of time and disrupts progress towards building an encyclopedia
+Not to be confused with Wikipedia:Vandalism or Wikipedia:Do not disrupt Wikipedia to illustrate a point.
+"WP:DE" redirects here. It is not to be confused with Help:Dummy edit, Wikipedia:Dead-end pages, or Wikipedia:WikiProject Germany.
+"WP:DIS" redirects here. For the policy on disambiguation pages, see Wikipedia:Disambiguation.
+This page documents an English Wikipedia behavioral guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.ShortcutsWP:DEWP:DISWP:DISRUPTWP:DISRUPTIVE
+This page in a nutshell: Editors who persistently disrupt Wikipedia, knowingly or unknowingly, may be blocked or banned indefinitely.
+Wikipedia guidelines
+Guidelines list
+Policies list
+
+Behavioral
+
+Assume good faith
+Conflict of interest
+Courtesy vanishing
+Disruptive editing
+Don't bite the newcomers
+Don't edit to make a point
+Etiquette
+Don't game the system
+User pages
+Other behavioral guidelines
+WMF friendly space policy
+
+Discussions
+Talk page guidelines
+Signatures
+
+
+Content
+Citing sources
+External links
+Reliable sources
+medicine
+Fringe theories
+Non-free content
+Offensive material
+Don't copy long texts
+Don't create hoaxes
+Patent nonsense
+Other content guidelines
+
+Editing
+
+Article size
+Be bold
+Edit summary
+Understandability
+Other editing guidelines
+
+Organization
+Categories, lists, templates
+Categorization
+Disambiguation
+
+
+Style
+Manual of Style
+contents
+lists
+tables
+
+Deletion
+Deletion process
+Speedy keep
+Deletion guidelines for administrators
+
+Project content
+Project pages
+WikiProjects
+Templates
+User pages
+User boxes
+Shortcuts
+Subpages
+
+Other
+Naming conventions
+Notability
+vte
+
+
+Disruptive editing is a pattern of editing that may extend over a long time on many articles and disrupts progress toward improving an article or building the encyclopedia. Disruptive editing is not always vandalism, though vandalism is always disruptive. Each case should be treated independently, taking into consideration whether the actions violate Wikipedia policies and guidelines. If an editor treats situations that are not clearly vandalism as such, that editor may harm the encyclopedia by alienating or driving away potential editors.
+
+
+Disruptive editing is not always intentional. Editors may be accidentally disruptive because they don't understand how to correctly edit, or because they lack the social skills or competence necessary to work collaboratively. The fact that the disruption occurs in good faith does not change the fact that it is harmful to Wikipedia.
+
+Contents
+
+1 Summary
+2 Examples of disruptive editing
+
+2.1 Point-illustrating
+2.2 Failure or refusal to "get the point"
+
+
+3 Distinguished from productive editing
+4 Attempts to evade detection
+5 Dealing with disruptive editors
+
+5.1 Blocking and sanctions
+
+
+6 April Fools' Day
+7 See also
+
+
+
+Summary
+
+
+Wikipedia owes much of its success to its openness. That very openness, however, sometimes attracts people who seek to exploit the site as a platform for pushing a single point of view, original research, advocacy, or self-promotion. While notable minority opinions are welcomed when verifiable through reliable sources, and constructive editors occasionally make mistakes, sometimes a Wikipedia editor creates long-term problems by persistently editing a page or set of pages with information which is not verifiable through reliable sources or insisting on giving undue weight to a minority view.
+
+
+Collectively, disruptive editors harm Wikipedia by degrading its reliability as a reference source and by exhausting the patience of productive editors, who may quit the project in frustration when a disruptive editor continues with impunity.
+
+
+An edit which, in isolation, is not disruptive may still be part of a pattern of editing that is. A group of disruptive edits may be close together in time, or spread out; they may all occur on a single page, or on many pages; they may be all very similar, or superficially quite different.
+
+
+Disruptive editors may seek to disguise their behavior as productive editing, yet distinctive traits separate them from productive editors. When discussion fails to resolve the problem and when an impartial consensus of editors from outside a disputed page agree (through requests for comment or similar means), further disruption is grounds for blocking, and may lead to more serious disciplinary action through the dispute resolution process. In extreme cases, this could include a site ban, either through the Arbitration Committee or by a consensus.
+
+
+The three-revert rule, if observed by disruptive editors, is not to be construed as a defense against action taken to enforce this policy against disruptive editors. As stated in that policy, "The rule is not an entitlement to revert a page a specific number of times." Likewise, editors should note that the three-revert rule should not be broken, even by editors attempting to revert disruptive edits. While vandalism is always disruptive, disruptive editing is not necessarily vandalism; it is better for productive editors to follow the process suggested below than to break the three-revert rule.
+
+Examples of disruptive editing
+ShortcutWP:DISRUPTSIGNS
+See also: Wikipedia:Editing policy
+
+
+This guideline concerns gross, obvious and repeated violations of fundamental policies, not subtle questions about which reasonable people may disagree.
+
+
+A disruptive editor is an editor who exhibits tendencies such as the following:
+
+Is tendentious: continues editing an article or group of articles in pursuit of a certain point for an extended time despite opposition from other editors. Tendentious editors not only add material; some engage in disruptive deletions as well, e.g. repeatedly removing reliable sources posted by other editors.
+Cannot satisfy Wikipedia:Verifiability; fails to cite sources, cites unencyclopedic sources, misrepresents reliable sources, or manufactures original research.
+Engages in "disruptive cite-tagging"; adds unjustified {{citation needed}} tags to an article when the content tagged is already sourced, uses such tags to suggest that properly sourced article content is questionable.
+Does not engage in consensus building:
+a. repeatedly disregards other editors' questions or requests for explanations concerning edits or objections to edits;
+b. repeatedly disregards other editors' explanations for their edits.
+Rejects or ignores community input: resists moderation and/or requests for comment, continuing to edit in pursuit of a certain point despite an opposing consensus from impartial editors.
+
+
+In addition, such editors might: ShortcutsWP:DAPEWP:CTDAPE
+Campaign to drive away productive contributors: act counter to policies and guidelines such as Wikipedia:Civility, Wikipedia:No personal attacks, or Wikipedia:Ownership of articles—or sockpuppetry/meatpuppetry that might not exhaust the general community's patience but still operates toward an end of exhausting the patience of productive, rule-abiding editors on certain articles.
+Point-illustrating
+Main page: Wikipedia:Do not disrupt Wikipedia to illustrate a point
+
+
+When one becomes frustrated with the way a policy or guideline is being applied, it may be tempting to try to discredit the rule or interpretation thereof by, in one's view, applying it consistently. Sometimes, this is done simply to prove a point in a local dispute. In other cases, one might try to enforce a rule in a generally unpopular way, with the aim of getting it changed.
+
+
+Such tactics are highly disruptive to the project. If you feel that a policy is problematic, the policy's talk page is the proper place to raise your concerns. If you simply disagree with someone's actions in an article, discuss it on the article talk page or related pages.
+
+
+Note that someone can legitimately make a point, without disrupting Wikipedia to illustrate it.
+
+
+
+
+
+
+Failure or refusal to "get the point"
+"WP:ICANTHEARYOU" redirects here. For inability of mobile editors to receive messages, see Wikipedia:Mobile communication bugs.
+"WP:Listen" redirects here. For the template to embed audio, see Template:Listen. 
+  "There's nothing wrong with my editing!"
+ShortcutsWP:LISTENWP:IDIDNTHEARTHATWP:IDHTWP:ICANTHEARYOUWP:NOTGETTINGITWP:DONTGETITWP:HUH?
+
+
+Sometimes, editors perpetuate disputes by sticking to an allegation or viewpoint long after the consensus of the community has decided that moving on to other topics would be more productive. Such behavior is disruptive to Wikipedia.
+
+
+Believing that you have a valid point does not confer upon you the right to act as though your point must be accepted by the community when you have been told that it is not accepted. The community's rejection of your idea is not proof that they have failed to hear you. Stop writing, listen, and consider what the other editors are telling you. Make a strong effort to see their side of the debate, and work on finding points of agreement. Do not confuse "hearing" with "agreeing with".
+
+
+Sometimes, even when editors act in good faith, their contributions may continue to be disruptive and time-wasting, for example, by continuing to say they don't understand what the problem is. Although editors should be encouraged to be bold and just do things if they think they're right, sometimes a lack of competence can get in the way. If the community spends more time cleaning up editors' mistakes and educating them about policies and guidelines than it considers necessary, sanctions may have to be imposed.
+
+
+Distinguished from productive editing
+
+
+Editors often post minority views to articles. This fits within Wikipedia's mission so long as the contributions are verifiable, do not give undue weight, and where appropriate, comply with WP:FRINGE. The burden of evidence rests with the editor who initially provides the information or wishes the information to remain.
+
+
+From Wikipedia:Neutral point of view:
+
+
+
+Neutrality requires that each article or other page in the mainspace fairly represents all significant viewpoints that have been published by reliable sources, in proportion to the prominence of each viewpoint. Giving due weight and avoiding giving undue weight means that articles should not give minority views as much of or as detailed a description as more widely held views.
+
+
+Verifiable and noteworthy viewpoints include protoscience when published in reputable peer-reviewed journals. Editors may reasonably present active public disputes or controversies documented by reliable sources; citing a viewpoint stated in a mainstream scholarly journal, textbook, or monograph is not per se disruptive editing. This exemption does not apply to settled disputes, e.g. that the Sun revolves around the Earth. (The dispute itself is notable.)
+
+
+Sometimes well-meaning editors may be misled by fringe publications or make honest mistakes when representing a citation. Such people may reasonably defend their positions for a short time, then concede the issue when they encounter better evidence or impartial feedback.
+
+Attempts to evade detection
+ShortcutWP:RUNAWAY
+
+
+Bad-faith disruptive editors attempt to evade disciplinary action in several ways:
+
+Their edits occur over a long period of time, in which case no single edit is disruptive but the overall pattern clearly is.
+Their edits are largely confined to talk pages; such disruption may not directly harm an article, but it often prevents other editors from reaching consensus on how to improve it.
+Their comments may avoid breaches of civility by refraining from personal attacks but still interfering with civil and collaborative editing and discussion.
+Their edits are limited to a small number of pages that very few people watch.
+Conversely, their edits may be distributed over a wide range of articles to make it less likely that any given user watches a sufficient number of affected articles to notice the disruptions.
+
+
+Nonetheless, such disruptive editing violates Wikipedia policy and norms.
+
+Dealing with disruptive editors
+ShortcutWP:DDE
+
+
+Following is a model for remedies, though these steps do not necessarily have to be done in this sequence. In some extreme circumstances a rapid report to Wikipedia:Administrators' noticeboard/Incidents may be the best first step; in others, a fast track to a community ban may be in order. But in general, most situations can benefit from a gradual escalation, with hope that each step may finally resolve the problem:
+
+First unencyclopedic entry by what appears to be a disruptive editor:
+Assume good faith. Do not attack the author who you suspect is disruptive. However, revert uncited or unencyclopedic material. Use an edit summary which describes the problem in non-inflammatory terms. Stay very civil. Post to talk page asking for discussion and/or sources. Consult Do not bite the newcomers, and be aware you may be dealing with someone who is new and confused, rather than a problem editor.
+If editor restores, or unreverts:
+If sourced information appears this time around, do nothing; if not, revert again if they haven't responded at the talkpage. Ensure a clear explanation for the difference in opinion is posted by you at the article talkpage. Refer to this thread in your edit summary. If possible, suggest compromises at the talkpage.
+If reverting continues, and they are inserting unsourced information:
+Revert, and request administrator assistance via Wikipedia:Administrators' noticeboard/Incidents (ANI). Provide diffs of the multiple reverts by the tendentious editor. Keep your post short (no more than 250–500 words), well-diffed (multiple diffs showing evidence), and focus on user conduct issues (the tendentious editor is not engaging in discussion / is inserting unsourced information / is ignoring talkpage consensus). Try to avoid going into detailed article content issues at ANI, as it may reduce the likelihood that an admin will understand the complaint. Note: To be most successful at ANI, your own history must be clean. At all times, stay civil, and avoid engaging in multiple reverts yourself.
+If tendentious editor is using sources, but if the sources are poor or misinterpreted:
+Do not go to ANI yet.
+Review Wikipedia:Dispute resolution.
+File a report at the Reliable Sources noticeboard, if appropriate.
+Continue attempts to engage the editor in dialogue. Refer to policies and guidelines as appropriate.
+If only two editors are involved, seek a Third Opinion.
+If more editors are involved, try a Request for comment.
+If attempts at dispute resolution are rejected or unsuccessful, or the problems continue:
+Notify the editor you find disruptive on their user talkpage.
+Include diffs of the problematic behavior. Use a section name and/or edit summary to clearly indicate that you view their behavior as disruptive, but avoid being unnecessarily provocative. Remember, you're still trying to de-escalate. If other editors are involved, they should post their own comments too, to make clear the community disapproves.
+If tendentious editor continues reverting:
+Use templates {{subst:uw-disruptive1}}, {{subst:uw-disruptive2}}, {{subst:uw-disruptive3}}, and {{subst:uw-disruptive4}}.
+Assuming it's one editor against many at this point, continue reverting the tendentious editor. If they exceed three reverts in a 24-hour period, file a report at Wikipedia:Administrators' noticeboard/Edit warring (but be careful you don't do excessive reverts yourself!). However, one tendentious editor cannot maintain problematic content in the face of multiple other editors reverting their edits.
+If tendentious editor is not violating the three-revert rule (3RR), or there aren't enough editors involved to enforce Wikipedia policies:
+File another report at ANI.
+If editor continues to ignore consensus of any decision reached at ANI:
+Again request assistance at Wikipedia:Administrators' noticeboard/Incidents for administrator intervention, point to consensus from earlier talk pages or noticeboards. An admin should issue a warning or temporary block as appropriate.
+If blocks fail to solve the problem, or you are still unable to obtain attention via ANI, and all other avenues have been tried:
+File a case for the Arbitration Committee to review. Base it strictly on user conduct, and not on article content.
+Blocking and sanctions
+Disruptive editing may result in warnings and then escalating blocks, typically starting with 24 hours.
+Accounts used primarily for disruption will most likely be blocked indefinitely.
+April Fools' Day
+See also: Wikipedia:Rules for Fools
+
+
+All edits on April Fools' Day must continue to adhere to all applicable Wikipedia policies and guidelines, including (but not limited to) edit warring, no personal attacks and the biographies of living persons policy. With the exception of the Main Page, all edits that are intended to be humorous should be kept out of the article namespace and be tagged with {{Humor}} (or equivalent template, such as the inline {{April fools}} or {{4-1}}) to avoid misleading users.
+
+See also
+Wikipedia:Avoiding talk-page disruption
+Wikipedia:Disruptive sanctions
+Wikipedia:Griefing
+Wikipedia:Just drop it
+Wikipedia:Tag team
+Wikipedia:Talk
+Wikipedia:WikiBullying
+Wikipedia:You are not irreplaceable
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Disruptive_editing&amp;oldid=1056269099"
+		Categories: Wikipedia behavioral guidelinesWikipedia dispute resolutionHidden categories: Project pages with short descriptionWikipedia move-protected project pagesWikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةتۆرکجهবাংলাБашҡортсаΕλληνικάEspañolفارسیFrançaisGalego한국어हिन्दीBahasa IndonesiaمصرىBahasa MelayuNederlands日本語Norsk bokmålPortuguêsРусскийසිංහලSimple EnglishSlovenščinaکوردیSuomiТатарча/tatarçaไทยTürkçeУкраїнськаTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 20 November 2021, at 19:50&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

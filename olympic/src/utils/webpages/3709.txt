@@ -1,0 +1,489 @@
+
+
+
+
+Help:Contents - Meta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Help:Contents
+	
+		From Meta, a Wikimedia project coordination wiki
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Translate this pageOther languages:Bahasa Indonesia
+Basa Banyumasan
+British English
+Deutsch
+English
+Esperanto
+Lëtzebuergesch
+Nederlands
+Scots
+Sunda
+Taqbaylit
+Tiếng Việt
+Türkçe
+Zazaki
+català
+dansk
+español
+euskara
+français
+hrvatski
+interlingua
+italiano
+lietuvių
+magyar
+norsk bokmål
+occitan
+polski
+português
+português do Brasil
+română
+suomi
+svenska
+čeština
+ślůnski
+Ελληνικά
+беларуская (тарашкевіца)
+български
+русский
+српски / srpski
+тоҷикӣ
+удмурт
+українська
+қазақша
+հայերեն
+עברית
+ئۇيغۇرچە
+اردو
+العربية
+روچ کپتین بلوچی
+سنڌي
+अङ्गिका
+नेपाली
+संस्कृतम्
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+தமிழ்
+తెలుగు
+മലയാളം
+සිංහල
+ไทย
+ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+中文
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
++/-
+MediaWiki Handbook: Contents, Readers, Editors, Moderators, System admins, Researchers
+
+
+This help page contains a list of guides and single-topic help files for the MediaWiki software compiled at the main page of meta.wikimedia.org . It has been progressively being moved to the www.mediawiki.org website. Wikimedia's Meta-Wiki was formerly where such documents were managed and also where proposals were discussed before MediaWiki was created. There is still content that has yet to be moved or modified.
+
+
+This help page is only for the MediaWiki wiki software. Many MediaWiki-powered wikis still have a help link that points to this page. If you came here from a wiki based on other software or you are looking for help not related to MediaWiki software, we will not be able to help you. 
+
+Contents
+
+1 Introduction
+2 Handbook parts
+
+2.1 For readers
+2.2 For editors
+2.3 For moderators
+2.4 For system administrators
+2.5 For developers
+
+
+3 Appendix
+4 See also
+
+
+
+Introduction
+Detailed Introduction
+Help overview
+
+
+MediaWiki is a free software wiki engine licensed under the GNU General Public License. It is used by many websites, including this one.
+
+Handbook parts
+
+
+The help pages are sorted by user type, for readers and editors. Help pages for moderators, system administrators and developers are now available in the respectives specific section. 
+
+For readers
+
+Reading
+Go button
+Searching
+Words ignored when searching
+Namespaces
+Page names
+Sections
+What links here
+Redirects
+Categories
+Image pages
+Special pages
+Printable version
+
+Tracking changes
+Recent changes (enhanced)
+Related changes
+Watching pages
+Page history
+Diff page
+Edit summary
+User contributions
+Minor edit
+Patrolled edit
+
+Accounts
+Logging in
+Preferences
+User style
+Two-factor authentication
+
+View this alone
+
+For editors
+
+Editing
+Start new pages
+Advanced editing
+Editing FAQ
+Edit toolbar
+Renaming (moving) a page
+Export
+Import
+Shortcuts
+Edit conflict
+Page size
+
+Referencing
+Links
+URLs
+Piped links
+Interwiki linking
+Footnotes (references, citations)
+
+Formatting
+Wikitext examples
+Cascading style sheets (CSS)
+Reference card
+HTML in wikitext
+Lists
+Tables
+Formula
+Sorting
+Colors
+Images and file uploads
+
+Fixing mistakes
+Show preview
+Testing
+Reverting edits
+
+Advanced functioning
+Expansion
+Templates
+Advanced templates
+Variables
+Parser functions
+Parameter defaults
+System messages
+Substitution
+Arrays
+Calculation
+Embed page
+
+Other
+Characters
+Talk page
+Signatures
+Sandbox
+Legal issues for editors (copyright)
+
+View this alone
+
+For moderators
+
+
+This part of the handbook is now available in the Administrator section of the MediaWiki.org website.
+
+For system administrators
+
+
+This part of the handbook is now available in the Sysadmin section of the MediaWiki.org website.
+
+For developers
+
+
+This part of the handbook is now available in the Developer section of the MediaWiki.org website.
+
+Appendix
+Help:ISBN links
+Help:Keyboard shortcuts
+Page metadata
+Support and contact (on MediaWiki wiki)
+Handbook
+Guidelines
+Policy
+Page footers
+See also
+Check the privacy policy, if any, of the site you use; for Wikimedia, see Privacy policy 
+Glossary of Wikipedia
+Category:Help (on Fandom)
+Category:Help (on MediaWiki wiki)
+Links from the MediaWiki wiki to the Help namespace here on Metahttp://www.mediawiki.org/wiki/Special:Linksearch/meta.wikimedia.org/wiki/Help: – not complete, requires external link style
+Links from the English Wikipedia to the Help namespace here on Meta – not complete, requires external link style
+
+
+
+
+
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Help:Contents&amp;oldid=22138721"
+		Category: MediaWiki handbook
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+		
+	
+
+
+	
+	
+		
+		Community
+	
+	
+		
+		Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+		
+	
+
+
+	
+		
+		Beyond the Web
+	
+	
+		
+		Meet WikimediansEventsMovement affiliatesDonate
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMediaWikiMultilingual WikisourceWikispeciesWikibooksWikidataWikinewsWikipediaWikiquoteWikisourceWikiversityWikivoyageWiktionary
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		AcèhAfrikaansAkanAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐالدارجةمصرىAsturianuAymar aruAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)भोजपुरीBislamaBanjarবাংলাབོད་ཡིགBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗCatalàChavacano de ZamboangaMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschZazakiDolnoserbskiडोटेलीཇོང་ཁΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFryskGaeilgeGàidhligGalegoAvañe'ẽBahasa HulontaloગુજરાતીHausa客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiHornjoserbsceMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIlokanoГӀалгӀайIdoÍslenskaItaliano日本語JawaქართულიҚазақшаKalaallisutភាសាខ្មែរಕನ್ನಡ한국어RipoarischKurdîKernowekКыргызчаLatinaLadinoLëtzebuergeschLimburgsLombardLingálaລາວLietuviųLatviešuBasa BanyumasanMāoriMinangkabauМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskDiné bizaadOccitanଓଡ଼ିଆИронPapiamentuPolskiPiemontèisپښتوPortuguêsRuna SimiRumantschKirundiRomânăРусскийसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيDavvisámegiellaSrpskohrvatski / српскохрватскиၽႃႇသႃႇတႆး සිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSeelterskSundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogLea faka-TongaTürkçeТатарча/tatarçaTwiТыва дылئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsVolapükWalon吴语ייִדיש中文Bân-lâm-gú粵語
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 8 October 2021, at 14:08.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About Meta
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

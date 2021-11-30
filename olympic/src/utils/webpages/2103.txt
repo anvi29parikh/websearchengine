@@ -1,0 +1,660 @@
+
+
+
+
+Wikipedia:Courtesy vanishing - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Courtesy vanishing
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+"WP:RTL" redirects here. For text directionality, see Wikipedia:Manual of Style/Text formatting §&nbsp;Mixed right-to-left text.
+For current Wikimedia practice, see meta:Right to vanish.
+This page documents an English Wikipedia behavioral guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.ShortcutsWP:RTVWP:VANISHWP:CVANWP:LEAVEWP:VANISHED
+This page in a nutshell: Courtesy vanishing means any user in good standing—upon leaving Wikipedia forever—may request renaming of their account; deletion or blanking of user pages; and possibly the deletion or blanking of discussions related to their conduct. This courtesy vanishing does not include the deletion of user contributions, and normally does not include the deletion of user talk pages.
+Wikipedia guidelines
+Guidelines list
+Policies list
+
+Behavioral
+
+Assume good faith
+Conflict of interest
+Courtesy vanishing
+Disruptive editing
+Don't bite the newcomers
+Don't edit to make a point
+Etiquette
+Don't game the system
+User pages
+Other behavioral guidelines
+WMF friendly space policy
+
+Discussions
+Talk page guidelines
+Signatures
+
+
+Content
+Citing sources
+External links
+Reliable sources
+medicine
+Fringe theories
+Non-free content
+Offensive material
+Don't copy long texts
+Don't create hoaxes
+Patent nonsense
+Other content guidelines
+
+Editing
+
+Article size
+Be bold
+Edit summary
+Understandability
+Other editing guidelines
+
+Organization
+Categories, lists, templates
+Categorization
+Disambiguation
+
+
+Style
+Manual of Style
+contents
+lists
+tables
+
+Deletion
+Deletion process
+Speedy keep
+Deletion guidelines for administrators
+
+Project content
+Project pages
+WikiProjects
+Templates
+User pages
+User boxes
+Shortcuts
+Subpages
+
+Other
+Naming conventions
+Notability
+vte
+
+
+The usual way to leave Wikipedia is simply to stop editing and abandon your account. A courtesy vanishing may be implemented when a user in good standing decides not to return and for whatever reason wishes to make their contributions harder to find or to remove their association with their edits. When there is no administrative need to retain the information, a permanently departing user may request that a wide range of user pages, and other pages that affect them alone, be deleted on departure. The user account is renamed; user pages are blanked or deleted; and pages related to the user's conduct may be deleted, blanked, or moved. Contributions, logs, signatures, and user-page templates (for example, templates related to blocks or bans) are usually not removed. User talk pages are usually not deleted.
+
+
+Courtesy vanishing is discretionary and may be refused. It is not intended to be temporary. It is not a way to avoid scrutiny or sanctions. It is not a fresh start and does not guarantee anonymity. Any of the deleted pages may be undeleted after a community discussion. If the user returns, the "vanishing" will likely be fully reversed, the old and new accounts will be linked, and any outstanding sanctions or restrictions will be resumed.
+
+
+As all contributions are licensed under the CC BY-SA 3.0 License and the GFDL and must be attributed to a user, it is not possible to delete an account.
+
+Contents
+
+1 Vanishing from Wikipedia
+2 How to request a courtesy vanishing
+3 What vanishing is not
+4 Deletion of user talk pages
+5 See also
+6 Notes
+
+
+
+Vanishing from Wikipedia
+
+
+Vanishing typically involves the following:
+
+A global renamer or steward responds to a rename request and renames the account to, for example, "Renamed user 157yagz5r48a5f1a1f".
+References in the history of pages to the former username are replaced with references to the replacement username. Note that signatures (on user talk pages, article talk pages and project discussion pages) will not be changed, and will, by default, be redirected to the new user name. You can ask for this redirect to be removed.
+The account's user page and subpages are deleted. User talk pages are rarely deleted, and may be undeleted by community consensus.
+This action will be global due to account unification.
+How to request a courtesy vanishing 
+
+
+First, consider whether you really want to vanish, or whether a simple retirement or clean start might be more appropriate. Vanishing is a last resort and should only be used when you wish to stop editing forever and also to hide as many of your past associations as possible.
+
+
+If you decide to vanish, you may wish to blank or delete your user page and any subpages in your userspace. To request deletion of any existing pages, add the {{db-user}} tag to the top of each page, and an admin will delete the page for you. Do not create a page just to request its deletion. Or you can replace your userpage with the {{Retired}} template. Note that your user talk pages will normally not be deleted except in rare cases (see below). 
+
+
+If you wish to take advantage of courtesy vanishing, you can use one of the following methods to make your request:
+
+The best way is to visit Special:GlobalRenameRequest to access the rename request interface. Requests made this way will be processed by global renamers or stewards. Please specify "request to vanish" in the reason field; your requested username should be of the form "Renamed user nnnnnnnnnn" replacing n with random characters.
+If your request is particularly sensitive, you may contact the stewards via e-mail and ask that your account be renamed, giving "request for courtesy vanishing" as the subject. Please use the contact interface at meta:Special:EmailUser/Wikimedia Global-renamers or email renamerswikimedia.org. If you send the mail directly, please include some kind of proof that the account is indeed yours. Please be aware a record is kept in the OTRS system that can be seen by anyone with access to the renamers email queue. This is restricted to current renamers, stewards and Wikimedia Foundation staff.
+
+
+There is a public request page for name change requests, but this is not recommended because it will leave a public record of your request to vanish that cannot itself be hidden.
+
+
+If you have questions about vanishing, or have concerns that might be addressable by a less permanent method, you may want to contact a Functionary or a member of the Arbitration Committee for advice.
+
+What vanishing is not
+Vanishing is not a way to start over with a fresh account. When you request a courtesy vanishing, it is understood that you will not be returning. If you want to start over, please follow the directions at Clean start instead of (not in addition to) this page.  If you make a request to vanish, and then start over with a new account, and are then discovered, the vanishing procedure may be reversed, and your old and new accounts may be linked.
+Vanishing is not a way to avoid criticism, sanctions, or other negative attention, unless you really mean to leave permanently. As such, it might not be extended to users who have been disruptive, who leave when they lose the trust of the community, or when they are blocked or banned.
+It is not a way for accounts affiliated with organizations or interests opposed to the Wikipedia community to erase documentation that they edited Wikipedia. This could happen when an account associated with a business, for example, is criticized on their userpage for the way they edited Wikipedia.
+Vanishing is not the best way to remove personal information that you may have accidentally revealed about yourself, especially if you want to continue editing. See the page on Oversight instead.
+If you want to change your username, users in good standing are free to request a change of username at any time. All contributions made under the old username will be re-attributed to the new username, including deleted contributions, preserving the edit history.[a]
+Deletion of user talk pages
+ShortcutWP:CVUT
+
+
+While user pages and subpages may be deleted, the deletion of established users' talk pages is invariably controversial, and is the rare exception, not the rule. This is because user talk pages, unlike other user pages, have largely been written by other editors. User talk pages should not be speedy deleted by admins. Users who wish to delete user talk pages should consult a Functionary or the Arbitration Committee. Community consensus is that user talk pages should be deleted only where there is a compelling reason to do so—related to serious privacy concerns and the potential for real-world harm. Otherwise, user talk pages should be deleted only at MfD. Any deletion can be challenged and overturned at deletion review. User talk pages should never be moved to become user subpages to facilitate deletion.
+
+See also
+Wikipedia:Anonymity
+Wikipedia:Changing username
+Wikipedia:Clean start
+meta:Right to vanish
+Wikipedia:Retiring
+Wikipedia:Sleeper account
+Template:Userbox Ex-Wikipedia
+Wikipedia:Missing Wikipedians
+phab:T8397
+Notes
+
+
+^ Old signatures embedded in past posts cannot be changed due to technical limitations of the MediaWiki software, although in some cases collapsing or blanking is possible.
+
+
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+vteWikipedia accounts and governanceUnregistered (IP) users
+Why create an account?
+Create an account
+Request an account
+IPs are human too
+IP addresses are not people
+IP hopper
+Registered users
+New account
+Logging in
+Reset passwords
+Username policy
+Changing username
+Usernames for administrator attention
+Unified login or SUL
+Alternate account
+Account security
+Password strength requirements
+User account security
+Personal security practices
+Two-factor authentication
+2FA for AWB
+Committed identity
+On privacy, confidentiality and discretion
+Compromised accounts
+Blocks, bans, sanctions,
+global actions
+Blocking policy
+FAQ
+Admins guide
+Tools
+Autoblock
+Appealing a block
+Guide to appealing blocks
+UTRS Unblock Ticket Request System
+Blocking IP addresses
+Range blocks
+IPv6
+Open proxies
+Banning policy
+ArbCom appeals
+Sanctions
+Personal sanctions
+General sanctions
+Discretionary sanctions and Log
+Essay
+Long-term abuse
+Standard offer
+Global actions
+Related to accounts
+Sockpuppetry
+Single-purpose account
+Sleeper account
+Vandalism-only account
+Wikibreak
+Enforcer
+Retiring
+Courtesy vanishing
+Clean start
+Quiet return
+User groups
+ and global user groups
+Requests for permissions
+Admin instructions
+Admin guide
+Account creator
+PERM
+(Auto) confirmed
+PERM
+Autopatrolled
+PERM
+AutoWikiBrowser
+PERM
+Bot
+Request
+Edit filter helper
+Request
+Event coordinator
+PERM
+Extended confirmed
+PERM
+File mover
+PERM
+IP block exempt
+Request
+Mass message sender
+PERM
+New page reviewer
+PERM
+Page mover
+PERM
+Pending changes reviewer
+PERM
+Rollback
+PERM
+Template editor
+PERM
+Global rights policy
+OTRS Volunteer Response Team
+Advanced user groups
+Administrator
+RfA
+Bureaucrat
+RfB
+CheckUser and Oversight
+Request
+Edit filter manager
+Request
+Interface administrator
+Request
+Founder
+Importer
+Researcher
+Committees and related
+Arbitration Committee
+Bot approvals group
+Functionaries
+Clerks
+SPI clerks
+ArbCom clerks
+Governance
+Administration
+FAQ
+Formal organization
+Editorial oversight and control
+Quality control
+Wikimedia Foundation
+Board
+Founder's seat
+Meta-Wiki
+Proposals
+WikiProjects
+Elections
+Policies and guidelines
+Petitions
+Noticeboards
+Consensus
+Dispute resolution
+Reforms
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Courtesy_vanishing&amp;oldid=1052186014"
+		Categories: Wikipedia behavioral guidelinesHidden categories: Wikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Meta-Wiki
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةتۆرکجهDeutschΕλληνικάفارسیFrançais한국어ItalianoمصرىNederlandsPolskiPortuguêsRomânăРусскийSimple EnglishکوردیSvenskaTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 27 October 2021, at 21:14&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

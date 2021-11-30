@@ -1,0 +1,968 @@
+
+
+
+
+Wikipedia:Requests for permissions - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Requests for permissions
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Request page for admins to grant user rights
+"WP:PERM" redirects here. You may be looking for Wikipedia:Requesting copyright permission or Help:Permanent link.
+
+Administrator instructions
+
+
+
+
+vteNoticeboardsWikipedia's centralized discussion, request, and help venues. For a listing of ongoing discussions and current requests, see the dashboard.General
+Administrators
+main
+incidents
+Bots
+Bureaucrats
+Centralized discussion
+Closure requests
+Education
+Interface admins
+Main Page errors
+Open proxies
+VRT
+Oversight
+User permissions
+Articles and content
+Biographies of living persons
+Copyrights
+questions on media
+problems
+Dispute resolution
+External links
+Fringe theories
+Neutral point of view
+Original research
+Reliable sources
+Resource requests
+Spam
+blacklist
+whitelist
+Scalable vector graphics
+Titleblacklist
+Translation
+Page handling
+History merges
+Mergers
+Splits
+Moves
+Protection
+Importation
+XfD
+Articles
+Redirects
+Categories
+Templates
+Files
+Miscellany
+Undeletion
+User conduct
+Conflict of interest
+Contributor copyright
+Edit warring and 3RR
+Sanctions
+Personal restrictions
+General sanctions
+Discretionary sanctions
+Sockpuppets
+Usernames
+Vandalism
+Other
+Arbitration
+Committee noticeboard
+requests
+enforcement
+Edit filters
+requested
+false positives
+Questions
+Help desk
+Teahouse
+Reference desk
+New articles
+Requests for comment
+Village pump
+policy
+technical
+proposals
+idea lab
+WMF
+miscellaneous
+WikiProject proposals
+ Category:Wikipedia noticeboards
+Skip to TOC
+Skip to bottom
+
+
+
+Requests for permissions
+
+
+
+ShortcutsWP:PERMWP:RFRWP:RFPERM
+
+
+This page enables administrators to handle requests for permissions on the English Wikipedia. Administrators are able to modify account creator, autopatrolled, confirmed, file mover, extended confirmed, mass message sender, new page reviewer, page mover, pending changes reviewer, rollback, template editor rights and AutoWikiBrowser access.
+
+
+Editors wishing to request a permission flag here should do so following the procedure below.  Editors requesting permissions are advised to periodically revisit the requests page, as notifications will not always be given after a decision is made.  Editors should not expect their request to be answered right away and should remember to be patient when filing a request.  To find out what permissions your account has, go to Special:Preferences, where your permissions are listed in the user profile tab under "Member of groups".
+
+
+Requests for permissions are archived regularly; please see Wikipedia:Requests for permissions/Archive for an index of past requests.
+
+
+If this page has been recently modified, it may not reflect the most recent changes.
+Please purge this page to view the most recent changes.
+Bot report: No errors! Report generated at 11:40, 29 November 2021 (UTC)
+Contents
+
+1 Permissions
+
+1.1 Handled here
+1.2 Handled elsewhere
+
+
+2 Removal of permissions
+3 Process
+
+3.1 Requestors
+3.2 Administrators
+
+
+4 Current requests
+
+4.1 Account creator
+4.2 Autopatrolled
+
+4.2.1 User:WildComet
+4.2.2 User:Maliepa
+4.2.3 User:Alnitak3
+4.2.4 User:Haunted Spy
+
+
+4.3 AutoWikiBrowser
+
+4.3.1 User:Yasercs89
+4.3.2 User:Headphase
+
+
+4.4 Confirmed
+4.5 Event coordinator
+4.6 Extended confirmed
+
+4.6.1 User:Aaron106
+
+
+4.7 File mover
+4.8 Mass message sender
+
+4.8.1 User:Chris troutman
+
+
+4.9 New page reviewer
+
+4.9.1 User:Dmm1169
+4.9.2 User:Theleekycauldron
+4.9.3 User:Stefka Bulgaria
+
+
+4.10 Page mover
+
+4.10.1 User:Extraordinary Writ
+4.10.2 User:Elijahandskip
+
+
+4.11 Pending changes reviewer
+
+4.11.1 User:Zippybonzo
+4.11.2 User:Th78blue
+4.11.3 User:Tartan357
+
+
+4.12 Rollback
+
+4.12.1 User:Maurice Oly
+4.12.2 User:Th78blue
+4.12.3 User:Mvqr
+4.12.4 User:SgtDrillSgt
+4.12.5 User:Ttttt321
+4.12.6 User:Itcouldbepossible
+
+
+4.13 Template editor
+
+
+
+
+
+Permissions
+Handled here
+Account creator (add request • view requests): The account creator flag is granted to users who are active in the request an account process. The flag removes the limit on the maximum number of new accounts that can be created in a 24 hour period. It also allows users to make accounts with names similar to other accounts. The account creator flag is only given to users who participate in the ACC process and may be removed without notice should a user's participation in the account creation process cease.
+Autopatrolled (add request • view requests): The autopatrolled flag is granted to users who are active in the creation of new articles. This tool is granted so their creations are auto patrolled in Special:NewPages. Unlike other requests, any user may nominate an editor for Autopatrolled, even without that user's consent. A user who wishes to have this flag generally should have created at least 25 articles and must be trusted, experienced, and must have demonstrated they are familiar with Wikipedia's policies and guidelines, especially WP:BLP and Wikipedia:Notability.
+AutoWikiBrowser (add request • view requests): AutoWikiBrowser is a semi-automated MediaWiki editor for Microsoft Windows, designed to make tedious repetitive tasks quicker and easier. It is essentially a browser that automatically opens up a new page when the last is saved. When set to do so, it suggests some changes (typically formatting) that are generally meant to be incidental to the main change. Please read the rules of use and registration requirements on the main page before requesting permission. This is not a true user right, but access needs to be granted by administrators just like other permissions. If approved, your name will be added to the CheckPage. Users with under 250 non-automated mainspace edits or 500 total mainspace edits are rarely approved. You will need to give a reason for wanting AWB access.
+Confirmed (add request • view requests): The confirmed flag may be granted to new users who have not yet hit the threshold for autoconfirmed status. These are users who have not had both 10 edits and 4 days experience. People with this flag can  upload files and edit semi-protected pages before hitting the autoconfirmed flag. Users requesting this flag must indicate clearly why they should be exempted from the customary confirmation period.
+Event coordinator (add request • view requests): The event coordinator user right allows editors to create multiple new accounts, and to temporarily confirm accounts so that they can create new articles.
+Extended confirmed (add request • view requests): The extended confirmed flag is normally automatically added to accounts after 500 edits and 30 days, but may be added to legitimate alternate accounts of users that already have this access. The flag allows users to edit pages under extended confirmed protection.
+File mover (add request • view requests): The file mover user right is intended to allow users experienced in working with files to rename them, subject to policy, with the ease that autoconfirmed users already enjoy when renaming Wikipedia articles.
+Mass message sender (add request • view requests): Mass message sender enables users to send messages to multiple users at once. This flag is given to users who have made requests for delivery in the past, clearly showing an understanding of the guidance for use.
+New page reviewer (add request • view requests): The new page reviewer user right allows users to mark pages as patrolled and use the page curation toolbar. At administrators' discretion, the right may be accorded on a time limited basis or indefinite.
+Page mover (add request • view requests): The page mover user right allows users experienced in working with article names to move them, subject to policy, without leaving behind a redirect. They may also move all subpages when moving the parent page(s). General guidelines include making 3,000 edits and 6 months of editing history. At administrators' discretion, the right may be accorded on a time limited basis or indefinite.
+Pending changes reviewer (add request • view requests): The reviewer flag is granted to users who are experienced enough with Wikipedia editing and its policies for contributing to the process of reviewing articles placed under pending changes.
+Rollback (add request • view requests): Rollback enables users to remove vandalism much more quickly and efficiently than by undoing it. Users who do not demonstrate an understanding of what constitutes capable vandalism fighting, either because they have no or little history of doing so, or show a poor ability to discern between good and bad faith edits will not be granted this right. Also, it is unlikely that editors with under 200 mainspace edits will have their request granted. For a more detailed explanation of rollback and information about when it is appropriate to use the tool, see Wikipedia:Rollback. For information about the technical details of the feature, see here.
+Template editor (add request • view requests): The template editor flag allows users to edit protected templates and Lua modules. General guidelines for granting include making at least 1,000 edits overall (with at least 150 to templates or modules), being a registered user for over a year, and having a record of successfully proposing significant edits to several protected templates. Users should demonstrate proficiency with template syntax and an understanding of the need for caution when editing heavily-used templates.
+Handled elsewhere
+
+
+Several permissions are requested and handled elsewhere:
+
+Administrator and bureaucrat access: Requests for administrator or bureaucrat access need to be posted at requests for adminship and requests for bureaucratship, respectively.
+Bots: Request for bot flags should be made at Wikipedia:Bots/Requests for approval.
+Edit filter: Requests for access to the edit filter manager group and the edit filter helper group should be made at Wikipedia:Edit filter noticeboard.
+Interface administrator: Requests for interface administrator access should be made at Wikipedia:Bureaucrats' noticeboard. Only current administrators may become interface administrators.
+IP-block-exempt: While the IP-block-exempt right can be granted by administrators, this flag is not handled here. Requests for the IP-block exempt right should be submitted via the Unblock Ticket Request System or, if there are significant privacy concerns, email the checkuser team at checkuser-en-wpwikipedia.org or contact a CheckUser directly.
+Checkuser and Oversight: These rights are only granted by the Arbitration Committee, and only after strict scrutiny. More information can be found here.
+AfC reviewer: This access is granted by administrators at Wikipedia talk:WikiProject Articles for creation/Participants.
+Redirect patrol whitelist: Addition to the whitelist is granted by administrators at Wikipedia talk:New pages patrol/Redirect whitelist.
+Steward permissions can only be granted in yearly elections, and are rarely given.
+Global permissions such as global renamer, sysop, IP block exempt, rollback, etc should be made at meta:Steward requests/Global permissions.
+Removal of permissions
+
+
+If you wish to have any of your permission flags (except administrator) removed, you should contact an administrator. If you want your administrator flag removed, you should contact a bureaucrat.
+
+
+This is not the place to request review of another user's rights. If you believe someone's actions merit removal of a permission flag, you should raise your concern at the incidents noticeboard. 
+
+
+The bureaucrat, checkuser, and oversight flags are removed at meta:Steward requests/Permissions. Stewards will typically not carry out such requests unless they are made on behalf of the Arbitration Committee, by a user who is requesting their own access be removed, or in cases of an emergency.
+
+Process
+Requestors
+
+
+To make a request for a permission, click "add request" next to the appropriate header and fill in the reason for wanting permission.
+
+
+Any editor may comment on requests for permission.
+
+Administrators
+Full instructions at Wikipedia:Requests for permissions/Administrator instructions
+
+
+Administrators are permitted to grant account creator, autopatrolled, confirmed, event coordinator, file mover, mass message sender, page mover, pending changes reviewer, rollback and template editor flags to any user who meets the criteria explained above and can be trusted not to abuse the tool(s). Administrators may either grant these permissions permanently or temporarily. For convenience, a bot will automatically comment with relevant data if the user does not meet configurable qualifications. Even if the bot does not comment, administrators should review the user's contributions and logs to ensure the tools will be used appropriately and check for any indication of potential misuse.
+
+
+Once an administrator has granted a permission or decided to deny a request, they should add {{done}} or {{not done}} respectively under the request with their comments. If a user already has the requested permission, or is autoconfirmed and requesting confirmed, {{already done}} should be used. N hours after the last comment was made (as specified by the config), the request will be archived automatically: approved requests will be placed here; declined requests will go here. See User:MusikBot/PermClerk#Archiving for more information on archiving functionality.
+
+
+Current requests
+Account creator
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+
+Autopatrolled
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+User:WildComet
+WildComet (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Just past the 25 article requirement. Have 27 articles created, one being a disambiguation page and one having been deleted then re-created. —WildComet talk 07:27, 23 November 2021 (UTC)
+
+&nbsp;Done Schwede66 18:11, 28 November 2021 (UTC)
+User:Maliepa
+Maliepa (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Has created 101 articles. I dream of horses (Contribs) (Talk) 17:47, 23 November 2021 (UTC)
+
+User:Alnitak3
+Alnitak3 (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Has created over 100 articles. I dream of horses (Contribs) (Talk) 07:23, 28 November 2021 (UTC)
+
+User:Haunted Spy
+Haunted Spy (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Has created over 600 articles, of which only seven have been deleted. I dream of horses (Contribs) (Talk) 19:39, 28 November 2021 (UTC)
+
+
+Page to request the ability to use AutoWikiBrowser
+AutoWikiBrowser
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+
+
+
+
+
+User:Yasercs89
+Yasercs89 (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Working for Tamil Nadu Election Results constituency-wise and also update in Pro Kabbaddi League. I have detailed excel sheet. YASER ARAFATH (talk) 13:12, 10 November 2021 (UTC)
+
+&nbsp;Automated comment This user has had 2 requests for autowikibrowser declined in the past 90 days ([1][2]). — MusikBot talk 13:20, 10 November 2021 (UTC)
+Yasercs89, your previous two requests were declined because it appeared that you were trying to edit a non-English language of Wikipedia. Could you please explain and expand your reasoning for wanting AWB access? What sort of edits are you planning on making? Primefac (talk) 17:31, 21 November 2021 (UTC)
+Primefac, Actually I have Tamil Nadu Election Results from 1951 - 1697 Madras and  1971 - 2021 Tamil Nadu, Each constitution wise (i.e Candidates, Vote Margin, Poll&nbsp;% and Turnout). Check this Gummidipoondi ,  Ponneri  totally completed 13 constituency, the same will work on rest constitutions. Thanks--IJohnKennady (talk) 04:50, 22 November 2021 (UTC)
+User:Headphase
+Headphase (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Requesting to streamline repetitive maintenance tasks Headphase (talk) 17:00, 26 November 2021 (UTC)
+
+&nbsp;Automated comment An extraneous header or other inappropriate text was removed from this request — MusikBot talk 09:20, 29 November 2021 (UTC)
+&nbsp;Automated comment This user has approximately 243 non-automated edits in the mainspace. — MusikBot talk 09:20, 29 November 2021 (UTC)
+
+
+
+
+
+
+Confirmed
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+
+Event coordinator
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+
+Extended confirmed
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+User:Aaron106
+Aaron106 (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Hello I had a talk with a mod and he advised me to make some changes as to not make single edits that I undo as it could not help the encyclopedia, And also to request a name change to an article If i think it should be changed. I fully understand now and would like to have my extended confirmed rights back. Aaron106 (talk) 01:52, 28 November 2021 (UTC)
+
+&nbsp;Automated comment This user has had this permission revoked in the past 180 days ([3]). — MusikBot talk 02:00, 28 November 2021 (UTC)
+ Not done This was revoked just over an hour before your request here. That's far too little time for you to gain enough of an understanding for this permission. stwalkerster (talk) 03:39, 28 November 2021 (UTC)
+
+
+@Stwalkerster: Why did you downgrade me from confirmed users just now? --Aaron106 (talk) 03:51, 28 November 2021 (UTC)
+
+@Aaron106: because you're already in the implicit "autoconfirmed" group, which conveys the exact same rights as the "confirmed" group. There is no change to your effective rights. stwalkerster (talk) 03:57, 28 November 2021 (UTC)
+
+File mover
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+
+Mass message sender
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+User:Chris troutman
+Chris troutman (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I had massmessage sender from April 2018 to November 2020 while I was publishing The Signpost. The EiC needs me to return as a backup publisher so I'm asking for this userright back. Chris Troutman (talk) 22:53, 28 November 2021 (UTC)
+
+&nbsp;Done &nbsp; --TNT (talk) (she/they) 23:28, 28 November 2021 (UTC)
+
+
+
+
+
+
+New page reviewer
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+User:Dmm1169
+Dmm1169 (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Reason for requesting new page reviewer rights: On spare time (which varries), To assist Wikipedia with its backlong of new page reviews, maintain and improve accuracy and quality of Wikipedia's material, and encourage improvements without discouraging users in namespace. Dmm1169 (talk) 20:49, 27 November 2021 (UTC)
+
+User:Theleekycauldron
+Theleekycauldron (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I had a trial run a while back, but it fell to the wayside as other projects took precedence—I've amassed much more experience since then, so I'd like to request a re-adding. theleekycauldron (talk • contribs) (they/them) 08:53, 28 November 2021 (UTC) theleekycauldron (talk • contribs) (they/them) 08:53, 28 November 2021 (UTC)
+
+User:Stefka Bulgaria
+Stefka Bulgaria (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I was granted New Page Reviewer status about a mont ago; but it seems the permission has expired. I would like to continue working on reviewing new pages, as I've been learning a lot in the process; so requesting permission again. Stefka Bulgaria (talk) 09:46, 28 November 2021 (UTC)
+
+
+Page mover
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+User:Extraordinary Writ
+Extraordinary Writ (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I've closed or relisted somewhere north of 100 RMs (see [4][5][6][7], and I often find myself in situations where the page mover right would be useful. For instance, I sometimes need to move subpages ([8][9]) or to draftify without leaving a redirect ([10][11]), and there are many closeable RMs that I've passed over because they require round-robin moves that I'm not able to implement on my own. Only one of my closures has been challenged, and it was unanimously endorsed at move review (although that challenge has encouraged me to elaborate more in my closures, as I did here). I meet the criteria for granting and am otherwise familiar with relevant policies and guidelines, including the criteria for suppressing redirects and the procedure for conducting round-robin page moves. Extraordinary Writ (talk) 20:58, 27 November 2021 (UTC)
+
+User:Elijahandskip
+Elijahandskip (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I enjoy working with the WikiProject of Weather and I have been an active user for a little over two years.  I have also passed the 5,000 edit mark.  I would like to request the page mover permission as weather articles are normally started in draft space and as the event unfolds, notability is determined.  Having the page mover permission would be a little less work for administrators who have to delete weather drafts often after they have been moved and redirected to mainspace. Elijahandskip (talk) 04:02, 29 November 2021 (UTC)
+
+
+
+
+
+
+
+Pending changes reviewer
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+User:Zippybonzo
+Zippybonzo (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I am looking to become a pending changes reviewer as I often look at recent changes to revert vandalism. While I know there is a low backlog I am active almost every week and typically every day. I am somewhat aware of WP:BLP along with WP:NPOV, WP:NOR, WP:V and WP:NOT. While my request is being reviewed I will read up on all of the above mentioned policies. I have focused on reverting vandalism recently as I would like to see all areas of Wikipedia. Zippy (talk) 16:50, 22 November 2021 (UTC)
+
+ Not done I'd like to see more experience first. Give it a couple of months. Cabayi (talk) 17:02, 27 November 2021 (UTC)
+User:Th78blue
+Th78blue (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Hiya there!
+
+
+I would like to request the 'Pending changes reviewer' permissions. I have made over 8,205+ edits, and much of my time recently has been working the "Recent changes" pages. I am a member of the "CVU", and I have read over and agree with all of the Wikipedia policies in question for requesting this permission, namely: WP:BLP, WP:NPOV, WP:Verifiability, WP:WWIN, and WP:OR. I would appreciate this added permission as I continue to do all that I can in aid of the mission of the encyclopedia and maintaining the highest level of integrity for this great project! Th78blue (They/Them/Their • talk) 17:02, 23 November 2021 (UTC)
+
+User:Tartan357
+Tartan357 (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I've been editing for a while now and would like to help with the pending changes workload. I already have rollbacker status, and am relatively experienced in fighting vandalism with Twinkle, AIV, and RFPP. I also have a lot of experience answering edit requests. I have read Wikipedia:Reviewing pending changes and understand that the bar for accepting a pending change is lower than it is for implementing an edit request, i.e. I'd only need to make sure there are no policy violations in the pending edit, without needing to examine consensus. For both pending changes and edit requests, though, my belief is that most good-faith edits should be let through, and contributions from unregistered editors should be welcomed. ―&nbsp;Tartan357&nbsp;Talk 04:11, 28 November 2021 (UTC)
+
+
+Rollback
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+User:Maurice Oly
+Maurice Oly (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I wish to request for rollback rights, I do a lot of anti-vandalism/reverting unsourced changes work and I feel rollback rights would help me preform this work more effectively.
+
+
+Before reverting any edits I always check the edit revisions to see what was changed. 
+
+
+In terms of experience I have over 2 years experience and 5,000+ edits of editing experience, and whenever I revert vandalism I leave a warning on the users talk page. Maurice Oly (talk) 17:33, 19 November 2021 (UTC)
+
+I had a look at your contributions and see little to no recent anti-vandalism work.  Any particular reason why Twinkle rollback is insufficient for your needs? -FASTILY 05:30, 20 November 2021 (UTC)
+(notified about the question at User talk:Maurice Oly) ~ ToBeFree (talk) 21:21, 26 November 2021 (UTC)
+
+
+After looking at few things I can now see that Twinkle rollback should be good enough for me, as I am not doing as much anti-vandalism/reverting work as I thought I might be doing right now and thus. &nbsp;Request withdrawn —&nbsp;Preceding unsigned comment added by Maurice Oly (talk • contribs) 22:12, 26 November 2021 (UTC)
+
+ Not done per above -FASTILY 00:15, 27 November 2021 (UTC)
+User:Th78blue
+Th78blue (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+Hi @Fastily: (or to whom it may concern, though I haven't seen anyone else actually approve this in a bit. 
+
+
+I am applying again after having spent some time using the tools that you had mentioned that I use and the strategies/forms that are best practices for reverting vandalism. Primarily, I have been using Twinkle for quickly (somewhat) sending warnings between the levels 1–4, and ensuring that editors (whether IP or user) that post a questionable edit are properly warned. For those that are repeat offenders, I have been using the AIV now and blocks have been handed down in most cases. In only one case was the block not handed down, and that was because I removed the person form the AIV report list due to their having responded well to my final warning and actually ceased to be a vandal (go figure!). I have made over 7,192+ edits, and would like to request the rollback permission for the cases that it might simply be the best tool (over Twinkle etc.) for the job. I swear on my oath to the integrity of the encyclopedia to only use it sparingly and judiciously. Lastly, thank you for not actually just giving me the rollback permissions on my last ask, I would not have learned as much as I have if you had done that. ♥ Th78blue (They/Them/Their • talk) 00:44, 23 November 2021 (UTC)
+
+&nbsp;Automated comment This user has had 1 request for rollback declined in the past 90 days ([12]). — MusikBot talk 00:50, 23 November 2021 (UTC)
+ Not done Reverts &amp; warnings look good, but I'm concerned about your recent block for edit warring &amp; subsequent personal attacks.  I declined your previous request only a week ago, in which I suggested reapplying in a few weeks, after a sustained period of good edits.  Sorry, but this is simply too soon.  -FASTILY 03:06, 25 November 2021 (UTC)
+I will reapply then in two more weeks? So that it is a total of three weeks then since my first application? Sound good? Thank you for the time you spent in reviewing my application again. I look forward to hopefully having this added permission soon. Have a great rest of your day. Th78blue (They/Them/Their • talk) 14:50, 25 November 2021 (UTC)
+Could you please wait a month from today before reapplying?  I appreciate your enthusiasm, but given the circumstances, I would like to see a sustained period of good edits before granting you this right.  -FASTILY 10:57, 26 November 2021 (UTC)
+Sure thing! I have never had another "incident" (and if you look into the details of that one, I think you will see that it was a bit interesting to say the least... I asked many questions of those involved, and none of my questions were ever answered), but I will gladly wait one month from the initial application date if requested to ensure that I am legit and then reapply. Much thanks! Th78blue (They/Them/Their • talk) 21:00, 26 November 2021 (UTC)
+Th78blue, a month from "today" in the above comment is three days after "one month from the initial application date". Regarding "if requested": More than this has been requested. If three days are a problem and "Could you please wait" isn't enough of an explicit request, please reconsider your approach to permissions. From me personally, it would be "in 2022". ~ ToBeFree (talk) 21:04, 26 November 2021 (UTC)
+I am more than happy to wait a month from today! I am sorry if I misread the above. Have a great day, and I appreciate ALL of your help. ♥ Th78blue (They/Them/Their • talk) 21:06, 26 November 2021 (UTC)
+Just re-read it. The misread is entirely my own error. Sorry about that. I'll mark my calendar for one month from today! Thanks all. Th78blue (They/Them/Their • talk) 21:08, 26 November 2021 (UTC)
+Ah, no worries, and thank you very much for your work as well. Do feel free to re-request after the waiting period; I'm certain that neither Fastily nor me are generally opposed to granting the permission. Enthusiasm is a good thing and usually helpful. ~ ToBeFree (talk) 21:10, 26 November 2021 (UTC)
+Heh, I'd say you shouldn't. It's not about the date, it's about gaining some more experience before asking again. Usually, when a declining person has to specify a minimum date for repeated asking, the question has simply been asked too often and there is some impatience in play. Please take the time to consider whether it really has to be at 26 December 2021 at 11 o'clock, or if requesting the permission somewhere in 2022 is a more reasonable approach. ~ ToBeFree (talk) 21:14, 26 November 2021 (UTC)
+User:Mvqr
+Mvqr (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I am request the rollback permission. I've been here for nearly two years and I regularly counter vandalism and rollback would be useful to me. Mvqr (talk) 17:49, 24 November 2021 (UTC)
+
+I had a look at your contributions and see little to no recent anti-vandalism work.  Any particular reason why Twinkle rollback is insufficient for your needs?   Also, I found your unilateral mass reverts of categorization concerning; before performing mass reverts, why didn't you raise the matter at AN?  Agreed that we should deny substantial content contributions from LTAs, but can you point me to a discussion in which it was established, via consensus, that such additionscategorizations are genuinely harmful to the project? -FASTILY 03:06, 25 November 2021 (UTC)
+Fastily, I do recent changes patrolling regularly, such as this edit this week. I didn't take the sockpuppet to AN because it was already blocked as a result of Wikipedia:Sockpuppet investigations/Jeuardt/Archive. The rationale of the revert was purely due to bans apply to all editing, good or bad and WP:BANREVERT ("Anyone is free to revert any edits made in violation of a ban, without giving any further reason..."). I later recognized that some of the sock's edits were actually good and re-instated them, and I will review this sock's contributions differently, I also plan on taking up categories a bit more. However Wikipedia policy (WP:BANREVERT) establishes that LTA edits may be reverted without discussion, the only exception of that rule is categories created by LTAs which does not apply here.--Mvqr (talk) 09:38, 25 November 2021 (UTC)
+Sorry if I wasn't clear.  The sockpuppet being blocked is irrelevant.  As a rule of thumb, any large scale reverts should first be discussed at AN.  You said it yourself: "some of the sock's edits were actually good".  Had you gone to AN first, a handful of editors may have been willing to take responsibility for these edits.  Am I correct to assume that if you had the rollback right at the time you made these reverts, that you would have used rollback?  -FASTILY 10:57, 26 November 2021 (UTC)
+ All understandable differences in opinion aside, I'm afraid that the existence of WP:ROLLBACKUSE #4, which explicitly allows using rollback for this purpose, makes it relatively hard to justify making the granting of rollback dependent on an answer to this question. ~ ToBeFree (talk) 20:55, 26 November 2021 (UTC)
+Indeed, that's why I haven't declined OP's request.  I can't say I'm particularly comfortable with the possibility of them using rollback as a blunt force object, IMO it should only be surgically applied to offending diffs of egregious nature.  Mvqr, if you could give us some assurances, that would be much appreciated. -FASTILY 00:13, 27 November 2021 (UTC)
+@Fastily and ToBeFree: I will be careful with rollback, in particular concerning categorizations. I can't promise I will never make any mistake, but I can promise that if I make a mistake I will own up to it, and discuss calmly with stakeholders.--Mvqr (talk) 06:29, 28 November 2021 (UTC)
+&nbsp;Done Please remember that rollback should only be used on blatant vandalism.  If in doubt, don't rollback.  -FASTILY 11:44, 28 November 2021 (UTC)
+User:SgtDrillSgt
+SgtDrillSgt (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I want to help Wikipedia in my free time. Thanks. SgtDrillSgt (talk) 16:25, 27 November 2021 (UTC)
+
+&nbsp;Automated comment This user has 15 edits in the mainspace. — MusikBot talk 16:30, 27 November 2021 (UTC)
+ Not done. Please see the notice at the top of this page.&nbsp;I don't think you have sufficient editing experience yet. Take a moment to check out what counter-vandalism is at WP:CVU, and if you decide you'd like to get involved, you can enroll at the Counter Vandalism Academy to learn more. Cabayi (talk) 16:53, 27 November 2021 (UTC)
+User:Ttttt321
+Ttttt321 (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I am requesting for rollback rights, so i could revert such edits that doesn't meets with the Wikipedia.... Ttttt321 (talk). 15:46, 28 November 2021 (UTC)
+
+&nbsp;Comment: Your recent edit history shows problems, like creating useless or wrongly named categories[13][14]. Additionally, it looks as if a number of your contributions have been made just for the sake of clocking those 500 edits[15][16]. — kashmīrī&nbsp;TALK 16:27, 28 November 2021 (UTC)
+why [[Category:Sufi Poets of Kashmir]] is useless? Ttttt321 (talk). 16:34, 28 November 2021 (UTC)
+Primo, "Kashmir" is spelled with capital K. Then, we already have Category:Kashmiri people and Category:Kashmiri poets and Category:Kashmiri Sufis. — kashmīrī&nbsp;TALK 17:29, 28 November 2021 (UTC)
+yes, we have already these categories, but Category:Sufi poets of kashmir would contain those poets which are kashmiris and also relates with Sufism. for e.g, there is a category  "Kashmiri poets" which represents only poets of kashmir region in which many of them relates with Sufism and others aren't. So i create it to represent those persons, that are sufi poets, not only poets. Ttttt321 (talk). 18:36, 28 November 2021 (UTC)
+ Not done You can already do this.  Rollback does not give you extra authority to undo edits.  No valid reason for granting rollback was provided.  -FASTILY 01:52, 29 November 2021 (UTC)
+User:Itcouldbepossible
+Itcouldbepossible (t&nbsp;· c&nbsp;· del&nbsp;· cross-wiki&nbsp;· SUL&nbsp;· edit counter&nbsp;· pages created (xtools&nbsp;•&nbsp;sigma)&nbsp;· non-automated edits&nbsp;· BLP edits&nbsp;· undos&nbsp;· rollbacks&nbsp;· reviews&nbsp;· logs (blocks&nbsp;•&nbsp;rights&nbsp;•&nbsp;moves)&nbsp;· rfar&nbsp;· spi) (assign permissions)(acc · ap · fm · mms · npr · pm · pcr · rb · te)
+
+
+I revert high amount of vandalism and so I am requesting rollback rights. It would be easier to revert vandalism with rollback rights because I will have access to a large number of anti vandalism tools. So please grant me the rights. Itcouldbepossible (talk) 15:50, 29 November 2021 (UTC)
+
+&nbsp;Automated comment This user has 153 edits in the mainspace. — MusikBot talk 16:00, 29 November 2021 (UTC)
+
+Template editor
+Sorry, please be aware that unregistered users cannot be granted permissions due to technical restrictions. Please create an account in order to request user account permissions.
+
+(add request • view requests)
+
+vteRequests for permissionsCommon
+Autopatrolled
+AutoWikiBrowser
+File mover
+New page reviewer
+Page mover
+Pending changes reviewer
+Rollback
+Uncommon
+Account creator
+Confirmed
+Event coordinator
+Extended confirmed
+Mass message sender
+Template editor
+Logs
+Archived requests
+Approved requests
+Denied requests
+System rights log
+Special
+Administrator
+Bureaucrat
+Bot
+CheckUser and Oversight
+Edit filter helper
+Edit filter manager
+Interface administrator
+
+vteWikipedia accounts and governanceUnregistered (IP) users
+Why create an account?
+Create an account
+Request an account
+IPs are human too
+IP addresses are not people
+IP hopper
+Registered users
+New account
+Logging in
+Reset passwords
+Username policy
+Changing username
+Usernames for administrator attention
+Unified login or SUL
+Alternate account
+Account security
+Password strength requirements
+User account security
+Personal security practices
+Two-factor authentication
+2FA for AWB
+Committed identity
+On privacy, confidentiality and discretion
+Compromised accounts
+Blocks, bans, sanctions,
+global actions
+Blocking policy
+FAQ
+Admins guide
+Tools
+Autoblock
+Appealing a block
+Guide to appealing blocks
+UTRS Unblock Ticket Request System
+Blocking IP addresses
+Range blocks
+IPv6
+Open proxies
+Banning policy
+ArbCom appeals
+Sanctions
+Personal sanctions
+General sanctions
+Discretionary sanctions and Log
+Essay
+Long-term abuse
+Standard offer
+Global actions
+Related to accounts
+Sockpuppetry
+Single-purpose account
+Sleeper account
+Vandalism-only account
+Wikibreak
+Enforcer
+Retiring
+Courtesy vanishing
+Clean start
+Quiet return
+User groups
+ and global user groups
+Requests for permissions
+Admin instructions
+Admin guide
+Account creator
+PERM
+(Auto) confirmed
+PERM
+Autopatrolled
+PERM
+AutoWikiBrowser
+PERM
+Bot
+Request
+Edit filter helper
+Request
+Event coordinator
+PERM
+Extended confirmed
+PERM
+File mover
+PERM
+IP block exempt
+Request
+Mass message sender
+PERM
+New page reviewer
+PERM
+Page mover
+PERM
+Pending changes reviewer
+PERM
+Rollback
+PERM
+Template editor
+PERM
+Global rights policy
+OTRS Volunteer Response Team
+Advanced user groups
+Administrator
+RfA
+Bureaucrat
+RfB
+CheckUser and Oversight
+Request
+Edit filter manager
+Request
+Interface administrator
+Request
+Founder
+Importer
+Researcher
+Committees and related
+Arbitration Committee
+Bot approvals group
+Functionaries
+Clerks
+SPI clerks
+ArbCom clerks
+Governance
+Administration
+FAQ
+Formal organization
+Editorial oversight and control
+Quality control
+Wikimedia Foundation
+Board
+Founder's seat
+Meta-Wiki
+Proposals
+WikiProjects
+Elections
+Policies and guidelines
+Petitions
+Noticeboards
+Consensus
+Dispute resolution
+Reforms
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_permissions&amp;oldid=1011149008"
+		Hidden categories: Project pages with short descriptionWikipedia extended-confirmed-protected pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMediaWikiMeta-WikiWikibooksWikidataWikimania
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AcèhАлтай тилالعربيةAsturianuAzərbaycancaবাংলাBân-lâm-gúБашҡортсаБеларускаяभोजपुरीEspañolفارسی한국어हिन्दीHrvatskiBahasa IndonesiaItalianoЛезгиLigureमैथिलीമലയാളംमराठीBahasa Melayuनेपाली日本語ଓଡ଼ିଆРусскийScotsShqipසිංහලSimple EnglishSlovenčinaSoomaaligaکوردیSrpskohrvatski / српскохрватскиТатарча/tatarçaไทยTürkçeУкраїнськаاردوTiếng Việt吴语Yorùbá粵語中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 9 March 2021, at 09:03&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

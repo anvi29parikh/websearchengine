@@ -1,0 +1,425 @@
+
+
+
+
+Template:Uw-aiv - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Template:Uw-aiv
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+ Thank you for making a report  at Wikipedia:Administrator intervention against vandalism. Reporting and removing vandalism is vital to the functioning of Wikipedia and all users are encouraged to revert, warn, and report vandalism.  However, it appears that the editor you reported may not have engaged in vandalism, or the user was not sufficiently or appropriately warned. Please note there is a difference between vandalism and unhelpful or misguided edits made in good faith. If the user continues to vandalise after a recent final warning, please re-report it.  Thank you.
+
+
+
+
+ Template documentation[view] [edit] [history] [purge]
+This template should always be substituted (i.e., use {{subst:Uw-aiv}}). Any accidental transclusions will be automatically substituted by a bot.
+If you plan to make breaking changes to this template, move it, or nominate it for deletion, please notify Twinkle's users and maintainers at Wikipedia talk:Twinkle as a courtesy, as this template is used in the standard installation of Twinkle. Thank you! This template is included in the standard installation of RedWarn. If you plan to make any breaking changes to this template, move it, or nominate it for deletion, please notify RedWarn's developers at RedWarn's talk page as a courtesy. Thank you!
+
+
+Usage:
+
+{{subst:Uw-aiv}}
+{{subst:Uw-aiv|Username}}  references a specific username
+{{subst:Uw-aiv|Username|Additional text}} adds text onto the end of the message instead of "Thank you"
+{{subst:Uw-aiv||Additional text}} or {{subst:Uw-aiv|2=Additional text}} also adds text onto the end of the message instead of "Thank you", but doesn't link a page as specified by the username.
+This standardized template conforms to guidelines by the user warnings project. You may discuss the visual appearance of these standardized templates (e.g. the image in the top-left corner) at the user warning talk page.
+Please refer to the index of message templates before using any template on user talk pages to warn a user. Applying the best template available for your purpose may help reduce confusion from the message you are sending.
+Please remember to substitute the template using {{subst:Uw-aiv}} rather than {{Uw-aiv}}.
+To give greater detail to your message, you may add the username and some additional text to the end of the template. If such username or additional text includes a URL or anything which includes an equal sign ("="), it may break the parser's function unless you prefix the username or the text with a named template parameter. Use "1=" if the username contains an equals sign and use "2=" if the additional text contains an equals sign (such as a URL).
+This template automatically populates the relevant category with the user page. If and when the user account gets blocked, or approximately eight weeks pass with no further action, that categorization is automatically removed.
+This is the documentation for the {{Single notice}} standardized template, as used by several single-level user warnings or notice templates. It is located at Template:Single notice/inner(edit&nbsp;talk&nbsp;links&nbsp;history).
+vteSingle-issue user warning or notice templatesNotices
+2redirect
+3o
+accessdate
+afcaddition
+afcnc
+agf-sock
+aiv
+anew
+archive
+articlesig
+articletodraft
+autobiography
+autocalc
+badcat
+badcsd
+badlistentry
+badprodblp
+biog-not
+bite
+blog
+brd
+c&amp;pmove
+catimprove
+coi
+columns
+controversial
+copying-nosource
+copying
+copyright-img
+cryptic-filename
+crystal
+csd
+dab
+date
+dated
+deadlink
+directcat
+displaytitle
+draftfirst
+draftfirst-empty
+draftfirst-nn
+draftmoved
+editsummary
+editsummary2
+elinbody
+english
+engvar
+filename
+firstname
+flag
+fuir
+guideline
+hasty
+incompleteafd
+infobox
+italicize
+linking
+meatwarn
+medrs
+memorial
+minor
+mostm
+multiple-accts
+nc
+nonfree
+notaiv
+notenglishedit
+notenglish
+notvand
+notvote
+offtopicdab
+offtopic
+plagiarism
+preview
+pingfix
+probation
+prodscope
+pronoun
+redcat
+redlink
+redund
+refimprove
+refspam
+removedlink
+removevandalism
+rename
+salt
+samename
+selfinfo
+selfrevert
+sigdesign
+siglink
+sl
+socialnetwork
+split
+spoiler
+staleuserpageblanked
+stats
+substafd
+talkinarticle
+tempbreak
+thumb
+tilde
+toppost
+uaa
+unattribcc
+unreliable
+upincat
+uploadfirst
+userspace draft finish
+userspacenoindex
+vgscope
+warn
+webhost
+whitewashing
+wikiversity
+wizard
+wrongsummary
+xfdpersonal
+Warnings
+1rr
+3rr
+affiliate
+attack
+botun
+canvass
+coi-username
+coi-warn
+copyrightlink
+copyrightnew
+copyrightremove
+copyright
+derogatory
+ecgaming
+efsummary
+ew
+hijacking
+hoax
+legal
+login
+multipleIPs
+paraphrase
+pinfo
+point
+socialnetwork-strong
+socksuspect
+upv
+username
+userpage
+wrongsummary-strong
+
+
+
+The above documentation is transcluded from Template:Uw-aiv/doc. (edit | history)
+Editors can experiment in this template's sandbox (create | mirror) and testcases (create) pages.
+Add categories to the /doc subpage. Subpages of this template.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Uw-aiv&amp;oldid=1000138356"
+		Categories: Templates used by TwinkleWikipedia transclusionless templatesTemplates used by RedWarnStandardised user warning templatesUser warning templatesHidden categories: Wikipedia semi-protected templatesWikipedia templates to be automatically substitutedWikipedia substituted templatesNavboxes using background coloursNavigational boxes without horizontal lists
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		TemplateTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		বাংলাभोजपुरीفارسیPortuguêsکوردیతెలుగుTürkçeTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 13 January 2021, at 19:40&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

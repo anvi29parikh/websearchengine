@@ -1,0 +1,656 @@
+
+
+
+
+
+
+
+
+
+Code : Règlement de procédure - Tribunal Arbitral du Sport / Court of Arbitration for Sport 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+	
+    
+            
+
+
+arcMore
+
+bobMore
+
+curlingMore
+
+escrime1More
+
+footballMore
+
+gymMore
+
+hockeyMore
+
+escrime2More
+
+lutteMore
+
+plongeursMore
+
+saut à skiMore
+
+skateMore
+
+
+    
+    
+
+    
+      
+    
+        
+        
+            
+
+
+
+
+
+
+ContactsPlan de site
+
+
+        
+        
+    
+        
+        
+            
+                
+                
+                    
+                        Toggle navigation
+                        
+                    
+                
+
+                
+                Informations généralesCoordonnées bancairesHistorique du TASFoire aux questionsPublicationsStatistiquesSéminairesOffres d'emploiAdresses et contactsCIASLe bureauLes membres 2019-2022Code : Statuts du CIASArbitrageCode : Règlement de procédureListe des arbitres (liste générale)Liste des arbitres (liste football)Barême des fraisModèles de clausesChambres ad hocAssistance judiciaireMédiationRèglementListe des médiateursBarême des fraisModèles de clausesCADRèglement d'arbitrage - CAD du TASListe des arbitres - CAD du TASJurisprudence - CAD du TASCommunications - CAD du TASRèglement Tokyo 2020 – CAD du TASAssistance judiciaireJurisprudenceDécisions récentesBase de donnéesMediasActualitésCommunications aux médiasArchives communications aux médiasLogos TASAlbum photosBulletinBulletin TASE-FilingE-Filing
+                
+                
+                    
+        
+    
+         
+
+    
+    
+        
+            ArbitrageCode : Règlement de procédure
+            ArbitrageCode : Règlement de procédure
+        
+    
+    
+
+    
+    
+         
+      
+        
+
+				A. Disposition générales
+			
+
+R27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application du Règlement de procédure
+
+Le présent Règlement de procédure s’applique lorsque les parties sont convenues de soumettre au TAS un litige relatif au sport. Une telle soumission peut résulter d’une clause arbitrale figurant dans un contrat ou un règlement ou d’une convention d’arbitrage ultérieure (procédure d’arbitrage ordinaire), ou avoir trait à l’appel d’une décision rendue par une fédération, une association ou un autre organisme sportif lorsque les statuts ou règlements de cet organisme ou une convention particulière prévoient l’appel au TAS (procédure arbitrale d’appel).
+
+Ces litiges peuvent porter sur des questions de principe relatives au sport ou sur des questions pécuniaires ou autres relatives à la pratique ou au développement du sport et peut inclure plus généralement toute activité ou affaire relative au sport.&nbsp;
+
+R28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Siège
+
+Le siège du TAS et de chaque Formation est fixé à Lausanne, Suisse. Toutefois, si les circonstances le justifient, le/la Président(e) de la Formation peut décider, après consultation des parties, qu’une audience se tiendra dans un autre lieu et en fixe les modalités.
+
+R29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Langue
+
+Les langues de travail du TAS sont le français,&nbsp;l'anglais et l'espagnol. A défaut d'accord des parties, le/la Président(e) de la Formation ou, s'il/elle n'est pas encore nommé(e), le/la Président(e) de la Chambre concernée choisit, au début de la procédure, une de ces trois langues comme langue de l'arbitrage, en tenant compte de l'ensemble des circonstances qu'il juge pertinentes. La procédure se déroule ensuite exclusivement dans cette langue, sauf accord contraire entre les parties et la Formation.
+
+Les parties peuvent demander qu'une langue autre que le français,&nbsp;l'anglais ou l'espagnol soit choisie, sous réserve de l'accord de la Formation et du Greffe du TAS. En cas d'accord, le Greffe du TAS détermine avec la Formation les conditions relatives au choix de la langue; la Formation peut ordonner que tout ou partie des frais de traduction et d'interprétation soit mis à la charge des parties. Si une audience doit avoir lieu, la Formation peut autoriser une parties d'utiliser une langue autre que celle choisie pour l'arbitrage, à la condition qu'elle fournisse, à ses frais, un service d'interprétation vers et depuis la langue officielle de l'arbitrage.
+
+La Formation ou, si elle n'est pas déjà constituée, le Président de Chambre, peut ordonner que tous les documents soumis dans des langues différentes de celle de la procédure soient accompagnés d'une traduction certifiée dans la langue de la procédure.
+
+R30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Représentation et assistance
+
+Les parties peuvent se faire représenter ou assister par des personnes de leur choix. Les noms, adresses, adresses électroniques, numéros de téléphone et de télécopie des personnes représentant les parties sont communiqués au Greffe du TAS, à l’autre partie et à la Formation dès sa constitution. Toute partie représentée par un conseil ou une autre personne doit fournir une confirmation écrite d’un tel mandat de représentation au Greffe du TAS.
+
+R31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notifications et communications
+
+Le Greffe du TAS effectue les notifications et les communications que le TAS ou la Formation destine aux parties. Les notifications et les communications sont faites à l’adresse figurant dans la requête d’arbitrage ou la déclaration d’appel, ou à toute adresse indiquée ultérieurement.
+
+Les sentences, ordonnances et autres décisions du TAS et de la Formation sont notifiées par courrier et/ou par télécopie et/ou par courrier électronique, mais au moins par un moyen permettant la preuve de la réception.
+
+La requête d’arbitrage, la déclaration d’appel et tout autre mémoire écrit, imprimé ou sauvegardé sur support numérique, doivent être déposés par courrier au Greffe du TAS par les parties en autant d'exemplaires qu'il y a d'autres parties et d'arbitres, plus un exemplaire pour le TAS, faute de quoi le TAS ne procède pas. S’ils sont transmis par avance par télécopie ou par courrier électronique à l'adresse électronique du TAS ([email&nbsp;protected]), le dépôt est valable dès réception de la télécopie ou du courrier électronique par le Greffe du TAS mais à condition que le mémoire et ses copies soient également déposés par courrier, ou téléchargés sur la plateforme de dépôt en ligne du TAS,&nbsp;le premier jour ouvrable suivant l'expiration du délai applicable, comme mentionné ci-dessus.
+
+Le dépôt des mémoires susmentionnés par courrier électronique est autorisé conformément aux conditions prévues par le guide du TAS sur le dépôt par voie électronique.
+
+Les pièces annexées à tout mémoire écrit peuvent être envoyées au Greffe du TAS par courrier électronique, à condition qu’elles soient mentionnées sur une liste et que chaque pièce puisse être clairement identifiée; le Greffe du TAS peut ensuite les transmettre de la même manière. Toutes les autres communications émanant des parties et destinées au TAS ou à la Formation doivent être transmises par courrier, télécopie ou courrier électronique au Greffe du TAS.
+
+R32&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Délais
+
+Les délais fixés en vertu du présent Code commencent à courir le jour suivant celui de la réception de la notification effectuée par le TAS. Les jours fériés et non ouvrables sont compris dans le calcul des délais. Les délais fixés en vertu du présent Code sont respectés si les communications effectuées par les parties sont expédiées le jour de l’échéance avant minuit, heure du lieu de leur propre domicile ou, si représentées, du domicile de leur conseil principal. Si le dernier jour du délai imparti est férié ou non ouvrable au lieu d'où le document doit être envoyé, le délai expire à la fin du premier jour ouvrable suivant.
+
+Sur requête motivée et après consultation de l’autre ou des autres partie(s), le/la Président(e) de la Formation ou, s’il/elle n’est pas encore nommé(e), le/la Président(e) de la Chambre concernée peut prolonger les délais fixés par le présent Règlement de procédure, à l’exception du délai pour le dépôt de la déclaration d’appel, si les circonstances le justifient et à condition que le délai initial n'ait pas déjà expiré. A l’exception du délai pour la déclaration d’appel, le/la Directeur(-trice) Général(e) du TAS statue sur toute requête visant à obtenir une première prolongation de délai n’excédant pas dix jours, sans consultation de l’autre ou des autres partie(s).
+
+La Formation ou, si elle n’a pas encore été constituée, le/la Président(e) de la Chambre concernée peut, sur requête motivée, suspendre un arbitrage en cours pour une durée limitée.
+
+R33&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indépendance et qualifications des arbitres
+
+Tout arbitre doit être et demeurer impartial(e) et indépendant(e) des parties et a l’obligation de révéler immédiatement toute circonstance susceptible de compromettre son indépendance à l’égard des parties ou de l’une d’elles.
+
+Tout arbitre doit figurer sur la liste établie par le CIAS en vertu du Statut faisant partie du présent Code, maîtriser la langue de l’arbitrage et avoir la disponibilité nécessaire pour mener l’arbitrage à son terme dans les meilleurs délais.
+
+R34&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Récusation
+
+Un(e) arbitre peut être récusé(e) lorsque les circonstances permettent de douter légitimement de son indépendance ou de son impartialité. La récusation doit être requise dans les sept jours suivant la connaissance de la cause de récusation.
+
+La récusation est de la compétence de la Commission de récusation qui peut décider librement de renvoyer un cas au CIAS. La récusation d’un(e) arbitre doit être demandée par une partie, sous forme d’une requête motivée, déposée au Greffe du TAS ou au Greffe de la Chambre anti-dopage du TAS. La Commission de récusation ou le CIAS tranche, après avoir invité l’autre (les autres) partie(s), l’arbitre concerné(e) et les autres arbitres éventuel(le)s à prendre position par écrit. Ces observations sont communiquées par le Greffe du TAS ou par le Greffe de la Chambre anti-dopage du TAS aux parties et, le cas échéant, aux autres arbitres. La Commission de récusation ou le CIAS rend une décision sommairement motivée et peut décider de la publier.
+
+R35&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Révocation
+
+Tout(e) arbitre peut être révoqué(e) par la Commission de récusation s’il/elle refuse ou s’il/elle est empêché(e) d’exercer ses fonctions ou s’il/elle ne remplit pas ses fonctions conformément au présent Code dans un délai raisonnable. La Commission de récusation invite les parties, l’arbitre concerné(e) et les autres arbitres éventuel(le)s à prendre position par écrit et rend une décision sommairement motivée. La révocation d’un(e) arbitre ne peut pas être demandée par une partie.
+
+R36&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remplacement
+
+En cas de démission, décès, récusation ou révocation d’un(e) arbitre, celui/celle-ci est remplacé(e) selon les modalités applicables à sa désignation. Si dans le délai fixé par le Greffe du TAS, la partie demanderesse/appelante ne nomme aucun arbitre pour remplacer l'arbitre initialement désigné, l'arbitrage ne sera pas mis en oeuvre ou, s'il a déjà été mis en oeuvre, sera clôturé. Sauf convention contraire des parties ou décision contraire de la Formation, la procédure se poursuit sans répétition des actes de procédure antérieurs au remplacement.
+
+R37&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mesures provisionnelles et conservatoires
+
+Aucune partie ne peut requérir des mesures provisionnelles et conservatoires selon le présent Règlement de procédure avant que toutes les voies de droit interne à la fédération ou organisation sportive concernée n’aient été épuisées.
+
+Lors du dépôt de la requête de mesures provisionnelles, la partie requérante verse un droit de Greffe de CHF 1000.—, faute de quoi le TAS ne procède pas. Le droit de Greffe&nbsp; reste acquis au TAS. Le droit de Greffe du TAS ne doit pas être payé à nouveau au moment du dépôt de la requête d’arbitrage ou de la déclaration d’appel dans la même procédure.
+
+Le/la Président(e) de la Chambre concernée, avant la transmission du dossier à la Formation, puis la Formation peuvent, sur requête d’une partie, ordonner des mesures provisionnelles ou conservatoires. Par la soumission au présent Règlement de procédure d’un litige relevant de la procédure d’arbitrage ordinaire ou de la procédure arbitrale d’appel, les parties renoncent à requérir de telles mesures auprès des autorités ou tribunaux étatiques.
+
+Saisi(e) d’une requête de mesures provisionnelles, le/la Président(e) de la Chambre concernée ou la Formation invite la/les autre(s) partie(s) à se prononcer dans les dix jours ou dans un délai plus court si les circonstances l’exigent. Le/a Président(e) de la Chambre concernée ou la Formation rend une ordonnance à bref délai et statue en premier lieu sur la compétence du TAS prima facie. Le/la Président(e) de la Chambre concernée peut mettre fin à une procédure d’arbitrage s’il/elle décide que le TAS n’est manifestement pas compétent. En cas d’extrême urgence, le/la Président(e) de la Chambre concernée, avant la transmission du dossier à la Formation, puis le/la Président(e) de la Formation peuvent rendre une ordonnance sur simple présentation de la requête, sous réserve de la détermination ultérieure de la partie adverse.
+
+Pour décider de l’octroi de mesures provisionnelles, le/la Président(e) de la Chambre ou la Formation prend en considération le risque de dommage irréparable qu’encourt la partie requérant(e), les chances de succès de la demande au fond et l’importance des intérêts de la partie requérante par comparaison à ceux de la partie défenderesse/intimée.
+
+La procédure de mesures provisionnelles et les mesures provisionnelles éventuellement déjà octroyées sont automatiquement annulées si la partie qui les a demandées ne dépose pas de requête d’arbitrage dans les 10 jours suivant le dépôt de la demande de mesures provisionnelles (procédure ordinaire) ou de déclaration d’appel dans le délai prévu à l’article R49 du Code (procédure d’appel). Ces délais ne peuvent pas être prolongés.
+
+Les mesures provisionnelles ou conservatoires peuvent être subordonnées à la fourniture de sûretés.
+
+
+
+				B. Dispositions particulières à la procédure d’arbitrage ordinaire
+			
+
+R38&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requête d’arbitrage
+
+La partie qui entend recourir à l’arbitrage du TAS selon le présent Règlement de procédure (partie demanderesse), soumet au Greffe du TAS une requête comprenant les éléments suivants :le nom et l’adresse complète de la (des) partie(s) défenderesse(s);une brève description des faits et moyens de droit, y compris une description des questions soumises au TAS en vue d’une solution;ses prétentions;la copie du contrat contenant la convention d’arbitrage ou de toute pièce prévoyant l’arbitrage selon le présent Règlement de procédure;toutes les indications utiles concernant le nombre et le choix du ou des arbitres ; si la convention d’arbitrage en question prévoit trois arbitres, le nom de l’arbitre choisi par la partie demanderesse parmi les personnes figurant sur la liste des arbitres du TAS.
+
+Lors de la soumission de la requête,&nbsp;la partie demanderesse&nbsp;verse le droit de Greffe prévu à l’article R64.1.
+
+Si les conditions ci-dessus ne sont pas remplies au moment du dépôt de la requête d’arbitrage, le Greffe du TAS peut fixer un unique et bref délai à la la partie demanderesse pour compléter la requête, faute de quoi le Greffe du TAS ne procède pas.
+
+R39&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mise en œuvre de l’arbitrage par le TAS et réponse - Compétence du TAS
+
+Sauf s’il apparaît d’emblée qu’il n’existe manifestement pas de convention d’arbitrage se référant au TAS, le Greffe du TAS prend toute disposition utile pour la mise en oeuvre de l’arbitrage. Il communique la demande à la partie défenderesse, interpelle le cas échéant les parties sur le choix du droit applicable au fond du litige et fixe à la partie défenderesse des délais pour formuler toutes indications utiles concernant le nombre et le choix du ou des arbitres figurant sur la liste des arbitres du TAS, ainsi que pour soumettre une réponse à la demande d’arbitrage.
+
+La réponse doit comprendre les éléments suivants :une brève description des moyens de défense;toute exception d’incompétence;toute demande reconventionnelle.
+
+La partie défenderesse peut demander que le délai pour le dépôt de la réponse soit fixé après le paiement par la partie demanderesse de sa part de l’avance de frais prévue à l’article R64.2 du présent Code.
+
+La Formation statue sur sa propre compétence, sans égard à une action ayant le même objet déjà pendante entre les mêmes parties devant un autre tribunal étatique ou arbitral, sauf si des motifs sérieux commandent de suspendre la procédure.
+
+Lorsqu’une exception d’incompétence est soulevée, le Greffe du TAS ou la Formation, si celle-ci est déjà constituée, invite la ou les partie(s) adverse(s) à se déterminer par écrit au sujet de la compétence du TAS. La Formation statue sur sa compétence soit dans une décision incidente, soit dans une sentence au fond.
+
+Lorsqu’une partie dépose une demande d’arbitrage relative à une convention d’arbitrage et à des faits similaires à ceux faisant l’objet d’une procédure ordinaire déjà en cours devant le TAS, le/la Président(e) de la Formation, ou s’il/elle n’a pas encore été nommé(e),&nbsp;le/la Président(e)&nbsp;de la Chambre peut, après consultation avec les&nbsp;parties, décider de joindre les deux procédures.
+
+R40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Constitution de la Formation
+
+R40.1&nbsp;&nbsp;&nbsp;&nbsp; Nombre d’arbitres
+
+La Formation est composée d’un(e) ou trois arbitres. Si la convention d’arbitrage ne précise pas le nombre d’arbitres,&nbsp;le/la Président(e)&nbsp;de la Chambre en décide en tenant compte des circonstances de l’affaire. Le/la Président(e)&nbsp;de&nbsp;Chambre peut alors choisir de nommer un(e) arbitre unique lorsque la partie demanderesse le requiert et que la partie défenderesse ne paie pas sa part des avances de frais dans le délai fixé par le Greffe du TAS.
+
+R40.2&nbsp;&nbsp;&nbsp;&nbsp; Désignation des arbitres
+
+Les parties conviennent du mode de désignation des arbitres figurant sur la liste du TAS. A défaut de convention, les arbitres sont désigné(e)s selon les alinéas suivants.
+
+Si, en vertu de la convention d’arbitrage ou d’une décision du/de la Président(e)&nbsp;de la Chambre, il y a lieu de désigner un(e) arbitre unique, les parties le/la désignent d’entente dans un délai de quinze jours fixé par le Greffe du TAS après réception de la requête. A défaut d’entente dans ce délai,&nbsp;le/la Président(e)&nbsp;de la Chambre procède à la&nbsp;désignation.
+
+Si, en vertu de la convention d’arbitrage ou d’une décision du/de la Président(e)&nbsp;de la Chambre, il y a lieu de désigner&nbsp;trois arbitres, la partie demanderesse désigne un(e) arbitre dans la requête ou dans le délai fixé lors de la décision sur le nombre d’arbitres, à défaut de quoi la requête d’arbitrage est réputée retirée. La partie défenderesse désigne un arbitre dans le délai fixé par le Greffe du TAS dès réception de la requête. A défaut d’une telle désignation,&nbsp;le/la Président(e)&nbsp;de la Chambre procède à la désignation en lieu et place de la partie défenderesse. Les&nbsp;deux arbitres ainsi désigné(e)s choisissent d’entente&nbsp;le/la Président(e)&nbsp;de la Formation dans un&nbsp;délai fixé par le Greffe du TAS. A défaut d’entente dans ce délai,&nbsp;le/la Président(e)&nbsp;de la Chambre désigne&nbsp;le/la Président(e)&nbsp;de la Formation.
+
+R40.3&nbsp;&nbsp;&nbsp;&nbsp; Confirmation des arbitres et transmission du dossier
+
+Les arbitres désignés par les parties ou par d’autres arbitres ne sont réputés nommés qu’après confirmation par le Président de la Chambre, qui s’assure que l’arbitre répond aux conditions de l’article R33.
+
+Lorsque la Formation est constituée, le Greffe du TAS constate la constitution et transmet le dossier aux arbitres, à moins qu’aucune des parties n’ait versé l’avance de frais prévue à l’article R64.2 du présent Code.
+
+Un(e) greffier(-ière) ad hoc indépendant(e) des parties peut être nommé(e) pour assister la Formation. Ses honoraires sont inclus dans les frais d’arbitrage.
+
+R41&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arbitrage multipartite
+
+R41.1&nbsp;&nbsp;&nbsp;&nbsp; Pluralité de parties demanderesses / parties défenderesses
+
+Lorsque la requête d’arbitrage nomme plusieurs parties demanderesses et/ou parties défenderesses, le TAS constitue la Formation en fonction du nombre d’arbitres et selon le mode de désignation convenus entre toutes les parties. A défaut d’une telle convention, le/la Président(e) de la Chambre détermine le nombre d’arbitres selon l’article R40.1.
+
+S'il y a lieu de désigner un(e) arbitre unique, l'article R40.2 s'applique. S'il y a lieu de désigner trois arbitres et qu'il y a plusieurs parties demanderesses, celles-ci désignent conjointement un(e) arbitre. S'il y a lieu de désigner trois arbitres et qu'il y a plusieurs parties défenderesses, celles-ci désignent conjointement un(e) arbitre. A défaut de telles désignations conjointes,&nbsp;le/la Président(e)&nbsp;de la Chambre procède à cette désignation spécifique.
+
+S’il y a trois parties ou plus ayant des intérêts divergents, les deux arbitres sont désigné(e)s conformément à la convention des parties. A défaut d’accord entre les parties, les arbitres sont désigné(e)s par&nbsp;le/la Président(e)&nbsp;de la&nbsp;Chambre selon l’article R40.2. Dans tous les cas, les arbitres choisissent le Président de la Formation selon l’article R40.2.
+
+Dans tous les cas, les arbitres choisissent&nbsp;le/la Président(e)&nbsp;de la Formation selon l'article R40.2
+
+R41.2&nbsp;&nbsp;&nbsp;&nbsp; Appel en cause
+
+Si une partie défenderesse désire faire participer un tiers comme partie à l’arbitrage, elle doit l’indiquer dans sa réponse, motifs à l’appui, et soumettre un exemplaire supplémentaire de sa réponse. Le Greffe du TAS transmet cet exemplaire à la personne dont la participation est requise et lui fixe un délai pour se déterminer sur sa participation et soumettre une réponse au sens de l’article R39. Il fixe également un délai pour que la partie demanderesse prenne position sur la participation du tiers.
+
+R41.3&nbsp;&nbsp;&nbsp;&nbsp; Intervention
+
+Si un tiers désire participer comme partie à l’arbitrage, il doit soumettre au Greffe du TAS une demande à cet effet, motifs à l’appui, dans un délai de dix jours suivant le moment où le tiers intervenant apprend l’existence de l’arbitrage mais avant l’audience ou avant la clôture de la procédure écrite si aucune audience n’a lieu. Le Greffe du TAS transmet un exemplaire de cette demande aux parties et leur fixe un délai pour se déterminer sur la participation du tiers et pour soumettre, dans la mesure applicable, une réponse au sens de l’article R39.
+
+R41.4&nbsp;&nbsp;&nbsp;&nbsp; Dispositions communes à l’appel en cause et à l’intervention
+
+Un tiers ne peut participer à l’arbitrage que s’il est lié par la convention d’arbitrage ou si lui-même et les autres parties y consentent par écrit.
+
+A l’échéance des délais fixés en vertu des articles R41.2 et R41.3,&nbsp;le/la Président(e)&nbsp;de la Chambre ou la Formation, si elle est&nbsp;déjà constituée, décide de la participation du tiers, en prenant notamment en considération l’existence prima facie d’une convention d’arbitrage telle que mentionnée à l’article R39. La décision du/de la Président(e)&nbsp;de Chambre ne préjuge pas de la décision de la Formation sur cette même question.
+
+Si&nbsp;le/la Président(e)&nbsp;de la Chambre admet la participation du tiers, le TAS constitue la Formation en fonction du nombre&nbsp;d’arbitres et selon le mode de désignation convenu entre toutes les parties. A défaut d’accord entre les parties,&nbsp;le/la Président(e)&nbsp;de la Chambre détermine le nombre d’arbitres selon l’article R40.1. S’il y a lieu de désigner&nbsp;un(e) arbitre unique, l’article R40.2 s’applique. S’il y a lieu de désigner trois arbitres, les arbitres sont désigné(e)s par&nbsp;le/la Président(e)&nbsp;de la Chambre et choisissent&nbsp;le/la Président(e)&nbsp;de la Formation selon l’article&nbsp;R40.2.
+
+Quelle que soit la décision de la Formation sur la participation du tiers, la constitution de la Formation ne peut plus être remise en cause. Si la Formation admet la participation, elle règle, le cas échéant, les modalités procédurales particulières pouvant en résulter.
+
+Après examen des observations des parties concernées, la Formation détermine le statut du tiers intéressé et ses droits dans la procédure.
+
+Après examen des observations des parties concernées, la Formation peut autoriser le dépôt de mémoires amicus curiae, selon les termes et conditions qu’elle aura déterminés.
+
+R42&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conciliation
+
+Le/la Président(e) de la Chambre, avant la transmission du dossier à la Formation, puis la Formation peuvent en tout temps tenter de résoudre le litige par la voie de la conciliation. Toute transaction peut faire l’objet d’une sentence arbitrale rendue d’accord entre les parties.
+
+R43&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidentialité
+
+La procédure instituée selon le présent Règlement de procédure est confidentielle. Les parties, les arbitres et le TAS s’engagent à ne pas divulguer à des tiers des faits ou autres informations ayant trait au litige ou à la procédure sans la permission du TAS. Les sentences ne sont pas publiées, sauf si toutes les parties y consentent ou si&nbsp;le/la Président(e)&nbsp;de la Chambre le décide.
+
+R44&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Procédure devant la Formation
+
+R44.1&nbsp;&nbsp;&nbsp;&nbsp; Instruction écrite
+
+La procédure devant la Formation comprend l’instruction écrite et, en principe, une audience. Dès réception du dossier et s’il y a lieu,&nbsp;le/la Président(e)&nbsp;de la Formation fixe les modalités de la procédure écrite. Celle-ci comprend en&nbsp;principe un mémoire, un contre-mémoire et, si les circonstances l’exigent, une réplique et une duplique. Dans le mémoire et le contre-mémoire, les parties peuvent formuler des demandes non comprises dans la requête ou la réponse. Par la suite, une partie ne peut plus formuler de nouvelles demandes sans l’accord de l’autre partie.
+
+Les parties produisent avec leurs écritures toutes les pièces dont elles entendent se prévaloir. Après les échanges d’écritures, les parties ne sont plus admises à produire des pièces, sauf entente ou si la Formation l’autorise en raison de circonstances exceptionnelles.
+
+Dans leurs écritures, les parties indiquent les noms des témoins qu’elles désirent faire entendre, en incluant un bref résumé de leur témoignage présumé, et les noms des expert(e)s, avec mention de leur domaine d’expertise, et formulent toute autre offre de preuve. Les éventuels témoignages écrits doivent être déposés avec les écritures des parties, sauf si&nbsp;le/la Président(e)&nbsp;de la Formation en décide autrement.
+
+Si une demande reconventionnelle et/ou une exception d’incompétence est déposée, le Greffe du TAS fixe un délai à la partie demanderesse pour le dépôt de la réponse à la demande reconventionnelle et/ou à l’exception d’incompétence.
+
+R44.2&nbsp;&nbsp;&nbsp;&nbsp; Instruction orale
+
+Si une audience doit être tenue,&nbsp;le/la Président(e)&nbsp;de la Formation fixe les modalités de l’instruction orale dès que possible,&nbsp;ainsi que la date de l’audience. L’instruction orale comprend en principe une audience au cours de laquelle la Formation entend les parties, les témoins et les expert(e)s ainsi que les plaidoiries finales des parties, la partie défenderesse ayant la parole le dernier.
+
+Le/la Président(e) de la Formation dirige les débats et veille à ce qu’ils soient concis et limités à l’objet des présentations écrites, dans la mesure où celles-ci sont pertinentes. Les débats ont lieu à huis clos, sauf accord contraire des parties. Ils peuvent être enregistrés. Toute personne entendue peut se faire assister d’un(e) interprète aux frais de la partie qui la fait entendre.
+
+Les parties amènent et font entendre uniquement les témoins ou expert(e)s qu’elles ont désignés dans leurs écritures. Les parties sont responsables de la disponibilité et des frais des témoins et expert(e)s qu’elles ont appelés à comparaître.
+
+Le/la Président(e) de la Formation peut décider de tenir une audience par vidéo-conférence ou entendre certaines parties, témoins et expert(e)s par télé-conference ou vidéo-conférence. Avec l’accord des parties, il/elle peut également dispenser un témoin ou expert(e) de comparaître si le témoin ou expert(e) en question a déposé une déclaration écrite au préalable.
+
+La Formation peut limiter ou refuser la comparution d’un témoin ou d’un(e) expert(e) au motif que son témoignage, ou une partie de celui-ci, n’est pas pertinent.
+
+Avant d’entendre un témoin, expert(e) ou interprète, la Formation invite solennellement cette personne à dire la vérité, sous menace de sanction pour faux témoignage.
+
+Après l’instruction orale, les parties ne sont plus admises à produire des écritures, sauf si la Formation l’ordonne.
+
+Après avoir consulté les parties, la Formation peut, si elle s’estime suffisamment informée, ne pas tenir d’audience.
+
+R44.3&nbsp;&nbsp;&nbsp;&nbsp; Actes d’instruction ordonnés par la Formation
+
+Chaque partie peut demander à la Formation d’ordonner que l’autre partie produise des pièces en sa possession ou sous son contrôle. La partie demandant la production doit rendre vraisemblable l’existence et la pertinence de ces pièces.
+
+La Formation peut en tout temps, si elle l’estime utile pour compléter les présentations des parties, requérir la production de pièces supplémentaires, ordonner l’audition de témoins, commettre et entendre des expert(e)s ou procéder à tout autre acte d’instruction. La Formation peut ordonner aux parties de contribuer aux éventuels frais supplémentaires liés à l’audition de témoins et expert(e)s.
+
+La Formation consulte les parties sur le choix et la mission de l’expert(e). L’expert(e) doit être indépendant(e) des parties. Avant de le/la nommer, la Formation l’invite à révéler immédiatement toute circonstance éventuelle susceptible de compromettre son indépendance à l’égard des parties ou de l’une d’elles.
+
+R44.4&nbsp;&nbsp;&nbsp;&nbsp; Procédure accélérée
+
+Avec l’accord des parties, le/la Président(e) de la Chambre ou la Formation peut recourir à une procédure accélérée et en fixer les modalités.
+
+R44.5&nbsp;&nbsp;&nbsp;&nbsp; Défaut
+
+Si la partie demanderesse ne dépose pas son mémoire conformément à l’article R44.1 du présent Code, la requête d’arbitrage est réputée retirée.
+
+Si la partie défenderesse ne dépose pas son contre-mémoire conformément à l'article R44.1 du présent Code, la Formation peut néanmoins poursuivre la procédure d'arbitrage et rendre une sentence.
+
+Si l'une des parties, ou l'un de ses témoins, bien que régulièrement convoqué(e), ne se présente pas à l'audience, la Formation peut néanmoins tenir l'audience et rendre une sentence.
+
+R45&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Droit applicable au fond
+
+La Formation statue selon les règles de droit choisies par les parties ou, à défaut de choix, selon le droit suisse. Les parties peuvent autoriser la Formation à statuer en équité.
+
+R46&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sentence
+
+La sentence est rendue à la majorité ou, à défaut de majorité, par&nbsp;le/la Président(e)&nbsp;de la Formation seul(e). La sentence est&nbsp;écrite, datée et signée. Elle est sommairement motivée, sauf si les parties en conviennent autrement. La seule signature du/de la Président(e) de la Formation ou celles des deux co-arbitres, si&nbsp;le/la Président(e)&nbsp;ne&nbsp;signe pas, sont suffisantes. Avant la signature de la sentence, celle-ci doit être transmise au/à la Directeur(-trice) général(e) du TAS qui peut procéder à des rectifications de pure forme et attirer l'attention de la Formation sur des questions de principe fondamentales. Les éventuelles opinions dissidentes ne sont pas reconnues par le TAS et ne sont pas notifiées.
+
+La Formation peut décider de communiquer aux parties le dispositif de la sentence avant la motivation. La sentence est exécutoire dès communication écrite du dispositif par courrier, télécopie et/ou courrier électronique.
+
+La sentence notifiée par le Greffe du TAS est définitive et exécutoire, sous réserve de recours selon les circonstances, conformément au droit suisse, dans un délai de 30 jours à compter de la notification de la sentence par courrier. Elle n’est susceptible d’aucun recours dans la mesure où les parties n’ont ni domicile, ni résidence habituelle, ni établissement en Suisse et ont expressément renoncé au recours dans la convention d’arbitrage ou dans un accord conclu ultérieurement, notamment en début de procédure.
+
+
+
+				C. Dispositions particulières à la procédure arbitrale d’appel
+			
+
+R47&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appel
+
+Un appel contre une décision d’une fédération, association ou autre organisme sportif peut être déposé au TAS si les statuts ou règlements dudit organisme sportif le prévoient ou si les parties ont conclu une convention d’arbitrage particulière et dans la mesure aussi où la partie appelante a épuisé les voies de droit préalables à l’appel dont elle dispose en vertu des statuts ou règlements dudit organisme sportif.
+
+Il peut être fait appel au TAS d’une sentence rendue par le TAS agissant en qualité de tribunal de première instance, si un tel double degré de juridiction est expressément prévu par les règles de la fédération ou organisme sportif concerné.
+
+R48&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Déclaration d’appel
+
+La partie appelante soumet au TAS une déclaration d’appel comprenant les éléments suivants :le nom et l’adresse complète de la ou les partie(s) intimé(s);une copie de la décision attaquée;les prétentions de la partie appelante;la désignation de l’arbitre choisi par la partie appelante sur la liste des arbitres du TAS, sous réserve de l'article S18,&nbsp;sauf si la partie appelante demande la nomination d’un(e) arbitre unique;le cas échéant, une requête d’effet suspensif motivée;une copie des dispositions statutaires ou réglementaires ou de la convention particulière prévoyant l’appel au TAS.
+
+Lors de la soumission de la requête, la partie appelant(e) verse le droit de Greffe prévu à l’article R64.1 ou à l’article R65.2.
+
+Si les conditions ci-dessus ne sont pas remplies au moment du dépôt de la déclaration d’appel, le Greffe du TAS fixe un unique et bref délai à la partie appelante pour compléter sa déclaration d’appel, faute de quoi le Greffe du TAS ne procède pas.
+
+R49&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Délai d’appel
+
+En l’absence de délai d’appel fixé par les statuts ou règlements de la fédération, de l’association ou de l’organisme sportif concerné ou par une convention préalablement conclue, le délai d’appel est de vingt-et-un jours dès la réception de la décision faisant l’objet de l’appel.&nbsp;Le/la Président(e)&nbsp;de Chambre n’ouvre pas de procédure si la&nbsp;déclaration d’appel est manifestement tardive et doit notifier cette décision à la personne qui l’a déposée. Lorsqu’une procédure est mise en œuvre, une partie peut demander au/à la Président(e) de Chambre ou au/à la Président(e) de la Formation, si une Formation a déjà été constituée, de la clôturer si la déclaration d’appel est tardive. Le/la Président(e) de Chambre ou le/la Président(e) de la Formation rend sa décision après avoir invité les autres parties à se déterminer.
+
+R50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nombre d’arbitres
+
+L’appel est soumis à une Formation de trois arbitres, sauf si les parties sont convenues de recourir à un(e) arbitre unique ou, en cas d’absence d’accord entre les parties concernant le nombre d’arbitres, si le/la Président(e) de la Chambre décide de soumettre l’appel à un(e) arbitre unique, compte tenu des circonstances de l’affaire, parmi lesquelles le fait que la partie intimée paie ou non sa part des avances de frais dans le délai fixé par le Greffe du TAS.
+
+Lorsque deux ou plusieurs affaires ont manifestement le même objet, le/la Président(e) de la Chambre peut inviter les parties à s’entendre pour qu’une seule Formation connaisse de ces affaires; en cas de désaccord entre les parties, le/la Président(e) de la Chambre décide.
+
+R51&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Motivation de l’appel
+
+Dans les dix jours suivant l’expiration du délai d’appel, la partie appelante soumet au Greffe du TAS un mémoire contenant une description des faits et des moyens de droit fondant l’appel, accompagné de toutes les pièces et offres de preuves qu’elle entend invoquer. Alternativement, la partie appelante doit informer par écrit le Greffe du TAS dans le même délai que la déclaration d’appel doit être considérée comme mémoire d’appel. L’appel est réputé avoir été retiré si la partie appelant ne se conforme pas à ce délai.
+
+Dans ses écritures, la partie appelante indique les noms des témoins, en incluant un bref résumé de leur témoignage présumé, et les noms des expert(e)s, avec mention de leur domaine d’expertise, qu’elle désire faire entendre, et formule toute autre offre de preuve. Les éventuels témoignages écrits doivent être déposés avec le mémoire d’appel, sauf si le/la Président(e) de la Formation en décide autrement.
+
+R52&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mise en oeuvre de l’arbitrage par le TAS
+
+Sauf s’il apparaît d’emblée qu’il n’existe manifestement pas de convention d’arbitrage se référant au TAS, que la convention n’a manifestement aucun lien avec le litige en question, ou que les voies de recours internes dont dispose une partie appelante n'ont manifestement pas été épuisées, le TAS prend toute disposition utile pour la mise en oeuvre de l’arbitrage. Le Greffe du TAS communique la déclaration d’appel à la partie intimée et le/la Président(e) de la Chambre procède à la constitution de la Formation selon les articles R53 et R54. Le cas échéant, ce/cette dernier(-ère) statue également à bref délai sur l’effet suspensif ou sur la demande de mesures provisionnelles.
+
+Le Greffe du TAS envoie une copie de la déclaration d’appel et du mémoire d’appel&nbsp; à l’autorité qui a rendu la décision attaquée, pour information.
+
+Le Greffe du TAS peut annoncer publiquement l'ouverture d'une procédure arbitrale d'appel ainsi que, ultérieurement et le cas échéant, la composition de la Formation arbitrale et la date de l'audience, sauf si les parties en conviennent autrement.
+
+Avec l’accord des parties, la Formation ou, si celle-ci n’est pas encore constituée,&nbsp;le/la Président(e)&nbsp;de Chambre peut recourir à&nbsp;une procédure accélérée et en fixer les modalités.
+
+Lorsqu’une partie dépose une déclaration d’appel relative à une décision à l’égard de laquelle une procédure d’appel est déjà en cours devant le TAS,&nbsp;le/la Président(e)&nbsp;de la Formation, ou s’il/elle n’a pas encore été nommé(e),&nbsp;le/la Président(e)&nbsp;de&nbsp;la Chambre peut, après consultation écrite avec les parties, décider de joindre les deux&nbsp;procédures.
+
+R53&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nomination d’arbitre par l’intimé
+
+Sauf si les parties sont convenues de recourir à un(e) arbitre unique ou si&nbsp;le/la Président(e)&nbsp;de la Chambre estime que l’appel&nbsp;devrait être soumis à un(e) arbitre unique, l’intimé désigne un arbitre dans les dix jours suivant la réception de la déclaration d’appel. A défaut de désignation dans ce délai,&nbsp;le/la Président(e)&nbsp;de la Chambre procède&nbsp;à la désignation.
+
+R54&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nomination de l’arbitre unique ou&nbsp;le/la Président(e)&nbsp;et confirmation des arbitres par le TAS
+
+Si les parties sont convenues de recourir à un(e) arbitre unique ou si&nbsp;le/la Président(e)&nbsp;de la Chambre estime que l’appel doit&nbsp;être soumis à un(e) arbitre unique,&nbsp;le/la Président(e)&nbsp;de la Chambre désigne l’arbitre unique dès&nbsp;réception de la déclaration d’appel ou dès qu’une décision sur le nombre d’arbitres est rendue.
+
+S’il y a lieu de recourir à trois arbitres,&nbsp;le/la Président(e)&nbsp;de la Chambre désigne&nbsp;le/la Président(e)&nbsp;de la Formation dès&nbsp;la&nbsp;désignation de l’arbitre de la partie intimée et après consultation des arbitres. Les arbitres désigné(e)s par les parties ne sont réputé(e)s nommé(e)s qu’après confirmation par&nbsp;le/la Président(e)&nbsp;de la Chambre. Avant&nbsp;de procéder à cette confirmation,&nbsp;le/la Président(e)&nbsp;de la Chambre s’assure que les arbitres répondent aux&nbsp;conditions de l’article R33.
+
+Lorsque la Formation est constituée, le Greffe du TAS constate la constitution de la Formation et transmet le dossier aux arbitres, à moins qu’aucune des parties n’ait versé l’avance de frais prévue à l’article R64.2 du présent Code.
+
+Un(e) greffier(-ière) ad hoc indépendant(e) des parties peut être nommé(e) pour assister la Formation. Ses honoraires sont inclus dans les frais d’arbitrage.
+
+L’article R41 est applicable mutatis mutandis à la procédure arbitrale d’appel, sauf que&nbsp;le/la Président(e)&nbsp;de la Formation est&nbsp;nommé par&nbsp;le/la Président(e)&nbsp;de la Chambre arbitrale d'appel du TAS.
+
+R55&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Réponse de la partie intimée - Compétence du TAS
+
+Dans les vingt jours suivant la réception de la motivation de l’appel, la partie intimée soumet au Greffe du TAS une réponse comprenant les éléments suivants :une description des moyens de défense;toute exception d’incompétence;toutes les pièces et offres de preuves que la partie intimée entend invoquer;les noms des témoins, en incluant un bref résumé de leur témoignage présumé; les éventuels témoignages écrits doivent être déposés avec la réponse, sauf si&nbsp;le/la Président(e)&nbsp;de la Formation en décide&nbsp;autrement;les noms des expert(e)s, avec mention de leur domaine d’expertise, qu’elle désire faire entendre, et formule toute autre offre de preuve.
+
+Si la partie intimée ne dépose pas sa réponse dans le délai imparti, la Formation peut néanmoins poursuivre la procédure d’arbitrage et rendre une sentence.
+
+La partie intimée peut demander que le délai pour le dépôt de la réponse soit fixé après le paiement par la partie appelante de sa part de l’avance de frais prévue à l’article R64.2.
+
+La Formation statue sur sa propre compétence. Elle statue sur sa compétence sans égard à une action ayant le même objet déjà pendante entre les mêmes parties devant un autre tribunal étatique ou arbitral, sauf si des motifs sérieux commandent de suspendre la procédure.
+
+Lorsqu'une exception d'incompétence est soulevée, le Greffe du TAS ou la Formation, si celle-ci est déjà constituée, invite la ou les partie(s) adverse(s) à se déterminer par écrit au sujet de la compétence du TAS. La Formation statue sur sa compétence soit dans une décision incidente, soit dans une sentence au fond.
+
+R56&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caractère complet de la motivation d’appel et de la réponse, conciliation
+
+Sauf accord contraire des parties ou décision contraire du/de la Président(e) de la Formation commandée par des circonstances exceptionnelles, les parties ne sont pas admises à compléter ou modifier leurs conclusions ou leur argumentation, ni à produire de nouvelles pièces, ni à formuler de nouvelles offres de preuves après la soumission de la motivation d’appel et de la réponse.
+
+La Formation peut en tout temps tenter de résoudre le litige par voie de conciliation. Toute transaction peut être intégrée dans une sentence arbitrale d’accord entre parties.
+
+R57&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pouvoir d’examen, instruction orale
+
+La Formation revoit les faits et le droit avec plein pouvoir d’examen. Elle peut soit rendre une nouvelle décision se substituant à la décision attaquée, soit annuler cette dernière et renvoyer la cause à l'autorité qui a statué en dernier. Le/la Président(e) de la Formation peut demander la communication du dossier de la fédération, association ou autre organisme sportif ayant rendu la décision attaquée. Dès transmission du dossier, le/la Président(e) de la Formation fixe les modalités de l’audience pour l’audition des parties, des témoins et des expert(e)s, ainsi que pour les plaidoiries.
+
+Après avoir consulté les parties, la Formation peut, si elle s’estime suffisamment informée, ne pas tenir d’audience. Lors de l’audience, les débats ont lieu à huis clos, sauf accord contraire des parties. A la demande d'une personne physique partie à la procédure, une audience publique devrait être accordée si l'affaire en question est de nature disciplinaire. Une telle demande peut toutefois être refusée dans l'intérêt de la moralité, de l'ordre public ou de la sécurité nationale, lorsque les intérêts des mineurs ou la protection de la vie privée des parties au procès l'exigent, lorsque la publicité serait de nature à porter atteinte aux intérêts de la justice, lorsque la procédure ne porte que sur des question de droit ou lorsqu'une audience publique a déjà eu lieu en première instance.
+
+La Formation peut exclure des preuves présentées par les parties si ces dernières pouvaient en disposer ou si elles auraient raisonnablement pu les découvrir avant que la décision attaquée ne soit rendue. Au surplus, les articles R44.2 et R44.3 s’appliquent.
+
+Si l’une des parties, ou l’un de ses témoins, bien que régulièrement convoqué(e), ne se présente pas à l’audience, la Formation peut néanmoins tenir l’audience et rendre une sentence.
+
+R58&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Droit applicable au fond
+
+La Formation statue selon les règlements applicables et, subsidiairement, selon les règles de droit choisies par les parties, ou à défaut de choix, selon le droit du pays dans lequel la fédération, association ou autre organisme sportif ayant rendu la décision attaquée a son domicile ou selon les règles de droit que la Formation estime appropriée. Dans ce dernier cas, la décision de la Formation doit être motivée.
+
+R59&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sentence
+
+La sentence est rendue à la majorité ou, à défaut de majorité, par&nbsp;le/la Président(e)&nbsp;seul(e). Elle est écrite, datée et signée. Elle&nbsp;est sommairement motivée. La seule signature du/de la Président(e) de la Formation ou celles des deux co-arbitres, si&nbsp;le/la Président(e)&nbsp;ne signe pas, sont suffisantes.
+
+Avant la signature de la sentence, celle-ci doit être transmise au/à la Directeur(-trice) général(e) du TAS qui peut procéder à des rectifications de pure forme et attirer l'attention de la Formation sur des questions de principe fondamentales. Les éventuelles opinions dissidentes ne sont pas reconnues par le TAS et ne sont pas notifiées.
+
+La Formation peut décider de communiquer aux parties le dispositif de la sentence avant la motivation. La sentence est exécutoire dès communication écrite du dispositif par courrier, télécopie et/ou courrier électronique.
+
+La sentence, notifiée par le Greffe du TAS, tranche définitivement le litige. sous réserve de recours selon les circonstances, conformément au droit suisse, dans un délai de 30 jours à compter de la notification de la sentence par courrier. Elle n’est susceptible d’aucun recours dans la mesure où les parties n’ont ni domicile, ni résidence habituelle, ni établissement en Suisse et ont expressément renoncé au recours dans la convention d’arbitrage ou dans un accord écrit conclu ultérieurement, notamment en début de procédure.
+
+Le dispositif de la sentence doit être communiqué aux parties dans les trois mois suivant le transfert du dossier à la Formation. Ce délai peut être prolongé par&nbsp;le/la Président(e)&nbsp;de la Chambre sur demande motivée du/de la Président(e) de&nbsp;la Formation.
+
+Une copie du dispositif de la sentence, s'il y en a un, et de la sentence complète sont communiquées à l'autorité ou organisation sportive ayant rendu la décision attaquée, pour autant que cet organisme ne soit pas partie à la procédure.
+
+La sentence, un résumé et/ou un communiqué de presse faisant état de l’issue de la procédure est publié par le TAS, sauf si les parties conviennent que l’arbitrage doit rester confidentiel. En tout état de cause, les autres éléments du dossier de la procédure restent confidentiels.
+
+
+
+				D. Procédure consultative
+			
+
+Art. R60 - R62: abrogés
+
+
+
+				E. Interprétation
+			
+
+R63
+Une partie peut, au plus tard dans un délai de 45 jours suivant la notification de la sentence, demander au TAS l’interprétation d’une sentence rendue dans une procédure d’arbitrage ordinaire ou dans une procédure arbitrale d’appel lorsque le dispositif de cette sentence est peu clair, incomplet, équivoque ou que ses éléments sont contradictoires entre eux ou avec les motifs ou lorsque la sentence contient des erreurs de rédaction ou de calcul.
+
+Lorsque le TAS est saisi d’une demande d’interprétation,&nbsp;le/la Président(e)&nbsp;de la Chambre concernée examine s’il y a lieu à&nbsp;interprétation. Dans l’affirmative, il/elle transmet la demande d’interprétation à la Formation ayant rendu la sentence. Les membres de la Formation empêchés sont remplacés conformément à l’article R36. La Formation statue sur la demande dans le mois suivant la transmission de la demande d’interprétation.
+
+
+
+				F. Frais de la procédure d’arbitrage
+			
+
+R64&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En général
+
+R64.1&nbsp;&nbsp;&nbsp;&nbsp; Lors du dépôt de la requête/déclaration d’appel, la partie demanderesse/appelante verse un droit de Greffe de CHF 1000.—, faute de quoi le TAS ne procède pas. Ce droit de Greffe reste acquis au TAS. La Formation en tient compte dans le décompte final des frais.
+
+Si une procédure d'arbitrage est clôturée avant qu'une Formation n'ait pu être constituée,&nbsp;le/la Président(e)&nbsp;de Chambre&nbsp;statue sur les frais dans l'ordonnance de clotûre. Cependant, il/elle ne peut ordonner le paiement de dépens que sur requête d'une partie et après que toutes les parties ont eu la possibilité de déposer des écritures concernant la question des frais et dépens.
+
+R64.2&nbsp;&nbsp;&nbsp;&nbsp; Lors de la constitution de la Formation, le Greffe du TAS fixe, sous réserve de modifications ultérieures, le montant, les modalités et les délais de paiement de l’avance de frais. L’introduction de demandes reconventionnelles éventuelles ou de nouvelles demandes peut entraîner la fixation d’avances de frais complémentaires.
+
+Pour fixer le montant de la provision, le Greffe du TAS estime les frais d’arbitrage qui seront supportés par les parties conformément à l’article R64.4. L’avance de frais est versée à parts égales par la/les partie(s) demanderesse(s)/appelante(s) et la/les partie(s) défenderesse(s)/intimée(s). Si une partie ne verse pas sa part, une autre peut le faire à sa place; en cas de non-paiement de la totalité de l’avance de frais dans le délai fixé par le TAS, la demande/déclaration d’appel est réputée retirée et le TAS met un terme à l’arbitrage; cette disposition s’applique également mutatis mutandis aux éventuelles demandes reconventionnelles.
+
+R64.3&nbsp;&nbsp;&nbsp;&nbsp; Chaque partie paie les frais de ses propres témoins, experts ou interprètes.
+
+Si la Formation commet un(e) expert(e) ou un(e) interprète ou ordonne l’audition d’un témoin, elle règle, le cas échéant, les modalités d’une provision.
+
+R64.4&nbsp;&nbsp;&nbsp;&nbsp; A la fin de la procédure, le Greffe du TAS arrête le montant définitif des frais de l’arbitrage qui comprennent :le droit de Greffe du TAS,les frais administratifs du TAS calculés selon le barème du TAS,les frais et honoraires des arbitres,les honoraires du/de la greffier(-ière), le cas échéant, calculés selon le barème du TAS,une participation aux débours du TAS etles frais de témoins, expert(e)s et interprètes.
+
+Le décompte final des frais de l’arbitrage peut soit figurer dans la sentence, soit être communiqué aux parties séparément. Les avances de frais déjà payées par les parties ne sont pas remboursées par le TAS, à l'exception de la part excédant le montant total des frais d'arbitrage.
+
+R64.5&nbsp;&nbsp;&nbsp;&nbsp; Dans la sentence arbitrale, la Formation détermine quelle partie supporte les frais de l’arbitrage ou dans quelle proportion les parties en partagent la charge. En principe et sans qu'une requête spécifique d'une partie ne soit nécessaire, la Formation peut librement ordonner à la partie qui succombe de verser une contribution aux frais d’avocat de l’autre partie, ainsi qu’aux frais encourus par cette dernière pour les besoins de la procédure, notamment les frais de témoins et d’interprète. Lors de la condamnation aux frais d’arbitrage et d’avocat, la Formation tient compte de la complexité et du résultat de la procédure, ainsi que du comportement et des ressources des parties.
+
+R65&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appels contre des décisions rendues par des fédérations internationales dans le cadre d'affaires disciplinaires. 
+
+R65.1&nbsp;&nbsp;&nbsp;&nbsp; Le présent article R65 est applicable aux appels contre des décisions de nature exclusivement disciplinaire rendues par une fédération ou une organisation sportive internationale. Il ne s'applique pas aux appels contre des décisions relatives à des sanctions imposées conséquemment à un litige de nature économique. En cas d’objection d’une partie concernant l’application l'article R64 au lieu de R65, le Greffe du TAS peut exiger le paiement d’une avance de frais conformément à l’article R64.2 en attendant une décision de la Formation sur ce point.
+
+R65.2&nbsp;&nbsp;&nbsp;&nbsp; Sous réserve des articles R65.2 al. 2 et R65.4, la procédure est gratuite. Les frais et honoraires des arbitres, calculés selon le barème du TAS, ainsi que les frais du TAS sont à la charge du TAS.
+
+Lors du dépôt de la déclaration d’appel, la partie appelante verse un droit de Greffe de CHF 1000.—, faute de quoi le TAS ne procède pas et l’appel est réputé retiré. Ce droit de Greffe reste acquis au TAS.
+
+Si une procédure d'arbitrage est clôturée avant qu'une Formation n'ait pu être constituée,&nbsp;le/la Président(e)&nbsp;de la Chambre&nbsp;statue sur les frais dans l'ordonnance de clôture. Cependant, il/elle ne peut ordonner le paiement de dépens que sur requête d'une partie et après que toutes les parties ont eu la possibilité de déposer des écritures concernant la question des frais et dépens.
+
+R65.3&nbsp;&nbsp;&nbsp;&nbsp; Chaque partie paie les frais de ses propres témoins, expert(e)s ou interprètes. Dans la sentence arbitrale, sans qu'une requête spécifique d'une partie ne soit nécessaire, la Formation peut librement ordonner à la partie qui succombe de verser une contribution aux frais d’avocat de l’autre partie, ainsi qu’aux frais encourus par cette dernière pour les besoins de la procédure, notamment les frais de témoins et d’interprète. Lors de la condamnation aux frais d’arbitrage et d’avocat, la Formation tient compte de la complexité et du résultat de la procédure, du comportement et des ressources financières des parties.
+
+R65.4&nbsp;&nbsp;&nbsp;&nbsp; Si les circonstances le justifient, notamment le fait que la fédération ayant rendu la décision attaquée ne soit pas signataire de la Convention constituant le CIAS,&nbsp;le/la Président(e)&nbsp;de la Chambre arbitrale d’appel peut, d’office ou sur demande du/de la Président(e) de la Formation, appliquer l’article R64 à une procédure arbitrale d’appel.
+
+R66: abrogé
+
+
+
+				G. Dispositions diverses
+			
+
+R67&nbsp; Le présent Règlement de procédure est applicable à toutes les procédures mises en œuvre par le TAS à compter du 1er juillet 2020. Les procédures en cours au&nbsp;1er juillet 2020 restent soumises au Règlement de procédure en&nbsp;vigueur avant le&nbsp;1er juillet 2020, sauf si les deux parties demandent l’application du présent Règlement de&nbsp;procédure.
+
+R68&nbsp; Ni les arbitres du TAS, ni les médiateurs(-trices) du TAS, ni le CIAS et ses membres, ni le TAS et ses employé(e)s peuvent être tenus pour responsables envers toute personne de tout acte ou omission en relation avec toute procédure du TAS.
+
+R69&nbsp; Le texte français,&nbsp;le texte anglais et le texte espagnol&nbsp;font foi. En cas de divergence, le texte français prévaut.
+
+R70&nbsp; Le présent Règlement de procédure peut être modifié, conformément à l’article S8.
+
+
+			
+
+				Sommaire
+			
+
+A. Dispositions générales
+B. Procédure d'arbitrage ordinaire
+C. Procédure arbitrale d'appel
+D. Procédure consultative
+E. Interprétation
+F. Frais de la procédure
+G. Dispositions diverses
+
+
+
+				Fichiers à télécharger
+			Téléchargez le Code version 2021 (en vigueur le 01.01.21)Modification du Code du 01.01.21Téléchargez le Code version 2020 (en vigueur le 01.07.20)Modifications du Code du 01.07.20Directives d'urgence du CAS - valables à partir du 16 mars 2020. Modifiées le 24 avril 2020. Modifiées le 15 mai 2020.Téléchargez le Code version 2019 (en vigueur le 01.01.19)Modifications du Code du 01.01.2019Téléchargez le Code version 2017 (en vigueur le 01.01.17)Modifications du Code du 01.01.2017Téléchargez le Code version 2016 (en vigueur le 01.01.16)Modifications du Code du 01.01.2016Téléchargez le Code version 2013 (en vigueur le 01.03.13)Téléchargez le Code version 2012, modifié le 01.01.12Téléchargez le Code (version 2004)
+
+
+
+
+
+        
+    
+    
+    
+
+    
+    
+        
+            
+                
+
+				S'inscrire à notre liste de diffusion
+			Sélectionner votre fonctionMediaStudentLawyerSports entityOtherSélectionner votre paysAfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiqueBelizeBeninBermudaBhutanBoliviaBosnia and HerzegowinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCongo, The Democratic Republic of theCook IslandsCosta RicaCote d'IvoireCroatia (Hrvatska)CubaCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrance, MetropolitanFrance GuianaFrance PolynesiaFrance Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuineaGuinea-BissauGuyanaHaitiHeard and Mc Donald IslandsHoly See (Vatican City State)HondurasHong KongHungaryIcelandIndiaIndonesiaIran (Islamic Republic of)IraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKorea, Democratic People's Republic ofKorea, Republic ofKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacauMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldova, Republic ofMonacoMongoliaMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanPakistanPalauPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussian FederationRwandaSaint Kitts and NevisSaint LuciaSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSeychellesSierra LeoneSingaporeSlovakia (Slovak Republic)SloveniaSolomon IslandsSomaliaSouth AfricaSouth GeorgiaSpainSri LankaSt. HelenaSt. Pierre and MiquelonSudanSurinameSvalbard and Jan Mayen IslandsSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwan, Province of ChinaTajikistanTanzania, United Republic ofThailandTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVenezuelaViet NamVirgin Islands (British)Virgin Islands (U.S.)Wallis and Futuna IslandsWestern SaharaYemenYugoslaviaZambiaZimbabweS'inscrire
+
+Si vous êtes déjà inscrit et que vous voulez vous désinscrire ou modifier vos informations, cliquer ici.
+
+
+  
+                
+                
+                    
+                    
+
+				Dernières actualités
+			List of Hearings
+					26.11.2021
+				Nouveau Bulletin du TAS 
+					14.09.2021
+				
+
+
+                                        
+                
+
+                
+
+				Contactez-nous
+			
+
+Avenue de Beaumont 2 
+ CH-1012 Lausanne 
+ +41 (21) 613 5000 
+ +41 (21) 613 5001 
+info(at)tas-cas.org or media(at)tas-cas.org
+
+
+
+
+
+
+
+            
+         
+    
+    
+
+     
+    
+
+
+           
+
+
+ 
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+

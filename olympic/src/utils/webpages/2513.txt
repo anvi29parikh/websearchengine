@@ -1,0 +1,307 @@
+
+
+
+
+Template talk:AWB - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Template talk:AWB
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+This is the talk page for discussing improvements to the AWB template.
+
+
+
+
+
+
+Put new text under old text. Click here to start a new topic.
+Sign your posts by typing four tildes (~~~~).
+New to Wikipedia? Welcome! Learn to edit; get help.
+
+
+Assume good faith
+Be polite and avoid personal attacks
+Be welcoming to newcomers
+Seek dispute resolution if needed
+
+
+
+
+ 
+
+
+
+Contents
+
+1 Suggest adding
+2 Mid dot
+3 AWB is removing date= parameter in references
+4 Off-by-two page error
+
+
+
+Suggest adding[edit]
+
+
+Check page to the "Request approval" column
+
+ Done —Mets501 (talk) 02:48, 9 January 2007 (UTC)
+Mid dot[edit]
+
+
+Is it really necessary to transclude a template just to get a bullet/mid dot? --kingboyk 15:03, 3 March 2007 (UTC)
+
+AWB is removing date= parameter in references[edit]
+
+
+See. Checkingfax (talk) 05:02, 18 September 2015 (UTC)
+
+@Checkingfax: As stated in the talk header you kindly added to this page, "This is the talk page for discussing improvements to the AWB template."  Instead, I suggest you post to Wikipedia talk:AutoWikiBrowser with some explanation (e.g. Do you like this undocumented feature?  Is there a problem with the removal of this blank field?)  Thanks!  GoingBatty (talk) 23:44, 18 September 2015 (UTC)
+GoingBatty, will do. The date= parameter is not deprecated and I don't agree with its removal even if empty. Having empty fields ready to go speeds up later population of the parameter, especially by novice editors. Here is the CS1 guideline on parameter deprecation. Checkingfax (talk) 23:56, 18 September 2015 (UTC)
+@Checkingfax: Upon further inspection, I noticed that the reference before the AWB edit was |date=May 2004|work=State of New Jersey Commission of Investigation|author=|date=|.  One of AWB's general fixes is to remove duplicated fields.  GoingBatty (talk) 00:05, 19 September 2015 (UTC)
+Thanks GoingBatty. Nice catch. Monkbot managed by Trappist the monk as seen here is clearly considering the date= parameter to be deprecated, which it is not. Checkingfax (talk) 00:28, 19 September 2015 (UTC)
+ Moved to Wikipedia_talk:AutoWikiBrowser §&nbsp;AWB_is_removing_date.3D_parameter_in_references – GoingBatty (talk) 00:32, 19 September 2015 (UTC)
+Off-by-two page error[edit]
+ Resolved
+
+
+I'm writing up de:Momme Andresen for English Wiki. {{NDB}} is giving me a page number error - he's on pp. 286-287 in NDB, but I have to enter pp. 284-285 to get his NDB article - Carl Graf von Klinckowström&nbsp;[de] (1953), "Andresen, Momme", Neue Deutsche Biographie (in German), 1, Berlin: Duncker &amp; Humblot, pp.&nbsp;284–285CS1 maint: multiple names: authors list (link);&nbsp;(full text online). Can anyone help? Narky Blert (talk) 22:29, 13 August 2017 (UTC)
+
+@Narky Blert: Didn't you mean to post on the {{NDB}} talk page rather than here? Rjwilmsi 07:09, 14 August 2017 (UTC)
+@Rjwilmsi: I did indeed. Thank you for waking me up. Narky Blert (talk) 09:41, 14 August 2017 (UTC)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template_talk:AWB&amp;oldid=1023085020"
+		
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		TemplateTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 14 May 2021, at 08:20&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

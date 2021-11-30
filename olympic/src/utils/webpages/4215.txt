@@ -1,0 +1,386 @@
+
+
+
+
+MediaWiki/nl - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	MediaWiki/nl
+	
+		From mediawiki.org
+		&lt; MediaWiki
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+MediaWiki is een samenwerkings- en documentatieplatform dat door een energieke community aan u geleverd wordt.
+Foto van de deelnemers op de Wikimedia Hackathon 2019
+
+
+De MediaWiki-software wordt door tienduizenden websites en duizenden bedrijven en organisaties gebruikt.
+De MediaWiki-software zorgt voor een betere vorm van Wikipedia en deze website.
+MediaWiki helpt u bij het verzamelen en organiseren van kennis en deze kennis bereikbaar te maken.
+Het is krachtig, meertalig, vrij en open, uitbreidbaar, aanpasbaar, betrouwbaar en gratis.
+Lees meer en zie of MediaWiki voor u geschikt is.
+
+
+
+	
+		Installeer en doorloop MediaWiki
+		
+Download, installeer en configureer MediaWiki
+Voeg functionaliteit toe door uitbreidingen te installeren
+Problemen? Lees Fouten en oorzaken en de Veelgestelde vragen
+Geen eigen server? Bekijk de Hosting-services
+Ontvang professionele uitwerkingen en consults 
+Wordt lid van de MediaWiki Stakeholders-groep
+		
+	
+	
+		Bewerken en MediaWiki gebruiken
+		
+Leer hoe te navigeren 
+Leer hoe je een pagina aanpast 
+Leer meer over lezen, editen en persoonlijke aanpassingen 
+		
+	
+	
+		Code ontwikkelen en uitbreiden
+		
+
+
+Nieuwe ontwikkelaar?
+
+Begin met codering voor een Wikimediaproject 
+How to make a MediaWiki skin 
+Hoe te werken aan MediaWiki- of uitbreidings-codes 
+
+
+Bent u al een ontwikkelaar?
+
+Ga met content om door de Actie-API of de Web-API te gebruiken
+Lees de ontwikkelaars-documentatie of bezoek de ontwikkelaars hub
+		
+	
+
+
+	
+		Krijg hulp en draag bij
+		
+Kunt u een antwoord op een MediaWiki-probleem niet vinden? Vraag het aan de Support-desk!
+Draag bij als vertaler, ontwerper, documentatie-auteur, tester, tech-ambassadeur, ...
+Rapporteer fout software-gedrag of foute feature-voorstellen 
+		
+	
+	
+		Nieuws
+		
+		
+		
+2021-12-08 to 2021-12-10
+ SMWCon Fall 2021 (online)
+2021-11-18
+ MediaWiki 1.37.0 is now available.
+2021-11-10
+ MediaWiki 1.37.0-rc.2 pre-release is now ready for testing.
+2021-11-04
+ MediaWiki 1.37.0-rc.1 pre-release is now ready for testing.
+2021-10-21
+ MediaWiki 1.37.0-rc.0 pre-release is now ready for testing.
+2021-09-30
+ MediaWiki 1.31.16, 1.35.4 and 1.36.2 security releases are now available.
+ MediaWiki 1.31.x versions are now end of life.
+2021-05-20
+ #mediawiki IRC support channel is moving from Freenode to Libera Chat.		
+
+
+		Meer nieuws
+		 
+
+		
+	
+
+
+
+
+Andere talen: 
+
+English &nbsp;• Afrikaans&nbsp;• العربية&nbsp;• asturianu&nbsp;• беларуская (тарашкевіца)&nbsp;• български&nbsp;• বাংলা&nbsp;• bosanski&nbsp;• català&nbsp;• کوردی&nbsp;• čeština&nbsp;• dansk&nbsp;• Deutsch&nbsp;• español&nbsp;• فارسی&nbsp;• suomi&nbsp;• français&nbsp;• ગુજરાતી&nbsp;• עברית&nbsp;• हिन्दी&nbsp;• hrvatski&nbsp;• magyar&nbsp;• հայերեն&nbsp;• Bahasa Indonesia&nbsp;• italiano&nbsp;• 日本語&nbsp;• Jawa&nbsp;• қазақша&nbsp;• 한국어&nbsp;• Bahasa Melayu&nbsp;• Mirandés&nbsp;• Nederlands&nbsp;• polski&nbsp;• português&nbsp;• português do Brasil&nbsp;• română&nbsp;• русский&nbsp;• sardu&nbsp;• සිංහල&nbsp;• slovenčina&nbsp;• shqip&nbsp;• српски / srpski&nbsp;• svenska&nbsp;• ไทย&nbsp;• Türkçe&nbsp;• українська&nbsp;• Tiếng Việt&nbsp;• 粵語&nbsp;• 中文
+
+
+
+
+
+
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=MediaWiki/nl&amp;oldid=845896"
+		Hidden categories: Languages pagesLanguages pages/nl
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		PageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMeta-WikiWikispecies
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 19 December 2013, at 09:46.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,238 @@
+
+
+
+
+Block log - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	Help
+	
+	Block log
+	
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Block or unblock an IP or user. View the list of active blocks or calculate a rangeblock. See also the global IP block log and the log of local enabling/disabling of global blocks.
+
+
+This is a log of user-block/unblock actions. Auto-blocked IP addresses are not listed here, but can be found at Special:AutoblockList. See Special:BlockList for the full list of currently operational blocks. See Wikipedia:Blocking policy for further details.
+
+
+You may enter the name of the blocking/unblocking administrator and/or the user or IP who was blocked/unblocked.
+
+Performer is the name of the admin, without any prefix
+Target is the name of the user, IP or IP range, written with the prefix "User:"User logsAll public logsBlock logContent model change logDeletion logDeletion tag logEdit Filter modification logGlobal account logGlobal block logGlobal rename logGlobal rights logGrowthExperiments logImport logMass message logMerge logMove logPage creation logPage curation logPatrol logPending changes logPotential copyright violation logProtection logReview logTag logTag management logThanks logTimedMediaHandler logUpload logUser creation logUser merge logUser rename logUser rights logPerformer:Target (title or User:username for user):From date (and earlier):Tag filter:Type of block:AllBlockBlock modificationUnblock
+Show
+
+
+No matching items in log.
+
+Retrieved from "https://en.wikipedia.org/wiki/Special:Log/block"
+		
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Special page
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		Upload fileSpecial pagesPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,904 @@
+
+
+
+
+Wikipedia:AutoWikiBrowser - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:AutoWikiBrowser
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Semi-automated MediaWiki editor
+
+
+
+
+Warning: You take full responsibility for any action you perform using AutoWikiBrowser. You must understand Wikipedia policies and use this tool within these policies, or risk losing access to the tool or even being blocked from editing.
+
+AutoWikiBrowser 6.2.1.0vte
+
+Home
+Introduction and rules
+User manual
+How to use AWB
+Discussion
+Discuss AWB, report errors, and request features
+User tasks
+Request or help with AWB-able tasks
+Technical
+Technical documentation
+
+
+ChangelogDeveloper discussionRegular expressionSandboxTemplate redirectsTyposUsage statsUserbox
+
+ 
+
+
+
+
+AutoWikiBrowser is not an automatic bot—edits made using this software are the responsibility of the editor using it. Although AWB does have an automatic mode enabled for some bot accounts, it normally just assists a human.
+
+
+AutoWikiBrowserOriginal author(s)Bluemoose (retired)Developer(s)
+Magioladitis
+Reedy
+Rjwilmsi
+Kingboyk
+Stable release6.2.1.0 (July&nbsp;8,&nbsp;2021&nbsp;(2021-07-08)) [±]Preview releaseSVN (SVN) [±]
+Repositorysourceforge.net/p/autowikibrowser/code/HEAD/tree/ 
+Written inC#Operating systemWindows Vista and laterPlatform.NET FrameworkAvailable inEnglishTypeWikipedia toolLicenseGPL v2Websitesourceforge.net/projects/autowikibrowser/
+
+
+
+
+
+AutoWikiBrowser
+
+
+
+2020 Coolest Tool
+Award Winner
+
+
+
+
+in the category
+
+
+Editor
+
+
+
+ShortcutsWP:AWBWP:AUTOWB
+
+
+
+
+AutoWikiBrowser (AWB) is a semi-automated MediaWiki editor designed to make tedious or repetitive editing tasks quicker and easier.  It is, essentially, a browser that follows a user-generated list of pages to modify, presenting changes to implement within each of those pages, then progressing to the next page in the list once the changes are confirmed or skipped by the user. When set to do so, it suggests some changes (typically formatting) that are generally meant to be incidental to the main change.
+
+
+AWB is written for Windows operating system versions Vista and newer. It also functions reasonably well under Wine on Mac and some versions of Linux, but is not officially supported.
+
+
+At present, AWB can create a list of pages from single or multiple categories, "what links here", the wiki links on a page, a text file, a Google search, a user's watchlist, or a user's contributions. AWB also comes with an integrated program to scan Wikipedia database dumps. The edit box of AWB supports the Microsoft Text Services Framework for use with speech recognition/handwriting applications.
+
+
+The sources are available under the GPLv2 (see Documentation page). It is written in C# using Microsoft Visual C# Express Edition/Visual Studio, which is freely available at Microsoft downloads.
+
+
+There is an AWB IRC channel at #AutoWikiBrowser connect.
+
+
+
+
+Usergroup
+
+No. approved
+
+
+Admins
+
+All (1,072)
+
+
+Bots
+
+97
+
+
+Users
+
+1,776
+
+Contents
+
+1 Rules of use
+2 Using this software
+
+2.1 (1) Register
+2.2 (2) Download
+
+2.2.1 Running on Windows
+2.2.2 Running on Linux or Mac
+
+
+2.3 (3) Get started
+
+
+3 Features
+
+3.1 Database scanner
+3.2 Plugins
+
+
+4 See also
+5 External links
+
+
+
+Rules of use
+See also: Wikipedia:Bot policy §&nbsp;Bot-like editing
+ShortcutWP:AWBRULES
+You are responsible for every edit made. You are expected to review every edit, just as if you were making an edit using Wikipedia's edit form when editing by hand. Do not sacrifice quality for speed, and review all changes before saving.
+Abide by all Wikipedia guidelines, policies and common practices.
+Do not make controversial edits with it. Seek consensus for changes that could be controversial at the appropriate venue; village pump, WikiProject, etc. "Being bold" is not a justification for mass editing lacking demonstrable consensus. If challenged, the onus is on the AWB operator to demonstrate or achieve consensus for changes they wish to make on a large scale.
+Do not make insignificant or inconsequential edits. An edit that has no noticeable effect on the rendered page is generally considered an insignificant edit. If in doubt, or if other editors object to edits on the basis of this rule, seek consensus at an appropriate venue before making further similar edits.
+Repeated abuse of these rules could result, without warning, in your software being disabled. If you wish to run a bot, see Wikipedia:Bots; bots must be approved by the bot approvals group.
+Using this software
+(1) Register
+
+
+Request permission at Wikipedia:Requests for permissions/AutoWikiBrowser if you would like to use the software. Once your username is added to the list on the check page, you can then use AutoWikiBrowser on the English Wikipedia.
+
+
+Anyone can be registered, but only if an admin approves your registration. As a general rule, only users with more than 250 non-automated mainspace edits or 500 total mainspace edits will be registered. You will probably not be contacted when your registration has been approved, so look at the check page periodically for your name or watchlist the page. Admin accounts are automatically approved for using the software, even without being registered. Admins with pseudo-bot or flooder (not available on the English Wikipedia) will still need to add themselves into the bots section of the CheckPage to be able to use the Bots tab. 
+
+
+If you are planning to use only the  "Make list" or "List comparer" options, then there is no need to register. These parts of the software do not prompt for a username or check the account permissions.
+
+(2) Download
+
+
+Download the release version here. 
+Please ensure that you click on the correct download button on the Sourceforge page, as there may be more than one. The correct button is green and inside the box containing the description, just above the screenshots.
+
+
+If you want to run the latest SVN version, see Wikipedia:AutoWikiBrowser/Sources.
+
+Running on Windows
+
+
+AutoWikiBrowser requires Windows Vista or newer to edit on Wikimedia wikis. AutoWikiBrowser does not work on Windows XP as XP does not meet Wikimedia's security standards. On other wikis, AutoWikiBrowser may work with Windows XP, although the tool is likely no longer maintained. 
+
+
+AWB comes in a zip file, and it is recommended that it be unzipped to a new directory, rather than running, for example, straight from the desktop. AWB is not installed on the PC and runs mostly as a standalone application: AutoWikiBrowser.exe (the provided WikiFunctions.dll file is also required). AWB can be unzipped to any directory; however, on some machines there can be permissions problems that stop AWB working correctly if the directory used is on a network drive. If you're unsure, unzip AWB to somewhere on the machine's C: drive, for example, within 'Downloads'.
+
+Running on Linux or Mac
+Main page: Wikipedia:AutoWikiBrowser/Mono and Wine
+
+
+On Linux, AWB mostly works with Wine with .NET 4.5 installed and is suitable for use for regular editing. The installation process is the same as Wikipedia:Huggle/Wine.
+
+
+AWB can also be started on Mono, albeit with some strange errors, and the web browser component does not yet work under Mono. AWB under Mono is not yet suitable for use for regular editing.
+
+
+On macOS, AWB is not natively available, but one option is to use virtualization with Parallels Desktop for Mac (subject to meeting supported operating systems requirements) and then run Microsoft Windows virtually with AWB as the Windows instructions above. A paid license is required for both Parallels Desktop for Mac and Microsoft Windows. Another option is to use Boot Camp to install Windows, although it is not supported on Macs with the Apple M1 chip. An alternative is to use the free VirtualBox, although a paid license for Microsoft Windows is still required. AWB can also be used under Wine on a Mac. WineHQ has a page on Wine under MacOS X. A package manager such as Homebrew can be used to install Wine; see Wine on a Mac using homebrew.
+
+
+Alternatively, JavaScript Wiki Browser may be used on any major operating system.
+
+(3) Get started
+  A default screen arrangement for standard AWB editing
+  A dual-monitor screen arrangement for more complex AWB diffs
+See also: Wikipedia:AutoWikiBrowser/User manual
+Select "Make from Category", then enter a category name.
+Click "Make list", then let the list load up.
+Set any options, such as find and replace, edit summary, etc.
+Click "Start!", it will load up the page, automatically make any changes, and then go to the diff.
+Change anything in the page you want in the Edit box on the lower right, not the normal website textbox in the browser, then click "Save" or "Skip / Ignore", the next page will load up automatically.
+
+
+Refer to the FAQ for more information, including problems with other software and Wikipedia skins.
+
+Features
+
+
+AutoWikiBrowser's main feature is to easily make the same type of edit to a large number of pages. For example, fixing a typo, adding a navbox, or adding a category to dozens or hundreds of pages.
+
+Create a list of pages, files, categories to run edits on. Criteria for list building include:
+CheckWiki errors
+items in category
+Google search results
+links or categories on target page
+links or a simple list of titles in a text file
+watchlist contents
+special page results
+pages that link, transclude or redirect to target
+Wikipedia search results
+Search and replace wikitext – plain text or regular expressions
+Add material to the beginning or end of each page
+Add, remove, or replace categories and files
+Rules-based page skipping
+Custom user scripts
+
+
+AutoWikiBrowser also has some other features.
+
+Make list articles
+Offline database scanner
+Automatic fixes of common issues
+Database scanner
+See also: Wikipedia:AutoWikiBrowser/Database Scanner
+
+
+AWB includes a database scanner that can be used to create lists of pages to be checked, without causing extra unnecessary load on Wikimedia servers.
+
+
+Database dumps are created from time to time (more info here) and are available for free download. As the page states, the best/most useful dump is the enwiki-latest-pages-articles.xml.bz2 (dir). Visiting the database dump progress site allows you to view the status of the current dump and easily browse to the downloads in it.
+
+
+After downloading, the archive needs to be uncompressed; this will turn it from a ~18&nbsp;GB bz2 archive into an XML database dump around 79&nbsp;GB.
+
+
+A scannable .xml file of selected files can also be generated by visiting Special:Export.
+
+Plugins
+Main page: Wikipedia:AutoWikiBrowser/Plugins
+
+
+AWB can load and use fully customized plugins. These plugins can process page text and extend the user interface, and are in the form of libraries (.dll files) which can be made in any .NET language such as C# or Visual Basic .NET. When AWB loads, it automatically checks to see if there are any plugins in the folder from which it was executed. Any plugins found are loaded and initialized without further intervention by the user.
+
+
+AWB ships with WikiFunctions.dll, which can be referenced by other standalone projects. The DLL includes a wiki-ready web browser control, a simple page editor, a listmaker, and other tools and components.
+
+See also
+
+
+Free and open-source software portal
+Javascript Wiki Browser – A user script with similar functionality to the downloadable AutoWikiBrowser, but loaded within the web browser
+Javascript Wiki Browser in toolbar – Installs the above script, then puts the link to the script in the toolbar for easy access
+AutoEd – A user script that helps to automatically make certain changes in articles
+autoFormatter – A user script that semi-automatically fixes more than 200 common errors in wiki markup
+WPCleaner – A tool designed to help with various maintenance tasks, especially repairing links to disambiguation pages, checking Wikipedia, fixing spelling and typography
+Wikiget – A Unix command-line tool to generate a list of articles from categories, templates, backlinks, etc.
+WP:HIDEAWB – Instructions on how to hide AWB edits from your watchlist.
+{{Wikipedia:AutoWikiBrowser/Userbox 2}} – Userbox to show AutoWikiBrowser userright
+This user has AutoWikiBrowser rights on the English Wikipedia. (verify)
+{{AWB topicon}} – a top icon template to indicate you have the AutoWikiBrowser user right – adds a category to page automatically
+External links
+
+
+
+This page is referenced in the Wikipedia Glossary.
+
+
+
+
+
+Wikimedia Commons has media related to AutoWikiBrowser.
+
+Project home on Sourceforge
+Browsing the source code on Sourceforge
+Regular Expression Language Elements from the .NET Framework Developer's Guide in the online documentation of Microsoft
+vteAutomated and semi-automated editing tools
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+User scripts
+WPCleaner
+Inactive
+igloo
+STiki
+
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+vteWikipedia accounts and governanceUnregistered (IP) users
+Why create an account?
+Create an account
+Request an account
+IPs are human too
+IP addresses are not people
+IP hopper
+Registered users
+New account
+Logging in
+Reset passwords
+Username policy
+Changing username
+Usernames for administrator attention
+Unified login or SUL
+Alternate account
+Account security
+Password strength requirements
+User account security
+Personal security practices
+Two-factor authentication
+2FA for AWB
+Committed identity
+On privacy, confidentiality and discretion
+Compromised accounts
+Blocks, bans, sanctions,
+global actions
+Blocking policy
+FAQ
+Admins guide
+Tools
+Autoblock
+Appealing a block
+Guide to appealing blocks
+UTRS Unblock Ticket Request System
+Blocking IP addresses
+Range blocks
+IPv6
+Open proxies
+Banning policy
+ArbCom appeals
+Sanctions
+Personal sanctions
+General sanctions
+Discretionary sanctions and Log
+Essay
+Long-term abuse
+Standard offer
+Global actions
+Related to accounts
+Sockpuppetry
+Single-purpose account
+Sleeper account
+Vandalism-only account
+Wikibreak
+Enforcer
+Retiring
+Courtesy vanishing
+Clean start
+Quiet return
+User groups
+ and global user groups
+Requests for permissions
+Admin instructions
+Admin guide
+Account creator
+PERM
+(Auto) confirmed
+PERM
+Autopatrolled
+PERM
+AutoWikiBrowser
+PERM
+Bot
+Request
+Edit filter helper
+Request
+Event coordinator
+PERM
+Extended confirmed
+PERM
+File mover
+PERM
+IP block exempt
+Request
+Mass message sender
+PERM
+New page reviewer
+PERM
+Page mover
+PERM
+Pending changes reviewer
+PERM
+Rollback
+PERM
+Template editor
+PERM
+Global rights policy
+OTRS Volunteer Response Team
+Advanced user groups
+Administrator
+RfA
+Bureaucrat
+RfB
+CheckUser and Oversight
+Request
+Edit filter manager
+Request
+Interface administrator
+Request
+Founder
+Importer
+Researcher
+Committees and related
+Arbitration Committee
+Bot approvals group
+Functionaries
+Clerks
+SPI clerks
+ArbCom clerks
+Governance
+Administration
+FAQ
+Formal organization
+Editorial oversight and control
+Quality control
+Wikimedia Foundation
+Board
+Founder's seat
+Meta-Wiki
+Proposals
+WikiProjects
+Elections
+Policies and guidelines
+Petitions
+Noticeboards
+Consensus
+Dispute resolution
+Reforms
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:AutoWikiBrowser&amp;oldid=1057445775"
+		Categories: Wikipedia glossary itemsAutoWikiBrowserWikipedia tools which are exclusion compliantHidden categories: Project pages with short descriptionWikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMediaWikiWikinewsWikiquoteWikisourceWikiversityWikivoyageWiktionary
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AcèhAfrikaansAlemannischالعربيةܐܪܡܝܐԱրեւմտահայերէնAzərbaycancaتۆرکجهবাংলাБашҡортсаБеларускаяБеларуская (тарашкевіца)भोजपुरीБългарскиBoarischBosanskiCatalàЧӑвашлаČeštinaCymraegDanskالدارجةDavvisámegiellaDeutschΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisFryskGàidhligGalego客家語/Hak-kâ-ngî한국어Հայերենहिन्दीHrvatskiIlokanoBahasa IndonesiaÍslenskaItalianoעבריתქართულიकॉशुर / کٲشُرҚазақшаKurdîLatviešuLëtzebuergeschMagyarमैथिलीमराठीمصرىBahasa MelayuMinangkabauNederlandsNedersaksiesनेपाली日本語НохчийнNorsk bokmålNorsk nynorskOccitanଓଡ଼ିଆOʻzbekcha/ўзбекчаਪੰਜਾਬੀPälzischپښتوTok PisinPolskiPortuguêsRomânăРусскийSakizayaसंस्कृतम्ScotsසිංහලSimple EnglishسنڌيSlovenčinaСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiSvenskaதமிழ்తెలుగుไทยТоҷикӣTürkçeУкраїнськаاردوTiếng ViệtWolof吴语粵語Zazaki中文Dagbanli
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 27 November 2021, at 17:57&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

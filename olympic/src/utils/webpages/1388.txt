@@ -1,0 +1,1186 @@
+
+
+
+
+Wikipedia talk:WikiProject Articles for creation - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia talk:WikiProject Articles for creation
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+Skip to TOC
+Skip to bottom
+
+Main pageTalk pageSubmissions
+Category — List (sorting)ShowcaseAssessmentParticipants
+Talk — By subjectReviewing instructions
+Helper scriptHelp
+deskBacklog
+drives
+Welcome to the main articles for creation WikiProject talk page
+
+AfC submissions
+Random submission
+
+2+ months
+
+2,781 pending submissionsPurge to update
+
+vte
+
+ShortcutWT:AFC
+
+
+
+
+
+This page is only for matters concerning this project's administration. Are you in the right place?
+If you want to ask a question about your article submission, use the AfC Help desk.
+For questions on how to use or edit Wikipedia, use the Wikipedia help desk.
+For factual and other kinds of questions, use the search box or the reference desk.
+You may create an article at the Article wizard or request an article at requested articles.
+Put new text under old text. Click here to start a new topic. Be sure to sign and date your posts by typing four tildes ( ~~~~ ).
+Please post feedback about the AFCH helper script in a new section on this page, or by creating a new ticket on GitHub.
+New to Wikipedia? Welcome! Ask questions, get answers.
+
+
+
+WikiProject Articles for creation 
+(Rated Project-class)
+
+
+
+
+
+
+This page is used for the administration of the Articles for Creation or Files for Upload processes and is therefore within the scope of WikiProject Articles for Creation. Please direct any queries to the discussion page.Articles for creationWikipedia:WikiProject Articles for creationTemplate:WikiProject Articles for creation (admin)AfC project pages
+&nbsp;Project&nbsp;
+This page does not require a rating on the  quality scale.
+
+
+&nbsp;
+
+
+WikiProject Articles for creation was featured in a WikiProject Report in the Signpost on 24 December 2018.
+This talk page is automatically archived by lowercase sigmabot III. Any threads with no replies in 20&nbsp;days may be automatically moved. Sections without timestamps are not archived.
+
+
+
+AfC archives
+
+vte
+
+
+
+Articles for Creation (search)
+
+
+
+2005
+2006
+2007
+2008
+2009
+
+
+
+
+2010
+2011
+2012
+2013
+2014
+
+
+
+
+2015
+2016
+2017
+2018
+2019
+
+
+
+
+2020
+2021
+
+
+
+Italics indicate an index
+
+
+Reviewer help (search)
+
+
+
+2013
+2014
+2015
+2016
+2017
+2018
+
+
+
+Helper script (search)
+
+
+
+2013–2014
+2014–2018
+
+
+
+Participants (search)
+
+
+
+2015–2017
+2017–2018
+
+
+
+Old AFCH requests
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Chart: Pending AfC submissions
+2 Revisit requirements for AfC reviewing
+3 AfC submission wizard ready for general usage
+4 Are these articles really B class?
+5 May I please be moved from "probationary" reviewers to "active" reviewers?
+6 Professors with poor sourcing
+7 Rater and ORES Question
+8 I propose a "mini" Backlog Drive
+
+8.1 Interacting Backlogs
+
+
+9 2022 Philippine election drafts
+10 Drafts bypassing WP:ACPERM
+11 Prolific mover of drafts to mainspace
+12 Draft:Siegfried Holding - unable to review
+13 Add "check talk page" to reviewing workflow
+
+13.1 Check Talk Page
+
+
+14 Need help with Draft:Tubbo
+15 Draft:Muhammad Khair Al Shaal eyes please
+16 Script misbehaving
+17 Be aware of Wikipedia:Wiki Ed/Howard University/Black Women and Popular Culture (Fall 2021)
+18 Anwar Shah Orakzai
+19 Enhancement request for AFCH script
+20 Is there a rough stat on how many AfC articles don't get created?
+21 AFCH reviews
+22 G13
+23 Draft:Khattab Faleh Abdul Rahman Hussein and other stories
+24 Draft:The Mac Observer and WP:WEBCRIT
+25 Nomination for deletion of Template:Don't know
+26 December 2021 at Women in Red
+27 Editors placing their own AFC Acceptance templates on their own talk page
+28 Korean Television Articles
+
+
+
+Chart: Pending AfC submissions[edit]
+Backlog chart daily Backlog chart weekly 
+
+
+Revisit requirements for AfC reviewing[edit]
+
+
+&lt;moved from above, tangential thread&gt;
+
+I above offered a left-field suggestion that the problems might not occur of drafters were asked to respond to WP:THREE on the draft talk page.  And, especially if they have reference bombed the draft.
+on further look at User:MoonlightVector, I’ll repeat my very old suggestion: AfC reviewers should be restricted to formally approved NPReview editors, and that NPR should be looking at, among other things, the editors AfD experience. MoonlightVector has insufficient AfD experience to be doing NPR or AfC.  If he is interested in this sort of work, he should become experienced at AfD first. SmokeyJoe (talk) 04:33, 22 October 2021 (UTC)
+You're welcome to hold that opinion, but that's not the criteria I use (or the criteria that we have agreed on), especially when NPR often will ask that applicants have AFC experience if they're not yet eligible for NPR. Primefac (talk) 07:29, 22 October 2021 (UTC)
+Hi Primefac.  I don’t remember whether I was involved in the agreement, but even if I was, old assumptions for old decisions should be regularly reviewer for their accuracy. We had a discussion somewhere (this page?) where I listed the order in which newcomers should gain experience.  I think it was: mainspace editing; AfD; NPR CSD PROD; AfC. Contrary to my first impression, I came to consider AfC to be the most demanding of reviewer wisdom, because AfC is where an unwise reviewer can do the most damage, because AfC review is unilateral and impacts new editors who least know how to respond to a bad review. (Neglecting here the use of AfC by COI and Paid editors).
+I suggest returning to that discussion, and I suggest:
+(1). elevating the importance of experience at AfD as evidence of suitability for AfC reviewing.  AfD is a better place to start engaging in critical review of others work because it is a group activity, and poor contributions in AfD are responded to by other AfD participants.
+(2). Discouraging AfC reviewer applicants who do not already have NPR experience (tell them to apply for NPR).  This is because: (a) NPR is easier; and (b) negative decisions at NPR result in another reviewing the negative decision.
+SmokeyJoe (talk) 07:58, 22 October 2021 (UTC)
+@SmokeyJoe please break this discussion into a separate thread. We should keep this one much more limited.  You are welcome to remove this comment once broken out into a new thread FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 08:03, 22 October 2021 (UTC)
+Sorry User:Timtrent, I am on a mobile device and don’t have time at the moment.  I can do this later, but if anyone else would do it sooner that would be great. SmokeyJoe (talk) 08:09, 22 October 2021 (UTC)
+I strongly disagree with (2), as I explained above; if you want to make that a formal requirement, we'll need an RFC and to coordinate with NPR to change their metrics.
+As far as AfD experience goes, I of course take that into consideration, but it is only part of the decision; I also consider their edit count, CSD/PROD logs, their talk page, and their page creation experience. If poor AFD experience (either low !vote counts or an "accuracy" of ~60-75%) is the only issue, then I'll likely add them as a probationary member. In other words AFD does play a part in the process, but I am not (for example) going to decline someone just because they have only !voted in 6 AFDs (assuming a reasonable track record) but have a half-dozen approved drafts.
+If you want to mandate that applicants have a minimum number of AFD !votes with a certain accuracy, or that we should have harder cut-off ranges for who is probationary and who is not, or even mandate that everyone is probationary for the first six months regardless of how experienced they are, I am more than happy to do that. If anything, though, I think we just need to do more casual reviews of the new members, because I've asked many times for review of probationary and other new users over the years, and I have almost never received any useful feedback (hell, some of the times I've brought up members for review I've been told off for not giving enough slack). I cannot see everything, and I am not infallible, so maybe instead of changing the entire process because one new user was a bad choice on my part we actually do a little work in helping them out before they get to the point where they get removed from the group. Primefac (talk) 10:22, 22 October 2021 (UTC)
+Primefac, I wrote “elevate the importance” and “discourage”. Why do you respond with “formal requirement” and “mandate … minimum”?
+New enthusiasts themselves should be offered the advice that AfD experience is valuable and valued for NPR and AfC reviewing.
+AfD is an excellent training ground for newcomers wanting to get into review, due to it being a group activity. AfC is not.  They should look to AfD for gaining experience before AfC, but I am all for subjectivity by AfC leadership in making decisions.
+Do you always look at https://afdstats.toolforge.org/?  Did you, for MoonlightVector? SmokeyJoe (talk) 10:41, 22 October 2021 (UTC)
+I always look at the AFD stats. As I said, I make mistakes, and upon re-reviewing their request I'm honestly not sure why I accepted them, even as a probationary member. Primefac (talk) 10:46, 22 October 2021 (UTC)
+Sounds good. SmokeyJoe (talk) 10:51, 22 October 2021 (UTC)
+@Primefac there is never an issue with any of us making mistakes. It is the way we handle ourselves when we realise that matters. As usual your commitment to true service to Wikipedia comes shining through. Thank you. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 11:59, 22 October 2021 (UTC)
+Maybe this will help. It did not occur to me that Primefac or the AfC reviewer appointment process could make a mistake, and I spoke about the importance of AfD experience on the assumption that it was not considered important. Clearly, AfD experience is already suitably regarded. SmokeyJoe (talk) 07:09, 23 October 2021 (UTC)
+No, NPR is not easier than AFC. Usedtobecool&nbsp;☎️ 16:04, 22 October 2021 (UTC)
+User:Usedtobecool, can you share why?  I find AfC harder, more challenging, because I find it harder to explain why not, why I am declining, whereas at NPR, I select articles I am interested in and on objective criteria they usually pass.  There is, however, a massive difference between the front and back of the queue. SmokeyJoe (talk) 23:01, 22 October 2021 (UTC)
+@SmokeyJoe, most of what I would have said seems to have been covered already. To put it in my own words, yours is a suggestion I would agree with when taking an editor-centric view. But I believe we have a higher duty, the readers. As much as we would be harmed by editors leaving without trying again due to a poor AFC review, we would be doing a disservice to readers and potential editors, if by poor NPR acceptances, we were to become a host for subpar content, which would both diminish Wikipedia's credibility and give potential editors the wrong idea about what is acceptable. One of the most common complaints we hear from AFC submitters is "why does my article on this subject which is of equal standing and importance as these subjects which are already on Wikipedia not get accepted when I have followed the examples of these very articles in my writing and sourcing?"I also do not think that we have so many good faith editors quitting without trying again for it to be a problem requiring priority action over other issues we have. Editors are given an invitation to visit the Teahouse and the AFC help desk when their drafts are declined. And almost all drafts get resubmitted (at least the ones which could conceivably be encyclopedic and credibly significant), at which point erroneous declines will get rectified, unless we have so many poor reviewers that we continue to have pile-on wrongful declines, which I do not believe is the case. As others have pointed out, articles passed by NPR become more or less permanent, add or take away from Wikipedia's overall credibility and serve as examples for where we are going. Wrongful AFC declines are re-reviewed by resubmissions, posts to the teahouse, helpdesks or user talk pages. There are few experienced editors policing declined drafts to catch salvageable ones. And ultimately, they are sooner or later reviewed by admins working G13. On that front, we should be making sure we have good admins to handle them reasonably, and encouraging everyone who works G13 to identify promising drafts. And if we really cared about these drafts, we should be running drives to rescue promising drafts to mainspace.That's not to say we shouldn't care about the newbies feeling dejected by inconsiderate and untactful rejections. It seems to me we should find other ways to make sure our reviewers don't do that than shifting the burden to another project to get them ready. I agree with you that editors gaining AFD experiences first would be best. Primefac hasn't contradicted you on that; you two just haven't figured out the exact threshold of reasonable AFD experience to qualify one for page review and curation. I think DGG agrees with you to some extent with regard to whether AFC should continue to be a stepping stone to NPR, if not full. And regardless, we would benefit from his opinion. (For general information, NPR asks novice editors applying for that perm to gain experience doing AFC first, in case that is not clear from Primefac's comments). Apologies for the length. Regards! Usedtobecool&nbsp;☎️ 10:51, 25 October 2021 (UTC)
+Hi User:Usedtobecool.  I think we more or less completely agree. Small comments: I don’t think the Teahouse works so well, it’s not negative, but I think editors who don’t engage in collaborative mainspace editing don’t become part of the community. On Primefac’s threshold of AfD importance, it was all a misunderstanding, I thought he regarded lowly when in fact he had made a mistake. On NPR vs AfC, maybe it is all subjective perspective, but I think editors should get experience at AfD before trying either NPR or AfC.  Not a rule, but I recommend it, and I think it should be a general recommendation.  How much AfD experience?  Somewhere between 25 and 100 AfD discussions !voted in, and with something like 70-90% agreement on Keep/delete results. SmokeyJoe (talk) 11:06, 25 October 2021 (UTC)
+I think we need a low-threshold perm for editor retention; and I think AFC can be that low-level perm, and anyway, it may not have a choice. We have so many experienced editors with 100 AFDs; if they volunteered to AFC and NPR, we would not have the backlog we have but they don't. By the time an editor gets to 100 AFDs the right way, they will be ready to move on to bigger and better. Regards! Usedtobecool&nbsp;☎️ 14:42, 25 October 2021 (UTC)
+I like AFC a lot more than NPR and AFD (and to be quite frank, I don't like AFC that much, but all three are very important). None should be a prerequisite to doing the others, though all are very useful experiences to have. I understand we need evidence of good notability and copyright knowledge before granting AFC, but that could take many forms. I'm not seeing evidence of any systemic issue we have in granting or declining AFC permissions through the current process. — Bilorv (talk) 17:06, 22 October 2021 (UTC)
+If an AfC reviewer incorrectly approves a draft, there will generally be an NPP to fix the problem. If an NPP incorrectly approves an article, there's no one else to correct that. As such, it's best to have less experienced participants start at AfC: if they make too many mistakes, at least someone will catch them, as presumably happened in this case. I of course do agree that AfD/PROD/CSD experience is a must-have for AfC, although I think that's already the rule. Extraordinary Writ (talk) 17:17, 22 October 2021 (UTC)
+@Extraordinary Writ: You're only considering one side of the process there, i.e. what happens to the articles. I think you also have to consider what happens to the editors writing these drafts, after all AFC will be a lot of peoples first introduction to Wikipedia. If someone spends hours writing an article only to have it rejected for some inexplicable reason then there's a fair chance that person is simply going to leave Wikipedia and never return - that's the major damage poor AFC reviewers can do in my opinion. 192.76.8.77 (talk) 20:31, 22 October 2021 (UTC)
+That's a fair point: there's no one really checking AfC declines either. It's certainly important to ensure that both sets of reviewers are fully competent. I would subscribe to the view that AfC is simply easier (there are fewer possible outcomes), but bad reviewers can still do significant damage at either one. Extraordinary Writ (talk) 20:43, 22 October 2021 (UTC)
+I check AfC declines on resubmission drafts, and an often unimpressed, albeit less so than in the past when “lack of inline citations” was overused as a reason. I think from the mindset of a newcomer, AfC declines are very hard to understand. SmokeyJoe (talk) 23:04, 22 October 2021 (UTC)
+The idea that AFC reviewing is harder than NPP reviewing may not have consensus, I don't think we can state that as fact. AFC does not require WP:BEFORE, which in my mind makes it easier to do than NPP. AFC also does not require the bottom part of the NPP flowchart, such as maintenance tagging and categorization. The point above about AFC accepts getting checked by NPPs, but NPP accepts not getting checked by anyone, is also a good point. Combine those things, and I think there is a good argument that AFC should be lower, not higher, than NPP in a hierarchy of difficulty and obtainability. –Novem Linguae (talk) 20:18, 22 October 2021 (UTC)
+Which is harder I guess is a subjective opinion.  NPR may have more tagging options, and may be more work checking references, but I don’t think more work means harder work.  I think AfC is harder with respect to giving a good and responsible reason for declining. AfC accepting is much easier.  Complicated, I guess. SmokeyJoe (talk) 23:09, 22 October 2021 (UTC)
+(edit conflict) I don't think that you need new or more stringent requirements, I think it's just a case that the existing requirements need to be applied properly. I don't want to rag on Primefac, but there's no way the user above should have been accepted under the current guidelines, a read of their talk page as it was in early October would have shown that they obviously failed criteria 4,5 and 6. I think it's best to just mark this up as a mistake, re-review any potentially problematic decisions they made and take a bit more care with approvals in future. 192.76.8.77 (talk) 20:31, 22 October 2021 (UTC)and
+I do both, and I find AfC much more interesting--unlike AfC, most articles at NPP are potentially acceptable   and I prefer to work on the more severe problems. At NPP, they are almost always in English; they are rarely downright advertisements; they are relatively infrequently unintelligent trivialities or people playing foolish games. Like AfC, they often duplicate existing articles, or contain copyvio,  are unreferenced or very poorly referenced, or need extensive fixing of references or format; almost always, they are imperfect. They need a careful check and tagging, and sometimes diversion to draft or deletion. It is usually possible to assume that if they get into mainspace, the errors will get at least partially fixed--often by the time I get to review a NP, it will already be much improved , whether by the original contributor or other editors.  I think it is a great mistake to use one for training in the other. Kudpung and I have long had dreams of a unifed procedure, and I think that's the only  solution.
+I think there are  many errors in accepting or rejecting drafts. But I'm biased, because I mainly work with ones that have been rejected and abandoned. 80% percent of the time they should indeed quietly disappear at 6 months; 10% of the time they should have been removed by speedy; and 10% are rescuable, though I only try to rescue in my own field. Consequently I notice mostly errors in my field, such as academics judged only by the GNG, or acomplishments like the highly notable honors specified in PROF  not being spotted. But I also reasonably acceptable articles abandoned because the reviewer had asked for too much, instead of accepting articles that, however imperfect, would nonetheless pass afd. I can only assume there are similar mistakes in other areas also. -- DGG ( talk ) 05:36, 26 October 2021 (UTC)
+@SmokeyJoe, Extraordinary Writ, Novem Linguae,  and Usedtobecool: NPR is the harder of the two because the fundamental difference is that a New Page Reviewer's decision is a serious judgement call on the future of a new article. NPP is basically a binary process: Accept, or tag for deletion.  OTOH, at AfC the creator is offered more explanation on why an article is rejected (often temporarily), and can be resubmitted and reviewed by the same or other AfCers, thus encouraging user retention; or of course leaving truly inappropriate or abandoned submissions to await their fate at G13.
+I believe that ideally NPR and AfC user rights should be merged (that would give AfC reviewers an official status) and with all reviewers having the same level of competency notwithstanding that accepted AfC articles should pass the scrutiny of NPR (and not by the same person). There is no 'strict' deadline for an AfC, but  inappropriate New Articles if not promptly  reviewed, will fall off the queue and be indexed by Google forever.
+The requirements for efficient NPR are complex and demands a thorough understanding of the guidelines for it which need an almost admin level of knowledge of notability and deletion. It's not for the squeamish and that's probably why of the over 700 users who asked for the permission, fewer than a couple of dozen are truly active at it. Barkeep49, ICH, Celestina007,  Nosebagbear, and MER-C will understand those issues.
+To  illustrate the importance of due diligence when according  user rights, especially  at  AfC and NPR,  Eostrix/Icewhiz whose recent glib posting at  WT:NPR was, by the grace of God, more recently prevented from successfully becoming an admin  (123/1/2) at the last minute by Arbcom, and globally blocked and locked by the WMF in a unique and one of the most scandalous NPP/RfA issues in  Wikipedia history: The Signpost October 2021 "The sockpuppet who ran for adminship and almost succeeded".
+A specifically created project space exists for discussing these NPP/AfC  changes and improvements, for further developing the ideas, and for deciding how best to approach the WMF to engage them in the coding of scripts etc. It has worked in the recent past. Despite overwhelming community consensus in the hundreds, it took nearly a decade of squabbling with the WMF to get ACPERM trialled and rolled out, and the next big debate on the horizon will be about IP editing. IMO, DGG and Primefac have the longest and broadest experience in the workings of AfC - which of course is not to say that others are less competent - but they might wish to take the lead in proposing some concrete changes and improvements. Kudpung กุดผึ้ง (talk) 00:06, 11 November 2021 (UTC)
+Kudpung, I withdraw my comment that one is harder.  Instead, I would say that at AfC an inexperienced reviewer may do harmful biting of newcomers without anyone else ever noticing.
+I agree that NPR and AfC user rights should be merged.  The knowledge and experience required is very similar.  It's my opinion that AfD expertise on interpretation of Wikipedia-notability is most important, although others might say copyright concerns and reliable sources are at the top.  On NPR having complex demands, I think much of the complexity is gnoming work (eg categorisations) that well get done rapidly by others if the reviewer doesn't.
+You assume that AfC reviewers do not immediately mark their AfC accepts as NPP reviewed?  I think that is not right.  In the archives here or at WT:NPP (I can't remember for sure), there have been discussions about whether AfC reviewers should mark their accepts as reviewed, and I think opinions went both ways.  I don't have a strong opinion on this, I think there are weak arguments both ways. SmokeyJoe (talk) 00:25, 11 November 2021 (UTC)
+Personally I have always liked that we could give AfC to people who we couldn't give NPR to because there would still be the NPP check. Best, Barkeep49 (talk) 01:30, 11 November 2021 (UTC)
+@SmokeyJoe and Barkeep49:, I  think it is quite obvious that  AfC reviewers should definitely  not be passing their own reviewed articles at  NPP. That would defeat the whole purpose of having the additional safety net of NPP -  and leave the place open for scandals like the  Eostrix/Icewhiz one, who was blithely  posting pieces of authoritative advice for NPP right up until he was pre-desyoped and banned. That  said, there has been a lot  of abuse at  NPP recently; well, either that, or the community  is getting  better at  catching  it. There needs to  be a script  or a filter, or whatever, such  as: Sorry, as AfC and New Page reviewer, you can't assess this article at NPP.  The NPP process is the higher authority, even if the reviewers were to be  merged. On our work with Marshal Miller of the WMF who did an excellent job at the AfC Process Improvement we started with DGG and Espresso Addict, Primefac, and ICPH, et al., the Special:NewPagesFeed already includes a live feed for AfC drafts.
+That's one of the reasons why  at  WT:NPR users are now calling for a complete rebuild of the NPP code base to  make the feed and the curation tools (whose GIUs are fine, BTW) conform to the norms of a WikiMedia extension to make it Wiki-agnostic. It  would then be much easier for the devs to upgrade as new features become organically necessary.  AfC and NPR both need revisiting again by people like reliable and AfC/NPP-friendly WMF devs such as MusicAnimal , DannyH (WMF),  and Marshal, who have helped us here in the past. Kudpung กุดผึ้ง (talk) 01:53, 11 November 2021 (UTC)
+While I like the double review benefit of AfC/NPP, and am on team "don't patrol own reviews" (which as an admin with AP actively requires depatrolling), I do accept the position of reviewers who do feel that the review is sufficiently rigorous for them to be able to do both, and that it actually does cause very few to slip through the net, while avoiding a duplication of efforts. Both arguments have weight, and currently BK49 is correct that the consensus is to allow those with both userrights to make their own judgement on the issue. Nosebagbear (talk) 10:41, 11 November 2021 (UTC)
+I'm not around as much as I used to be, Nosebagbear, so I obviously missed both the RfC and Barkeep49's comment.  Could you point me to them please.  Kudpung กุดผึ้ง (talk) 23:35, 11 November 2021 (UTC)
+Thank you for the ping Kudpung. Now From my perspective there isn’t a tougher perm/duty than NPP to say otherwise is statistically incorrect. Let’s talk about time used up, as NPP is the first mechanism against what ought not to be on mainspace, when we observe an article we check for copyright violations, if it comes back as clean, we move on, if not we tag accordingly, if the copyvio is minimum we ask for a revdel, having done so we move to check for promotional content in the article, if it is an ADMASQ we tag for a G11, if the promotional content is minimum we manually assist the article creator in re-wording parts of the article, having done so we move to check if the article is a duplicate, if so we tag with the relevant CSD tag, note that all of this is done prior a notability check. If all those are “clear” as aforementioned we then have to check to see if the article is notable enough or meets the required SNG, note that NPR's have(or ought to have) a very extensive knowledge on reliable sources and it’s intricacies, for example a reliable source isn’t the same as a reliable piece. if the relevant SNG or GNG isn’t met we have to nominate the article for deletion wherein we give a detailed rationale on why it is being nominated for deletion, we do a tedious WP:BEFORE, news, books, journals, google and whatnot. Now moving to marking as reviewed, when an article is accepted we have to add relevant categories, use Rater, leave a message for the article creator, tag accordingly if need be &amp; all the aforementioned I stated above are but a tip of the iceberg, @SmokeyJoe do you see the arduous tasks we have to undergo before marking as reviewed? Juxtaposed with AFC do you see how implausible it is for AFC to be tougher than NPR? Furthermore, you mentioned that the Teahouse doesn’t work so well, I believe 331dot &amp; Nick Moyes would disagree with you. Furthermore you tackled Primefac on a mistake they made genuinely? It’s a good thing the perfection bar is impossible to attain. Lastly, NPR are also major defense against undeclared paid editing, all put together is a no-brainer as to which is more arduous. Celestina007 (talk) 21:03, 11 November 2021 (UTC)
+User:Celestina007 I would describe your description of NPR tasks as "several", not arduous.  I think arduous depends on what you like to do.  At the risk of being criticised for being sloppy, my preference in NPReviewing as reviewed (approved) is to leave categorisation to people who care about categorisation (not that I don't care, but others care more).  I keep all reviewed articles on my watchlist, and I see them being categorised soon, by familiar names who are categorisation aficionadas. What's "Rater"?  I only leave a message for the author if they are new.  And I tag only as necessary, thinking that over-tagging is worse than not tagging at all.  If it doesn't *need* to be fixed, it doesn't *need* an ugly reader-disturbing project hatnote.  Mostly, I consider necessary maintenance tags to be borderline to sending to AfD.
+WP:BEFORE is hard work for topics that are not my interest, which is why I skip topics are not my interest, at all of AfD, AfC and NPR.
+On the Teahouse. Where it doesn't work is where the newcomer never posts at the Teahouse.  I have some knowledge of newcomers drawn to Wikipedia in editathons, where clearly, the attrition rate of their contributions never getting out of draft space is too high.  I think the Teahouse is good, but it is not so good at welcoming newcomers into the community.  Instead, I think newcomers should engage the community by editing mainspace, and then on article talk pages, long before they attempt to draft new topics.  A different line of thought.
+Did I tackle User:Primefac?  I apologise again and will try to be more gentle.  When I wrote, I did not realise that we were talking about a mistake, I was thinking something entirely different, mistakenly, and now probably best forgotten.  I have full confidence in Primefac.
+What I consider arduous about AfC is my perceived need to explain to the newcomer, who has little idea, why all that effort they have recently expended should be abandoned as a waste of time.  Or instead of "arduous" do I mean "depressing"? SmokeyJoe (talk) 04:46, 12 November 2021 (UTC)
+@SmokeyJoe, This right here is Rater an imperative script for new page reviewing. Arduous literally means involving or requiring strenuous effort but we shall keep semantics aside for the sake of a constructive conversation. I’m afraid the problem between what I have described above and your response is idiosyncrasy or should I say training, although I must confess that I am not perfect but any new page reviewer who isn’t categorizing, rating, tagging(if needed), doing a thorough WP:BEFORE and most of what I already described isn’t reviewing properly and that is a factual statement. As for the Teahouse and “new editors not posting there” that is a factual inaccuracy. In-fact i rarely ever see  regulars seeking for assistance as most people who need help are new editors who come straight from AFC and a quick glance at the Teahouse substantiates my claim. Although leadership there is decentralized (and rightfully so) I believe Nick Moyes, 331dot &amp; Cullen328 are closest to the “leaders” there and they can attest to the efficacy of the Teahouse in grooming new editors. Now back to AFC, look SmokeyJoe, i understand your point which if I’m reading this correctly is that the current threshold for granting AFC is low and you want the bar set to a higher standard right? You aren’t necessarily incorrect, I believe you can expatiate on this point without over simplifying NPP. Celestina007 (talk) 17:14, 12 November 2021 (UTC)
+"I’m reading this correctly is that the current threshold for granting AFC is low and you want the bar set to a higher standard right?"
+No.  I misunderstood something and was asking for AfD experience to be given the respect that it is. SmokeyJoe (talk) 22:30, 12 November 2021 (UTC)
+User:Celestina007, on NPReviewers not categorising being non-proper, I disagree, and with experience on the matter.  A new article not being fully categorised is not a major problem.  Categories are a Wikipedian's tool; very very few readers use categories, so categorising is less urgent than reviewing itself. And miscategorising makes far more work than not categorising.
+Regarding Wikipedia:New_pages_patrol#WikiProject_Sorting and Rater, I disagree more.  New page patrollers assigning WikiProject banners is a big cause of the demise of WikiProjects.  From the perspective of the WikiProject, it removed the job of new page patrol for new articles within their scope. It removed WikProject member's central and most important job, watching and managing the scope of the WikiProject.
+Concerning inactive WikiProjects, the current practice of tagging new article talk pages with their banners, it is a disservice to all.  If gives the impression that the WikiProject cares about the article and has noted its creation.
+I believe that you should never add a WikiProject tag, unless you are a member of that WikiProject.
+I do agree with doing a thorough WP:BEFORE before nominating at AfD, and that to NPReview you should be prepared to nominate at AfD.  Certainly, you should be capable of making a quality AfD nomination.  However, I do not think it is criminal to skip articles, without touching them, if you choose not to accept them.  I think it is OK skim the list looking for easy approvals, even if it can be said that dealing with the unacceptable new articles is more important. SmokeyJoe (talk) 23:07, 12 November 2021 (UTC)
+@SmokeyJoe, Thanks for the response, now whilst I may not agree with some of your points, I do not believe they are necessarily incorrect, it is just perspective, Generally speaking, I think academy trained new page reviewers and reviewers who applied for the perm and got it outrightly may not agree on certain things. In the end I believe this has been an intellectually stimulating conversation, on a basic level I concur with some of your points and disagree with the others. At this juncture I’m not sure what to add anymore. DGG also makes excellent points. Celestina007 (talk) 17:58, 13 November 2021 (UTC)
+SmokeyJoe , I see much of it the way you do. The most difficult parts are not the articles, but the people--trying to figure out what it is appropriate to say, and how to say it. Thee are new users who ought to receive all the help we can give them; there are obvious upe socks on whom explanations and attention are counterproductive.  Learning how to do this take primarily not mastery of the rules, but judgment and experience.  We can teach people tricks, and ask them to watch how we use them,  and correct their beginning misjudgments, but in the end it's they who musst develop their understanding. This is why I think we may be better with a relatively small group of people who specialize in this process--a beginner can do altogether too much harm, and someone who does this infrequently will lose the feel for it. We do have such a core group now, but it's too small. We need more people prepared to devote perhaps several hours a week to it, not go in a few times a month. Other WP  processes are similar--I realized very earlier I would either have to learn a great deal about copyright, or let others do the non-obvious; similarly for categories, and images, and spi and dozens of other specialties. (This is the same problem as that swith admins, who use the tools only infrequently).
+Even for someone who's a regular here, like those in this discussion, we need to realize we need to specialize further at least to some extent. I don't judge drafts (or articles--all this applies equally to NPP as to AFC)for which I don't know the standards; I don't engage with people who I know won't understand the way  I do things. I don't think it's a good idea to go into the queue and do successive random articles--one should go in, and find those that make sene to work on, while still giving oneself a little variety and a little scope for extending one's competence--and still having people who take their turn at cleaning up the ones so ambiguous that no one wants to take them on.  I'm pleased to  see an increasing number of AFC reviewers just leaving comments, but letting another reviewer judge.  I leave the Nigerian celebrities to Celestina. She leaves the professors to me.
+I agree newcomers ought to edit mainspace first, and not just the minimum number of edits. Good editathons and classes have learned this--to direct the beginners to improving existing articles. Many people, in perfect good faith and not single purpose editors in the usual pejorative sense, come here to write something particular that they know of, and it can be difficult to persuade them to be around a while first and practice before they do what's important to them.   DGG ( talk ) 07:39, 12 November 2021 (UTC)
+AfC submission wizard ready for general usage[edit]
+
+
+Now that it's been over a year since the initial discussion, I finally got around to writing down some documentation at WP:AFCSW, and kinking out the bugs in the code. 
+
+
+The choices for the "most appropriate category"  can be adjusted from Wikipedia:WikiProject Articles for creation/AfC topic map.json. This aspect is based on Calliopejen1's idea (though I've taken the liberty to tweak some of the choices) which should be useful. 
+
+
+More details are available at WP:AFCSW. Please give it a whirl and post any feedback or bug reports here. Links:
+
+enwiki:  Wikipedia:Articles for creation/Submitting
+testwiki: Wikipedia:Articles for creation/Submitting – feel free to make any test submissions here. The whole wiki exists just for testing purposes. Draft:Sandbox, Draft:Sandbox2, Draft:Sandbox3 are available here.
+
+
+We could then look into replacing the existing links to the subst:void preload with this tool. – SD0001 (talk) 19:32, 23 October 2021 (UTC)
+
+@SD0001 My only reaction is to be impressed  FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 19:51, 23 October 2021 (UTC)
+I think I broke it, though!
+"An error occurred (tpt-target-page: This page cannot be updated manually. This page is a translation of the page Advanced question settings and the translation can be updated using the translation tool.). Please try again or refer to the help desk. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 19:55, 23 October 2021 (UTC)
+Not really, you tried to submit the page testwiki:Advanced_question_settings/vi, and as the error says, you can't do that because translation pages aren't edited like that (and so there wouldn't be any way to fix such issue). We don't use the translate extension, so an error like that would never happen. Dylsss(talk contribs) 22:18, 23 October 2021 (UTC)
+Have tweaked the script so that it only allows submission of pages in draft and user spaces. – SD0001 (talk) 07:02, 24 October 2021 (UTC)
+Exciting!! I'm happy that this will get many good-faith contributors' articles sorted out and hopefully dealt with on a fast track compared to all of the junky BLP/product/company articles. Calliopejen1 (talk) 18:28, 26 October 2021 (UTC)
+Great job with this. Very impressive. Idea: this might be a good place to try to explain GNG and sources to newcomers. Some kind of notice such as Please be aware that not all topics qualify for a Wikipedia article. With some exceptions, most articles require three top notch sources with multiple paragraphs of detail about the subject. Newspapers, books, and academic journal articles are usually good. Blogs, company websites, and personal websites are not acceptable. You should not spend a lot of effort writing an article until you have discovered and included these sources. Planting this seed early could eliminate a round or two of declines. –Novem Linguae (talk) 18:48, 26 October 2021 (UTC)
+I'm not sure about the wording, though that's an interesting idea. It would have made a lot of sense to show at a place where the user is starting a draft, but here the user is submitting instead. Anyway, I've made a list of this and other ideas at WP:AFCSW#Ideas for future consideration. I think we can discuss each individually at some stage. – SD0001 (talk) 17:29, 30 October 2021 (UTC)
+Likewise, there are probably more places where the current wording used may not be the most optimal. I've pulled all of these strings out of the main logic (see line 43 onwards) – this will help to make changes in them with lesser chance of breaking the script. (Ideally, these should be moved to a separate JSON page, but that would make the wizard slower to load.) – SD0001 (talk) 17:35, 30 October 2021 (UTC)
+As it's been nearly a week, thinking about starting to link this from the templates. We could begin with {{Draft article}} as that has the least number of transclusions (the others being {{Userspace draft}}, {{AfC submission/draft}} and {{AfC submission/declined}}). The script is still being sourced from my userspace –&nbsp;which is not a great idea – but hopefully acceptable for a little while more as it will help me to fix any issues quickly. – SD0001 (talk) 17:43, 30 October 2021 (UTC)
+I went ahead and edited {{draft article}}. Could a passing admin apply some protection (ECP or TE should be fine) to WP:Articles for creation/Submitting and WP:WikiProject Articles for creation/AfC topic map.json? (ping @Primefac or @Enterprisey). If no issues are reported in a couple of days, {{Userspace draft}} can be edited to the same effect, followed by the big ones –&nbsp;AfC submission subtemplates – after a couple of days more. – SD0001 (talk) 09:49, 3 November 2021 (UTC)
+Not sure if high protection is necessary, but the pages are on my watchlist and the first time something goes awry I'll bump protection. Primefac (talk) 10:13, 3 November 2021 (UTC)
+Quick follow-up to note that the AfC submission templates have been edited to point to the wizard, a few days ago. Everything appears to be going smoothly. Thanks to everyone who helped with testing and reporting issues! Suggestions for new features in the wizard can be discussed in a new section on this talk page or on WT:AFCSW. – SD0001 (talk) 10:10, 14 November 2021 (UTC)
+Are these articles really B class?[edit]
+
+
+Does it make sense to say these articles are in the top 2% of articles accepted? User talk:203.213.77.100 They are pretty short,  and a lot of the text is identical between the articles. —Lights and freedom (talk ~ contribs) 18:12, 26 October 2021 (UTC)
+
+Have you asked Lazy Maniik why they made that series of decisions? Primefac (talk) 18:17, 26 October 2021 (UTC)
+
+
+No, I just asked here to bring this to the attention of more experienced people. I don't think their ratings are reasonable,  but I also don't have enough experience to tell them what the ratings should be. —Lights and freedom (talk ~ contribs) 18:52, 26 October 2021 (UTC)
+
+Just now I changed all these to stub. The personal scale I use is stub 1-5 paragraphs, start 6-14 paragraphs, C 15+ paragraphs, B never (I let the WikiProjects handle this, they often have specific criteria similar to GA). Those thresholds are not spelled out in policy and there is some flexibility, but I think we can agree that a 7 sentence article should not be rated B-class. –Novem Linguae (talk) 18:56, 26 October 2021 (UTC)
+I would agree with the ORES ratings that these are all stubs and not close to B/C class. Also other issues such as Major Powell (disambiguation) is not a B it's a dab class. I suggest Lazy Maniik needs to re-review Wikipedia:WikiProject Articles for creation/Assessment. Use https://ores.wikimedia.org/ui/ if your not sure. KylieTastic (talk) 19:04, 26 October 2021 (UTC)
+@KylieTastic I think many of us would appreciate an education in ORES. I have never been shown the term until today. I have reviewed by gut feel, and almost never assessed a draft as C, and never higher. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 20:28, 26 October 2021 (UTC)
+Timtrent it would be good if the AFCH tool did the ORES check when accepting to give reviewers an indication of class. It's been one of those 'todo' items I've  never got around to doing anything about. KylieTastic (talk) 22:18, 26 October 2021 (UTC)
+Lazy Maniik, I am not sure if this is made known to you. There is this userscript User:Evad37/rater.js (docs: User:Evad37/rater) which pulls out the ORES ratings onto an interface for you to populate into the various wikiprojects. As a ballpark, my ratings are typically one rating below the ORES rating if the ORES rating is of &lt;50% confidence. Even if it is above 50%, they being evaluated against the standard quality metrics. As such, Bs are seldom given due to the typical quality that we see drafts have. – robertsky (talk) 20:14, 26 October 2021 (UTC)
+I'm a little concerned by some comments here: with the possible exception of B-class (which has a six-point checklist), ratings are better left alone than given conservatively (e.g. marking something as Start when it's "at least Start-class", but actually C-class) so members of interested WikiProjects can see which articles they need to rate. Additionally, ORES should never be the sole basis for a rating: there should always be human assurance that an article does meet the class descriptors you are rating it as. — Bilorv (talk) 23:13, 26 October 2021 (UTC)
+Bilorv what do you mean "better left alone" the AFCH tool asks for our project assessment - so we are the "interested WikiProject". If you mean the additional projects then yes if your not confident in assessment leave. However not all projects bother to rate and the class system is general enough for people outside of most projects to rate, but if in doubt I agree leave for others. Also I generally leave the importance as that means the projects still come to assess. Yes ORES should not be used blindly, but it's a good indicator especially for newer editors. If it says 79% Stub, 1% B and you were thinking B then your almost certainly wrong. Also people should look at all the ORES scores because it's not just the highest percentage but the spread - 50% C, 25% Start, 25% Stub is different from 50% C, 30% B, 20% GA. KylieTastic (talk) 09:30, 27 October 2021 (UTC)
+@KylieTastic: you can leave the project assessment blank and still accept a draft, and doing so is preferable to giving an incorrect (e.g. too conservative) assessment. This is because editors like me often survey the lists of unassessed articles for WikiProjects we are interested in (of which WPAFC is of course one) and assess the articles. Giving a bad assessment removes it from the list.  In my experience, ORES is very surprising in how often it is right, but since it is using a number of crude factors like "number of references" and "infobox present", it will overestimate articles that look impressive at first glance but fall apart when you inspect them (such as those with mostly unreliable sources, or poor-quality writing). Editors should bear in mind that it is descriptive, not prescriptive i.e. it is aiming to describe the conclusion you will come to independently, not to influence your conclusion. — Bilorv (talk) 11:05, 27 October 2021 (UTC)
+@Primefac, Timtrent,  and Robertsky: Yes! I was accepted 7 articles yesterday, but I don't know about the correct rating. and i don't know about it user:evad37/rater.js i know i'm not good afc reviver and i'm sorry for that and please give a chance to rectify the mistake.Best Regards.---✨LazyManiik✨ 12:26, 27 October 2021 (UTC)
+@Lazy Maniik If you find a task is too difficult please leave it to one side. Someone else will pick it up.  FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 12:46, 27 October 2021 (UTC)
+Timtrent what do you want to say? and what shall I leave. Best Regards.---✨LazyManiik✨ 13:04, 27 October 2021 (UTC)
+@Lazy Maniik I apologise, I felt I was clear. As an example, while it is customary to rate a draft on acceptance, it is not mandatory. If you find you are unable to offer a rating you believe is appropriate it is acceptable to leave it unrated, secure in the knowledge that someone will rate it in due course. This should not be your default, nor your usual action.
+Similarly, we do not have to offer a review just because we have opened a draft. We may close it again and leave it for another reviewer.
+Thus I said, using far fewer words, "If you find a task is too difficult please leave it to one side. Someone else will pick it up" FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 13:08, 27 October 2021 (UTC)
+Timtrent thanks for answering me. Best Regards.---✨LazyManiik✨ 14:29, 27 October 2021 (UTC)
+Note that Lazy Maniik has been blocked as a sock - below is a list of there reviews KylieTastic (talk) 13:41, 29 October 2021 (UTC)
+
+
+Draft Title
+comment text
+
+
+Draft:Rishi_Raj
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:TheFork
+Declining submission: adv - Submission reads like an advertisement (AFCH 0.9.1)
+
+
+Draft:Michael_Thomas_White
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines (AFCH 0.9.1)
+
+
+Draft:The_Awesome_II
+Declining submission: v - Submission is improperly sourced (AFCH 0.9.1)
+
+
+Draft:Alan_Singh
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines (AFCH 0.9.1)
+
+
+Draft:Jayanti_Ramayya_Pantulu
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines (AFCH 0.9.1)
+
+
+Draft:Te_Anau_Time
+Declining submission: npov - Submission is not written in a formal, neutral encyclopedic tone (AFCH 0.9.1)
+
+
+Draft:Castle_of_Purity_(criminal_case)
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Aai_Majhi_Kalubai
+Declining submission: ilc - Submission is a BLP that does not meet minimum inline citation requirements (AFCH 0.9.1)
+
+
+Draft:Bahjat_Yahya
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines and adv - Submission reads like an advertisement (AFCH 0.9.1)
+
+
+Draft:Khushali_Kumar
+Declining submission: npov - Submission is not written in a formal, neutral encyclopedic tone (AFCH 0.9.1)
+
+
+Draft:Noah_Wolf
+Declining submission: adv - Submission reads like an advertisement (AFCH 0.9.1)
+
+
+Draft:Anirban_Mitra
+Declining submission: nn - Submission is about a topic not yet shown to meet general notability guidelines (be more specific if possible) (AFCH 0.9.1)
+
+
+Draft:Miraheze
+Declining submission: npov - Submission is not written in a formal, neutral encyclopedic tone and v - Submission is improperly sourced (AFCH 0.9.1)
+
+
+Draft:Jada_Kumaran
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines and ilc - Submission is a BLP that does not meet minimum inline citation requirements (AFCH 0.9.1)
+
+
+Draft:KnoBee_Social_India_Private_Limited
+Declining submission: corp - Submission is about a company or organization not yet shown to meet notability guidelines (AFCH 0.9.1)
+
+
+Draft:Birajai_Temple
+Declining submission: adv - Submission reads like an advertisement and npov - Submission is not written in a formal, neutral encyclopedic tone (AFCH 0.9.1)
+
+
+Draft:Biological_Inequity
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Mehdi_Hassani
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines (AFCH 0.9.1)
+
+
+Draft:Smile_(Benjamin_Ingrosso_song)
+Declining submission: music - Submission is about a musician or musical work not yet shown to meet notability guidelines (AFCH 0.9.1)
+
+
+Draft:Mirzapur_(soundtrack)
+Declining submission: cv - Submission is a copyright violation (AFCH 0.9.1)
+
+
+Draft:Anu_Gupta
+Declining submission: cv - Submission is a copyright violation (AFCH 0.9.1)
+
+
+Draft:Kalki_Jayanti
+Declining submission: nn - Submission is about a topic not yet shown to meet general notability guidelines (be more specific if possible) (AFCH 0.9.1)
+
+
+Draft:Emily_Austin_(Television_Personality)
+Declining submission: cv - Submission is a copyright violation (AFCH 0.9.1)
+
+
+Draft:K._Bhavani_Shankar
+Declining submission: npov - Submission is not written in a formal, neutral encyclopedic tone (AFCH 0.9.1)
+
+
+Draft:Gaurav_(filmmaker)
+Declining submission: npov - Submission is not written in a formal, neutral encyclopedic tone (AFCH 0.9.1)
+
+
+Draft:Kartikay_Saini
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines and adv - Submission reads like an advertisement (AFCH 0.9.1)
+
+
+Draft:Annaatthe_(soundtrack)
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Pankaj_S_Sharma
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines and adv - Submission reads like an advertisement (AFCH 0.9.1)
+
+
+Draft:Crisis_(2021_Drama)
+Declining submission: npov - Submission is not written in a formal, neutral encyclopedic tone (AFCH 0.9.1)
+
+
+Draft:Major_Powell_(disambiguation)
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Janath_Sri_Vidanage
+Declining submission: npov - Submission is not written in a formal, neutral encyclopedic tone and v - Submission is improperly sourced (AFCH 0.9.1)
+
+
+Draft:Abbas_Yusuf
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines and This subject does not match WP:BIO and WP:NMUSICIAN? (AFCH 0.9.1)
+
+
+Draft:British_and_Romanian_Royal_Families
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Lixus:_The_“Temples_quarter”
+Declining submission: mergeto - Submission should be merged into an existing article (AFCH 0.9.1)
+
+
+Draft:Buddhist_Recovery_Network
+Declining submission: nn - Submission is about a topic not yet shown to meet general notability guidelines (be more specific if possible) (AFCH 0.9.1)
+
+
+Draft:Coonong,_New_South_Wales
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Sydney_International_School_of_Technology_and_Commerce
+Declining submission: corp - Submission is about a company or organization not yet shown to meet notability guidelines and v - Submission is improperly sourced (AFCH 0.9.1)
+
+
+Draft:Goolgumbla,_New_South_Wales
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Star_Wars_(2013_comic_book)
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Tindeanda,_New_South_Wales
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Singoramba,_New_South_Wales
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Pelora,_New_South_Wales
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Pregnancy-related_anxiety
+Declining submission: essay - Submission reads like an essay (AFCH 0.9.1)
+
+
+Draft:The_Underground,_New_York_City
+Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines (AFCH 0.9.1)
+
+
+Draft:Shakeel_Ahmed_(scientist)
+Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+I think declines should just be reverted to go back into queue for proper review. Others though... —&nbsp;&nbsp;HELLKNOWZ&nbsp;&nbsp;&nbsp;▎TALK 17:36, 29 October 2021 (UTC)
+@Hellknowz Each needs to be handled on its merits. I'm pottering though some of the declines.   FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 08:30, 31 October 2021 (UTC)
+I have run out of time. I started at the end, and got up as far as Draft:Kartikay_Saini
+A surprising number of the declines have been valid.  Where they have been resubmitted already I have left them alone. Where they are invalid I have reverted the decline. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 08:39, 31 October 2021 (UTC)
+May I please be moved from "probationary" reviewers to "active" reviewers?[edit]
+
+
+I have been AFC reviewing for quite a few months now, and I think I am familiar with the reviewing methods, so I think I am ready to be put on the "active reviewer" list. May you please move my name there? Thanks! Félix An (talk) 22:51, 28 October 2021 (UTC)
+
+@Primefac:, have you seen this??--Comr Melody Idoghor (talk) 11:04, 3 November 2021 (UTC)
+The short answer is yes, I have seen it, and no, I have not had time to evaluate it. That being said, I do not want to be "the gatekeeper" of AFC, so if other people want to give their opinions on whether shifting from probationary to full is a good idea in this case, please feel free to do so. Primefac (talk) 11:08, 3 November 2021 (UTC)
+I think that Félix An should be encouraged to do more participation at WP:AfD so that this AfD analysis tool can be used to look at his understanding of reasons that articles are kept or deleted. SmokeyJoe (talk) 13:11, 3 November 2021 (UTC)
+We're reviewing their AFC history, not encouraging them to apply. AFD stats will do nothing to determine whether they have been reviewing in line with our general expectations. Primefac (talk) 13:12, 3 November 2021 (UTC)
+There’s no need for dramatic sighs. AfC general expectations include the assumption that the reviewer understands AfD. I reviewed his five AfDs, they’re ok, neither good nor bad. How does one find his AfC reviews? SmokeyJoe (talk) 13:49, 3 November 2021 (UTC)
+Review information for any user is at https://apersonbot.toolforge.org/afchistory/ (direct link to FA is after the table below), just type in their username. One of these days I'm actually going to find somewhere to put this link so that it's useful for things like this (and so that I don't keep having to search through my browser histories to find it). Primefac (talk) 13:55, 3 November 2021 (UTC)
+User:Primefac - User:SmokeyJoe is focusing on AFD performance because SmokeyJoe has a reasoned but idiosyncratic opinion that AFD experience is an important precondition to being an AFC reviewer.  They have mentioned this viewpoint frequently in passing, but it hasn't been discussed in depth, possibly because it isn't the view of most other reviewers, who don't notice this emphasis.  Maybe a separate discussion with User:SmokeyJoe is in order, because I think that this is their personal opinion rather than that of the project, and so it may require more discussion.  Robert McClenon (talk) 16:02, 3 November 2021 (UTC)
+AFD experience is an important precondition to being to be highly recommended before becoming an AFC reviewer. SmokeyJoe (talk) 22:23, 3 November 2021 (UTC)
+Thanks User:Primefac, and User:Enterprisey.
+I have added this tool to Wikipedia:Tools#User edit counts and analysis SmokeyJoe (talk) 22:33, 3 November 2021 (UTC)
+To assist anyone who would like to do a review for feedback these are the reviews in the last 120 days. KylieTastic (talk) 13:47, 3 November 2021 (UTC)
+1-5 look ok to me.  #1 no one gives pertinent feedback about the non-independent sources being useless at getting it passed.  I’m not sure about #5, but I think it is better accepted.  He does some editing post acceptance, which is good. SmokeyJoe (talk) 13:58, 3 November 2021 (UTC)
+
+
+title
+comment_text
+
+
+Draft:Y.M.Cinema_Magazine
+Declining submission: web - Submission is about web content not yet shown to meet notability guidelines (AFCH 0.9.1)
+
+
+Draft:Sopnendu_Mohanty
+Félix An moved page Draft:Sopnendu Mohanty to Sopnendu Mohanty: Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Dontsov,_Andrey_Vladimirovich
+Declining submission: v - Submission is improperly sourced (AFCH 0.9.1)
+
+
+Draft:Roseville_Presbyterian_Church
+Félix An moved page Draft:Roseville Presbyterian Church to Roseville Presbyterian Church: Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Dak_Taka
+Félix An moved page Draft:Dak Taka to Dak Taka: Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Arun_Omana_Sadanandan
+Declining submission: v - Submission is improperly sourced (AFCH 0.9.1)
+
+
+User:Prasionella/sandbox
+Félix An moved page User:Prasionella/sandbox to Cladostephus hirsutus: Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:List_of_psychological_laboratories
+Félix An moved page Draft:List of psychological laboratories to List of psychological laboratories: Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Luca_Formentini
+Declining submission: adv - Submission reads like an advertisement (AFCH 0.9.1)
+
+
+Draft:1986–1987_John_Deere-UAW_labor_dispute
+Félix An moved page Draft:1986–1987 John Deere-UAW labor dispute to 1986–1987 John Deere-UAW labor dispute: Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:2022_Deutsche_Tourenwagen_Masters
+Félix An moved page Draft:2022 Deutsche Tourenwagen Masters to 2022 Deutsche Tourenwagen Masters: Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Gordon_Bradt
+Félix An moved page Draft:Gordon Bradt to Gordon Bradt: Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+
+Draft:Independent_Expert_Panel
+Félix An moved page Draft:Independent Expert Panel to Independent Expert Panel: Publishing accepted Articles for creation submission (AFCH 0.9.1)
+
+Full review history is at https://apersonbot.toolforge.org/afchistory/?user=F%C3%A9lix%20An Primefac (talk) 13:50, 3 November 2021 (UTC)
+
+
+@Primefac: We are talking about reducing the current backlog and a user who has been in the project for "some months" only reviewed 28 drafts and now asking to be an active reviewer. While joining this project, many of us stated that we are joining to help "reduce the backlog", but instead, it keeps increasing despite many participants. Well I guess it's fine. -- Comr Melody Idoghor (talk) 19:40, 3 November 2021 (UTC)
+
+It's certainly something I'm considering, but if they're doing good work, every bit helps (i.e. it's not like we're going to kick them off the project). Primefac (talk) 20:42, 3 November 2021 (UTC)
+I'm not sure how much discussion we want to spend on this. It's turning into a mini-RFA. Doesn't Primefac quietly and automatically take people off probation around 6 months? Could just wait for them to do their next batch. –Novem Linguae (talk) 20:47, 3 November 2021 (UTC)
+My request for others to review was mainly to point out any glaring issues or errors; I always appreciate extra eyes on stuff like this. Primefac (talk) 21:10, 3 November 2021 (UTC)
+@Primefac: I'm not saying we should kick them off the project, but at least they should show some activeness/seriousness before requesting the topic of this discussion. Even if their 6 months probation is complete, it should be extended for them to show their seriousness. --Comr Melody Idoghor (talk) 22:00, 3 November 2021 (UTC)
+Professors with poor sourcing[edit]
+
+
+Looking for a 2nd opinion. Would you guys accept or decline these? Professors with h-index of 30. Multiple sources but they are not good sources: problems with independence, self-publish, etc. Draft:James E. Owen. Draft:Zvi Lotker. –Novem Linguae (talk) 11:31, 30 October 2021 (UTC)
+
+Presuming that they're both notable, I would probably accept Zvi Lotker because the key piece of information comes from his university. While this is not an independent source, it's certainly reliably, which is all we need once notability is established. In the case of Owen, there are some self-published CVs in there, so I understand you're hesitant. If you want to sidestep the problem, you can always trim the draft, only keeping the well-sourced bits and then accept it as a stub. Modussiccandi (talk) 12:12, 30 October 2021 (UTC)
+Draft:James E. Owen?  No.  H-index = 30 is maybe, a clean yes I expect &gt; 40.  (&lt;20 is a definite no). (I know DGG has disagreed).  No because he is not a professor, Senior Lecturer is not Professor. I feel comfortable with declining due to the poor quality (for Wikipedia) sources.  He is known for Small planet radius gap, but that article while mentioning his name does not mention him enough.  I would !vote “delete” at AfD. —SmokeyJoe (talk) 13:10, 30 October 2021 (UTC)
+Draft:Zvi Lotker, similarly, no.  SmokeyJoe (talk) 13:24, 30 October 2021 (UTC)
+h factor is an absurd criterion. An h factor of 30 could mean 5 publications with 300 references each and 25 with 30, or it could be 30 publications with 30 references each. The first situation is a factor for notability, the second isn't. A formal self published CV is usually the same as the one on the university site, one written for a conference or talk published with a conference paper or talk is however unreliable.  Owen's cv if you actually look at it, is on the official university site. It's his official cv. To evaluate references, you need to actually examine them, or at least click on the link and see where they go. If he's not mentioned or cited in our article on his subject, he should be, and this will be a good time to do it  His citation figures are 467. 392. 302..... He is unquestionably notable. Zvi Locker's article citations are 262, 235, 233.... He too is certainly notable. FWIW, Senior lecturer is systems like the UK is equivalent to Associate Professor, and may of may not be notable
+SmokeyJoe, later today I will fill in the data and accept these people, and this week if I have time I may check your other acceptances and declines of academics as far back as I can go. If I find any notable and accept them, you can challenge them at AfD. That's where the argument should be continued.
+Novem Linguae, to see what counts as notable in this field, (or any other), follow a few at afd, because that's where the criteria are interpreted. -- DGG ( talk ) 17:11, 30 October 2021 (UTC)
+H-factor is not absurd, but has a very strong correlation with whether it is kept at AfD, because it has a vary strong correlation with their standing as an academic. Possible skewed distributions notwithstanding.  I’ve never seen an NPROF deletion with H &gt; 40, or a “keep per NPROF” with H &lt; 20.
+On Draft:Zvi Lotker, the five references are non-starters for demonstrating notability.  How you found other sources?  Does he pass a specific NPROF criterion (H index = 31 is not one).
+I most definitely question his notability, and retort that it is absurd to call his notability “unquestionably”. SmokeyJoe (talk) 22:31, 30 October 2021 (UTC)
+User:DGG. I am making an effort to refresh my experience with NPROF sorted AfDs.  I certainly don’t enjoy  !voting delete on good efforts on quality academics, just because the NPROF bar is fairly high.  There people rarely come close to passing the GNG, but leading academics are particularly suitable content for Wikipedia.
+I note that others frequently address the H-index measure.  I think that you are an outlier in your extreme disdain for it, even as a mere quick indicator of likelihood of meeting other criteria.  I did my own study some time ago, and found with confidence that for passing NPROF, H-index &lt; 20 means “no”.  20-40 means “maybe”.  &gt;40 means “yes”.  No one ever is above 40 without many papers cited over 100 times.  No one ever is below 20 with many over 100, unless they also have many GNG sources on their exceptional qualities.  20-40 means careful analysis is needed.  Many with H-index 20-30 have articles, but a lot more don’t.
+Can I ask you to review Wikipedia:Articles for deletion/Ali Abkar as one of these difficult ones.  Can I also ask User:David Eppstein for his particular expertise with mathematics academics?
+I don’t deny there are complicating factors, like first authorship, and gift authorship on a methods paper, and field bias.  I have doubts, however, that field bias is a bad thing, I think that fields that multi-author a lot are more notable than fields that don’t. SmokeyJoe (talk) 03:30, 31 October 2021 (UTC)
+I have now commented at the Abkar AfD, which somehow I missed before. As for Owen, I think the draft can definitely be promoted in its present form despite the junior-researcher nature of the Fowler award; his citation record has a long-enough line of hits to convince me of a pass of WP:PROF#C1 (the top 8-10 papers; going down as far as the h-index does, to the top 30, is too far to be looking). Lotker is more borderline on citation record alone, which to me looks weaker than Owen's especially because he's had much longer to accumulate citations, but the test-of-time award adds to his case, and if published reviews can be found for his new book that would also help. I wouldn't go out of my way to promote the Lotker draft but I would probably end up with a weak keep if it came to an AfD. —David Eppstein (talk) 05:48, 31 October 2021 (UTC)
+Rater and ORES Question[edit]
+
+
+Since the ORES tool and the Rater gadget are mentioned above, I have a question.  I often omit the assignment of a rating to an article when accepting it because I will then finish the acceptance by using the Rater gadget to assign the WikiProjects and the ratings (Stub, Start, Class C).  (I am another reviewer who never assigns Class B to a new article.  Class C is very good for a new article, and a WikiProject can reassess.)  The gadget tells me what rating has the highest percentage.  But how do I see the other percentages?  If it says 45% Start, for instance, what does it say about Stub or Class C?  How do I view the percentages?  (If I can't view them, then I recognize that as a limitation of the tool.)  Robert McClenon (talk) 19:44, 30 October 2021 (UTC)
+
+Robert McClenon to see the full ORES report for all percentages go to https://ores.wikimedia.org/ui/ select enwiki &amp; wp10 and enter the diffid fo the last edit from the history, or just bookmark something like https://ores.wikimedia.org/ui//scores/enwiki/?models=wp10&amp;revids=1 and change the number on the end to the diff. However as mentioned in the previous discussions these are guides only and some human judgement is needed. KylieTastic (talk) 17:57, 31 October 2021 (UTC)
+I propose a "mini" Backlog Drive[edit]
+
+
+With the queue now at over two months I think we need to look at bringing it down to four weeks. While it was fun hitting zero submissions it can be argued that such fast turnaround gives no real time for thought by submitting editors.
+
+
+A mini drive would aim to hit four weeks backlog and then close. Or that is what I am proposing. It is for you to discuss this.
+
+
+I have seen a really pleasant number of new names accepting and declining drafts. I propose that the top ten of reviewers from the July 2021 drive stand aside from being participants. They may continue to review, but do not get any drive credits. I chose ten as the cut off point, I suggest we discuss this. My objective in proposing this is to allow newer reviewers to get more and better experience.
+
+
+Do I/we/you need to set up headings for "support" "oppose" etc or can we do This more simply? FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 17:37, 31 October 2021 (UTC)
+
+Support excellent idea and happy to stand aside. Theroadislong (talk) 17:55, 31 October 2021 (UTC)
+Support anything to encourage others to jump in.... Also I'm attempting to take November off from Wikipedia or at least the never ending jobs such as AfC (I may do some content creation just to chill). KylieTastic (talk) 18:00, 31 October 2021 (UTC)
+Support The backlog keeps increasing on a daily. I really support this! --Comr Melody Idoghor (talk) 18:16, 31 October 2021 (UTC)
+Support, with focus on quality reviews and non-competitiveness, if possible. I'm worried having things like a leaderboard makes participating in the drive a bit more intimidating, so it might be better to have "benchmarks" instead of an actual ranking? (E.g., "over twenty reviews" instead of "top twenty reviewers") Not sure if this is a great idea in practice, of course—I'm just spitballing. Perryprog (talk) 18:36, 31 October 2021 (UTC)
+I personally enjoyed the leaderboard in the last drive. It created a lot of motivation for me. The motivation to get as high as I could motivated me to do more reviews, rather than just hitting the barnstar thresholds. –Novem Linguae (talk) 22:20, 31 October 2021 (UTC)
+Alternate option I'm genuinely chuffed that the last drive went better than all of the horrors of the previous drives. However, as we have clearly seen following this drive, it doesn't fix the core issue: the rate of change of the backlog has not changed in the last year+ (at least). In other words, even if we do a drive through November and get the backlog down to 4 weeks (or even clear the queue again), we'll be right back up to 8 weeks by New Years (or close to it). Instead of quick bursts of "OMG we need to get this backlog down!" why don't we take the month of November to figure out why we don't see a change in this rate? We have a bit of a data gap between 2018 and 2020 (my fault, I'll admit, but I got tired of keeping data that a) wasn't changing, and b) no one other than me cared about) but at some point during that period we went from keeping fairly consistent reviews (created drafts ≈ reviewed drafts) to what we have now, so back then the backlog never really dropped below ~1500 but it was pretty consistently there.In other words, let's figure out how to change our engagement. Why do our reviewers (currently numbering 627 including probationary) not review more? We've said countless times over the last few months that "if we got each reviewer to review one page a day..." or similar metrics, but we've never actually managed that. Before we can fix that issue we need to know why we're not seeing even 50% return of interest from our community. If we can figure that out, we can get more folks doing reviews, and if we have more reviewers then folks like Kylie don't get burned out trying to manage something that has been clearly demonstrated to be unmanageable at current levels. I'm happy to split this off into a sub-thread or new section entirely, but having been heavily involved with this project since 2015 it's genuinely the only way I can see us making any significant improvements. Primefac (talk) 19:41, 31 October 2021 (UTC)
+I think I average about 20 reviews a day, but I have no idea how to encourage other reviewers to contribute more. I would like to have more time for article creation, but feel guilty if I stop reviewing. Theroadislong (talk) 19:56, 31 October 2021 (UTC)
+Theroadislong, you need to do what's best for you. Everyone needs to remember that Wikipedia is not our job. There's plenty of projects I'd rather be doing as well, but we all seem to be hamstrung by this AfC albatross. —&nbsp;Preceding unsigned comment added by Bkissin (talk • contribs) 15:01, 1 November 2021 (UTC)
+@Primefac If we can figure this out I will support whatever it happens to be as a far better solution that a mini drive. It needs to be motivational. I'm not sure how to achieve that unless it is something mildly competitive.
+Maybe a set of awards for all folk who achieve an average of one per day for 30 days? FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 20:02, 31 October 2021 (UTC)
+We are coming  up against two things: the NPP drive which is for the month of November then various holidays also in November and December.  I think many AfC reviewers are also NPP reviewers so not sure this is best time for an AfC mini-drive, although some stats about how many AfC reviewers are also NPP would be helpful.   I also wonder if a simple, occasional newsletter may be helpful, really as a reminder AfC exists along with asking editors to recommend others to apply.  If we really want to get at why folks do not participate, then we need ask.  Has that type of survey been done before for AfC or something similiar? S0091 (talk) 20:40, 31 October 2021 (UTC)
+Some days it feels like wading through treacle when User:FloridaArmy submits such an enormous quantity of borderline, notable, three sentence articles. Theroadislong (talk) 20:44, 31 October 2021 (UTC)
+Has anyone approached them about exceeding their imposed limit? S0091 (talk) 20:58, 31 October 2021 (UTC)
+I wasn't aware of any limit, but there are many every single day, and often re-submitted within seconds after declining. Theroadislong (talk) 21:08, 31 October 2021 (UTC)
+See the "FA's articles" section above.  It's 20 per an ANI stipulation. S0091 (talk) 21:18, 31 October 2021 (UTC)
+I don't know that approaching them will do any good. Bkissin (talk) 14:38, 1 November 2021 (UTC)
+I'll have a quiet word. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 14:49, 1 November 2021 (UTC)
+It appears to have been well received and borne fruit FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 16:35, 1 November 2021 (UTC)
+Now running at 42, down from the 51 when I left a note. I have hopes, though time will tell. They make a reasonable point about the apparent bias against notable African Americans, but they do not always help combat this when their drafts are too scanty. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 14:33, 5 November 2021 (UTC)
+@Timtrent: They posted a note at WikiProject African diaspora which has bore fruit (now down to 26) and I believe also got us new AfC reviewer so win-win! S0091 (talk) 15:39, 13 November 2021 (UTC)
+@S0091 I think we will all work better with FA on our side. I appreciate immensely the work they do on African Americans whose lives and work have been sidelined yet who are notable
+I've reviewed a few on their current submissions list, too. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 16:34, 13 November 2021 (UTC)
+How many AfC articles are Draftification from mainspace? That's the question that matters to me. Whatever the number is, we should try and make sure it goes down to as close to 0 per month as possible. Stop draftifying articles! If you think they are non-notable, then send them to AfD. If you think they are notable, but the article isn't great, there's so many tags you can use to reflect that. Draftification is not the solution. That's just passing off the work to AfC reviewers because you're too lazy to do the work yourself. The much more minor and more easily done work on your end, I might add. Apologies for the harshness of this comment, NPPers and others, but it's something I've felt strongly about for a while and have commented around here about in the past. SilverserenC 21:35, 31 October 2021 (UTC)
+That's a good question.  I personally agree with the philosophy behind draftication but sometimes what I see is they are resubmitted without any improvement, which is an issue.  I think there is some room for improvement in the messaging when an article draftified at least. S0091 (talk) 21:50, 31 October 2021 (UTC)
+As an AfC reviewer, and non-NPPer, I have to say I don't entirely agree. Draftification can be an excellent solution for many problematic page creations that have some sort of "potential" but also need significant amounts of edits and sourcing. Going through the AfC process also means that the approval of experienced editors before being sent back into the mainspace, which I think is especially important in cases like this. Perryprog (talk) 22:03, 31 October 2021 (UTC)
+See Category:Content moved from mainspace to draftspace - ~1000/month over the last 6 months still have the template, so more than that for those that have the category removed for some reason. KylieTastic (talk) 10:19, 1 November 2021 (UTC)
+If anyway wants to provide diffs of their negative interactions with AfC submitters, that may explain the issues reviewers deal with. Bkissin (talk) 15:01, 1 November 2021 (UTC)
+Support. My preferences would be 1) that it's not in November because of NPP's drive, 2) that everyone be eligible (why exclude our top people? what if they want to participate?), and 3) that 0 drafts in queue be the goal (much more rewarding to hit 0 than to hit 4 weeks). I agree with others that there are endemic problems that cause the queue to keep coming back, but I don't really see any problem with using a couple drives a year to create motivation for people to review. A couple drives a year could potentially be the long-term solution. –Novem Linguae (talk) 22:27, 31 October 2021 (UTC)
+@Novem Linguae I suggested that a group of us step back in order to seek to encourage those who normally stay low on the list. It isn't my intent to exclude anyone, not exactly. Rather I hope to see new names getting glory FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 14:48, 1 November 2021 (UTC)
+I think that's a good idea Timtrent! Let newer users give it a try (and they can reach out to established reviewers with any questions, either in AfC comments or on our talk pages). —&nbsp;Preceding unsigned comment added by Bkissin (talk • contribs) 
+Comment I also think we need more region-specific help. Thankfully, we now have some very good reviewers who are knowledgeable about notability in a Nigerian context (Celestina007, Idoghor Melody, etc.) and I'm sure we have some good reviewers for the Indian subcontinent as well (two regions where we have a lot of drafts, and also a lot of spam). I don't want it to seem like these editors should focus on a particular subject area (they should be free to review any and all articles), but we need their help especially! I don't know which Malayalam movies are notable and which are filled with advertorial content, same with members of the Nigerian and Indian civil service. This will also help combat some of the bias issues we often face. Thoughts from others? Bkissin (talk) 17:21, 1 November 2021 (UTC)
+This has stalled. Please can we bring the discussion to a reaosned conclusion with a good YES or a good NO? FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 14:35, 5 November 2021 (UTC)
+Blank cheque support for any backlog of any form, presumably in December. I do like Timtrent's idea of excluding the top 10 participants of the last drive, because the point of the drive should be to encourage people who are not already prolific reviewers, rather than to burnout the prolific reviewers we have (which is counterproductive). — Bilorv (talk) 13:09, 7 November 2021 (UTC)
+Support and will also stand aside even though I am new to AfC because getting something shinny will not push me one way or the other. Although, it might be fun to have unofficial side challenges not based on the number of reviews. S0091 (talk) 16:14, 7 November 2021 (UTC)
+Interacting Backlogs[edit]
+
+
+There are at least three interacting backlogs of quality control reviews in the English Wikipedia, that need to be considered as aspects of the need for quality control:
+
+The Articles for Creation review backlog.
+The New Page Patrol review backlog.
+The Articles for Deletion closure backlog.
+
+
+At least one of the proposals for dealing with the backlog is really a shift from one backlog to another.  In particular, one editor says that the cause of the AFC backlog is that too many articles are being draftified, and that they should be either tagged or sent to AFD.  That is a plausible argument, but would shift them from NPP to AFD rather than from NPP to AFC.  The disadvantage to moving articles into the AFD closure backlog is that it either requires administrators to delete, or involves non-admin closes to Keep, which isn't the answer if the articles shouldn't be kept.  Many of the AFC reviewers are also NPP reviewers, and many of the NPP reviewers are also AFC reviewers, so that we can look at those two backlogs as two branches of one flooded river.  (Maybe the AFD backlog then is an artificial lake that the flood can be diverted into.)  An AFC backlog drive may increase the NPP backlog, and also diverts volunteer time from other areas of volunteer work.  An NPP backlog drive may increase the AFC backlog, and also diverts volunteer time from other areas of volunteer work.  
+
+
+I don't have an answer, other than to note that we should understand the interaction of these backlogs.  Robert McClenon (talk) 17:43, 1 November 2021 (UTC)
+
+I have a non-obvious thought.  We do not want an AFD backlog drive.  If a backlog of AFDs builds up, we do not want a drive to work off the backlog, because that would increase the reliance on non-administrative closes, and NACs are biased toward Keep and No Consensus.  The damage that we want to avoid is having articles that should not be in the encyclopedia getting Kept in AFD because of biased non-admin closes.  That is just a non-obvious concern.  We don't want to increase the percentage of non-admin closes of AFDs.  Robert McClenon (talk) 17:07, 3 November 2021 (UTC)
+If you had an  AFD backlog drive I think a condition for the period would have to be no NACs. KylieTastic (talk) 17:26, 3 November 2021 (UTC)
+I can't remember if I had done it for the previous backlog drive since it has been a while, but a suggestion: AfC reviewers with NPP rights should help mark new articles as patrolled during their re-reviews. – robertsky (talk) 17:50, 6 November 2021 (UTC)
+2022 Philippine election drafts[edit]
+
+
+Hi, good day! Can someone check if drafts like Draft:2022 Muntinlupa local elections and Draft:2022 Makati local elections are qualified for article space? Thanks. NewManila2000 (talk) 03:45, 4 November 2021 (UTC)
+
+@NewManila2000: The first one was reviewed by Gpkp, while I just declined the second for not meeting General Notability Guidelines. The both drafts needs additional sources for verification. --Comr Melody Idoghor (talk) 04:41, 4 November 2021 (UTC)
+Drafts bypassing WP:ACPERM[edit]
+
+
+I've noticed a tendency recently to see WP:A7 / WP:G11 (or both!) candidates turn up at CAT:CSD, that started off in draft space, then were unilaterally moved to mainspace, bypassing the AfC process. These include Larry Kosilla, Paul Maheke and Big Sailor Baby in just the last ten minutes. I assume these are all trying to get around the WP:ACPERM limit that makes it much harder for spam to get into the mainspace. Is there any way of yanking page move permissions so this doesn't happen? Ritchie333 (talk) (cont) 12:24, 5 November 2021 (UTC)
+
+Given that it was three different editors on three different draft pages, and none of them were AFC reviewers, I think this is more of an administrative issue than an AFC issue. Page moving is not one of the p-blocks available to us right now, so you'd likely have to find some other method of sanctioning them. Primefac (talk) 12:38, 5 November 2021 (UTC)
+(edit conflict) None of them are page movers, these were simple page move by autoconfirmed accounts (X edits in Y days), to whom ACPERM doesn't apply. I don't know if a/confirmed status can be pulled, can it...? ——Serial 12:42, 5 November 2021 (UTC)
+It cannot. Right now the only method of stopping someone from moving a page is via edit filter, which so far has been described as "not ideal" as a way to deal with a single editor. Unfortunately, that means the next-best thing is to block them. Now, I don't know if a pblock from Article space will prevent them from moving something to the article space, but then again a pblock from the article space will prevent them from editing any article, which some would view as "too much". Primefac (talk) 12:52, 5 November 2021 (UTC)
+User:Ritchie333, User:Primefac - As we know, any autoconfirmed user has the privilege of creating an article in article space.  I don't think that any particular method of gaming the system is new since ACPERM.  Also, some experienced editors dislike draft space and would prefer to see all autoconfirmed editors create articles directly, and to see non-autoconfirmed and COI editors use user space.  Another form of gaming the system is creating the same article in draft space and in article space, in order to prevent New Page Patrol from moving it from article space into draft space.  I think that Ritchie333 and Primefac and I are describing ways that promotional and conflict of interest editors and single-purpose accounts are trying to game the system.  Can they be partially blocked by title?  Is there a way to request that such editors be partially blocked from particular titles that involves less drama than WP:ANI?  Robert McClenon (talk) 13:19, 5 November 2021 (UTC)
+Honestly, I don't see any of this as gaming; this is just a case of users skipping the AFC process (which most of us here agree is not mandatory, even though we'd prefer that) and drafting something before moving it to the article space. If a single user is creating large numbers of non-notable material that is subsequently CSD'd, they should be required to go via AFC following a discussion at ANI; this is not a new process and we have a half-dozen users under this sort of restriction.
+That being said, if it's a dozen different users doing one-off bad creations, there's not really much we can do other than CSD or XFD those pages. Primefac (talk) 13:23, 5 November 2021 (UTC)
+As long as these are picked up at NPP as a safety net I cannot see the harm.  We are advisors, not gatekeepers. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 14:29, 5 November 2021 (UTC)
+I agree that I was imprecise in referring to moving drafts to article space as gaming.  Moving a draft into article space immediately after it is declined is tendentious in a somewhat different way.  What is gaming is creating a page in both draft space and article space at the same time.  I agree that NPP is the safety net.  Robert McClenon (talk) 16:26, 5 November 2021 (UTC)
+Prolific mover of drafts to mainspace[edit]
+
+
+Please examine Special:Contributions/Mira_Tageldin and in particular the editor's talk page where they "appear" to be accepting their own drafts. Obviously they are not using the script. They seem highly prolific for an editor with such a short time here, and hit the ground sprinting rather than running FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 21:12, 6 November 2021 (UTC)
+
+Based on the hashtag edit summaries I'd assume this is part of an editathon, although I wasn't able to find out exactly which one it is. There are others using the same hashtags - the project seems to be focused on biographies of Middle Eastern writers. Spicy (talk) 21:23, 6 November 2021 (UTC)
+A decent thing to focus upon, but if an editathon one might hope for better guidance to participants FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 21:33, 6 November 2021 (UTC)
+What I find annoying is their use of AFC templates, both ion the draft-&gt; article talk pages and their own. Thsi passes themselves off as a bona fide reviewer. Ive removed those I have found on the articles, and asked them about it on their talk page FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 23:44, 6 November 2021 (UTC)
+I have made contact with one of the students. This appears to be an education project. I copy here from my talk page: KMUOS refers to the 'Kateb Maktub' project I am apart of as a translation student at the University of Sharjah. The goal of the project is to increase the number of articles published about Arab authors, and the course grade depends on the status of the article (whether or not it gets published). The reason I use this hashtag is to make it easier for my guide to find the articles I posted in relation to this project.
+I am attempting to make an introduction to WikiEd. If anyone knows an excellent route to achieve that please will they do so to help me? FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 17:13, 7 November 2021 (UTC)
+This seems like the second time they've done this project, as the University of Sharjah has an event listed under the same name and goals that happened back in February. See here and here. That second link also contains the names of the 4 professors involved in the project back then. No idea if it's the same ones now though. Contacting the university's Department of Foreign Languages might also be helpful as a general first step too. SilverserenC 17:18, 7 November 2021 (UTC)
+I have emailed one of the professors for the prior project with a firm suggestion to use the umbrella of WikiEd. Thank you for finding the information FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 20:57, 7 November 2021 (UTC)
+I've also left a message in WP:ENB to see if this can be brought into the fold FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 20:06, 10 November 2021 (UTC)
+Draft:Siegfried Holding - unable to review[edit]
+
+
+I have had this happen a couple times on other drafts.  When I try to review the only options are Submit or Comment but it is in submitted status.  What is the issue? S0091 (talk) 21:24, 7 November 2021 (UTC)
+
+Yes I've had this happen a few times. I have moved the submit template to the top and it appears to have fixed the issue! Theroadislong (talk) 21:29, 7 November 2021 (UTC)
+Thanks @Theroadislong:! S0091 (talk) 21:44, 7 November 2021 (UTC)
+Add "check talk page" to reviewing workflow[edit]
+
+
+Hi there. Firstly I'm not a reviewer so I don't know that much about the process, but I did notice that nowhere in the reviewing instructions does it say it might be a good idea to check the talk page before accepting. It wouldn't be the first time that there is relevant discussion there about the article. A recent example is Talk:Albania in the Eurovision Song Contest 2022, where I opposed moving it to mainspace per WP:TOOSOON&nbsp;– a few days later it was accepted anyway. ―Jochem van Hees (talk) 21:54, 9 November 2021 (UTC)
+
+@Jochem van Hees Our job as reviewers is to accept drafts which we believe have a &gt;50% chance of surviving an immediate deletion process. Deb is an experienced editor and accepted the draft. If you disagree you are welcome to send it for deletion and allow the community to decide. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 22:02, 9 November 2021 (UTC)
+I don't mean to question how experienced the reviewer was or that there is nothing to do about it. I just mean to make a suggestion so that hopefully better decisions can be made in the future. ―Jochem van Hees (talk) 22:05, 9 November 2021 (UTC)
+@Jochem van Hees All reviewers work to make better and better decisions. However, the Draft: namespace is not intended as a place for article to linger in case they may, one day, become notable. If it has been submitted it will be judged by the reviewer on its merits.
+As I understand it, the newly accepted article then goes to the safety net of WP:NPP. I have not followed this newly accepted draft.
+Why not apply to become a reviewer? FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 22:15, 9 November 2021 (UTC)
+I might apply someday but I'm currently mostly focussing on other parts of the wiki. In the specific case of the Albania article, my suggestion was to wait a month or two until it does pass notability requirements, which likely will happen since it concerns a scheduled event. But in the end I'm not here to complain about this specific example, but to suggest a more general improvement. If people on the talk page already are questioning the notability of the draft, then it seems weird to me to just accept it like that. Because then the discussion has to be moved to AfD, even though the point of this WikiProject is to avoid such unnecessary AfDs. ―Jochem van Hees (talk) 22:40, 9 November 2021 (UTC)
+@Jochem van Hees Does it have a greater than 50% chance of surviving an immediate deletion process, or did it at the time of acceptance? FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 23:10, 9 November 2021 (UTC)
+I can't find in a log who did the NPR review, but here I see that User:Jochem van Hees previously did a bold draftification.  Per WP:DRAFTIFY,  User:Jochem van Hees is not qualified to be doing unilateral draftifications.  Wikipedia:New pages patrol and draftifications should be left to qualified New Page Reviewers.  If you are not NPR accredited, and you don't like a new article, use WP:AFD.
+Before User:Jochem van Hees continues to make WP:TOOSOON judgements and executions, I urge him to get more experience at WP:AFD.  He has a lot of mainspace edits, but this is too little.  WP:N and WP:TOOSOON are nuanced and complicated, and AfD is an excellent place to test your understanding.  At AfD, if you are misunderstanding, you will soon be told.
+I strongly agree with the sentiments about "check the talk page".  Indeed, I think AfC reviewing records and comments should be on the draft_talk page, where prior draft_talk comments can be read, and any comments can be responded to. SmokeyJoe (talk) 23:24, 9 November 2021 (UTC)
+Oh, I didn't know that boldly draftifying articles wasn't allowed. Thanks for informing me about that. (This one wasn't particularly unilateral though, there was agreement about it on yet another discussion at WikiProject Eurovision.) ―Jochem van Hees (talk) 23:51, 9 November 2021 (UTC)
+True, that was a discussion.  When draftifying per a discussion elsewhere, I suggest linking to the discussion from the edit summary, and adding a note on the talk page. SmokeyJoe (talk) 23:58, 9 November 2021 (UTC)
+Does it actually say in WP:DRAFTIFY that non-NPP's can't draftify? I'm having trouble finding this text. I think this may be a very conservative reading of WP:DRAFTIFY. –Novem Linguae (talk) 00:35, 10 November 2021 (UTC)
+My re-reading tells me that it does not actually say that.  It should.  It has been an unwritten assumption.
+I added it here.  Please improve the writing, or take it to WT:Draft if you disagree. SmokeyJoe (talk) 01:55, 10 November 2021 (UTC)
+Comment - @Jochem van Hees, this is just to say that I understand your concerns. I have no problem with you believing it shouldn't have been approved. However, the version I approved yesterday was not the same version that you moved on 20 October or the one you challenged on 4 December; a lot of work had been done on improving it. It seemed to me no worse than the other "Country in the Eurovision Song Contest 20xx" articles and better than most. Deb (talk) 08:59, 10 November 2021 (UTC)
+Yeah, you're probably right here; it is a lot better than nothing. It's just that I was already annoyed by the lack of relevant content in these kinds of articles, so this one also being moved to mainspace even though I opposed it made me again more annoyed. But this is more of a general issue with WikiProject Eurovision that I should be addressing there, not here. ―Jochem van Hees (talk) 09:28, 10 November 2021 (UTC)
+Check Talk Page[edit]
+
+
+The original topic of this thread was that reviewers should check the talk page for any comments.  Without discussing the history of any article, I think that the instructions should say that reviewers should check the talk page of a draft.  Sometimes there are comments there, which is really at least as good a place for comments as the AFC comments on the front of the draft.  Sometimes a reviewer puts comments on the draft talk page rather than in AFC comments so that they will survive the acceptance script.  So I think that the reviewing instructions should say to check the talk page.  Robert McClenon (talk) 16:42, 13 November 2021 (UTC)
+
+Need help with Draft:Tubbo[edit]
+
+
+I was looking to accept Draft:Tubbo as it has the sourcing to pass GNG, but Tubbo already exists in mainspace as a redirect. I tagged the page for G6 speedy deletion as normal, but the request was denied with the given reasoning that the Draft had already been declined twice, before the current sourcing was added. What's the proper course of action here? Devonian Wombat (talk) 07:23, 11 November 2021 (UTC)
+
+Devonian Wombat, I have undone the decline and deleted the page per your initial rationale; you are welcome to approve the draft if it is indeed appropriate. Primefac (talk) 09:07, 11 November 2021 (UTC)
+It only had one source that was not a dead link - so not surprisingly it is now at AfD. KylieTastic (talk) 18:56, 11 November 2021 (UTC)
+Draft:Muhammad Khair Al Shaal eyes please[edit]
+
+
+The edit history shows it to have had an unusual sequence of moves. It is part of project #KMUOS (see above). I've become more involved than I would wish, so I would ask for a reviewer to take it at face value. The Arabic references may be machine translated. I have not inspected what appears to be enhanced referencing.
+
+
+Previously in main space I reduced this to a stub by removing all elements with no references, and was unable to find notability, so issues a PROD. That does not mean there is no notability now. The creating editor has a propensity for using archived references when the websites archived are live. This has, knowingly for unknowingly obfuscated primary sources. I have not checked for this and am leaving the draft alone now FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 21:04, 11 November 2021 (UTC)
+
+Script misbehaving[edit]
+
+
+When I decline a submission from an IP, the talk page message is delivered to User talk:Null. No idea why, although it seems to be affecting others as well. Has the script been changed recently? Extraordinary Writ (talk) 07:11, 12 November 2021 (UTC)
+
+Draft:Dion Diamond: Civil Rights has u=null; seems to have been from this submission by User:SD0001/AFC-submit-wizard.js. Paging Dr. SD0001. (I'll take a look too.) Enterprisey&nbsp;(talk!) 07:17, 12 November 2021 (UTC)
+Got it; IPs don't have mw.config.get('wgUserName') and you have to query meta=userinfo instead. I can avoid a big patch to AFC-submit-wizard by having AFCH ignore u=null, so I'll do that. I have also patched AFC-submit-wizard to put the empty string as the u parameter instead of "null", which AFCH should behave normally on. Enterprisey&nbsp;(talk!) 07:23, 12 November 2021 (UTC)
+Whoops! Writing scripts for IPs is a new problem. Sadly even mw.user.getName() doesn't work for them. Nevertheless in this case, turns out it's simple enough to get the userinfo by clubbing it with another API call [1]  Fixed. – SD0001 (talk) 08:08, 12 November 2021 (UTC)
+Added to bug tracker. https://github.com/WPAFC/afch-rewrite/issues/195 –Novem Linguae (talk) 07:18, 12 November 2021 (UTC)
+Be aware of Wikipedia:Wiki Ed/Howard University/Black Women and Popular Culture (Fall 2021)[edit]
+
+
+Articles are appearing in mainspace, but without AFC artefacts being removed. Not all will be of suitable quality. NPP ought to notice them though FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 11:12, 12 November 2021 (UTC)
+
+Anwar Shah Orakzai[edit]
+
+
+Draft:Anwar Shah Orakzai Muftinadeem (talk) 06:22, 13 November 2021 (UTC)
+
+@Muftinadeem If you want someone to look at something please
+Link to it
+Tell us what you hope will happen
+Otherwise your post here has little real world value FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 18:16, 14 November 2021 (UTC)
+Enhancement request for AFCH script[edit]
+
+
+Often {{Reflist}} is omitted from drafts. Is it desirable for the script to check for the presence of two things:
+
+A section names "References"
+The {{Reflist}} item
+
+
+If not present, could it insert them? It's obviously technically feasible&nbsp;?@Enterprisey? The question is, is it desirable? FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 14:28, 14 November 2021 (UTC)
+
+Come to that, might it also place {{Authority control}} on relevant articles on acceptance FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 14:47, 14 November 2021 (UTC)
+My DraftCleaner script adds reference sections when absent. Script is still in beta though, I need to make some changes to it to make it less buggy before I can confidently recommend it. I am also worried that it overlaps with AFCH's little-known "clean submission" feature. –Novem Linguae (talk) 17:40, 14 November 2021 (UTC)
+@Novem Linguae this sounds fun.  Oh, I am one of the folk who use the Clean Submission feature! FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 18:13, 14 November 2021 (UTC)
+Interesting! @Novem Linguae, that looks cool; could I convince you to let that script be integrated into the helper script and/or replace its cleaning function altogether? Enterprisey&nbsp;(talk!) 01:07, 17 November 2021 (UTC)
+@Enterprisey, sure, sounds like a great idea. What's the best way to integrate? Maybe I could refactor DraftCleaner to be a function, and then AFCH loads the page in my userspace and calls the function? DraftCleaner isn't ready for wide use yet, but could be made ready quickly by me disabling the two features that create the most false positives. If I get time, I also have plans to add a bunch of test cases. These one string in, one string out type functions are ripe candidates for unit tests. –Novem Linguae (talk) 03:15, 17 November 2021 (UTC)
+Is there a rough stat on how many AfC articles don't get created?[edit]
+
+
+In teahouse there was a discussion about creating your first article. I emphasised reading AfD to understand notability as the failure rate is high.  But I didn't know how many failed on AfC
+
+
+Is there a stat? Wakelamp d[@-@]b (talk) 09:04, 15 November 2021 (UTC)
+
+@Wakelamp. According to this Quarry query, the AFC reviewer decline+reject rate for the last 30 days is 85%. This stat doesn't compensate for a writer submitting multiple times and eventually getting accepted, but is a good approximation. Sadly, a lot of drafts have unfixable problems such as notability and do not make it out of AFC. –Novem Linguae (talk) 18:10, 15 November 2021 (UTC)
+matches my guess, which was 80:20. I suspect the potential number if all drafts were given the assistance they might require would be 70:30. DGG ( talk ) 23:47, 15 November 2021 (UTC)
+are there statistics for what percentage of drafts entered in Draft space never get formally submitted for review?  DGG ( talk ) 23:47, 15 November 2021 (UTC)
+No, the statistics are just the # of times reviewers accepted, declined, or rejected in the last 30 days. The number of "draftified and abandoned" or "created and abandoned" drafts is not included in this particular query. –Novem Linguae (talk) 00:10, 16 November 2021 (UTC)
+@Novem Linguae I get user not found on the Quarry... ok i can't resist -  I have  Questions about the Quarry Query behaving Queerly&nbsp;:-)
+Seriously, how does the query pick up the AfCs? is there a hidden template tag? Wakelamp d[@-@]b (talk) 12:48, 16 November 2021 (UTC)
+Hey @Wakelamp. I fixed the Quarry link above, you can click on it now to see its secrets. I copied it from @KylieTastic and adjusted it a bit, but it looks like it reads the comment_text field in the recentchanges table. –Novem Linguae (talk) 23:04, 16 November 2021 (UTC)
+Awesome!  This is the bit I get confused on it an article goes through AFC, then gets deleted would it still appear in recentchanges, or do they get blown away after the item is being deleted Wakelamp d[@-@]b (talk) 06:46, 17 November 2021 (UTC)
+Wakelamp no there is no full/accurate evidence left for mere mortals in the databases once deleted. An admin with a admin level bot would be needed to get complete figures for all submissions. If a reviewer always posts messages on the submitters user page then you can look to for "declined (AFCH 0.9.1)" (Example query I used back in the last backlog drive: https://quarry.wmcloud.org/query/55766). KylieTastic (talk) 15:47, 17 November 2021 (UTC)
+I mentioned this discussion on Wikipedia:Village_pump_(idea_lab)#Are_we_too_focused_on_number_of_edits? . Apologies if my description of the AfC area ( Which was positive, but said that measuring an editor just by the numbers of edits, does not give an indication of importance of what they do) is incorrect, but if it is please advise and i will correct Wakelamp d[@-@]b (talk) 11:46, 17 November 2021 (UTC)
+AFCH reviews[edit]
+Tracked in github.com
+Issue #202
+
+
+
+Once after a draft is declined for copyvio reason using the AFCH script, the decline banner dosent display the actual website-link where the content is copied from. There is a field:  ′Original URLs (one per line)′ , but it dosent display after reviewing. Any solution? --Gpkp&nbsp;[u • t • c] 14:09, 16 November 2021 (UTC)
+
+@Gpkp: Apart that, when you enter bio,neo, nn, sports, film etc as your decline reason, the automated message writes the same thing without stating which one in particular. It just writes “This submission's references do not show that the subject qualifies for a Wikipedia article—that is, they do not show significant coverage (not just passing mentions) about the subject in published, reliable, secondary sources that are independent of the subject (see the guidelines on the notability of people). Before any resubmission, additional references meeting these criteria should be added (see technical help and learn about mistakes to avoid when addressing this issue). If no additional references exist, the subject is not suitable for Wikipedia.” I think it shouldn't be the same text for every of such criteria. --Comr Melody Idoghor (talk) 04:37, 17 November 2021 (UTC)
+Well, it's not quite the same: instead of saying "see the guidelines on the notability of people", it says "see the guidelines on the notability of films or music-related topics or whatever. I suppose it could be more specific, but then again it's important that they be sufficiently vague to cover all of the situations in which they might apply. As to the original question, that's surprising that it doesn't specify the URL. Perhaps the reason is that you're supposed to nominate it for revdel or speedy deletion, both of which do show the URL? I'm not sure. Extraordinary Writ (talk) 04:47, 17 November 2021 (UTC)
+I think the original URLs are collected so they can be placed in the CSD G12 template, if you select the check box to nominate for deletion. I don't think the script places the URLs anywhere else (decline banner, user talk page, etc.) Now should these URLs be placed in more locations? My gut instinct is it's not necessary, but happy to hear other opinions. –Novem Linguae (talk) 06:09, 17 November 2021 (UTC)
+Agree and thank you @Novem Linguae:. The text-field:  ′Original URLs (one per line)′  could be made as visible, only under the condition that the text-box: ′Nominate for speedy′  is checked. --Gpkp&nbsp;[u • t • c] 06:52, 17 November 2021 (UTC)
+Few years ago, somebody informed me not to mention the copyvio-URL in the AfC review. Cant remember who was the user and which guidline said so. --Gpkp&nbsp;[u • t • c] 09:11, 17 November 2021 (UTC)
+I am genuinely curious to know who that was, because they're wrong (though I do suppose there could be extra context that has disappeared from your memory over the years). Primefac (talk) 09:12, 17 November 2021 (UTC)
+I had mentioned the result of Earwig's Copyvio Detector in an AfC review, by the time the user replied that he/she found the review useful even though it was not ok to disclose those results and URL.--Gpkp&nbsp;[u • t • c] 10:28, 17 November 2021 (UTC)
+That's... odd. Primefac (talk) 11:08, 17 November 2021 (UTC)
+No, it makes sense to show the URL(s) (e.g., in the decline banner) even if the draft has not been nominated for speedy deletion. I regularly go through Category:AfC submissions declined as copyright violations to try to remove copyright text from some drafts where the reviewer did not do so themselves, and it's a pain when you can't tell what they thought it was a copyvio of, especially when it ends up being a false positive and an incorrect decline. DanCherek (talk) 13:45, 17 November 2021 (UTC)
+I just remembered that the decline banner did in fact use to show the URL. Template:AfC submission/comments is indeed supposed to say "This submission appears to be taken from..." (I can see it in the source code), but it apparently isn't working anymore. Any idea why? Extraordinary Writ (talk) 06:26, 17 November 2021 (UTC)
+There are 3 codes: ′cv or cv-n′, ′cv-Website or cv-n-Website′ and ′cv-cleaned or cv-c′. Only ′cv or cv-n′ seems to be active. --Gpkp&nbsp;[u • t • c] 06:46, 17 November 2021 (UTC)
+As far as I am aware there have been no changes to the decline template or the /comments subpage. cv-cleaned should still work as well. Additionally, it should be showing the URL if the user has provided that value (see Draft:Jeff Burger). If things aren't showing up as they should, it's a script issue, not a template issue. Primefac (talk) 08:28, 17 November 2021 (UTC)
+Okay, I think I identified the issue in submissions.js. Lines 2329 to 2334, which include the URL in the decline template, are only called if the checkbox to nominate the page for G12 has been checked (line 2315). That was the case with Draft:Jeff Burger and similar drafts like Draft:Gulf of Mexico Research Initiative. I think the script should be updated so that it shows the URL even if the page has not been nominated for deletion (i.e., if only part of the draft has been copied from elsewhere). —&nbsp;Preceding unsigned comment added by DanCherek (talk • contribs) 16:10, 17 November 2021 (UTC)
+Agreed. Good find. Primefac (talk) 16:45, 17 November 2021 (UTC)
+G13[edit]
+
+
+I see some drafts with what appear to be notable titles go through the G13 sieve, and I wonder whose 'fault' it is. I think, sometimes, what did I do wrong?
+
+
+Do we have any figures, indeed are figures useful, on:
+
+What proportion are near misses, might have been approved as &gt;50% chance of surviving an immediate deletion process?
+What proportion are simply 'fire and forget' submissions?
+What proportion are hopeless?
+
+
+I recognise that these are intersection sets. I think the information may be useful to inform our thinking on the acceptance threshold. When I was a new reviewer I thought I was doing Wikipedia a service by raising the bar. I see now, that I was doing the reverse, probably putting useful new editors off.
+
+
+I think we all need to consider our personal thinking on this.  I'm not looking to reach any form of consensus. I'm looking, instead, at getting us to look at our own thinking, and becoming even better at what we do. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 17:53, 17 November 2021 (UTC)
+
+It's such a silly problem. All it needs is admins checking the drafts before deleting. Usedtobecool&nbsp;☎️ 04:51, 18 November 2021 (UTC)
+It ought to be a silly problem. Unfortunately it's a significant problem. There are only a few  admins who do the deletion who even occasionally check. Doing a proper check takes several minutes, and a look at the deletion log will see most admins going much faster than that.  There are to the best of my knowledge fewer than 5 people checking the forthcoming G13s to rescue them --I'm one, and I try to check every one that looks like an academic, but I cannot keep up even with those at one hour /day.  And then there's the much more difficult problem--once these  are spotted, since most need major fixing, who's going to do that. I try to do one or two a week. I will not send to mainspace something that has only 51%, because that's taking a chance with the erratic decisions at afd. If I think the subject is notable, I want to be reasonably confident  it stays in wikipedia. �� DGG ( talk ) 04:53, 19 November 2021 (UTC)
+I spent a few months reviewing/tagging G13 eligible drafts. Many are not submitted therefore they do even go through AfC so keep that in mind.  My experience was you had to wade through a lot a crap before you found something that had some potential.  For ones I did not have the knowledge or tools to improve (generally sourcing), I tagged promising, which puts it in Category:Promising draft articles and sometimes even posted notes at a relevant Wikiproject or editors that I knew likely had an interest in the subject but my experience is they end up deleted anyway. However, I agree with DGG it is worrisome, especially for the ones not submitted.  Pinging @Liz: as she is one the admins that handles the G13 CSD category for input about her experience.  S0091 (talk) 00:49, 21 November 2021 (UTC)
+Draft:Khattab Faleh Abdul Rahman Hussein and other stories[edit]
+
+
+Multiple drafts with multiple names, from multiple creating editors. UPE (0.9 probability) See also Wikipedia:Sockpuppet investigations/Johnx4566789. Please add evidence as you find it FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 07:55, 19 November 2021 (UTC)
+
+Draft:The Mac Observer and WP:WEBCRIT[edit]
+
+
+I was hoping for another set of eyes on this, because I'm not sure that my reading of WP:WEBCRIT is correct. I was reviewing this draft and while only one-source meets WP:GNG in my eyes, I'm wondering about some of the other referencing. Many of the references are other sites (mostly reliable sources) reporting on stories broken or originally reported in The Mac Observer. WP:WEBCRIT says that the subject might be notable if "The content itself has been the subject of multiple non-trivial published works". Do those type stories fall under this category? If not, what is that section of WP:WEBCRIT referring to? ThadeusOfNazerethTalk to Me! 02:00, 21 November 2021 (UTC)
+
+Nomination for deletion of Template:Don't know[edit]
+
+
+Template:Don't know has been nominated for deletion. You are invited to comment on the discussion at the entry on the Templates for discussion page.
+This is a file license template.
+-- 65.92.246.43 (talk) 03:56, 24 November 2021 (UTC)
+
+December 2021 at Women in Red[edit]
+
+
+
+
+
+
+Women in Red  |  December 2021, Volume 7, Issue 12, Numbers 184, 188, 210, 214, 215, 216
+
+
+
+
+Online events:
+
+New: "Double the lede!" | Women who died in 2021 
+Contest (Oct/Nov/Dec): Women in Oceania contest
+Continuing: Women's rights | #1day1woman
+
+
+
+
+See also:
+
+Women in Climate Change and preparations for our 2022 Climate initiative
+
+
+
+
+Other ways to participate:
+
+Join the conversations on our talkpage.
+Help plan and coordinate future events.
+Become a member. You can always opt-out of notifications.
+Follow Women in Red on social media:
+
+
+ Facebook | 
+ Instagram | 
+ Pinterest |
+ Twitter
+
+
+
+ --Innisfree987 (talk) 00:10, 27 November 2021 (UTC) via MassMessaging
+Editors placing their own AFC Acceptance templates on their own talk page[edit]
+
+
+I have noticed this self aggrandising trend, which I see as deceptive. Is there a way of modifying the user talk page acceptance template to detect whether the signature is from a genuine AFC reviewer? It might then state some form of red error message instead of a deceptive "My article has been accepted" template FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 10:10, 28 November 2021 (UTC)
+
+@Timtrent: It really looks deceptive, but I don't think there's any policy or law that states that reviewers shouldn't review their own articles. Until there's a policy like that, I don't think there's anything anyone can do...Comr Melody Idoghor (talk) 10:41, 28 November 2021 (UTC)
+Unfortunately I agree, I think all you can do is call them out on it. I've done that in the past and it has stopped them. If they sign as themselves it should stand out as self aggrandising if they sign as another I'm sure there must be a policy about that? Also even if technically possible, and would be an intensive task on some users talk pages (FA for instance). If there was a policy to cover this deception the best option would be to have a bot remove and warn when added not have the template check every time viewed. KylieTastic (talk) 10:55, 28 November 2021 (UTC)
+Thank you, both. Perhaps we should discuss, first, whether there should be a policy? I have a view that AFC templates ought to be deployed only by AFC reviewers with the exception of the AFC Comment template for the drafts. FiddleTimtrent&nbsp;FaddleTalk&nbsp;to&nbsp;me 10:59, 28 November 2021 (UTC)
+I think it's technically possible to restrict the template from being substed by users who aren't AFC reviewers (store list of reviewers in a more easily parsable form such as JSON, and check if {{REVISIONUSER}} is in that list) but I don't really see why this is necessary. – SD0001 (talk) 13:00, 28 November 2021 (UTC)
+Korean Television Articles[edit]
+
+
+I reviewed Draft:Big Mouse (2022 tvN), and declined it as too soon.  The submitter replied to me, on their talk page:  "There are a lot of Korean series pages and they have not been deleted!! Some of them may be released after 10 months&nbsp;!!!"  I haven't researched the number of future Korean television programs, so I don't know whether the programs to which the submitter refers are in draft space or in article space.  If they are in article space, which would not surprise me, then they are cases where Other Stuff Exists that will probably be deleted if nominated for deletion.  I am guessing that they are in article space, were created directly in article space (which is the privilege of any autoconfirmed editor), and either are waiting for New Page Review, were sloppily accepted by New Page Review, or were put in by an editor who has the autopatrolled privilege, and so should know better.  I am not asking for advice, but I am calling this matter to the attention of AFC reviewers, many of whom are also New Page reviewers.  Robert McClenon (talk) 19:33, 29 November 2021 (UTC)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Articles_for_creation&amp;oldid=1057802733"
+		Categories: Project-Class AfC project pagesHidden categories: Noindexed pagesPages using the Graph extension
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 29 November 2021, at 19:33&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,558 @@
+
+
+
+
+Wikipedia:Edit warring - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Edit warring
+	
+		From Wikipedia, the free encyclopedia
+		&nbsp;&nbsp;(Redirected from Wikipedia:EW)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikipedia policy on editor conduct
+
+
+
+
+"WP:WAR" redirects here. For similiar topics, see WP:NOTBATTLE, Wikipedia:Wikipedia is not about winning, Wikipedia:Page-move war, and Wikipedia:Wheel war.
+For the technical problem when multiple editors try to edit the same page at once, see Help:Edit conflict. For reporting editors who are edit warring, see Wikipedia:Administrators' noticeboard/Edit warring.
+This page documents an English Wikipedia policy.
+It describes a widely accepted standard that all editors should normally follow. Changes made to it should reflect consensus.ShortcutsWP:EWWP:WARWP:EDITWAR
+This page in a nutshell: Don't use edits to fight with other editors. Disagreements should be resolved through discussion.
+  Wikipedia page history showing a severe edit war[1]
+  Edit warring doesn't help when attempting to resolve disputes. In fact, engaging in such behavior will usually inflame the dispute, and poison the environment that Wikipedia editors all share.
+
+
+An edit war occurs when editors who disagree about the content of a page repeatedly override each other's contributions. Editors engaged in a dispute should reach consensus or pursue dispute resolution rather than edit war. Edit warring is unconstructive, creates animosity between editors, makes consensus harder to reach, and causes confusion for readers. Users who engage in edit wars risk being blocked or even banned. An editor who repeatedly restores their preferred version is edit warring, regardless of whether those edits are justifiable. Claiming "My edits were right, so it wasn't edit warring" is not a valid defense.
+
+
+There is a bright line known as the three-revert rule (3RR). To revert is to undo the action of another editor. The 3RR says an editor must not perform more than three reverts, in whole or in part, whether involving the same or different material, on a single page within a 24-hour period. Any appearance of gaming the system by reverting a fourth time just outside of the 24-hour slot may also be considered edit warring. There are certain exemptions to 3RR, such as reverting vandalism or clear violations of the policy on biographies of living persons; see below for details. The three-revert rule is a convenient limit for occasions when an edit war is happening fairly quickly, but it is not a definition of "edit warring", and it is perfectly possible to engage in an edit war without breaking the three-revert rule, or even coming close to doing so.
+
+Contents
+
+1 What edit warring is
+
+1.1 The three-revert rule
+1.2 Exemptions
+1.3 Other revert rules
+
+
+2 Handling of edit-warring behaviors
+
+2.1 What to do if you see edit-warring behavior
+2.2 How experienced editors avoid becoming involved in edit wars
+
+
+3 Administrator guidance
+4 See also
+5 References
+6 Further reading
+
+
+
+What edit warring is
+Conduct policies
+Block evasion
+Civility
+Clean start
+Consensus
+Dispute resolution
+Edit warring
+Editing policy
+Harassment
+No personal attacks
+Ownership of content
+Sockpuppetry
+Username policy
+Vandalism
+vte
+See also: Wikipedia:Editing policy
+
+
+Wikipedia encourages editors to be bold, but while a potentially controversial change may be made to find out whether it is opposed, another editor may revert it. This may be the beginning of a bold, revert, discuss (BRD) cycle. An edit war only arises if the situation develops into a series of back-and-forth reverts. Nevertheless, not every revert or controversial edit is regarded as edit warring:
+
+Reverting vandalism is not edit warring. However, edits from a slanted point of view, general insertion or removal of material, or other good-faith changes are not considered vandalism. See Wikipedia:Vandalism §&nbsp;Types of vandalism and Wikipedia:Vandalism §&nbsp;What is not vandalism.
+Reverting to enforce certain overriding policies is not considered edit warring. For example, under the policy on biographies of living persons, where negative unsourced content is being introduced, the risk of harm is such that removal is required.
+Reverting edits of banned or blocked users is not edit warring.
+Reverting edits in one's own user page is rarely edit warring. Traditionally, Wikipedia offers wide latitude to users to manage their user space as they see fit. For more information, see Wikipedia:User pages §&nbsp;Ownership and editing of user pages.
+
+
+When reverting, be sure to indicate your reasons. This can be done in the edit summary and/or talk page. Anti-vandalism tools such as Twinkle, Huggle and rollback should not be used to undo good-faith changes in content disputes without an appropriate edit summary.
+
+The three-revert rule
+ShortcutsWP:3RRWP:4RR
+
+
+
+
+Editors who engage in edit warring are liable to be blocked from editing to prevent further disruption. While any edit warring may lead to sanctions, there is a bright-line rule called the three-revert rule (3RR), the violation of which often leads to a block.
+
+
+The three-revert rule states:
+
+
+
+
+An editor must not perform more than three reverts on a single page—whether involving the same or different material—within a 24-hour period. An edit or a series of consecutive edits that undoes other editors' actions—whether in whole or in part—counts as a revert. Violations of the rule often attract blocks of at least 24 hours. Fourth reverts just outside the 24-hour period may also be taken as evidence of edit-warring, especially if repeated or combined with other edit-warring behavior. See below for exemptions.
+
+
+
+
+A "page" means any page on Wikipedia, including those in talk and project spaces. A "revert" means any edit (or administrative action) that reverses the actions of other editors, in whole or in part, whether involving the same or different material. A series of consecutively saved reverting edits by one user, with no intervening edits by another user, counts as one revert.
+
+
+The three-revert rule applies per person, not per account; reverts made by multiple accounts operated by one editor count together. Editors violating 3RR will usually be blocked for 24 hours for a first incident.  Even without a 3RR violation, an administrator may still act if they believe a user's behavior constitutes edit warring, and any user may report edit warring with or without 3RR being breached. The rule is not an entitlement to revert a page a specific number of times.
+
+
+If an editor violates 3RR by mistake, they should reverse their own most recent reversion. Administrators may take this into account and decide not to block in such cases—for example, if the user is not a habitual edit warrior and is genuinely trying to rectify their own mistake.
+
+
+Edit warring and 3RR violations are not detected automatically. Either wait for an administrator to take action, or take any of the steps suggested in the §&nbsp;What to do if you see edit-warring behavior section below.
+
+Exemptions
+ShortcutsWP:3RRNOWP:NOT3RRWP:3RRBLP
+
+
+
+
+The following reverts are exempt from the edit-warring policy:
+
+Reverting your own actions ("self-reverting").
+Reverting edits to pages in your own user space, so long as you are respecting the user page guidelines.
+Reverting actions performed by banned users in violation of a ban, and sockpuppets or meatpuppets of banned or blocked users.
+Reverting obvious vandalism—edits that any well-intentioned user would agree constitute vandalism, such as page blanking and adding offensive language.
+Removal of clear copyright violations or content that unquestionably violates the non-free content policy (NFCC). What counts as exempt under NFCC can be controversial, and should be established as a violation first. Consider reporting to the Wikipedia:Files for discussion noticeboard instead of relying on this exemption.
+Removal of content that is clearly illegal under U.S. law, such as child pornography and links to pirated software.
+Removing contentious material that is libelous, biased, unsourced, or poorly sourced according to Wikipedia's biographies of living persons (BLP) policy. What counts as exempt under BLP can be controversial. Consider reporting to the BLP noticeboard instead of relying on this exemption.
+
+
+Considerable leeway is also given to editors reverting to maintain the quality of a featured article while it appears on the Main Page.
+
+
+If you are claiming an exemption, make sure there is a clearly visible edit summary or separate section of the talk page that explains the exemption. When in doubt, do not revert. Instead, follow the guidance below in §&nbsp;Handling of edit-warring behaviors.
+
+Other revert rules
+ShortcutsWP:0RRWP:1RR
+"WP:0RR" and "WP:1RR" redirect here. For zero-revert rule for administrative action (no wheel-warring), see WP:0WW.
+
+
+Additional restrictions on reverting may be imposed by the Arbitration Committee, by admins under Discretionary sanctions, or by the community under General sanctions. These restrictions include:
+
+one-revert rule (1RR): The one-revert rule is analogous to the three-revert rule as described above, with the words "more than three reverts" replaced by "more than one revert". There may also be a requirement to discuss each reversion on the talk page, and sometimes the phrase "24-hour period" is replaced by some other time period, such as "one week" or "one month". The rule may be applied to either pages or editors.
+zero-revert rule (0RR): The zero-revert rule means a complete prohibition on reverts (as defined for the purpose of the three-revert rule) applied to one or more editors.
+An imposed rule does not apply retroactively. That is, if an editor has reverted in the past 24 hours before a 1RR has been applied, their first subsequent revert is not a violation, although editors in these instances are strongly encouraged to discuss instead of revert.
+
+
+Editors of policy and guideline pages are strongly encouraged to follow 1RR or 0RR (see Wikipedia:Policies and guidelines §&nbsp;Bold). Editors may also voluntarily agree to abide by stricter reverting standards on other pages in response to problems in a particular area or as a general editing philosophy. For more details, see Wikipedia:Revert only when necessary.
+
+Handling of edit-warring behaviors
+What to do if you see edit-warring behavior
+  If an edit war develops, participants should try to discuss the issue on the talk page and work things out.
+See also: Wikipedia:Dispute resolution
+
+
+It is better to seek help in addressing the issue than to engage in edit warring. When disagreement becomes apparent, one, both, or all participants should cease warring and discuss the issue on the associated talk page or seek help at appropriate venues. Other alternative approaches recommended within the community are suggested in §&nbsp;How experienced editors avoid becoming involved in edit wars.
+
+
+If the edit warring user(s) appear unaware that edit warring is prohibited, they can be told about this policy by posting a {{uw-ew}} or {{uw-3rr}} template message on their user talk page. Avoid posting a generic warning template if you are actively involved in the edit war yourself; it can be seen as aggressive. Consider writing your own note to the user specifically appropriate for the situation, with a view to explicitly cooling things down.
+
+
+If several days have passed since the last edit action, consider doing nothing—our primary objective is to stop active edit wars.
+
+
+If, despite such efforts, one or more users fail to cease edit warring, refuse to work collaboratively or heed the information given to them, or do not move on to appropriate dispute resolution, then consider making a request for administrative involvement. The standard way to do this is to add a report at Wikipedia:Administrators' noticeboard/Edit warring.
+
+How experienced editors avoid becoming involved in edit wars 
+This section in a nutshell: Communication is the key to avoiding conflict. Follow Wikipedia:Editing policy §&nbsp;Talking and editing.
+ShortcutWP:AVOIDEDITWAR
+
+
+Once it is clear there is a dispute, avoid relying solely on edit summaries and discuss the matter on the associated talk page, which is where a reviewing administrator will look for evidence of trying to settle the dispute. It may help to remember that there is no due-date and that editors can add appropriate cleanup tags to problematic sections under current discussion. When discussion does not produce a conclusion, bringing wider attention to a dispute can lead to compromise. Consider getting a third opinion or starting a request for comment. Neutral editors aware of the dispute will help curb egregious edits while also building consensus about the dispute. If these methods fail, seek informal and formal dispute resolution.
+
+
+Some experienced editors deliberately adopt a policy of only reverting edits covered by the exceptions listed above or limiting themselves to a single revert; if there is further dispute, they seek dialog or outside help rather than make the problem worse, i.e., they revert only when necessary. This policy may be particularly appropriate for controversial topics where views are polarized and emotions run high, resulting in more frequent edit warring.
+
+
+The bottom line: use common sense, and do not participate in edit wars. Rather than reverting repeatedly, discuss the matter with others; if a revert is necessary, another editor may conclude the same and do it (without prompting), which would then demonstrate consensus for the action. Request page protection rather than becoming part of the dispute by reverting.
+
+Administrator guidance
+
+
+Administrators decide whether to issue a warning or block; these are intended to prevent, deter and encourage change in disruptive behavior, not to punish it. Where a block is appropriate, 24 hours is common for a first offense; administrators tend to issue longer blocks for repeated or aggravated violations, and will consider other factors, such as civility and previous blocks. Where multiple editors engage in edit wars or breach 3RR, administrators should consider all sides, since perceived unfairness can fuel issues. According to WP:Administrators, "Administrators should not normally use their tools in matters in which they are personally involved (for example, in a content dispute in which they are a party)."
+
+See also
+
+Wikipedia:Administrators' noticeboard/Edit warring
+Wikipedia:Arguments to avoid in edit wars
+Wikipedia:BOLD, revert, discuss cycle
+Wikipedia:Consensus
+Wikipedia:Dispute resolution
+Wikipedia:Disruptive editing
+Wikipedia:Etiquette
+Wikipedia:Lamest edit wars
+Wikipedia:Ownership of content
+Wikipedia:Page-move war
+Help:Reverting (how-to)
+Wikipedia:Reverting (essay)
+Wikipedia:Alternatives to reversion (essay)
+Wikipedia:Baby and bathwater (essay)
+Wikipedia:Revert only when necessary (essay)
+Wikipedia:Don't shoot yourself in the foot (essay)
+Wikipedia:Sock puppetry
+Help:Talkspace draft
+Wikipedia:Tendentious editing
+References
+
+^ "Portal:Pope/Intro: Revision history". wikipedia.org.
+
+
+Further reading
+Yasseri, Taha; Sumi, Robert; Rung, András; Kornai, András; Kertész, János (2012). "Dynamics of Conflicts in Wikipedia". PLOS One. 7 (6): e38869. arXiv:1202.3643. Bibcode:2012PLoSO...738869Y. doi:10.1371/journal.pone.0038869. PMC&nbsp;3380063. PMID&nbsp;22745683.
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Edit_warring&amp;oldid=1055995923"
+		Categories: Wikipedia policiesWikipedia conduct policiesWikipedia edit warringWikipedia user conductHidden categories: Project pages with short descriptionWikipedia semi-protected project pagesWikipedia move-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMeta-WikiWikidataWikivoyage
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةঅসমীয়াAzərbaycancaتۆرکجهবাংলাБашҡортсаБеларускаяБеларуская (тарашкевіца)БългарскиBosanskiCatalàDanskالدارجةDavvisámegiellaDeutschΕλληνικάEspañolEsperantoفارسیFrançaisGalego한국어ՀայերենHrvatskiBahasa IndonesiaInterlinguaÍslenskaItalianoעבריתქართულიKiswahiliLietuviųMagyarМакедонскиമലയാളംمصرىBahasa MelayuNederlands日本語Norsk bokmålPolskiPortuguêsРусскийShqipසිංහලSimple EnglishکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaТатарча/tatarçaతెలుగుไทยTürkçeУкраїнськаاردوTiếng Việtייִדיש粵語Zazaki中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 19 November 2021, at 02:36&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

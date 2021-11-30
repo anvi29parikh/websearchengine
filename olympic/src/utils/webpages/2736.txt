@@ -1,0 +1,335 @@
+
+
+
+
+Manual:Tags - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Manual:Tags
+	
+		From mediawiki.org
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This page contains technical documentation relating to change tags; its content is aimed at MediaWiki extension developers. 
+ For help and documentation aimed at users and administrators, please see Help:Tags.
+
+
+Change tags or revision tags are annotations associated with a revision or log entry. They are displayed in various locations when referring to revisions, such as in the page history, diffs, recent changes and other places.
+
+
+A complete list of all the available tags is displayed on Special:Tags. Users with the managechangetags user right – administrators by default – can use this special page to create and delete tags (see Help:Tags).
+
+
+Extensions (for example AbuseFilter and VisualEditor) mark edits made through their interface with tags.
+
+Contents
+
+1 Tag names
+2 Using tags from extensions
+3 Extending Special:Tags
+4 See also
+
+
+
+Tag names[edit]
+
+
+If you are planning to hard-code tags into your extension, pick a somewhat unique name to avoid conflicts. For example, VisualEditor uses visualeditor, visualeditor-needcheck, and visualeditor-switched. Tag names may not contain , (comma) or / (forward slash) characters.
+
+
+If your extension allows users to enter their own tag names, you can use the ChangeTags::canCreateTag( $tag ) function to validate those names. (There is no need to pass the optional $user parameter for this purpose.) This function will reject invalid tag names, as well as tag names that are already reserved by another extension or by users on the wiki.
+
+
+Make sure to register all tags your extension uses (whether hard-coded or user-supplied) by implementing the ListDefinedTags  hook. If a tag is in active use (that is, it is not disabled), you should also list it via the ChangeTagsListActive  hook.
+
+
+If you wish to prevent users from creating certain tags, you can implement the ChangeTagCanCreate  hook. For example, the OAuth extension uses this hook to reserve all tags beginning with OAuth CID: (see source).
+
+Using tags from extensions[edit]
+
+
+All tags used on at least one revision, and any tags listed by the ListDefinedTags  hook, are shown on Special:Tags. 
+
+
+Each tag is known by a code name, which functions as its unique identifier. This code name is displayed on Special:Tags. Two messages are associated with each tag:
+
+MediaWiki:tag-$name can be used to set the "display name" or "friendly name" of the tag. If set, this message will be used on history pages etc. instead of the tag's code name.
+MediaWiki:tag-$name-description provides a description to be displayed on Special:Tags.
+
+
+To add a tag to a revision, recent changes entry, or log entry, use ChangeTags::addTag(). The RecentChange_save  hook can be useful for this purpose.
+
+Extending Special:Tags[edit]
+
+
+By default, tags defined by extensions cannot be manipulated from Special:Tags at all. All tag management tasks are left up to the extension.
+
+
+If you wish, you can allow users to delete a tag defined by your extension from the regular Special:Tags interface. To do this, you must implement the ChangeTagCanDelete  hook to mark the tag as deletable, then implement the ChangeTagAfterDelete  hook to perform extension-specific cleanup actions after MediaWiki has removed the tag from all revisions and log entries to which it is applied.
+
+See also[edit]
+Documentation about Wikipedia tags
+Extensions that define tags
+Database tables: valid_tag, change_tag, tag_summary
+Magic word #tag
+
+
+Proposals:
+
+Revision tagging use cases like editing channels, see etherpad:p/RevisionTags
+On Phabricator
+
+
+
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Manual:Tags&amp;oldid=4902751"
+		Category: Documentation
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		ManualDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 11 November 2021, at 15:21.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

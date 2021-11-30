@@ -1,0 +1,632 @@
+
+
+
+
+Wikipedia:WikiProject Articles for creation - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:WikiProject Articles for creation
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikimedia maintenance collaboration
+Main pageTalk pageSubmissions
+Category — List (sorting)ShowcaseAssessmentParticipants
+Talk — By subjectReviewing instructions
+Helper scriptHelp
+deskBacklog
+drives
+
+AfC submissions
+Random submission
+
+2+ months
+
+2,772 pending submissionsPurge to update
+
+vte
+
+WikiProject Articles for creation
+
+
+
+
+
+Contents
+
+1 Introduction
+2 Brief history
+3 Project goals
+4 How to get involved
+5 Welcome template
+6 Advertisement and reviewer recruiting
+7 Awards
+8 Article Alerts
+9 Recently accepted articles
+
+
+
+
+
+Welcome to WikiProject Articles for creation! This is the project page for editors interested in working on Articles for creation, Redirects and Categories for creation and Files for upload.
+
+If you would like to submit an article to Wikipedia, please use the Article wizard; alternatively, for redirects and categories, please use the Redirect wizard or Category wizard. If you would like to request a media file be uploaded to Wikipedia, please use the File upload wizard. If you simply wanted to suggest an article for someone else to write, please go to Requested articles.
+Introduction
+
+
+Only registered users with Autoconfirmed and confirmed user levels are allowed to create mainspace articles directly, so Articles for creation, which we call AfC, opens a path for new article creation. AfC works as a peer review process in which experienced registered editors can either help create an article submitted by an anonymous editor or decline the article because it is unsuitable for Wikipedia.
+
+
+An article may be unsuitable for Wikipedia for a number of reasons. AfC submissions can be declined based on having insufficient content, consisting of vandalism or personal attacks, posting copyrighted material, not asserting notability (WP:N), and most often for not being properly sourced. We also do not accept new articles where a page on the topic already exists, even if under another name.
+
+
+A lot of articles are posted at AfC and a dedicated team of editors is needed to review the requests. There is often a backlog, so please ensure submissions meet all Wikipedia guidelines to avoid repeated submissions and declines.
+
+Brief history
+
+
+On 5 December 2005, in response to the Seigenthaler incident, unregistered users were stopped from creating new pages on the English Wikipedia (read about it in the Signpost).
+
+
+Consequently, the page Wikipedia:Articles for creation was set up by Creidieki&nbsp;(talk&nbsp;· contribs) and others, to allow unregistered users to submit articles for registered users to create on their behalf. The first page to be created was the redirect Fox Latin America requested by 140.247.23.58 (talk&nbsp;· contribs&nbsp;· WHOIS). The first article created was Horsea Island by Chemstud&nbsp;(talk&nbsp;· contribs).
+
+
+Following huge backlogs on the page, Kwsn and others started WikiProject Articles for creation on 2 June 2007.
+
+Project goals
+Promote awareness of the WikiProject.
+Review requests at
+Category:Pending AfC submissions (or Wikipedia:WikiProject Articles for creation/Submissions)
+Wikipedia:Articles for creation/Redirects and categories
+Wikipedia:Files for upload
+Promote, monitor and improve the articles and images created through the project.
+How to get involved
+
+
+WikiProject Articles for creation needs you! Any editor who meets the criteria below can apply to be a reviewer for the project.
+Reviewers must have:
+
+a Wikipedia account at least 90 days old.
+a minimum of 500 undeleted edits to articles.
+thoroughly read and understood the reviewing instructions.
+a demonstrated understanding of the policies mentioned in the reviewing instructions, including the various special notability categories.
+reasonable evidence of understanding the deletion policy (experience in areas such as CSD/AfD/PROD or page curation, while not mandatory, are beneficial).
+a willingness and ability to respond in a timely manner to questions about their reviews.
+
+
+AfC submissions must be reviewed in accordance with Wikipedia's established content policies and guidelines. If you are unfamiliar with these policies and guidelines you should become familiar with them before conducting AfC reviews. Before you start reviewing requests, please ensure you have read the reviewing instructions thoroughly and that you ask an experienced reviewer if you are unsure about anything. The reviewing instructions cover reviews of article drafts, redirects and categories, and file requests. You can ask for help and advice at the Reviewer talk page. You can also get help in the live chat in Wikipedia's Live Help Channel. To request to join, follow the instructions at Wikipedia talk:WikiProject Articles for creation/Participants.
+
+Welcome template
+
+
+This template is used to welcome new participants to the project. It can be added to a new participant's talk page by adding {{subst:AfC welcome}} to the bottom of the page:
+
+
+
+
+
+Hi, and welcome to WikiProject Articles for creation! We are a group of editors who work together on the Articles for creation and Files for upload pages.
+
+
+A few tips that you might find helpful:
+
+Please take time to fully read the reviewers' instructions before reviewing submissions.
+The reviewers' talk page is the best place to ask for help or advice. You might like to watchlist this page, and you are encouraged to take part in any discussion that comes up.
+Article submissions that need reviewing can be found in Category:Pending AfC submissions and there is also a useful list which is maintained by a bot.
+You might wish to add {{AFC status}} or {{AfC Defcon}} to your userpage, which will alert you to the number of open submissions. There is also a project userbox. If you haven't done so already, please consider adding your name to the list of participants.
+Several of our members monitor Wikipedia's help IRC channel, and you are welcome to join in to ask Wikipedia-related questions.
+The IRC channel #wikipedia-en-afc connect is used occasionally for internal discussion regarding the Articles for creation process, and also serves as a recent changes feed, displaying all edits made in the Articles for creation namespace.
+The help desk is the place where new editors can ask questions about their submissions. You are welcome to help in answering their questions.
+
+
+Once again, welcome to the project. ~~~~
+
+
+Advertisement and reviewer recruiting
+
+
+Put this template on your user page and talk page to help promote this WikiProject!
+
+
+Code: {{Wikipedia ads|ad=69}}
+
+Wikipedia adsfile info – #69
+
+
+You can also use one of the following userboxes.
+
+
+Code: {{User WikiProject Articles for creation}}
+
+
+
+
+This user is a reviewer at 
+ WikiProject Articles for creation.
+
+
+
+Code: {{User AfC}}
+
+
+
+
+This user is a participant in WikiProject Articles for creation. You can help!
+
+
+
+Code: {{User wikipedia/AFC}}
+
+
+
+
+This user is an Articles for creation reviewer on the English Wikipedia.
+
+
+
+Code: {{User AfC reviewer since}}
+
+
+
+
+This user has been an Articles for creation reviewer for 0&nbsp;days. (verify)
+
+
+
+Drop this on a prospective reviewer's user talk page to help recruit new reviewers.
+
+
+Code: {{subst:WPAFCInvite}}
+
+
+
+
+
+Hello WikiProject Articles for creation,
+
+
+Unregistered editors cannot create articles on Wikipedia, but they can use the articles for creation process to submit drafts that registered editors can either accept and publish or decline. WikiProject Articles for creation is looking for experienced editors who want to partake in this peer review process. If you have what it takes to get involved, then please take a look at the reviewing instructions. To discuss specific AfC reviews, do so freely on the designated talk page.
+
+
+There is currently a backlog of over 2700 drafts (0 very old).
+
+
+If you know an editor who may be willing to help out, please use the template you are currently reading {{subst:WPAFCInvite}} to draw attention to this WikiProject. Many hands make light work!
+
+~~~~
+
+
+To add an AFC icon to the top-right corner of a page, use: {{AFC topicon}}
+
+Awards
+
+    
+      The AfC barnstar is granted for meritorious contributions relating to Articles for creation and consists of a green cross on a star composed of five capital letter As. The A signifies new articles, which is what this project is all about, the grey signifies the neutrality of Wikipedia, and the green cross signifies the Articles for creation project.
+There is also a companion ribbon Image:AFC Ribbon 2.png, consisting of a thick blue center stripe surrounded by two narrow grey stripes surrounded by two wide green stripes. The blue center recollects the new color of former red links.
+        The AfC Barnstar
+    
+    
+      The ribbon may be displayed by any user
+who has been awarded the barnstar.&nbsp;&nbsp;
+        The AfC ribbon
+      To present this award to a user, place the following code on their talk page: &nbsp; 
+{{subst:AFC barnstar|message ~~~~}} &nbsp; 
+    
+
+Article Alerts
+
+
+This page shows current alerts for articles within the scope of WikiProject Articles for creation, courtesy of the AAlertBot.
+
+
+Did you know
+
+28 Nov 2021 – Dumping in Dixie (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was nominated for DYK by Eviolite (t&nbsp;·&nbsp;c); see discussion
+27 Nov 2021 – Chili crisp (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was nominated for DYK by Valereee (t&nbsp;·&nbsp;c); see discussion
+26 Nov 2021 – Tetracanthagyna plagiata (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was nominated for DYK by Ornithoptera (t&nbsp;·&nbsp;c); see discussion
+24 Nov 2021 – Food labeling in Mexico (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was nominated for DYK by Tbhotch (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Ruth Crosby Noble (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was nominated for DYK by AFreshStart (t&nbsp;·&nbsp;c); see discussion
+
+
+Articles for deletion
+
+28 Nov 2021 – Asian Institute (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Chess (t&nbsp;·&nbsp;c); see discussion (1 participant)
+28 Nov 2021 – Bhararisen (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Mhawk10 (t&nbsp;·&nbsp;c); see discussion (1 participant)
+27 Nov 2021 – Charles Bethea (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Mhawk10 (t&nbsp;·&nbsp;c); see discussion (1 participant)
+26 Nov 2021 – Store Capital (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by North8000 (t&nbsp;·&nbsp;c); see discussion (4 participants)
+24 Nov 2021 – DexOS (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by SL93 (t&nbsp;·&nbsp;c); see discussion (3 participants)
+20 Nov 2021 – Winning Jah (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Samat lib (t&nbsp;·&nbsp;c); see discussion (9 participants; relisted)
+19 Nov 2021 – Biennial of the Americas (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by 力 (t&nbsp;·&nbsp;c); see discussion (3 participants; relisted)
+05 Nov 2021 – Jon Acuff (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Kaihsnual (t&nbsp;·&nbsp;c); see discussion (10 participants; relisted)
+04 Nov 2021 – Stefan Weber (media researcher) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Everyone-is-awesome (t&nbsp;·&nbsp;c); see discussion (8 participants; relisted)
+02 Nov 2021 – RattanIndia (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Timtrent (t&nbsp;·&nbsp;c); see discussion (13 participants; relisted)
+(21 more...)
+
+
+Proposed deletions
+
+23 Nov 2021 – Mateo Salvatto (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was PRODed by 2800:40:31:CF5:81C0:249B:29C2:52F8 (t&nbsp;·&nbsp;c): Advertising without any relevant or encyclopedic content
+17 Nov 2021 – Aternity Inc. (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) PRODed by Teratix (t&nbsp;·&nbsp;c) was deleted
+16 Nov 2021 – Tarkan Maner (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) PRODed by KidAd (t&nbsp;·&nbsp;c) was deleted
+
+
+Categories for discussion
+
+06 Nov 2021 – Category:Hoards in Roman Britain (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by 64.229.90.53 (t&nbsp;·&nbsp;c); see discussion
+
+
+Redirects for discussion
+
+20 Nov 2021 – LordMinion777 (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →Markiplier#Channel format RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – PressHeartToContinue (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →Random Encounters#Guest Stars RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Tabbes (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →YouTube Rewind 2018: Everyone Controls Rewind#Cast RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Illymation (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →YouTube Rewind 2018: Everyone Controls Rewind#Cast RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Dolan Dark (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →YouTube Rewind 2018: Everyone Controls Rewind#Reception RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – TheMeatly (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →Bendy and the Ink Machine RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Yungtown (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →Did You Know Gaming?#Did You Know Gaming? RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Brutalmoose (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →Did You Know Gaming?#Did You Know Gaming? RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Caddicarus (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →Did You Know Gaming?#Did You Know Gaming? RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – FootofaFerret (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →Did You Know Gaming?#Did You Know Gaming? RfDed by 98.179.127.59 (t&nbsp;·&nbsp;c) was closed; see discussion
+(5 more...)
+
+
+Files for discussion
+
+28 Nov 2021 – File:Tsumanuma.jpeg (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) (on Iwahiko Tsumanuma) was FfDed by Explicit (t&nbsp;·&nbsp;c); see discussion
+16 Oct 2021 – File:Lady Gaga - Applause (Music Sample).ogg (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) (on 1, 2) was FfDed by George Ho (t&nbsp;·&nbsp;c); see discussion
+
+
+A-Class review
+
+undated – Tropical Storm Hernan (2020) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was put up for A-Class review
+
+
+Good article nominees
+
+19 Nov 2021 – Ruth Crosby Noble (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by AFreshStart (t&nbsp;·&nbsp;c); start discussion
+17 Nov 2021 – Rhodinia fugax (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Ornithoptera (t&nbsp;·&nbsp;c); start discussion
+17 Nov 2021 – Controversies regarding COVID-19 contracts in the United Kingdom (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by AFreshStart (t&nbsp;·&nbsp;c); start discussion
+09 Nov 2021 – GE 25-ton switcher (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Trainsandotherthings (t&nbsp;·&nbsp;c); start discussion
+19 Oct 2021 – Einar Mäkinen (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Ljleppan (t&nbsp;·&nbsp;c); start discussion
+01 Oct 2021 – North–South Commuter Railway (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Ajpolino (t&nbsp;·&nbsp;c); start discussion
+21 Sep 2021 – Cry Macho (film) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Some Dude From North Carolina (t&nbsp;·&nbsp;c); start discussion
+09 Aug 2021 – Napoleonic looting of art (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Wingedserif (t&nbsp;·&nbsp;c); see discussion
+11 Jul 2021 – Riverfront Park (Spokane, Washington) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by 2001:5B0:4FC0:1788:F9CC:AA21:4D7A:5AFC (t&nbsp;·&nbsp;c); start discussion
+03 Jun 2021 – Zuby (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Spy-cicle (t&nbsp;·&nbsp;c); see discussion
+
+
+Requests for comments
+
+28 Nov 2021 – Maddy Dychtwald (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has an RfC by Robert McClenon (t&nbsp;·&nbsp;c); see discussion
+
+
+Peer reviews
+
+20 Nov 2021 – William Utermohlen (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been put up for PR by Realmaxxver (t&nbsp;·&nbsp;c); see discussion
+04 Nov 2021 – Vito Trause (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been put up for PR by Mikehawk10 (t&nbsp;·&nbsp;c); see discussion
+04 Aug 2021 – Billy (Black Christmas) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been put up for PR by Paleface Jack (t&nbsp;·&nbsp;c); see discussion
+
+
+Requested moves
+
+28 Nov 2021 – Kamehameha Statue (Honolulu cast) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is requested to be moved to Statue of Kamehameha I (Honolulu) by Another Believer (t&nbsp;·&nbsp;c); see discussion
+21 Nov 2021 – Shahi cabinet (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is requested to be moved to Jeevan Bahadur Shahi cabinet by 2pou (t&nbsp;·&nbsp;c); see discussion
+16 Nov 2021 – List of split up universities (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is requested to be moved to List of universities that split into more than one new institution by Mikehawk10 (t&nbsp;·&nbsp;c); see discussion
+25 Nov 2021 – Number of U.S. Supreme Court Cases Decided by Year (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) move request to Number of U.S. Supreme Court cases decided by year by 87.58.119.240 (t&nbsp;·&nbsp;c) was moved to Number of U.S. Supreme Court cases decided by year (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) by Calidum (t&nbsp;·&nbsp;c) on 27 Nov 2021; see discussion
+
+
+Articles to be merged
+
+21 Nov 2021 – Saudi Arabia national football team results (2000–2009) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Saudi Arabia national football team results (2010–2019) by Mwiqdoh (t&nbsp;·&nbsp;c); see discussion
+12 Nov 2021 – 2020 Gettysburg hoax (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to George Floyd protests in Pennsylvania by Arms &amp; Hearts (t&nbsp;·&nbsp;c); see discussion
+10 Nov 2021 – Crypto art (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Non-fungible token by Lord Belbury (t&nbsp;·&nbsp;c); see discussion
+04 Nov 2021 – G. C. Chandrashekhar (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to G. C. Chandrasekhar by MPGuy2824 (t&nbsp;·&nbsp;c); see discussion
+03 Nov 2021 – Gender psychology (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Sex differences in psychology by Xurizuri (t&nbsp;·&nbsp;c); see discussion
+01 Nov 2021 – Magic Trackpad 2 (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Magic Trackpad by Shivertimbers433 (t&nbsp;·&nbsp;c); see discussion
+31 Oct 2021 – The Epistles (Manichaeism) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Fundamental Epistle by Scientifical Poet (t&nbsp;·&nbsp;c); see discussion
+26 Oct 2021 – ABTT Theatre Show (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Association of British Theatre Technicians by Justlettersandnumbers (t&nbsp;·&nbsp;c); see discussion
+17 Oct 2021 – Suzanne Levine (podiatrist) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Suzanne M. Levine by Tassedethe (t&nbsp;·&nbsp;c); see discussion
+17 Oct 2021 – Suzanne P. Clark (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Suzanne Clark by Tassedethe (t&nbsp;·&nbsp;c); see discussion
+(32 more...)
+
+
+Articles to be split
+
+28 Nov 2021 – Physical media (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by AnAbandonedMall (t&nbsp;·&nbsp;c); see discussion
+30 Sep 2021 – Frantone Electronics (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Lucaswilkins (t&nbsp;·&nbsp;c); see discussion
+24 Sep 2021 – Hilda (graphic novel series) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by 92.236.253.249 (t&nbsp;·&nbsp;c); see discussion
+13 Jun 2021 – List of American saints and beatified people (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by TheBlinkster (t&nbsp;·&nbsp;c); see discussion
+27 Jul 2020 – Litton Entertainment (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by OcarinaOfTime (t&nbsp;·&nbsp;c); see discussion
+29 Jun 2020 – Faizal Kottikollon (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Timtrent (t&nbsp;·&nbsp;c); see discussion
+21 Nov 2019 – List of The Nature of Things episodes (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Dmehus (t&nbsp;·&nbsp;c); see discussion
+
+
+
+
+
+Watch article alerts
+
+
+Recently accepted articles
+
+
+
+ Sebastian Masuda by Pancakesmelon&nbsp;(talk&nbsp;· contribs)
+ Jessica Pressman by Jesspres&nbsp;(talk&nbsp;· contribs)
+ Monte Antico railway station by St.501083&nbsp;(talk&nbsp;· contribs)
+ List of compositions by Alexander Agricola by Kahhe&nbsp;(talk&nbsp;· contribs)
+ DEC741 series by XtraJovial&nbsp;(talk&nbsp;· contribs)
+ Douglas County, Queensland by 60.241.9.110 (talk)
+ Charles Alexander John Piesse by Abibliophobe&nbsp;(talk&nbsp;· contribs)
+ Viiv (disambiguation) by 65.92.246.43 (talk)
+ Super Deluxe (soundtrack) by 122.174.207.135 (talk)
+ Sapyga quinquepunctata by Fellow&nbsp;Creature&nbsp;(talk&nbsp;· contribs)
+
+
+
+Article Icon Legend
+
+
+ - B-Class article
+
+
+ - C-Class article
+
+
+ - Start-Class article
+
+
+ - Stub-Class article
+
+
+ - List-Class article
+
+
+ - Template
+
+
+ - Disambiguation page
+
+
+ - NA-class
+
+
+ - Redirect
+
+
+ - Unclassified article
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Articles_for_creation&amp;oldid=1033587780"
+		Categories: WikiProject Articles for creationActive WikiProjectsHidden categories: Project pages with short descriptionWikipedia extended-confirmed-protected pagesWikipedia move-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		Españolفارسیनेपाली中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 14 July 2021, at 16:27&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

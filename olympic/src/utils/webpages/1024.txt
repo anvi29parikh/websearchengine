@@ -1,0 +1,666 @@
+
+
+
+
+Wikipedia:WikiProject Council - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:WikiProject Council
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Project to coordinate WikiProjects 
+ShortcutsWP:COUNCILWP:COUN
+WikiProject Council
+FAQs Overview
+ +&nbsp;talk Council page
+Coordination
+Guidelines
+(WikiProjects  - Task forces)
+Assessment FAQ
+Technical notes
+
+Directories
+WikiProjects
+Proposals
+Signpost
+
+
+vte
+
+
+The WikiProject Council is a group of Wikipedians that encourage and assist with the development of WikiProjects. The council acts as a central point for inter-WikiProject discussion and collaboration. New to WikiProjects? See FAQs about WikiProjects for the answers to the most common inquiries. The WikiProject guideline page outlines generally accepted protocols and conventions.
+
+
+
+
+
+What do we do?[edit]
+Document best practices for WikiProject structure and operation; see the WikiProject Guide and Task Force Guide.
+Provide a central forum for discussing issues of interest to a wide range of WikiProjects.
+Assist in the formation of new WikiProjects and revitalization of dormant WikiProjects. We manage the WikiProject proposals page and catalog tools available for building and maintaining WikiProjects. If you need help getting started, just ask at the talk page!
+Maintain a directory of WikiProjects to help interested editors find communities with similar interests.
+How can you help?[edit]
+
+
+There's no formal list of participants here, so there's no need to sign up. To help out, just monitor the talk page and join ongoing discussions! You can also help to update the manual WikiProject Directory by checking to see if section listings are up-to-date.
+
+Resources[edit]
+
+
+WikiProject lists
+
+WikiProject Directory (manually maintained)
+Alphabetical WikiProject list (maintained by Bamyers99's bot)
+Automated WikiProject Directory (maintained by Reports bot. Last updated July 2019)
+List of WikiProjects by number of page watchers (updated weekly)
+
+
+
+
+More on WikiProjects
+
+Much of the core WikiProject toolkit depends on the Wikipedia:Version 1.0 Editorial Team. They maintain several pages on the assessment system supporting WikiProjects' work.
+A 2013 article in The Signpost by Mabeenot answers various WikiProject frequently asked questions. The Signpost also has a now-irregular WikiProject report. To contribute, go to The Signpost Newsroom.
+RfCs related to WikiProjects are listed here.
+
+
+
+
+WikiProject Council pages
+
+See also: WikiProject Council subpages
+Technical notes
+Banner standardisation
+Work via WikiProjects
+How to use the bot
+Proposals for new WikiProjects
+
+
+
+
+Other
+
+Orphaned articles by WikiProject
+Shortcuts to WikiProjects
+Requests for comment
+
+
+
+
+
+
+Templates
+
+Category:Council templates
+List of WikiProject banner templates
+List of templates for WikiProject-related page headings
+Wikipedia:WikiProject Council/Userbox
+
+
+
+
+Defunct, inactive and semi-active projects
+
+Defunct WikiProjects
+Inactive WikiProjects
+Semi-active WikiProjects
+
+
+Historical pages
+
+(2009) Assessment working group
+(2008) Proposal for WikiProject banner standardisation
+(2007) Proposal for WikiProject reform
+(2006) Proposal for selecting Exemplar WikiProjects
+(2005) Proposal regarding inappropriate WikiProjects
+(2005) Meta WikiProject group
+(2001) Proposal for WikiProjects
+
+Statistics[edit]
+
+
+Wikipedia 1.0 assessment
+
+
+
+
+
+
+
+
+All rated articles by quality and importance
+
+
+Quality
+
+Importance
+
+
+Top
+
+High
+
+Mid
+
+Low
+
+???
+
+Total
+
+
+ FA
+
+1,415
+
+2,249
+
+2,181
+
+1,564
+
+168
+
+7,577
+
+
+ FL
+
+165
+
+609
+
+670
+
+622
+
+107
+
+2,173
+
+
+ A
+
+303
+
+624
+
+740
+
+504
+
+87
+
+2,258
+
+
+ GA
+
+2,776
+
+6,416
+
+12,857
+
+15,769
+
+1,645
+
+39,463
+
+
+B
+
+14,647
+
+28,403
+
+45,606
+
+47,362
+
+17,191
+
+153,209
+
+
+C
+
+14,501
+
+45,353
+
+110,303
+
+207,125
+
+69,654
+
+446,936
+
+
+Start
+
+18,690
+
+88,286
+
+379,757
+
+1,268,269
+
+377,806
+
+2,132,808
+
+
+Stub
+
+4,416
+
+32,450
+
+277,472
+
+2,530,987
+
+846,479
+
+3,691,804
+
+
+List
+
+4,367
+
+15,077
+
+46,028
+
+148,893
+
+78,199
+
+292,564
+
+
+Assessed
+
+61,280
+
+219,467
+
+875,614
+
+4,221,095
+
+1,391,336
+
+6,768,792
+
+
+Unassessed
+
+115
+
+474
+
+1,506
+
+14,923
+
+407,407
+
+424,425
+
+
+Total
+
+61,395
+
+219,941
+
+877,120
+
+4,236,018
+
+1,798,743
+
+7,193,217
+
+ 
+
+About this table
+
+vte&nbsp;WikiProject Council&nbsp;WikiProject guides
+WikiProject Council
+Talk
+Guidelines/Intro
+WikiProjects
+Task forces
+Technical notes
+Assessment FAQ
+Work via WikiProjects
+&nbsp;Directories and summaries
+Directory
+Proposals
+Signpost
+Shortcuts
+Popular pages
+Database reports
+Watchers
+&nbsp;Culture and the arts
+Arts
+Music
+Performing
+Plastic
+Visual
+Broadcasting
+Crafts and hobbies
+Entertainment
+Games and toys
+Food and drink
+Internet culture
+Language and literature
+Biography
+Linguistics
+Media
+Philosophy and religion
+Sports
+&nbsp;Geographical
+Bodies of water
+Cities
+Countries
+Africa
+Americas
+Asia
+Europe
+Oceania
+Landforms
+Maps
+Parks, conservation areas and historical sites
+&nbsp;History and society
+History and society
+Business and economics
+Education
+Military and warfare
+Politics and government
+Transportation
+&nbsp;Science, technology
+and engineering
+Science
+Biology
+Chemistry
+Economics
+Geosciences
+Information science
+Mathematics
+Medicine
+Meteorology
+Physics
+Space
+Technology
+Time
+&nbsp;Wikipedia assistance
+and tasks
+Contents systems
+Maintenance
+Files
+Article improvement and grading
+Classroom projects
+WikiProjects
+
+
+
+
+
+
+
+This is a WikiProject, an area for focused collaboration among Wikipedians. New participants are welcome; please feel free to participate!
+
+Guide to WikiProjects
+Directory of WikiProjects  
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Council&amp;oldid=1031182610"
+		Categories: Active WikiProjectsWikiProject CouncilWikipedian organizationsHidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia Commons
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		অসমীয়াবাংলাभोजपुरीEspañolItalianoქართულიKurdîBahasa MelayuNederlandsनेपालीភាសាខ្មែរPortuguêsРусскийSlovenščinaTürkçeУкраїнська中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 30 June 2021, at 06:36&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

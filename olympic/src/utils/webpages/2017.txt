@@ -1,0 +1,261 @@
+
+
+
+
+Help:Using talk pages - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Help:Using talk pages
+	
+		From Wikipedia, the free encyclopedia
+		Redirect page
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Redirect to:Help:Talk pages This page is a redirect. The following categories are used to track and monitor this redirect:
+
+Semi-protected: This is a redirect from a title that is semi-protected from editing for any of several possible reasons.
+Please do not replace these redirected links with links directly to the target page unless expressly advised to do so below or elsewhere on this page, or if the change is supported by a policy or guideline.
+
+
+From a longer title: This is a redirect from a title that is a complete, more complete or longer version of the topic's name. It leads to the title in accordance with the naming conventions for common names and can help writing and searches. However, do not replace these redirected links with a piped link unless the page is updated for another reason.
+
+
+To a help page: This is a redirect from any page inside or outside of help namespace to a page in that namespace.
+The above category link leads to a list of redirects from inside help namespace.  For redirects from outside help space, see Category:Redirects to help namespace.
+
+
+From a page move: This is a redirect from a page that has been moved (renamed) or is the result of a page move. One reason this page was kept as a redirect is to avoid breaking links, both internal and external, that may have been made to the old page name. Any redirect with a page move logged on its history page should be tagged with this rcat template.
+
+When appropriate, protection levels are automatically sensed, described and categorized.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Using_talk_pages&amp;oldid=1055912342"
+		Hidden categories: Wikipedia semi-protected project pagesSemi-protected redirectsRedirects from long namesRedirects to help pagesRedirects from moves
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 18 November 2021, at 15:52&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

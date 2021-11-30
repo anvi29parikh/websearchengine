@@ -1,0 +1,1231 @@
+
+
+
+
+Wikipedia talk:Categories for discussion/Working - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia talk:Categories for discussion/Working
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia talk:Categories for discussion&nbsp;&nbsp;(Redirected from Wikipedia talk:CFD/W)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		ShortcutWT:CFD/W
+
+
+XFD backlog
+
+
+V
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Total
+
+
+CfD
+
+0
+
+1
+
+61
+
+90
+
+152
+
+
+TfD
+
+0
+
+0
+
+0
+
+12
+
+12
+
+
+MfD
+
+0
+
+0
+
+6
+
+9
+
+15
+
+
+FfD
+
+0
+
+0
+
+40
+
+12
+
+52
+
+
+AfD
+
+0
+
+0
+
+0
+
+0
+
+0
+
+
+
+
+&nbsp;Archives
+Archive 1 (2006–2013)
+Archive 2 (2014–present)
+
+
+
+
+
+Contents
+
+1 NACs
+
+1.1 Merge then delete
+1.2 Move
+1.3 Retain
+1.4 Merge then delete
+1.5 Move
+1.6 Merge then delete
+1.7 Move
+1.8 30 December 2020
+1.9 6 January 2021
+
+
+2 Bot feature requests
+
+2.1 Redirect handling when moving
+2.2 Re-categorizing by updating templates
+2.3 Retain
+2.4 Control characters in listing
+2.5 Merging
+2.6 Skip/warn on circular instructions
+
+
+3 Incomplete cat move
+4 Category:Redirected episode articles
+5 Lowering protection and nacs
+6 Category:Grandfathers of Presidents of the United States
+7 2 categories needing listing
+8 Question on formatting of categories that are listed for deletion
+9 Category:Cornish people by occupation to Category:People from Cornwall by occupation
+10 NACs 2 February 2021
+11 Category:YouTubers stubs and Category:TikTokers stubs do not get moved
+12 Protected edit request on 1 September 2021
+
+
+
+
+NACs[edit]
+
+
+
+
+done
+
+
+
+13 July 2020
+
+
+@JJMC89, Ymblanter,  and Bibliomaniac15: just one this time - per Wikipedia:Categories for discussion/Log/2020 July 4#Category:Tamil Nadu drama television series please delete Category:Tamil Nadu drama television series. Thanks, --DannyS712 (talk) 02:57, 13 July 2020 (UTC)
+
+&nbsp;Done bibliomaniac15 05:59, 13 July 2020 (UTC)
+
+13 July 2020
+
+
+
+
+done
+
+
+
+
+
+Please copy the following to the section "Merge then delete":
+
+Wikipedia:Categories for discussion/Log/2020 July 4
+Category:Bellevue, Queensland to Category:Shire of Mareeba
+Category:Crystalbrook, Queensland to Category:Shire of Mareeba
+Category:Kuranda, Queensland to Category:Shire of Mareeba
+Category:Mount Molloy, Queensland to Category:Shire of Mareeba
+Category:Petford, Queensland to Category:Shire of Mareeba
+Category:Watsonville, Queensland to Category:Shire of Mareeba
+Category:Mungana to Category:Shire of Mareeba
+Category:Bungil, Queensland to Category:Maranoa Region
+Category:Glenmorgan, Queensland to Category:Maranoa Region
+Category:Wallumbilla, Queensland to Category:Maranoa Region
+Category:Surat, Queensland to Category:Maranoa Region
+Category:Eimeo, Queensland to Category:Mackay Region
+Category:Homebush, Queensland to Category:Mackay Region
+Category:Koumala, Queensland to Category:Mackay Region
+Category:Mount Martin, Queensland to Category:Mackay Region
+Category:Pindi Pindi, Queensland to Category:Mackay Region
+Category:Pleystowe, Queensland to Category:Mackay Region
+Category:Mirani, Queensland to Category:Mackay Region
+Category:Walkerston, Queensland to Category:Mackay Region
+Category:Canal Creek, Queensland to Category:Shire of Livingstone
+Category:Emu Park, Queensland to Category:Shire of Livingstone
+Category:Great Keppel Island to Category:Shire of Livingstone
+Category:Joskeleigh, Queensland to Category:Shire of Livingstone
+Category:Nerimbera, Queensland to Category:Shire of Livingstone
+Category:Allenview, Queensland to Category:Scenic Rim Region
+Category:Beechmont, Queensland to Category:Scenic Rim Region
+Category:Binna Burra to Category:Scenic Rim Region
+Category:Croftby, Queensland to Category:Scenic Rim Region
+Category:Mutdapilly, Queensland to Category:Scenic Rim Region
+Category:Nindooinbah, Queensland to Category:Scenic Rim Region
+Category:North Tamborine, Queensland to Category:Scenic Rim Region
+Category:Rosevale, Queensland to Category:Scenic Rim Region
+Category:Tamborine, Queensland to Category:Scenic Rim Region
+Category:Tamrookum, Queensland to Category:Scenic Rim Region
+Category:Warrill View, Queensland to Category:Scenic Rim Region
+Category:Wonglepong, Queensland to Category:Scenic Rim Region
+Category:Wyaralong, Queensland to Category:Scenic Rim Region
+Category:Sommariva, Queensland to Category:Shire of Murweh
+Category:Barringun, Queensland to Category:Shire of Paroo
+Category:Richmond, Queensland to Category:Shire of Richmond
+Category:Morella, Queensland to Category:Longreach Region
+Category:Ilfracombe, Queensland to Category:Longreach Region
+Category:Ballard, Queensland to Category:Lockyer Valley Region
+Category:Ma Ma Creek, Queensland to Category:Lockyer Valley Region
+Category:Lake Clarendon, Queensland to Category:Lockyer Valley Region
+Category:Grantham, Queensland to Category:Lockyer Valley Region
+Category:Lawes, Queensland to Category:Lockyer Valley Region
+Category:Lockyer Creek, Queensland to Category:Lockyer Valley Region
+Category:Lockyer, Queensland to Category:Lockyer Valley Region
+Category:Carmila, Queensland to Category:Isaac Region
+Category:Nebo, Queensland to Category:Isaac Region
+Category:Kawungan, Queensland to Category:Fraser Coast Region
+Category:Pialba, Queensland to Category:Fraser Coast Region
+Category:Urangan, Queensland to Category:Fraser Coast Region
+Category:Brooweena, Queensland to Category:Fraser Coast Region
+Category:Duckinwilla, Queensland to Category:Fraser Coast Region
+Category:Torbanlea to Category:Fraser Coast Region
+Category:Hughenden, Queensland to Category:Shire of Flinders (Queensland)
+Category:Porcupine, Queensland to Category:Shire of Flinders (Queensland)
+Category:Barney Point, Queensland to Category:Gladstone Region
+Category:Boynedale, Queensland to Category:Gladstone Region
+Category:Many Peaks, Queensland to Category:Gladstone Region
+Category:Seventeen Seventy, Queensland to Category:Gladstone Region
+Category:Miriam Vale, Queensland to Category:Gladstone Region
+Category:Wyaga to Category:Goondiwindi Region
+Category:Georgetown, Queensland to Category:Shire of Etheridge
+Category:Forsayth, Queensland to Category:Shire of Etheridge
+Category:Llanarth, Queensland to Category:Charters Towers Region
+Category:Basalt, Queensland to Category:Charters Towers Region
+Category:Dotswood, Queensland to Category:Charters Towers Region
+Category:Hervey Range, Queensland to Category:Charters Towers Region
+Category:Argyll, Queensland to Category:Central Highlands Region
+Category:Cairdbeign, Queensland to Category:Central Highlands Region
+Category:Crinum, Queensland to Category:Central Highlands Region
+Category:Gindie, Queensland to Category:Central Highlands Region
+Category:Tieri to Category:Central Highlands Region
+Category:Bingil Bay, Queensland to Category:Cassowary Coast Region
+Category:Cowley Beach, Queensland to Category:Cassowary Coast Region
+Category:Damper Creek, Queensland to Category:Cassowary Coast Region
+Category:Dunk Island, Queensland to Category:Cassowary Coast Region
+Category:Garners Beach, Queensland to Category:Cassowary Coast Region
+Category:Garradunga, Queensland to Category:Cassowary Coast Region
+Category:Tambo, Queensland to Category:Blackall-Tambo Region
+
+
+Thank you, --Mdaniels5757 (talk) 21:33, 13 July 2020 (UTC)
+
+&nbsp;Done Timrollpickering (talk) 21:44, 13 July 2020 (UTC)
+
+15 July 2020
+
+
+
+
+done
+
+
+
+
+
+Please copy the following NACs over:
+
+Merge then delete[edit]
+Wikipedia:Categories for discussion/Log/2020 July 7
+Category:Forrest Beach, Queensland to Category:Shire of Hinchinbrook
+Category:Halifax, Queensland to Category:Shire of Hinchinbrook
+Category:Trebonne to Category:Shire of Hinchinbrook
+Category:Invertebrates of Belize to Category:Invertebrates of Central America
+Category:Invertebrates of Costa Rica to Category:Invertebrates of Central America
+Category:Invertebrates of El Salvador to Category:Invertebrates of Central America
+Category:Invertebrates of Guatemala to Category:Invertebrates of Central America
+Category:Invertebrates of Honduras to Category:Invertebrates of Central America
+Category:Invertebrates of Nicaragua to Category:Invertebrates of Central America
+Category:Invertebrates of Panama to Category:Invertebrates of Central America
+Category:Flametree, Queensland to Category:Whitsunday Region
+Category:Mount Wyatt, Queensland to Category:Whitsunday Region
+Category:Springlands, Queensland to Category:Whitsunday Region
+Category:Mount Coolon, Queensland to Category:Whitsunday Region
+Wikipedia:Categories for discussion/Log/2020 July 6
+Category:Barakula, Queensland to Category:Western Downs Region
+Category:Boonarga, Queensland to Category:Western Downs Region
+Category:Eurombah, Queensland to Category:Western Downs Region
+Category:Jimbour East to Category:Western Downs Region
+Category:Kogan, Queensland to Category:Western Downs Region
+Category:Acland, Queensland to Category:Toowoomba Region
+Category:Clifton, Queensland to Category:Toowoomba Region
+Category:Cooyar, Queensland to Category:Toowoomba Region
+Category:Cranley, Queensland to Category:Toowoomba Region
+Category:Crows Nest, Queensland to Category:Toowoomba Region
+Category:Geham, Queensland to Category:Toowoomba Region
+Category:Goombungee, Queensland to Category:Toowoomba Region
+Category:Highgrove, Queensland to Category:Toowoomba Region
+Category:Nutgrove, Queensland to Category:Toowoomba Region
+Category:Pechey, Queensland to Category:Toowoomba Region
+Category:Yandilla, Queensland to Category:Toowoomba Region
+Category:Cambooya, Queensland to Category:Toowoomba Region
+Category:Greenmount, Queensland (Toowoomba Region) to Category:Toowoomba Region
+Category:Harlaxton, Queensland to Category:Toowoomba Region
+Category:Nobby, Queensland to Category:Toowoomba Region
+Category:Pittsworth, Queensland to Category:Toowoomba Region
+Category:Westbrook, Queensland to Category:Toowoomba Region
+Category:Gunnawarra, Queensland to Category:Tablelands Region
+Category:Innot Hot Springs to Category:Tablelands Region
+Category:Kairi, Queensland to Category:Tablelands Region
+Category:Lake Tinaroo, Queensland to Category:Tablelands Region
+Category:Millaa Millaa, Queensland to Category:Tablelands Region
+Category:Mount Garnet, Queensland to Category:Tablelands Region
+Category:Silver Valley, Queensland to Category:Tablelands Region
+Category:Wairuna, Queensland to Category:Tablelands Region
+Category:Evelyn, Queensland to Category:Tablelands Region
+Category:Tolga, Queensland to Category:Tablelands Region
+Category:Glenview, Queensland to Category:Sunshine Coast Region
+Category:Woombye, Queensland to Category:Sunshine Coast Region
+Category:Amiens, Queensland to Category:Southern Downs Region
+Category:Glengallan, Queensland to Category:Southern Downs Region
+Category:Killarney, Queensland to Category:Southern Downs Region
+Category:Silverwood, Queensland to Category:Southern Downs Region
+Category:Talgai, Queensland to Category:Southern Downs Region
+Category:Toolburra, Queensland to Category:Southern Downs Region
+Category:Tregony, Queensland to Category:Southern Downs Region
+Category:Wallangarra, Queensland to Category:Southern Downs Region
+Category:Dalveen, Queensland to Category:Southern Downs Region
+Category:Leyburn, Queensland to Category:Southern Downs Region
+Category:Swan Creek, Queensland to Category:Southern Downs Region
+Category:Yangan, Queensland to Category:Southern Downs Region
+Category:Benarkin, Queensland to Category:South Burnett Region
+Category:Durong, Queensland to Category:South Burnett Region
+Category:Haly Creek, Queensland to Category:South Burnett Region
+Category:Ironpot, Queensland (South Burnett Region)‎ to Category:South Burnett Region
+Category:Proston, Queensland to Category:South Burnett Region
+Category:Maidenwell, Queensland to Category:South Burnett Region
+Category:Nanango to Category:South Burnett Region
+Category:Boondooma to Category:South Burnett Region
+Category:Tarong, Queensland to Category:South Burnett Region
+Category:People from Lyman, Washington to Category:People from Skagit County, Washington
+Wikipedia:Categories for discussion/Log/2020 July 4
+Category:Somerset, Queensland to Category:Northern Peninsula Area Region, Category:Shire of Torres
+Move[edit]
+Wikipedia:Categories for discussion/Log/2020 July 6
+REDIRECT Category:Panoply Media to Category:Megaphone (podcasting)
+Retain[edit]
+Wikipedia:Categories for discussion/Log/2020 July 6 - KEEP
+Category:Vermont Democratic Party
+
+
+Thanks, --Mdaniels5757 (talk) 17:57, 15 July 2020 (UTC)
+
+&nbsp;Done, thanks--Ymblanter (talk) 18:07, 15 July 2020 (UTC)
+
+18 July 2020
+
+
+
+
+done
+
+
+
+
+
+@JJMC89, Ymblanter,  and Bibliomaniac15: A bunch more. Thanks again. Stay safe, --DannyS712 (talk) 08:26, 18 July 2020 (UTC)
+
+Per Wikipedia:Categories for discussion/Log/2020 July 10, delete the following (already emptied):
+Category:Venomous spiders
+Category:Bathurst Street, Hobart
+Category:Pederastic poetry
+Category:Films about pederasty
+Per Wikipedia:Categories for discussion/Log/2020 July 9, delete the following (already emptied):
+Category:Teairra Marí songs
+Category:Norwich City F.C. captains
+Category:Game of Thrones wars and battles
+Category:Star Trek wars and battles (closed as partial merge, then delete, merge also done)
+Per Wikipedia:Categories for discussion/Log/2020 June 28#Category:People associated with the Humanitarian League
+Delete Category:People associated with the Humanitarian League, already emptied
+I do not think this one is eligible for nac close.--Ymblanter (talk) 20:31, 18 July 2020 (UTC)
+@Ymblanter oh&nbsp;:( - what should I do now, given that I already emptied it? Going both by the numbers and by the policy/guideline-based arguments, I saw a clear consensus to delete. There is a list of the contents at Wikipedia talk:Categories for discussion/Log/2020 June 28 if it should be re-populated DannyS712 (talk) 04:40, 19 July 2020 (UTC)
+I think it is reasonable to ask an administrator to confirm (or overturn) the outcome. I would have done this myself but I am travelling for the whole week and physically do not have time to have a look. May be post an AN request. All other NACs in this batch are fine, I have acted on them.--Ymblanter (talk) 06:33, 19 July 2020 (UTC)
+@JJMC89 and Bibliomaniac15: would one of you be willing to take a look at the discussion? DannyS712 (talk) 13:22, 19 July 2020 (UTC)
+This definitely seemed a little too borderline for an NAC, but your close was accurate. I'll drop a line confirming the close. Thanks for your work as always! bibliomaniac15 19:45, 19 July 2020 (UTC)
+@Bibliomaniac15 happy to help. Can the category be deleted now? Thanks again, --DannyS712 (talk) 10:31, 20 July 2020 (UTC)
+Wow, that's embarrassing! Thanks for the reminder. I'll take a WP:TROUT on this one. bibliomaniac15 18:14, 20 July 2020 (UTC)
+
+
+Additionally, per Wikipedia:Categories for discussion/Log/2020 July 10:
+
+Rename Category:American textile industry executives to Category:American textile industry businesspeople - already moved, redirect ready for deletion
+
+
+Finally, per Wikipedia:Categories for discussion/Log/2020 July 10#Tamil-language television series by genre, a number of renames, which I didn't manually implement. Rename
+
+Category:Tamil children's television series to Category:Tamil-language children's television series
+Category:Tamil comedy television series to Category:Tamil-language comedy television series
+Category:Tamil cooking television series to Category:Tamil-language cooking television series
+Category:Tamil crime television series to Category:Tamil-language crime television series
+Category:Tamil dance television shows to Category:Tamil-language dance television shows
+Category:Tamil fantasy television series to Category:Tamil-language fantasy television series
+Category:Tamil game shows to Category:Tamil-language game shows
+Category:Tamil historical television series to Category:Tamil-language historical television series
+Category:Tamil horror fiction television series to Category:Tamil-language horror fiction television series
+Category:Tamil legal television series to Category:Tamil-language legal television series
+Category:Tamil martial arts television series to Category:Tamil-language martial arts television series
+Category:Tamil medical television series to Category:Tamil-language medical television series
+Category:Tamil musical television series to Category:Tamil-language musical television series
+Category:Tamil mystery television series to Category:Tamil-language mystery television series
+Category:Tamil mythology soap operas to Category:Tamil-language mythology soap operas
+Category:Tamil police television series to Category:Tamil-language police television series
+Category:Tamil quiz shows to Category:Tamil-language quiz shows
+Category:Tamil reality television series to Category:Tamil-language reality television series
+Category:Tamil romance television series to Category:Tamil-language romance television series
+Category:Tamil school television series to Category:Tamil-language school television series
+Category:Tamil Singing talent shows to Category:Tamil-language singing talent shows
+Category:Tamil sports television series to Category:Tamil-language sports television series
+Category:Tamil suspense television series to Category:Tamil-language suspense television series
+Category:Tamil talk shows to Category:Tamil-language talk shows
+Category:Tamil teen television series to Category:Tamil-language teen television series
+Category:Tamil thriller television series to Category:Tamil-language thriller television series
+Category:Tamil travel shows to Category:Tamil-language travel shows
+
+27 July 2020
+
+
+
+
+done
+
+
+
+
+
+@JJMC89, Ymblanter,  and Bibliomaniac15: A bunch more. Thanks again. Stay safe, --DannyS712 (talk) 04:26, 27 July 2020 (UTC)
+
+Per Wikipedia:Categories for discussion/Log/2020 July 19
+Rename Category:Bethlehem Steel FC players to Category:Philadelphia Union II players. Since the target category already existed, I've just transferred the contents, and converted the old category page to a redirect, but if may warrant deletion
+Delete Category:Dragonlance events (was already empty)
+Delete Category:Restaurant reviews (emptied, ready for deletion)
+I've also gone through and relisted a bunch of discussions that were too close for NAC closes, but wasn't sure what to do about Wikipedia:Categories for discussion/Log/2020 June 19#Category:Albany Thicket Biome --DannyS712 (talk) 05:02, 27 July 2020 (UTC)
+&nbsp;Done, thanks--Ymblanter (talk) 19:26, 28 July 2020 (UTC)
+
+29 July 2020
+
+
+
+
+done
+
+
+
+
+
+Please copy the following over. Best, --Mdaniels5757 (talk) 17:04, 29 July 2020 (UTC)
+
+Merge then delete[edit]
+Wikipedia:Categories for discussion/Log/2020 July 7
+Category:Middleton, Queensland‎ to Category:Shire of Winton
+Category:Winton, Queensland‎ to Category:Shire of Winton
+Wikipedia:Categories for discussion/Log/2020 July 11
+Category:Selwyn, Queensland to Category:Shire of Cloncurry
+Category:Ramenye to Category:Guslitsa
+Category:Newbridge, New South Wales to Category:Blayney Shire
+Category:Barham, New South Wales to Category:Murray River Council
+Category:Cunninyeuk, New South Wales to Category:Murray River Council
+Category:Dilpurra, New South Wales to Category:Murray River Council
+Category:Mallan, New South Wales to Category:Murray River Council
+Category:Murray Downs, New South Wales to Category:Murray River Council
+Category:Tooleybuc, New South Wales to Category:Murray River Council
+Category:Wakool, New South Wales to Category:Murray River Council
+Category:Brownlow Hill, New South Wales to Category:Wollondilly Shire
+Category:Bannaby, New South Wales to Category:Upper Lachlan Shire
+Category:Collector, New South Wales to Category:Upper Lachlan Shire
+Category:Crookwell, New South Wales to Category:Upper Lachlan Shire
+Category:Taralga to Category:Upper Lachlan Shire
+Category:Rosewood, New South Wales to Category:Greater Hume Shire
+Category:Gerogery, New South Wales to Category:Greater Hume Shire
+Category:Kenebri, New South Wales to Category:Warrumbungle Shire
+Wikipedia:Categories for discussion/Log/2020 July 12
+Category:Captain America (1979 film series) to Category:Captain America films
+Wikipedia:Categories for discussion/Log/2020 July 13
+Category:Star Wars anthology films to Category:Star Wars spin-off films
+Category:Jack Reacher films to Category:Jack Reacher
+Category:SWAT films to Category:S.W.A.T.
+Category:Timecop films to Category:Timecop (franchise)
+Category:Sin City films to Category:Sin City
+Category:Red films to Category:Red (WildStorm)
+Category:Blade Runner films to Category:Blade Runner (franchise)
+Category:Blade Runner spin-offs to Category:Blade Runner (franchise)
+Wikipedia:Categories for discussion/Log/2020 July 14
+Category:Victoria Bucureşti players to Category:Victoria București players
+Wikipedia:Categories for discussion/Log/2020 July 17
+Category:Borchs Kollegium to Category:University of Copenhagen
+Category:Wingham, New South Wales to Category:Mid-Coast Council
+Category:Booral, New South Wales to Category:Mid-Coast Council
+Move[edit]
+Wikipedia:Categories for discussion/Log/2020 July 14
+Category:Loughborough Lightning (WCSL) cricketers to Category:Loughborough Lightning (women's cricket) cricketers
+Category:Parti Kesejahteraan Insan Tanah Air politicians to Category:People's Welfare Party (Malaysia) politicians
+&nbsp;Done, thanks--Ymblanter (talk) 05:39, 30 July 2020 (UTC)
+
+6 August 2020
+
+
+
+
+done
+
+
+
+
+
+Please copy the following over. Best, —Mdaniels5757 (talk) 19:34, 6 August 2020 (UTC)
+
+Merge then delete[edit]
+Wikipedia:Categories for discussion/Log/2020 July 29
+Category:Insect fighting to Category:Blood sports and Category:Insect-related occupations or hobbies
+Move[edit]
+Wikipedia:Categories for discussion/Log/2020 July 26
+Category:WikiProject Administrator Members to Category:WikiProject Administrator members
+Category:WikiProject Amusement Parks Project Members to Category:WikiProject Amusement Parks Project members
+Category:WikiProject Swimming Members to Category:WikiProject Swimming members
+Category:WikiProject Squash Members to Category:WikiProject Squash members
+&nbsp;Done, thank you--Ymblanter (talk) 21:56, 7 August 2020 (UTC)
+
+18 August 2020
+
+
+
+
+done
+
+
+
+
+
+@JJMC89, Ymblanter,  and Bibliomaniac15: A few more. Thanks, --DannyS712 (talk) 06:49, 18 August 2020 (UTC)
+
+Per Wikipedia:Categories for discussion/Log/2020 August 10
+Rename Category:Witchcraft in video games to Category:Video games about witchcraft (already moved)
+Rename Category:Ninja video games to Category:Video games about ninja (already moved)
+Delete Category:Barack Obama in video games (already emptied)
+Rename Category:Skeleton video games to Category:Video games about skeletons (already moved)
+Rename Category:Samurai video games to Category:Video games about samurai (already moved)
+&nbsp;Done (deleted the middle category, nothing else to do here), thanks.--Ymblanter (talk) 10:50, 18 August 2020 (UTC)
+
+25 August 2020
+
+
+
+
+done
+
+
+
+
+
+@JJMC89, Ymblanter,  and Bibliomaniac15: per Wikipedia:Categories for discussion/Log/2020 August 17, please delete the following categories. Thanks, --DannyS712 (talk) 02:05, 25 August 2020 (UTC)
+
+Category:Mythology of Patras (already emptied)
+Category:Jessi (musician)
+Category:TikTok songs (already emptied)
+Category:Vine songs (already emptied)
+
+8 September 2020
+
+
+
+
+done
+
+
+
+
+
+@JJMC89, Ymblanter,  and Bibliomaniac15: I'm hoping to try and tackle some of the backlog soon, but for now per Wikipedia:Categories for discussion/Log/2020 August 31#Category:Actors at the Royal Exchange, Manchester please delete Category:Actors at the Royal Exchange, Manchester (already emptied). Thanks, --DannyS712 (talk) 02:58, 8 September 2020 (UTC)
+
+&nbsp;Done — JJMC89 (T·C) 06:54, 8 September 2020 (UTC)
+
+21 September 2020
+
+
+
+
+done
+
+
+
+
+
+@JJMC89, Ymblanter,  and Bibliomaniac15: a few more. Thanks, --DannyS712 (talk) 03:21, 21 September 2020 (UTC)
+
+Wikipedia:Categories for discussion/Log/2020 September 12
+Rename Category:Hindi poets to Category:Hindi-language poets - already moved, redirect can be deleted
+Rename Category:Flooding in Jakarta to Category:Floods in Jakarta - already moved, redirect can be deleted
+Wikipedia:Categories for discussion/Log/2020 July 15#Category:Clickteam (game engines)
+Rename Category:Clickteam (game engines) to Category:Clickteam (game engine) games - already moved, redirect can be deleted
+
+23 December 2020
+
+
+
+
+done
+
+
+
+Wikipedia:Categories for discussion/Log/2020 December 6
+Rename Category:Helvia (gens) to Category:Helvii (Romans) William Allen Simpson (talk) 17:27, 23 December 2020 (UTC)
+&nbsp;Done, thanks--Ymblanter (talk) 09:07, 24 December 2020 (UTC)
+
+30 December 2020[edit]
+Wikipedia:Categories for discussion/Log/2020 November 27
+Category:People from Sunderland, Tyne and Wear to Category:People from Sunderland
+Category:Sportspeople from Sunderland, Tyne and Wear to Category:Sportspeople from Sunderland
+Category:Cricketers from Sunderland, Tyne and Wear to Category:Cricketers from Sunderland
+Category:Footballers from Sunderland, Tyne and Wear to Category:Footballers from Sunderland
+William Allen Simpson (talk) 12:45, 30 December 2020 (UTC)
+Thank you but I do not think this is NAC material. I would have probably closed as no consensus. We need an independent admin I am afraid.--Ymblanter (talk) 21:16, 30 December 2020 (UTC)
+In closing this complex discussion that has languished for more than a month, I've read everything, including the speedy nomination, and the cited prior nominations, and the history log of the main article. For !vote counters, it was 6:3:1. As my closing comment notes, it conforms to both WP:C2C and WP:C2D. But of course anybody is welcome to take this to DRV.
+William Allen Simpson (talk) 02:53, 31 December 2020 (UTC)
+That’s an interesting claim, but they were not brought up during the discussion at all. Also it’s not true at all. Armbrust The Homunculus 19:15, 1 January 2021 (UTC)
+Really don't like being called a liar. But then, as you pretty much called everybody else a liar during the discussion, I'm in good company.
+William Allen Simpson (talk) 11:07, 6 January 2021 (UTC)
+I am sorry, but I am going to unclose the discussion. (This does not mean my support of the accusation, but this is just not a NAC).--Ymblanter (talk) 20:48, 6 January 2021 (UTC)
+6 January 2021[edit]
+Wikipedia:Categories for discussion/Log/2020 December 2
+Category:Records to Category:Records (superlatives)
+William Allen Simpson (talk) 11:07, 6 January 2021 (UTC)
+Wikipedia:Categories for discussion/Log/2020 December 5
+Category:Fossil insects of Africa to Category:Prehistoric insects of Africa
+Category:Fossil insects of Asia to Category:Prehistoric insects of Asia
+Category:Fossil insects of Europe to Category:Prehistoric insects of Europe
+Category:Fossil insects of North America to Category:Prehistoric insects of North America
+Category:Fossil insects of the Caribbean to Category:Prehistoric insects of the Caribbean
+William Allen Simpson (talk) 11:07, 6 January 2021 (UTC)
+Wikipedia:Categories for discussion/Log/2020 December 8
+Category:AwesomenessTV to Category:Awesomeness (company)
+William Allen Simpson (talk) 11:26, 6 January 2021 (UTC)
+I am not going to implement this close (and I believe the close of 5 December is not good, and definitely not in NAC domain), as well as any future closes by this user. I hope another administrator can look at them.--Ymblanter (talk) 11:50, 7 January 2021 (UTC)
+Bot feature requests[edit]
+JJMC89 bot III&nbsp;(BRFA&nbsp;· contribs&nbsp;· actions log&nbsp;· block log&nbsp;· flag log&nbsp;· user rights)
+
+
+I'm starting this section to gather feature requests for my bot. Please discuss each request in a separate subsection. — JJMC89 (T·C) 01:50, 2 September 2019 (UTC)
+
+Redirect handling when moving[edit]
+
+
+
+
+Option 3 (using REDIRECT to leave a redirect, otherwise not leaving one) was implemented. --DannyS712 (talk) 01:06, 26 January 2020 (UTC)
+
+
+
+
+The following discussion is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+
+
+
+
+
+
+This was discussed in the BRFA and initially kept the same as Cydebot. Currently, all moves do not leave a redirect. How do we want to handle redirects from moves?
+
+Never leave redirects
+This was Cydebot's intention in the code, but it didn't work consistently.
+Always leave redirects
+Use REDIRECT on an entry to leave a redirect, otherwise don't
+Use NO REDIRECT on an entry to not leave a redirect, otherwise do
+
+
+— JJMC89 (T·C) 01:50, 2 September 2019 (UTC)
+
+I would say 3. The default should be no redirects, but it is also nice to have an option to create one (such as football clubs changing name).--Ymblanter (talk) 11:20, 2 September 2019 (UTC)
+3. Creating content should be a human decision not an automatic bot process and the endless redirects do slow things down. Timrollpickering (Talk) 12:09, 2 September 2019 (UTC)
+Agree with 3. Category redirects are useful when used carefully, and thus should be considered on a case-by-case basis by a human editor. Also, bots should not mass-create pages (including redirects) except under very narrowly defined parameters. -- Black Falcon (talk) 16:54, 2 September 2019 (UTC)
+
+
+&nbsp;Implemented #3 — JJMC89 (T·C) 00:14, 9 September 2019 (UTC)
+
+That's great! What are the parameters (e.g. capitalization, spacing, etc.)? I assume it is something along the lines of * REDIRECT [[:Category:A]] to [[:Category:B]] but would appreciate confirmation. Thanks, -- Black Falcon (talk) 00:56, 9 September 2019 (UTC)
+Your example is correct. It parallels the NO BOTS option. — JJMC89 (T·C) 02:40, 9 September 2019 (UTC)
+Thanks for confirming. -- Black Falcon (talk) 03:05, 9 September 2019 (UTC)
+Nice work, thank you JJMC89. – Fayenatic London 07:51, 16 September 2019 (UTC)
+The discussion above is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+
+Re-categorizing by updating templates[edit]
+
+
+
+
+Feel free to uncollapse if you want to revisit this.
+
+
+
+
+
+This was requested by Black Falcon in the bot request and Fayenatic london above.
+
+
+For cases where the category name is placed in a template parameter, this is easy. How do we want to cover this?
+
+Replace the category name in any parameter of any template
+Replace the category name in any parameter of whitelisted templates
+Replace the category name in whitelisted parameters of whitelisted templates
+Replace the category name in any parameter of non-blacklisted templates
+
+
+— JJMC89 (T·C) 01:50, 2 September 2019 (UTC)
+
+Is there any good reason why the category needs to be in a template on the article? All "cat=" entries achieve is to make it harder to change the categories with bots and tools. Is it all possible to have the bot replace such entries with conventional category text?
+The major problems with population via templates are when the category is needlessly buried, often in a doc subpage, or the category is generated by a complicated string of entries reading the article or (more usually) sub-category name that makes it near impossible to modify. Timrollpickering (Talk) 12:25, 2 September 2019 (UTC)
+While I generally agree with you when it comes to content categorization, the majority of categorization via template is for maintenance purposes and non-article pages. While this feature would be useful, e.g. for renaming template-populated WikiProject, maintenance, and user categories, I struggle with how it could be implemented. A template whitelist would, in my opinion, be too cumbersome, while a blacklist would be too prone to errors. -- Black Falcon (talk) 17:29, 2 September 2019 (UTC)
+
+Retain[edit]
+
+
+Cydebot used to automatically process Wikipedia:Categories for discussion/Working/Retain (indeed it was set up by Cyde on my request years ago), but stopped some time back. Currently it's done semi-manually by Armbrust running ArmbrustBot on individual entries but would it be more helpful to restore the automatic system? Timrollpickering (Talk) 11:15, 4 September 2019 (UTC)
+
+I would prefer to add a section to CFDW. Any objection to doing that? — JJMC89 (T·C) 00:15, 9 September 2019 (UTC)
+Not from me. I'm in favor of merging /Retain and /Large (see section below) into the main /Working page. -- Black Falcon (talk) 00:52, 9 September 2019 (UTC)
+Note that when processing /Retain, Armbrust also adds the {{Old CfD}} template on the talk pages. I'm not sure whether that could be done as thoroughly if it was fully automated. – Fayenatic London 07:49, 16 September 2019 (UTC)
+Fayenatic london, does Armbrust add {{Old CfD}} manually, or does ArmbrustBot do it automatically?
+JJMC89, is that feasible? It would be great to consolidate /Retain into a section of /Working. Thanks, -- Black Falcon (talk) 17:09, 29 October 2019 (UTC)
+ArmbrustBot does it, e.g. [1], sometimes editing 20+ pages per minute. Only Armbrust knows how much manual input is needed. – Fayenatic London 17:31, 29 October 2019 (UTC)
+I fill the parameters of the template manually, and then the bot places it on the category talk pages automatically. Armbrust The Homunculus 20:58, 29 October 2019 (UTC)
+It should be doable. I'll let you know if I run into any issues when I'm coding it. — JJMC89 (T·C) 03:05, 30 October 2019 (UTC)
+
+
+​​​​Sorry for the long delay. You can now use WP:CFDW#Retain. For now, it is manually triggered so that I can monitor for any issues while it is running. — JJMC89 (T·C) 04:51, 12 January 2020 (UTC)
+
+Thank you very much! I've checked a few categories, and it seems to be working well so far. One minor request: when specifying |action=... (e.g., here), would you please correct "deleting" to "deletion"? Otherwise, the template generates the text: "This category was nominated for deleting [sic] on ...". Thanks, -- Black Falcon (talk) 04:00, 15 January 2020 (UTC)
+​Since {{Old CfD}} already standardizes other versions of the action, I updated it to handle |action=deleting → deletion. — JJMC89 (T·C) 06:15, 15 January 2020 (UTC)
+That's perfect! Thanks, -- Black Falcon (talk) 16:08, 15 January 2020 (UTC)
+
+
+This is now fully automatic. — JJMC89 (T·C) 05:20, 23 January 2020 (UTC)
+
+Control characters in listing[edit]
+
+
+@JJMC89: please could you program the bot to remove or ignore invisible control characters where these have been inadvertently pasted at the end of the category name on the Working page? e.g. see [2]. 
+
+
+These characters are quite often picked up unwittingly when copying category titles. – Fayenatic London 17:12, 28 October 2019 (UTC)
+
+@Fayenatic london: I don't see any issue caused by the left-to-right mark that you removed. Black Falcon added the entry to CFDW at 14:15. The bot recategorized the 9 articles and 2 categories at 14:17. The category didn't get moved until 16:01 because the target existed and wasn't deleted until 15:24. Left-to-right and right-to-left markers are being ignored in page titles already. — JJMC89 (T·C) 04:08, 29 October 2019 (UTC)
+@JJMC89: OK, that sounds good. I agree that the contents were moved despite the LTR mark, but please can you explain a bit more about the delay in moving the category page? As you say, the target page was deleted at 15:24, but the old page was not moved until after I removed the LTR mark from CFDW at 15:50. – Fayenatic London 10:26, 29 October 2019 (UTC)
+@Fayenatic london: That was just the next time that the bot ran after the target was deleted. — JJMC89 (T·C) 02:27, 30 October 2019 (UTC)
+Merging[edit]
+
+
+The bot now supports merging, including multiple merge targets but not selective merges. For this set of instructions the bot made these edits and performed these deletions. Feedback is welcome.​​​​ — JJMC89 (T·C) 22:19, 2 February 2020 (UTC)
+
+Everything looked good to me, and I have just one minor request (see below). I see the bot is also performing some uncontroversial genfixes (e.g., here and here) as well as removing sort keys applicable to the former category (e.g., here), which is typically appropriate/necessary when merging.
+My one request is this: for redirects, when shifting the category below the rcat template (e.g., here), can you also: (a) shift the DEFAULTSORT so that the DEFAULTSORT and category code are together; and (b) add a line between the rcat and category code per WP:REDCAT? Ideally, the outcome should be:
+#REDIRECT [[List of Advanced Dungeons &amp; Dragons 2nd edition monsters]]
+
+{{R from fictional element|Dungeons &amp; Dragons}}
+
+{{DEFAULTSORT:Bogun (Dungeons and Dragons)}}
+[[Category:Dungeons &amp; Dragons creatures]]
+[[Category:Fictional artificial intelligences]]
+
+As always, thanks, -- Black Falcon (talk) 23:06, 2 February 2020 (UTC)
+The only intentional thing was the sort key removal. The others were just a side effect of the pywikibot function that I was using. I've rewritten (but not yet deployed) that part of the code. — JJMC89 (T·C) 02:47, 4 February 2020 (UTC)
+Yes, excellent work, thank you. – Fayenatic London 09:59, 3 February 2020 (UTC)
+Skip/warn on circular instructions[edit]
+
+
+JJMC89 Is there any way to have the bot detect and skip/warn on circular instructions as in Special:PermanentLink/972655557#Speedy moves (ODEX -&gt; Odex and versa)? –xenotalk 13:16, 13 August 2020 (UTC)
+
+@Xeno: Sorry for the delay. I've implemented skipping. The updated code is now live. — JJMC89 (T·C) 19:11, 7 September 2020 (UTC)
+Incomplete cat move[edit]
+
+
+Somehow the move of Category:Contents portal to Category:Wikipedia contents was removed from the project page, as if completed (by Ymblanter) before the old category was actually depopulated (there are still pages in Category:Contents portal at the time I'm posting this — note that I have already posted about this at Wikipedia talk:Contents#Fixed double redirects, but..., so the pages may be recategorized at any time by someone else). - dcljr (talk) 02:15, 17 November 2019 (UTC)
+
+@Dcljr:  Doing... DannyS712 (talk) 03:07, 17 November 2019 (UTC)
+@Dcljr: &nbsp;Done DannyS712 (talk) 03:20, 17 November 2019 (UTC)
+Category:Redirected episode articles[edit]
+
+
+Does anybody know what should be done here? To remove manually the template comments at each from 13K redirects?--Ymblanter (talk) 19:28, 31 December 2019 (UTC)
+
+@Ymblanter: {{R from television episode}} was updated to rename the category. You would just have to wait until the job queue gets to "moving" everything over. I'll purge all of the pages to move things along. — JJMC89 (T·C) 20:01, 31 December 2019 (UTC)
+Oh, I see, thanks for the explanation.--Ymblanter (talk) 20:02, 31 December 2019 (UTC)
+Lowering protection and nacs[edit]
+
+
+Would it be possible to lower the protection of the page to extended confirmed, and instead use an edit filter to control access? Allow all sysops, deny everyone else to start with, and then whitelist users that have demonstrated understanding of CfDs and perform NACs. I'm thinking of myself right now, but there should probably be a system in case other users also get as involved. Thoughts? Pinging @Ymblanter, who has thankfully carried out a lot of the closes I have made. Thanks, --DannyS712 (talk) 08:59, 22 January 2020 (UTC)
+
+I am afraid there will be generally no consensus for this. The general sentiment in these discussions is always that if a user wants to perform admin tasks they should go to RfA first.--Ymblanter (talk) 09:51, 22 January 2020 (UTC)
+@Ymblanter:&nbsp;:( oh well; thanks for being willing to copy my closes over DannyS712 (talk) 01:04, 26 January 2020 (UTC)
+Category:Grandfathers of Presidents of the United States[edit]
+
+
+@JJMC89, Ymblanter,  and Bibliomaniac15: Hi. Category:Grandfathers of Presidents of the United States was recreated, and while I've tagged it for speedy deletion per G4, it will need to be emptied again. Can it be added to the page for the bot to process? Thanks, --DannyS712 (talk) 09:00, 23 June 2020 (UTC)
+
+Done, per CFD 2017 Jan 21. – Fayenatic London 14:23, 23 June 2020 (UTC)
+2 categories needing listing[edit]
+
+
+Wikipedia:Categories for discussion/Log/2020 August 1#Category:Taxa named by Evan Quah Seng Huat was closed by Mdaniels5757, but it was never implemented. Could someone do that. Armbrust The Homunculus 23:47, 25 October 2020 (UTC)
+
+&nbsp;Done, listed, thanks for noticing--Ymblanter (talk) 07:01, 26 October 2020 (UTC)
+Question on formatting of categories that are listed for deletion[edit]
+
+
+When a category is listed for deletion, will it delete if it is listed in the following format?:
+
+*{{lc|Chefs who committed suicide}}
+
+or does it have to be
+
+*[[:Category:Chefs who committed suicide]] Good Ol’factory (talk) 03:17, 8 December 2020 (UTC)
+
+Currently, only the latter format is supported. I could add support for {{c}}/{{cl}}/{{lc}} since the bot already recognizes those in other contexts. — JJMC89 (T·C) 05:18, 8 December 2020 (UTC)
+That would be helpful if you did add for it. When categories are listed for deletion by a nominator, it is using the {{lc}} format, so if admins are closing discussions and copying the categories and pasting it on the work page, they will be in that format. It would save us the step of changing the format of the categories. Good Ol’factory (talk) 23:41, 8 December 2020 (UTC)
+&nbsp;Done — JJMC89 (T·C) 08:37, 11 December 2020 (UTC)
+Category:Cornish people by occupation to Category:People from Cornwall by occupation[edit]
+
+
+@Fayenatic london and Timrollpickering: I'd closed and completed the work, scrupulously following the instructions for non-adminstrators. Heck, I'd written a fair amount of the instructions for non-administrators over a decade ago. This was fairly complicated, requiring a hundred+ edits over hours, and careful category re-parenting. Why, oh why, did somebody revert that work? Without even reading the closing? (Although FL did revert after reading the close, so I got a notice, otherwise I'd never have known about it.)
+William Allen Simpson (talk) 01:44, 22 December 2020 (UTC)
+
+@William Allen Simpson: Thanks for all the work done in good faith, and apologies for all the reverts. The weakness of that process was that because you created new category pages and tagged the old ones for deletion, the page history was lost; so it's better to move the pages. In the case of a rename rather than a merge you would have been able to do that yourself. I'd better review the instructions for non-admin closures. These days we ask non-admins to record the close ar WT:CFDW for an admin to process. – Fayenatic London 08:11, 22 December 2020 (UTC)
+@Fayenatic london: I look forward to seeing the merged histories on the first 4 target pages. I'd tagged only those 4 pages for deletion so that they could be recreated in the future, as the participants had asked. However, in most cases, that was the main reason for the merge: the merge targets were category redirects, and those templates were simply swapped, so the histories were kept on both pages after the merge. You've destroyed those histories by your moves. Please restore them.
+William Allen Simpson (talk) 10:51, 22 December 2020 (UTC)
+For reference, this discussion concerns Wikipedia:Categories_for_discussion/Log/2020_November_13#Category:Cornish_people_by_occupation.
+I cannot see any of the former category redirects that you referred to above. All that I found at the target names were recently created new category pages. I deleted these under WP:G6 so that the old pages could be moved over them. Can you give an example of the pages where you say that I've destroyed page history?
+If any of the Cornish writers categories are re-created, I will be happy to move the page history back to the "Cornish" names. In the meantime, and in case any of them are not re-created, I think it is better for the page history to be visible to all editors at the new names, than visible only to admins at the old names. – Fayenatic London 15:36, 22 December 2020 (UTC)
+Back in my developer days, I would have been able to show you the table entries, but cannot anymore.
+You deleted the history of the targets, so you cannot see that they were previously category redirects.
+Then you (actually JJMC89 bot III) moved the history from the "Cornish" page to the "from Cornwall" target.
+Unfortunately, it's really painful to undo that merge, and requires developer access to separate them one by one.
+Please undelete all the old now deleted histories. Better that both appear in one place, as ugly and confusing as it will appear, than not appearing at all.
+William Allen Simpson (talk) 17:36, 22 December 2020 (UTC)
+That's not how we did things in the olden days. We used to have a simple process where folks who wanted to recreate a page just asked for the old history to be reinstated, then worked on top of that. Maybe there's a fancy new tool that duplicates a select number of history entries from one page to another? I've been unable to find it.
+William Allen Simpson (talk) 17:36, 22 December 2020 (UTC)
+The original problem was that Timrollpickering added the categories to the Work page, even though the work had already been done. Better never to do things that were not requested.
+William Allen Simpson (talk) 11:06, 22 December 2020 (UTC)
+Also, Fayenatic london made a mistake for non-fiction writers. The participants did not ask for non-fiction writers to be preserved for future ethnic categories. Please read the close more carefully. I'd spent considerable time looking at the histories and weighing the comments prior to carefully closing. That's probably the reason it hadn't been done by somebody else. The process took hours, and required manually changing the poets, writers, etc.
+William Allen Simpson (talk) 11:06, 22 December 2020 (UTC)
+I can see that you spent a good amount of time manually re-categorising some biographies into more specific categories, e.g. from writers to poets, or removing unnecessary parent categories from articles. This is commendable, so thank you for doing all that. None of that work has been reverted or lost.
+For the remaining articles that did not need that sort of selective treatment, you could have left it to the bot to move them along with the category pages.
+As for the non-fiction writers category, the only decision that I took differently from scientists etc was to let the bot create a redirect at the old page. Redirects are cheap, and in the past we used to let the bot create them by default. I thought this additional one might be useful in case there are notable non-fiction writers e.g. writing about the Cornish language. I often create category redirects where they could be useful, and don't consider this a mistake. – Fayenatic London 15:36, 22 December 2020 (UTC)
+I used a category redirect with complete history all but 3 of the "Cornish" entries, because many/most editors will probably tag things at the "natural" name. I left it to the category redirect bot to handle those changes (as it has for over a decade). If I'd wanted the CfD bot, I'd have asked for it.
+William Allen Simpson (talk) 17:36, 22 December 2020 (UTC)
+Glad you didn't touch the articles.
+But the categories shouldn't have the Cornish culture tag anymore. That's just one of the changes that you lost by deleting my targets and moving the pages!
+Moreover, you deleted all the talk pages, that I'd carefully moved and/or merged. Please restore my target talk pages!
+There are existing separate subcategories for Writers about Cornwall and Historians of Cornwall. Yes, redirects are cheap. I'd had the category redirects on all the categories. I don't know why you deleted them.
+William Allen Simpson (talk) 17:36, 22 December 2020 (UTC)
+
+
+Looking at this as best I can, what appears to have happened is:
+
+I closed and complete the category merges, including Talk page move with redirect.
+Timrollpickering listed the close here the next day, long after I'd finished, without prompting.
+Somebody ran a bot to effectuate the closing, but because the work had already been done, wiped out the work, and really made a hash of the page histories.
+Fayenatic london did some more work, either before or after the bot, confusing the histories.
+FL then read my closing, realized he had made mistakes, and changed some bot parameters, running it a second time? Making more of a hash of things.
+
+
+I need help completely undo the work of the bot and FL to restore the page histories. This will probably take more time than the original work, but needs to be done to preserve the histories.
+William Allen Simpson (talk) 18:19, 22 December 2020 (UTC)
+
+I've asked for the Talk restoration at WP:RFU. But the other page histories will require more sophisticated help, possibly a developer, because the WP:SPLIT tool works by A SINGLE date, and the history dates will be interleaved.
+William Allen Simpson (talk) 18:48, 22 December 2020 (UTC)
+I'm sorry that the talk pages got deleted by the bot, which I had not anticipated. I would have fixed that; thanks Liz for responding more quickly. I have undeleted the talk page redirects as well.
+I have merged and re-split the page history of Category:Writers from Cornwall, ending up with your updated category page, moving your version of the redirect back to Category:Cornish writers (to give you the credit there rather than the CFD bot), and omitting some junk history that was caused by my mistakes. If you would accept this outcome then I will do the same on the other three. – Fayenatic London 22:42, 22 December 2020 (UTC)
+Most the history at the new page now was originally at the old page....
+Looking at Category:Cornish writers &amp;action=history, seems kinda odd, as it shows my edit -598 lines, but no prior history. If that's all that can be done, so-be-it.
+Looking at Category:Writers from Cornwall &amp;action=history, the old history is there, beginning at "2020-11-13T17:10:48‎ Rathfelder". My next edit in time looks a bit odd, because it was against a New page. But again, so-be-it.
+My own log shows that I'd created those 4 pages:
+2020-12-19T02:08:16 William Allen Simpson talk contribs created page Category:Dramatists and playwrights from Cornwall (Wikipedia:Categories for discussion/Log/2020 November 13#Category:Cornish people by occupation)
+2020-12-19T02:00:28 William Allen Simpson talk contribs created page Category:Novelists from Cornwall (Wikipedia:Categories for discussion/Log/2020 November 13#Category:Cornish people by occupation)
+2020-12-19T01:25:41 William Allen Simpson talk contribs created page Category:Poets from Cornwall (Wikipedia:Categories for discussion/Log/2020 November 13#Category:Cornish people by occupation)
+2020-12-19T01:22:44 William Allen Simpson talk contribs created page Category:Writers from Cornwall (Wikipedia:Categories for discussion/Log/2020 November 13#Category:Cornish people by occupation)
+While I'm looking at my log, now that the Talk pages have been restored, you can see that I'd spent about 5 hours working on this, and I'd mostly created (by move with redirect) Talk pages. Many (Archaeologists, Architects, Clergy, Explorers, Engineers, Farmers, Inventors, Painters, Sailors) target Category pages were existing category redirects, so I'd simply swapped them to let the redirect bot finish the work. Hopefully, you can restore the history on both sides for the rest of them as well.
+William Allen Simpson (talk) 00:07, 23 December 2020 (UTC)
+I have restored the new versions of category pages that you created, into the page history at the new names, as requested. I also made those the live versions, except for one that Dimadick edited after you.
+There is one where there was an original page history (as a redirect), which I have not merged since it would be too messy: Category:Sportspeople from Cornwall. I have instead given credit to you when reinstating your recent (hidden) version manually.
+Otherwise, I did not see the pre-existing category redirects that you refer to.
+In the non-writer categories, I did not move your new redirects e.g. [3] out of the page history back to the old name, because IMHO it is not worth the effort, and editors are not very likely to use "Cornish xxx". (For info, the workflow would be: (i) delete the page, (ii) undelete that revision alone, (iii) move it back to the old name, (iv) undelete the rest, (v) go to Wikidata and reinstate the enwiki link which would have been removed at the first step.)
+By the way, that's another reason why the category page should be moved when implementing a CFD, rather than doing a copy-and-paste: the Wikidata link is then automatically updated. You won't have seen the behind-the-scenes edits that I've been making at Wikidata to fix the above. – Fayenatic London 15:12, 23 December 2020 (UTC)
+Thanks. This is probably good enough for going onward.
+Sportspeople was already a mess, and Oculi was doing some updating himself at around the same time.
+Looks like some history is lost forever. My logs now say that I've created most of those pages, whereas they didn't say that yesterday.
+OTOH, my logs no longer say that I'd created all those new Talk pages during my moves. Guess that was lost by the process, too.
+I'd warned (above) that splitting histories would probably as much or more work than I'd already done.
+My thought on closing was that partisans were extremely likely to recreate those pages, looking at the many solicited objections. Oh well, we'll wait and see.
+Wikidata is supposed to update itself eventually; that was the idea anyway.
+William Allen Simpson (talk) 15:51, 23 December 2020 (UTC)
+
+
+Which instructions for non-admin closures were you referring to, please? Something other than WP:NAC or WP:CFDAI? – Fayenatic London 23:10, 25 December 2020 (UTC)
+
+I'd not remembered the essay WP:NAC. I've always used WP:CFDAI and Wikipedia:Deletion process that I'd helped write back in 2006. Checking, WP:CFDAI was copied from Wikipedia:Deletion process in 2008, so it's been familiar to me for a long time.
+William Allen Simpson (talk) 02:08, 26 December 2020 (UTC)
+Cheers. I have clarified CFDAI to say that db-xfd should not be used when renaming. – Fayenatic London 09:05, 26 December 2020 (UTC)
+NACs 2 February 2021[edit]
+
+
+After a long break, I thought I'd try some more non-admin closures. All are from Wikipedia:Categories for discussion/Log/2021 January 26. @JJMC89, Ymblanter,  and Fayenatic london: would you be willing to copy them over?
+
+Delete Category:Anshan (Persia)
+Merge Category:Defunct airlines of Yugoslavia to Category:Airlines of Yugoslavia
+Delete Category:Recipients of the Czechoslovak Military Order for Liberty
+Delete Category:Recipients of the Belarusian Democratic Republic 100th Jubilee Medal
+
+
+Thanks, --DannyS712 (talk) 02:05, 3 February 2021 (UTC)
+
+&nbsp;Done — JJMC89 (T·C) 04:46, 3 February 2021 (UTC)
+Category:YouTubers stubs and Category:TikTokers stubs do not get moved[edit]
+
+
+Does anybody understand why Category:YouTubers stubs and Category:TikTokers stubs, both in the speedy section, do not get moved?--Ymblanter (talk) 07:45, 22 May 2021 (UTC)
+
+They should be handled manually. If the category [...] requires template editing [...], list it at Wikipedia:Categories for discussion/Working/Manual rather than here. — JJMC89 (T·C) 07:23, 23 May 2021 (UTC)
+Thanks, I have already edited the template for one of them but there is no problem for me to complete the task.--Ymblanter (talk) 19:04, 23 May 2021 (UTC)
+Protected edit request on 1 September 2021[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+
+
+Under WP:Categories for discussion/Working#Move, please add:
+
+
+
+
+
+done
+
+
+
+Wikipedia:Categories for discussion/Log/2021 July 10
+Category:Andalusia political party colour templates to Category:Andalusia political party color templates
+Category:Aragon political party colour templates to Category:Aragon political party color templates
+Category:Argentina political party colour templates to Category:Argentina political party color templates
+Category:Asturias political party colour templates to Category:Asturias political party color templates
+Category:Balearic Islands political party colour templates to Category:Balearic Islands political party color templates
+Category:Basque Country political party colour templates to Category:Basque Country political party color templates
+Category:Bermuda political party colour templates to Category:Bermuda political party color templates
+Category:Bolivia political party colour templates to Category:Bolivia political party color templates
+Category:Brazil political party colour templates to Category:Brazil political party color templates
+Category:Canary Islands political party colour templates to Category:Canary Islands political party color templates
+Category:Cantabria political party colour templates to Category:Cantabria political party color templates
+Category:Castile and León political party colour templates to Category:Castile and León political party color templates
+Category:Catalonia political party colour templates to Category:Catalonia political party color templates
+Category:Ceuta political party colour templates to Category:Ceuta political party color templates
+Category:Chile political party colour templates to Category:Chile political party color templates
+Category:Colombia political party colour templates to Category:Colombia political party color templates
+Category:Cook Islands political party colour templates to Category:Cook Islands political party color templates
+Category:Extremadura political party colour templates to Category:Extremadura political party color templates
+Category:Galicia (Spain) political party colour templates to Category:Galicia (Spain) political party color templates
+Category:Guyana political party colour templates to Category:Guyana political party color templates
+Category:Hong Kong political party colour templates to Category:Hong Kong political party color templates
+Category:Iraqi Kurdistan political party colour templates to Category:Iraqi Kurdistan political party color templates
+Category:Kiribati political party colour templates to Category:Kiribati political party color templates
+Category:La Rioja (Spain) political party colour templates to Category:La Rioja (Spain) political party color templates
+Category:Macau political party colour templates to Category:Macau political party color templates
+Category:Madrid political party colour templates to Category:Madrid political party color templates
+Category:Melilla political party colour templates to Category:Melilla political party color templates
+Category:Mexico political party colour templates to Category:Mexico political party color templates
+Category:Murcia political party colour templates to Category:Murcia political party color templates
+Category:Navarre political party colour templates to Category:Navarre political party color templates
+Category:New Zealand political party colour templates to Category:New Zealand political party color templates
+Category:Paraguay political party colour templates to Category:Paraguay political party color templates
+Category:Peru political party colour templates to Category:Peru political party color templates
+Category:Saint Lucian political party colour templates to Category:Saint Lucian political party color templates
+Category:Samoa political party colour templates to Category:Samoa political party color templates
+Category:Suriname political party colour templates to Category:Suriname political party color templates
+Category:Tonga political party colour templates to Category:Tonga political party color templates
+Category:Uruguay political party colour templates to Category:Uruguay political party color templates
+Category:Valencian Country political party colour templates to Category:Valencian Country political party color templates
+Category:Vanuatu political party colour templates to Category:Vanuatu political party color templates
+Category:Yugoslavia political party colour templates to Category:Yugoslavia political party color templates
+
+
+
+The bot didn't finish the job for whatever reason. –MJL ‐Talk‐☖ 19:35, 1 September 2021 (UTC)
+
+Wikipedia:Categories_for_discussion/Log/2021_July_10#Category:Political_party_colour_templates was hardly a strong consensus, but as it hasn't been taken to DRV and some have been processed, we might as well finish it. User:Number 57 can you remember why you didn't feed them all to the bot? [4] – Fayenatic London 22:32, 1 September 2021 (UTC)
+MJL asked me to add all the ones they had compiled at User:MJL/sandbox3 – I was unaware this list was incomplete. Cheers, Number 57 23:47, 1 September 2021 (UTC)
+Ah, that explains it enough, thanks. Here goes. – Fayenatic London 08:00, 2 September 2021 (UTC)
+@Number 57 and Fayenatic london Sorry about that! :E –MJL ‐Talk‐☖ 19:15, 2 September 2021 (UTC)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Categories_for_discussion/Working&amp;oldid=1042007046"
+		
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 2 September 2021, at 19:16&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

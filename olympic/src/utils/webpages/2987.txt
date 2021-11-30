@@ -1,0 +1,755 @@
+
+
+
+
+Wikipedia talk:Did you know - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia talk:Did you know
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		SKIP TO THE BOTTOM
+
+
+
+Error reportsPlease do not post error reports for the current Main Page template version here. Instead, post them to Wikipedia:Main Page/Errors. Error reports relating to the next two queues to be promoted can also be posted to ERRORS.  If you post an error report on one of the queues here, please include a link to the queue in question. Thank you. 
+vteEarliest time for next DYK update: 00:00, 30&nbsp;November&nbsp;2021 (UTC)
+
+
+Current time: 20:05, 29&nbsp;November&nbsp;2021 (UTC)
+
+Last updated: 20 hours ago(
+verify
+reset
+purge
+)
+"Did you know&nbsp;...?"Introduction and rulesWP:DYKGeneral discussionWT:DYKSupplementary rulesWP:DYKSGNominations (awaiting approval)WP:DYKNReviewing guideWP:DYKRNominations (approved)WP:DYKNAPreps and queuesT:DYK/QCurrently on Main PageT:DYKMain Page errorsWP:ERRORSArchive of appearancesWP:DYKAStatisticsWP:DYKSTATSApril&nbsp;1 hooksWP:DYKAPRILApril&nbsp;1 talkWT:DYKAPRILMonthly wrapsWP:DYKWvte
+ShortcutWT:DYK
+
+
+
+&nbsp;ArchivesIndex 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+31, 32, 33, 34, 35, 36, 37, 38, 39, 40
+41, 42, 43, 44, 45, 46, 47, 48, 49, 50
+51, 52, 53, 54, 55, 56, 57, 58, 59, 60
+61, 62, 63, 64, 65, 66, 67, 68, 69, 70
+71, 72, 73, 74, 75, 76, 77, 78, 79, 80
+81, 82, 83, 84, 85, 86, 87, 88, 89, 90
+91, 92, 93, 94, 95, 96, 97, 98, 99, 100
+101, 102, 103, 104, 105, 106, 107, 108, 109, 110
+111, 112, 113, 114, 115, 116, 117, 118, 119, 120
+121, 122, 123, 124, 125, 126, 127, 128, 129, 130
+131, 132, 133, 134, 135, 136, 137, 138, 139, 140
+141, 142, 143, 144, 145, 146, 147, 148, 149, 150
+151, 152, 153, 154, 155, 156, 157, 158, 159, 160
+161, 162, 163, 164, 165, 166, 167, 168, 169, 170
+171, 172, 173, 174, 175, 176, 177, 178, 179, 180
+181, 182, 183
+• 2011 reform proposals
+• 2020 RFC LT Solutions
+• All RfCs
+
+
+
+
+Sections older than 7&nbsp;days may be automatically archived by lowercase sigmabot III.
+
+ 
+
+
+
+
+
+This is where the Did you know section on the main page, its policies, and its processes can be discussed.
+
+Contents
+
+1 Moving the SOHA
+
+1.1 Support
+1.2 Oppose
+1.3 Neutral
+1.4 Close?
+
+
+2 Yet another set proposal for New Year's
+3 Template:Did you know nominations/The Occupation of the American Mind
+4 International Women's Day March 8th
+5 Older nominations needing DYK reviewers
+6 Prep&nbsp;2 – Jonathan Roumie
+7 Taylor Swift
+8 Moms for Liberty
+9 Creating a type of DYK Wardens level to monitor Preps and Queues
+
+9.1 Insight on adminship
+
+
+10 Queue&nbsp;4
+11 Wikipedia:Did you know/Create new nomination
+12 Template:Did you know nominations/Zeliha Ağrıs
+13 2 queues filled, all 7 preps filled
+14 Prep&nbsp;7: Myanmar–South Korea relations
+15 We're below 60!
+16 quick question
+17 Opinions on article title
+
+
+
+Moving the SOHA[edit]
+
+
+I just archived the discussion on special occasion hooks. It seemed like the takeaway with the most chance of success would be moving the Special Occasion Holding Area to the top, instead of leaving it at the bottom where it's often ignored by prep set builders who usually take older hooks for a set. Thoughts? theleekycauldron (talk • contribs) (they/them) 16:48, 22 October 2021 (UTC)
+
+Like I said on the previous discussion, if anything helps the reviewers to spot a special occasion hook faster, let it be done. Moving SOHA to the top of the page is fundamentally a good idea. But, in my opinion, it is useful if, and only if we have all the special occasions hooks in the holding area. Otherwise, it doesn't take anything more than pressing that page down key to see that same SOHA at the end of the page. Now, as it is being discuss, can someone help me figure out why do we have a SOHA on awaiting nominations page, when we are not allowed to nominate them in that section? Thanks for starting this discussion! – Kavyansh.Singh (talk) 16:59, 22 October 2021 (UTC)
+It's probably a remnant from the time before the Approved hooks had their own page. CMD (talk) 17:20, 22 October 2021 (UTC)
+I'm not convinced, but in any event I do not support moving anything until Shubinator is contacted and we make sure the move will not break DYKHousekeepingBot's creation of the Count of DYK Hooks table—I also do not support any move until the bot can be updated accordingly. Frankly, that table is far more valuable to DYK as a whole than the placement of the Special occasions section. CMD is correct about it being a remnant, and Maile that I was the one who did it (I'm pretty sure I also set up the Approved page): the stub of the Special occasions section was left on the main nominations page as a pointer to its new location when the Approved page was created to split those nominations off from the main page when it became overloaded and incapable of transcluding all the nominations. The reason you can't nominate the hooks in that section is the same as why you can't nominate ones for April Fools' Day on its page: these are ordinary nominations until they are reviewed and passed, and need to be reviewed without special priority or sequestration along with contemporaneous nominations. The idea of putting nominations in a special section at the bottom either privileges or disadvantages them, and is something I would absolutely oppose. BlueMoonset (talk) 02:26, 23 October 2021 (UTC)
+@BlueMoonset: I wouldn't support nominating special occasion hooks in a separate area either—but I'm not sure why you don't want to move the the SOHA for only the approved hooks, as long as it doesn't break the bot? theleekycauldron (talk • contribs) (they/them) 03:52, 23 October 2021 (UTC)
+BlueMoonset I agree, and I don't suggest to add SO nomination there, but if it serves no purpose than just pointing to the new location, is it really needed there? – Kavyansh.Singh (talk) 09:37, 23 October 2021 (UTC)
+What's the benefit of it being at the top rather than the bottom? It's always been at the bottom, so prep builders should know where it is, the times when I've built preps, I've always been able to find the SOHO fine. Don't see how it being at the top would mean people check it more than at the bottom- if prep builders are missing it, then it is their error. This just seems like a pointless discussion over nothing, in my opinion. Which seems to be the OP's forte on this talkpage at the moment- trying to "fix" things that aren't broken, "fixing" hooks by cutting content on them for no reason.... Joseph2302 (talk) 19:08, 23 October 2021 (UTC)
+Fundamentally its a good idea, but in its current form, it looks to me more like a solution looking for a problem. At the end, its as simple as pressing the page down key to see that same SOHA at the end of the page. – Kavyansh.Singh (talk) 19:16, 23 October 2021 (UTC)
+i really just thought that if it were me, it's easier to remember all the hooks there if i have to pass by them and be reminded by them every time i build a prep set. it sometimes slips my mind otherwise, so i thought it might help. theleekycauldron (talk • contribs) (they/them) 19:34, 23 October 2021 (UTC)
+Just mentioning that I am not a experienced prep builder. If regular prep builders find it a useful suggestion, then let it be done. Thanks! - Kavyansh.Singh (talk) 19:43, 23 October 2021 (UTC)
+The benefit is that prep builders, who should be starting at the top of the page and working down, will see those SO request first thing. —valereee (talk) 20:29, 23 October 2021 (UTC)
+Vibes are happening on this page.  Check the time stamp of my post below, with the same message. — Maile  (talk) 20:37, 23 October 2021 (UTC)
+Yep, DYKHousekeepingBot will break if this change is made today. If there's consensus for the change, no worries, we can coordinate to avoid disruptions. Best to also check with the other bot operators for bots touching the noms or approved pages: WugBot and MusikBot. Shubinator (talk) 01:01, 24 October 2021 (UTC)
+
+
+Advantage of moving the special hooks sub section to the top - it's a short list, and would make it less likely to accidentally overlook a SO request.  The prep builder will know right away if they should include a SO in the set they're building. After a glance at that short SO list, the promoter can scroll through the oldest dates on the routine promotions. As is, maybe by the time they get enough hooks for a set, they didn't remember to also have a look at the SO hooks.  We're human - we make mistakes. — Maile  (talk) 20:27, 23 October 2021 (UTC)
+
+Not sure if this is resolved. EEng 04:36, 1 November 2021 (UTC)
+It's not. I really wasn't expecting this to be as controversial as it is, but we need more input for a consensus. theleekycauldron (talk • contribs) (they/them) 04:49, 1 November 2021 (UTC)
+Support[edit]
+I would support moving SOHA to the top of the approved nominations page. Z1720 (talk) 17:33, 22 October 2021 (UTC)
+Support moving it to the top. —valereee (talk) 00:14, 23 October 2021 (UTC)
+Support placing the special holding dates to the top of approved nominations, which seems logical to me.  As for the Kavyansh.Singh question about SOHA notice also at the bottom of the nominations page: I think there was a reason for it, but it escapes my memory.  BlueMoonset would likely have the answer to that, and might have been the editor who placed it there. — Maile  (talk) 00:26, 23 October 2021 (UTC)
+I support moving the SOHA to the top; there would appear to be benefits in doing so. Schwede66 10:54, 1 November 2021 (UTC)
+Oppose[edit]
+Neutral[edit]
+To me it doesn't matter, either seems fine and the same. So happy to defer to what other people think is most helpful. Joseph2302 (talk) 11:54, 1 November 2021 (UTC)
+I have no opinion on this and don't mind either way. As long as its still accessible to put hooks in.  The C of E   God Save the Queen! (talk) 13:24, 1 November 2021 (UTC)
+Consider me neutral on this. No major issues with moving the special occasion holding area, if helps the prep builders. But in my opinion, both the ways appear more or less the same. – Kavyansh.Singh (talk) 14:39, 1 November 2021 (UTC)
+Close?[edit]
+
+
+It's been seven days. Is there anything we need to do other than move the code to the top of the page? —valereee (talk) 17:13, 8 November 2021 (UTC)
+
+@Valereee: If the closer finds that there's consensus to do this, then we have to talk to shubinator first—the DYKHousekeepingBot will break. theleekycauldron (talk • contribs) (they/them) 18:14, 8 November 2021 (UTC)
+@Theleekycauldron, do you think we need a formal close? There's no formal opposition, just support/neutral. —valereee (talk) 18:19, 8 November 2021 (UTC)
+I don't, but we're the proposers here so that's probably a decision for someone else. theleekycauldron (talk • contribs) (they/them) 18:22, 8 November 2021 (UTC)
+Maybe Shubinator could do the honour of closing (and then tweak the bot).&nbsp;:-) Schwede66 09:05, 10 November 2021 (UTC)
+@Shubinator: I think that's a fine idea, how about you? theleekycauldron (talk • contribs) (they/them) 01:08, 15 November 2021 (UTC)
+Is there anyone else who can tweak the bot? It looks like @Shubinator might be taking a break.  —valereee (talk) 21:17, 23 November 2021 (UTC)
+@Valereee: the bot isn't open-source, so no, we'll have to wait. In the meantime, we should ping @Wugapodes and MusikAnimal to let them know this change is happening sometime soon. theleekycauldron (talk • contribs) (they/them) 18:14, 24 November 2021 (UTC)
+To be quite honest, I probably won't get this done until mid-December. This is a non-trivial change that I'd want to test out before letting it loose, and my schedule's filled with meatspace deadlines, grant review, and arb elections. I'll know more next week after I review the code and come up with a game plan. I'll keep you all posted. — Wug·a·po·des​ 20:03, 24 November 2021 (UTC)
+Maybe after this is closed, it should be archived to a separate page for adopted, but unfulfilled, proposals? theleekycauldron (talk • contribs) (they/them) 21:01, 24 November 2021 (UTC)
+I'd want to make sure it didn't get overlooked and forgotten. I'd rather just collapse it and pin it here as a reminder that there are still steps to be taken. —valereee (talk) 12:19, 25 November 2021 (UTC)
+Could I get a high-level overview of what exactly is changing? MusikBot only adds new date headings to Template talk:Did you know. Are we simply doing that in a different place now, or just the structure of the page is changing? — MusikAnimal talk 18:10, 25 November 2021 (UTC)
+@MusikAnimal: Currently, the "Special occasion holding area" is at the bottom section on Template talk:Did you know/Approved. The approving reviewer moves them there, not the bot.  The above discussion was to permanently move the "Special occasion holding area" to the top of that page. What I see, are four editors who support the move, zero editors opposing the move, and three editors who are neutral. — Maile  (talk) 19:02, 25 November 2021 (UTC)
+Okay, thanks. So we're not moving the "Special occasion holding area" section on Template talk:Did you know? If not, no changes are needed to MusikBot. It would be a simple fix anyway, if needed. — MusikAnimal talk 20:02, 28 November 2021 (UTC)
+@MusikAnimal, we might move the "special occasion holding area" at WP:DYKNA from bottom to top, if there's consensus. theleekycauldron (talk • contribs) (they/them) 20:47, 28 November 2021 (UTC)
+Yet another set proposal for New Year's[edit]
+
+
+So, ten weeks out: I've been working on New Year foods and I was thinking a set for New Year's Day or Eve would be cool. There are some pretty cool possible spinoff articles at that draft (who knew the Spanish eat 12 grapes at midnight while wearing gifted red underwear) but other New Year articles besides food traditions would work. I'm going to move this draft to article in the next couple weeks and ask for a SO if anyone else has a New Year's hook they'd want to develop. —valereee (talk) 19:38, 25 October 2021 (UTC)
+
+jewish people have quite a few different new year's celebration foods, but our new year is in like september so that's not helpful. theleekycauldron (talk • contribs) (they/them) 19:48, 25 October 2021 (UTC)
+@Theleekycauldron, actually, I was planning to include in that article NY foods for New Years that are celebrated other times than January 1. I just hadn't worked my way out to Chinese NY and Jewish NY yet. But, yeah, if an article was about Jewish NY foods, you might prefer to have it run September 25, 2022.&nbsp;:) —valereee (talk) 16:26, 26 October 2021 (UTC)
+ah, fun fun! I'll consider writing something when August rolls around, then theleekycauldron (talk • contribs) (they/them) 17:22, 26 October 2021 (UTC)
+@Valereee: Meant to comment on this earlier.  I think this is a really good idea.  Don't know if you're familiar with the Huell Howser California's Gold series, but I seem to remember an episode he did on New Year's day tradition of Japanese mochi pounding. Not just the eating of mochi, but the family tradition of having a mochi pounding on New Year's Day.  Anyway, I think you have a good start on the article. Looking forward to seeing it on the MP. — Maile  (talk) 01:55, 11 November 2021 (UTC)
+Thanks @Maile66, and also for the Huell Howser suggestion! I found a link to that episode! —valereee (talk) 12:29, 11 November 2021 (UTC)
+@Valereee: Oh, good, you found that episode. I think he might have done a lot of other cultural holiday tradition related episodes over the years, but that one pops out in my mind. I vaguely remember one he did on the Mexican tradition of creating the nativity in homes, and the visitation-ceremonial events that happen with that.  Good thinking on his part to leave his entire collection to Chapman. — Maile  (talk) 14:01, 11 November 2021 (UTC)  Well ... heck ... I just clicked on that link, and the next one in Huell's queue is the Christmas tradition of tamale making. — Maile  (talk) 14:14, 11 November 2021 (UTC)
+I have a Christmas DYK at Template:Did you know nominations/Jingle Cats. I just had to expand the article for DYK after buying the first cassette from a Goodwill Outlet for under $1. SL93 (talk) 22:35, 18 November 2021 (UTC)
+@SL93, do you actively object to a Christmas appearance, or are you simply not requesting it? Because I was just going to move it into that slot myself, as I think it's great for Christmas. Certainly I think it should appear within a few days before Christmas, at minimum. Maybe the 23rd or 24th? Wait, you still own something with which you can play a cassette? —valereee (talk) 13:59, 24 November 2021 (UTC)
+I was worried about it running on Christmas because I was worried about it being considered inappropriate on that day due to the end of the hook. I'm changing my opinion due to not censored. I actually bought a cassette player recently. SL93 (talk) 14:11, 24 November 2021 (UTC)
+Considering the very strong connection between Christmas and accusations of fornication, I can't see how plain ol' copulation should be a problem. :D —valereee (talk) 18:18, 24 November 2021 (UTC)
+Template:Did you know nominations/The Occupation of the American Mind[edit]
+
+
+Hello @Theleekycauldron:. Thank you for moving my DYK sentence from Template:Did you know nominations/The Occupation of the American Mind to the Template:Did you know/Preparation area 1, but the original sentence has been changed from:
+
+that The Occupation of the American Mind sought to show how Israeli attacks on Palestinians provoked widespread protests around the world, while the United States remained steadfast in its support for Israel?
+
+
+to:
+
+... that The Occupation of the American Mind sought to explore the United States' steadfast support for Israel in the face of its controversial actions?
+
+
+Could you please explain why it has been modified? Thank you. Ghazaalch (talk) 11:55, 20 November 2021 (UTC)
+
+Hey, @Ghazaalch! Easier thing to explain first: I italicized it because it's a film, but I'm pretty sure that's not what you're asking. My reason for the language change derives from WP:VOICE—I don't think the hook made it adequately clear that wikipedia does not have an opinion on the show or its message. Hooks are short, and room for nuance is little—so I hedged it a bit. Even though it says "sought to show", for me, it still seems too close to "what we're going to say after this is what we believe, and this is how the film sought to show that". Yeah, I know, it'll get fewer clicks, i'm sorry about that—I wasn't comfortable with running the hook as is, though. theleekycauldron (talk • contribs) (they/them) 20:20, 20 November 2021 (UTC)
+Theleekycauldron there is a dangling bit at the end: the "its" in "its controversial actions" could refer to either US or Israel, and I wonder if there's an elegant way to clarify that.VR talk 21:44, 20 November 2021 (UTC)
+
+
+Thanks for your explanation Theleekycauldron; but shouldn't you have suggested that change here before implementing it, for the sake of other participants like Pbritti, and the administrator (@Maile66:) who might also like to review it? Ghazaalch (talk) 05:40, 24 November 2021 (UTC)
+
+@Ghazaalch: start to finish, it took four days for us to get from your initial flag here at WT:DYK to agreeing on a final version of the hook. While we had this discussion here, your hook moved all the way up the preps, and now it's going to go live in 5 and a half hours or so, with everything worked out. If I'd raised a flag on the nom page, those four days would have been spent waiting for everyone's responses, and waiting for everyone to be cool with it, waiting for someone to promote it, and then your hook starts moving through the preps and queues, adding four days to the turnaround time on your hook. Actually, it probably would have been more like seven—if I recall correctly, I plucked your hook somewhere from the top-middle of the page, so waiting for someone else to promote (keeping in mind that half the time, it's just me making promotions) would have probably meant your nomination working its way all up WP:DYKNA's backlog. This is what the prep sets and promotion process is for, Ghazaalch; it's another layer of review and oversight, but it also helps make quick-time changes to hooks without every ounce of discussion keeping the hook backlogged. theleekycauldron (talk • contribs) (they/them) 06:42, 24 November 2021 (UTC)
+@Theleekycauldron: I am in agreement with Ghazaalch. I reviewed a hook and approved a hook bearing WP:Voice and legibility in mind. It’s reasonable to question my judgement; going over the head of the contributor, nominator, and reviewer is less than reasonable. This is the second instance in a week where I’ve seen you make decisions that are effectively cutting corners to expedite processes. Wikipedia shouldn’t be too serious a place, but a little courtesy and patience is greatly appreciated. As for the modified hook, I like it, too. ~ Pbritti (talk) 07:25, 24 November 2021 (UTC)
+I don't think that's entirely fair, although I see where you're coming from. First off, I considered the changes I made pretty carefully before I went through with it—I thought about how controversial the changes were (e.g. am I cutting anything serious or is this a detail that doesn't need to be in the hook), whether or not I was modifying the core hook fact, whether or not I was adding any new information, whether or not I was going against the text or spirit of the review, and yeah, I was right about to stop the promotion and work through the hook with both of you. The reason I didn't is because in the end, I saw it at the time as mostly rewording and detail-cutting, which I am allowed to do as long as I ping the nominator.
+Looking back, I'm not sure if I would have made the exact same decision; it looks like everyone was pretty much on board with the change, which is a sign (although not an authoritative one) that the change was received as uncontroversial. I'm willing to accept criticism on the basis that you disagree with how I weighed the situation; but if you think I made a cheap decision because I couldn't be bothered, or otherwise skimped on something I thought/knew was necessary just to save time, then I think that's unfair. theleekycauldron (talk • contribs) (they/them) 08:34, 24 November 2021 (UTC)
+@Theleekycauldron: I'll clarify because I do want you to know I think you did something right, which is to be extra considerate of the implications the Israeli-Palestinian issue on the main page. For that, you deserve some commendation and appreciation. However, my criticism is exclusive to your shirking of standard operating procedures of notification. While this is obviously not a huge deal–you didn't break any rules–I would encourage you to also weigh other's sentiments when processing DYKs. On a brighter note, your work with DYKs has proven extremely useful over your short time here and are appreciated, even if I've found minor faults in just a couple instances that don't really affect anything. Keep up the hard work and I do appreciate your commitment to keeping this space open to younger folks. ~ Pbritti (talk) 22:22, 24 November 2021 (UTC)
+@Pbritti: Well, I can understand that. I'll keep it in mind as I go forward, thanks&nbsp;:) theleekycauldron (talk • contribs) (they/them) 21:33, 26 November 2021 (UTC)
+That's a pretty major change to not bring up here, with a ping to nom and reviewer. At minimum the nom should be notified via edit summary. The delaying of moving the hook isn't a problem, we pull hooks regularly because they're already in prep or queue when a question is raised that can't be dealt with quickly enough. —valereee (talk) 23:41, 26 November 2021 (UTC)
+@Valereee: just for the record, i did ping the nominator in my edit. theleekycauldron (talk • contribs) (they/them) 23:49, 26 November 2021 (UTC)
+The change is a complete whitewash of the original hook, and should be rejected. This goes a little beyond 'rewording and detail-cutting.' Use the original imo. Parabolist (talk) 00:15, 27 November 2021 (UTC)
+
+
+While I appreciate your hard work in this page Theleekycauldron, It seems that your edit had been controversial enough raising objection from three editors and you are the only editor supporting your own action. To be honest, it was not fair coming out of the blue changing a reviewed hook. Do you think we could revert the sentence now with the help of Gatoclass or Htanaungg? Since you have actually changed the core and spirit of the hook, I believe. Ghazaalch (talk) 08:26, 28 November 2021 (UTC)
+
+Ghazaalch, I'm sorry, but your hook already saw its time on the main page three days ago. To be honest, if you wanted a reversion, I'm not sure why you didn't say that from the outset instead of us spending five days talking about my method of acting unilaterally. And I think the characterization that three editors objected and only I stand by the change is inaccurate—neither Pbritti, Valeree, nor even you explicitly objected to the final text of the hook. theleekycauldron (talk • contribs) (they/them) 08:38, 28 November 2021 (UTC)
+International Women's Day March 8th[edit]
+
+
+International Women's Day is on March 8th each year. The user groups in NZ and Australia will be running some events on this day, possibly in conjunction with the UK and user groups other countries (discussions are ongoing and plans are still loose at this stage about what form the event might have). I had the idea to run a special occasion women-related set of DYK hooks that day, what do others think? DrThneed (talk) 21:48, 20 November 2021 (UTC)
+
+Short answer - yes, aim for it.  Looking at DYK history on March 8 Wikipedia:Recent additions, looks like we've been doing it when there were enough hooks to fill a queue.  Some years, I guess we didn't have the nominations.  If you can get the articles, it looks like a good idea. — Maile  (talk) 22:37, 20 November 2021 (UTC)
+That has worked each year, check the archives, 2021 (look from 9 March 0:00), 2020, 2019 ... --Gerda Arendt (talk) 23:26, 20 November 2021 (UTC)
+I would support such an idea since we usually do have a women focus every March, though it's still a bit too early to discuss an exact set at this point since it's only November. At the very least, people could at least start planning on what to write as long as they meet the special occasion request guidelines (i.e. don't create/expand them too early). Narutolovehinata5 (talk · contributions) 01:23, 21 November 2021 (UTC)
+Thanks all. Great to know it is not breaking new ground. I appreciate I'm asking rather early, I was just looking to get a steer about whether it was OK or not so I could work with other editors in WiR and the like to time writing/expanding to suit. I don't think it will be a problem to have enough for a full queue. Thanks. DrThneed (talk) 06:28, 21 November 2021 (UTC)
+@DrThneed, tell folks to try to get the stuff moved to article space between ~January 1st and ~February 15th, which will give DYK workers ample room to plan and develop a March 8th set. Have the nominators place in the comments section of the nomination "Requesting a Special Occasion slot for March 8th, International Women's Day." —valereee (talk) 23:00, 23 November 2021 (UTC)
+@Valereee thank you. That's a little earlier than the six weeks prior mentioned in the special occasion guidelines, is that OK? Not that I'm complaining, extra time is good, but good to know up front that it's OK to stretch the timeline! DrThneed (talk) 20:34, 24 November 2021 (UTC)
+@DrThneed, if something is moved to article space (or otherwise made eligible) on January 1st and nominated on January 8th, that would be 8 weeks before IWD, which as you say is earlier than recommended to request a date, but it's not so early that regulars here would likely object, especially when we're talking about trying to put together a full set (or two, depending on whether we're at 2-a-days). Also it can sometimes take a few weeks to get reviewed, and nominators can make the date requests after review but before promotion to prep, which some nominators will likely do once they realize their hook would fit into that prep. —valereee (talk) 14:06, 25 November 2021 (UTC)
+@Valereee thank you, the extra couple of weeks will be valuable. I will keep an eye on the nominations during that period so I can let nominators of relevant DYKs know about IWD so they can choose to be in it if they like. This should be fun! DrThneed (talk) 22:04, 25 November 2021 (UTC)
+@DrThneed, I am thinking about what I might be able to nominate! —valereee (talk) 02:14, 26 November 2021 (UTC)
+Older nominations needing DYK reviewers[edit]
+
+
+The previous list was archived prematurely nearly two days ago, so I’ve created a new list that includes all 18 nominations that need reviewing in the Older nominations section of the Nominations page, covering everything through November 14. We currently have a total of 192 nominations, of which 104 have been approved, a gap of 88, up 5 over the past five days. Thanks to everyone who reviews these.
+
+
+Over one month old:
+
+September 27: Template:Did you know nominations/Roman campaigns in Germania (12 BC – AD 16)
+
+
+Other old nominations:
+
+October 24: Template:Did you know nominations/Albruna
+November 2: Template:Did you know nominations/Downtown Eatery (1993) v. Ontario
+November 3: Template:Did you know nominations/Sidetalk
+November 3: Template:Did you know nominations/Global Methodist Church
+November 4: Template:Did you know nominations/Maw Htun Aung
+November 12: Template:Did you know nominations/Ireland's Eye
+November 12: Template:Did you know nominations/Nadjamuddin Daeng Malewa
+November 13: Template:Did you know nominations/Harriet Amelia Folsom
+November 13: Template:Did you know nominations/Oblique subduction
+November 13: Template:Did you know nominations/Chile Ridge
+November 13: Template:Did you know nominations/H. R. C. Pettigrew
+November 13: Template:Did you know nominations/Loess Plateau
+November 13: Template:Did you know nominations/Norma Kuhling
+November 14: Template:Did you know nominations/Golden Years (song)
+November 14: Template:Did you know nominations/River Laune Crozier
+November 14: Template:Did you know nominations/Machine learning in earth sciences
+November 14: Template:Did you know nominations/Theodore Conrad (criminal)
+
+
+Please remember to cross off entries as you finish reviewing them (unless you're asking for further review), even if the review was not an approval. Please do not remove them entirely. Many thanks! BlueMoonset (talk) 05:12, 22 November 2021 (UTC)
+
+Prep&nbsp;2 – Jonathan Roumie[edit]
+... that Jonathan Roumie, the actor who plays Jesus in The Chosen, is a convert to Roman Catholicism?
+
+
+I am not sure whether I should have brought this up here, but is the current hook, which discusses religion of a biography of a living person, the best possible hook we can get from this article? The source states "Jonathan Roumie, the actor at the center of the highest-grossing crowdfunded media project in history, The Chosen, credits his Catholic faith as the foundation of his portrayal of Jesus." Can we have another hook, or a rephrased version of this one? And of-course, if I am the only one who has issues with this hook, I'll retract the concerns. Thoughts? – Kavyansh.Singh (talk) 15:02, 22 November 2021 (UTC)
+
+Pinging Mikehawk10 (nominator), @Graeme Bartlett (reviewer), and @SL93 (promoter). – Kavyansh.Singh (talk) 15:03, 22 November 2021 (UTC)
+@Kavyansh.Singh:in the source, Roumie is quoted as saying, "I was raised Greek Orthodox, baptized Greek Orthodox, but later transitioned to Roman Catholic," so I think that the hook is properly sourced—being raised in one religion and transitioning to another religion is the hallmark of a convert. — Mikehawk10 (talk) 15:25, 22 November 2021 (UTC)
+No issues with accuracy of the hook, which doesn't seem to be the issue here. How about:
+ALT: ... that Jonathan Roumie attributes his Roman Catholicism as the foundation of his portrayal as Jesus in The Chosen?
+This one seems more neutral to me, as it implies that Roumie himself is attributing his religion, and its impact on his acting career. While the current hook just conveys that there is a man who plays Jesus in a show, and is converted to a certain religion, without stating any relation between his role and religion. – Kavyansh.Singh (talk) 16:00, 22 November 2021 (UTC)
+I don’t think that there is a neutrality issue in the hook that got promoted. I also think that it's fine DYK material. I tried a few ways to work it into a thing that was more explicitly tied to the way in which he plays role, though none of them seemed to flow as elegantly as the conversion tidbit. — Mikehawk10 (talk) 17:12, 22 November 2021 (UTC)
+The "convert" hook does comply with the DYK requirements. I thought it was interesting enough to be included. It may not be the "best hook". And Kavyansh.Singh's topic suggestion for what to include could be OK as well. But I think it is more interesting that he was a convert, rather than his attribution of foundation. Graeme Bartlett (talk) 21:11, 22 November 2021 (UTC)
+I promoted the hook because I found no issues with it and I still see no issues. SL93 (talk) 21:18, 22 November 2021 (UTC)
+
+
+I agree with Kavyansh.Singh that the original hook is not up to scratch. He's a convert to a particular religion? So what? Millions of people are religious converts of one stripe or another, it's a completely banal statement to put on the main page. Unless his conversion can be linked to his work on the film in some way - if for example he converted because of his portrayal - then a new hook should be found IMO. Gatoclass (talk) 02:21, 23 November 2021 (UTC)
+
+Actually, the bigger problem to me is the citation needed tag—that on it's own is grounds to pull the article, if I'm not mistaken theleekycauldron (talk • contribs) (they/them) 02:39, 23 November 2021 (UTC)
+Yes, I agree that an article should not be featured that has citation needed tags. It doesn't need to be pulled immediately, because there is still time to fix the issue, but it should not be permitted to go to the main page in that state. Gatoclass (talk) 02:46, 23 November 2021 (UTC)
+CN tags fixed. — Mikehawk10 (talk) 03:08, 23 November 2021 (UTC)
+
+
+With regard to a replacement hook, we could go with something like: 
+
+ALT2: ... that actor Jonathan Roumie, who has played the character of Christ in several productions including The Chosen, is also a eucharistic minister? Gatoclass (talk) 02:57, 23 November 2021 (UTC)
+I think that should be changed to Jesus, not Christ? I don't think we need to say "several productions", either. Damn, i would much rather used the papal knighthood bit, but there's not good enough sourcing for it. theleekycauldron (talk • contribs) (they/them) 03:03, 23 November 2021 (UTC)
+Well I think it's pretty interesting that an actor has played the role of Christ in several different productions - that surely can't occur too often. As for Jesus or Christ - I'm agnostic on that. Gatoclass (talk) 03:11, 23 November 2021 (UTC)
+well, author's preference on that—and, ba-dum tss theleekycauldron (talk • contribs) (they/them) 03:13, 23 November 2021 (UTC)
+(edit conflict):**I've definitely seen photos of him and the pope on Flickr but alas with a non-commercial modifier on the CC license. I can check if there's something the Vatican put out about it. — Mikehawk10 (talk) 03:14, 23 November 2021 (UTC)
+Here is a source for another production (although it appears to have been a play) in which he has played Jesus. — Mikehawk10 (talk) 03:21, 23 November 2021 (UTC)
+Definitely use "Jesus" rather than "Christ" as it is more neutral and accurate. Graeme Bartlett (talk) 10:55, 24 November 2021 (UTC)
+
+
+@Theleekycauldron, Gatoclass,  and Kavyansh.Singh: How about:
+
+ALT3: ... that actor Jonathan Roumie, who plays the character of Jesus Christ in American television series The Chosen, is also an extraordinary minister of Holy Communion in the Catholic Church? — Mikehawk10 (talk) 03:14, 23 November 2021 (UTC)
+I personally prefer ALT2 for the overall fact, but I will say that the catholic church seems to have no shortage of impressive-sounding titles. theleekycauldron (talk • contribs) (they/them) 03:15, 23 November 2021 (UTC)
+I'm ok with all of part 2 up until "eucharistic" (Christ should probably be changed to "Jesus" or "Jesus Christ"). The proper title for the Catholic minister is the longer form, and it's less than 200 characters so I don't see a reason to be less precise. — Mikehawk10 (talk) 03:21, 23 November 2021 (UTC)
+Ah, I see—if Gatoclass is fine with it, i've no objection. theleekycauldron (talk • contribs) (they/them) 03:28, 23 November 2021 (UTC)
+"Extraordinary minister of Holy Communion in the Catholic Church" is an officious-sounding mouthful though, isn't it? The average reader does not need to know the precise title. Why not just pipelink "Extraordinary minister of Holy Communion" from "eucharistic minister"? Gatoclass (talk) 04:24, 23 November 2021 (UTC)
+Wouldn't that be a bit of an WP:EGG when there's an article on eucharistic minister? — Mikehawk10 (talk) 05:14, 23 November 2021 (UTC)
+How about just "lay minister" or something? Gatoclass (talk) 10:26, 23 November 2021 (UTC)
+I think that the proper title, being that it is within the space requirements, is more precise than another equivalent. Lay minister also currently exists as a disambiguation page between licensed lay minister and laity, so it feels WP:EGG-y. — Mikehawk10 (talk) 15:56, 23 November 2021 (UTC)
+Well then, I would suggest pipelinking to your link from the simplified phrase "extraordinary minister", because that would not only get rid of the verbiage, but also likely be more intriguing to readers. Gatoclass (talk) 17:52, 23 November 2021 (UTC)
+Gatoclass I'm wondering if I should pull the hook from prep until a new hook is chosen. SL93 (talk) 23:57, 23 November 2021 (UTC)
+
+
+ It's still nearly three days from the main page. Let's at least wait until Mikehawk10 has responded to my latest suggestion. Gatoclass (talk) 02:14, 24 November 2021 (UTC)
+The only thing I have is that "Extraordinary minister" has a technical meaning in the Catholic Church that allows both you and me to be extraordinary ministers (of Baptism, for example) without really it indicating anything special. Extraordinary minister of Holy Communion is a more concrete thing where you have to be deputized by a priest in order to perform it. — Mhawk10 (talk) 05:30, 24 November 2021 (UTC)
+I understand that this might feel like I'm going through Catholic jargon land, but part of the reason that the Catholic Church has what Theleekycauldron described as so many impressive-sounding titles is because proper disambiguation between the bajillion roles in the Church bureaucracy is difficult without them. — Mhawk10 (talk) 05:33, 24 November 2021 (UTC)
+
+
+I'm afraid I'm just not keen on ALT3, apart from the long and overblown official title, it's really not very interesting anyhow. I personally think it's more interesting that he's played Jesus on multiple occasions, so why not just forget about the "extraordinary minister" bit altogether and go with something like: 
+
+ALT4: ... that actor Jonathan Roumie played the character of Jesus Christ in other productions before landing the same role in the television series The Chosen? Gatoclass (talk) 13:48, 24 November 2021 (UTC)
+Comment - since it doesn't look like this discussion has reached any conclusion yet, and the hook was due to run tomorrow, I've swapped it out to Preparation 3 for now. Hopefully a resolution will be forthcoming, although I would suggest that if the current wording is used then the article should be amended since it currently talks of a "eucharistic minister" rather than the "Extraordinary minister of Holy Communion" mentioned in the hook. For what it's worth, I also share the sentiment above that his being an extraordinary minister is not really a matter of great interest to a broad audience - I did think "so what?" when I first saw it - so probably something else would be preferable. &nbsp;—&nbsp;Amakuru (talk) 09:47, 25 November 2021 (UTC)
+Catholics, in particular, might find something particularly Eucharistic about the man playing the role of Jesus also being an EMHC; there's something deeply meaningful about the symbolism in that for those that hold to a Catholic theology of the Eucharist (or really any Christian that believes in the real presence). I'm personally fine with ALT4 (though I'd prefer ALT3 or even ALT2 to it), with the small modification that we give a bluelink to Jesus Christ. — Mhawk10 (talk) 03:12, 26 November 2021 (UTC)
+Taylor Swift[edit]
+
+
+Anyone know how many times she's appeared on the front page? Any chance we could maybe at least not use any more photos in DYK? —valereee (talk) 21:06, 23 November 2021 (UTC)
+
+So far, as a today's featured article, there's Taylor Swift, 1989 (Taylor Swift album), Blank Space, Style (Taylor Swift song). For DYK's pictured slot, there's Speak Now (upcoming) and I Knew You Were Trouble and probably more that I haven't found. Pamzeis (talk) 01:11, 24 November 2021 (UTC)
+well, i think it's great that the collective spirit and soul of a thousand generations of main page workers is also a swiftie.
+Seriously, though, I don't see it as a huge problem—although maybe we'll shy away from it a bit more. theleekycauldron (talk • contribs) (they/them) 07:01, 24 November 2021 (UTC)
+Considering we have way more picture hooks than image slot spaces, surely we shouldn't be filling up the picture slots with the same people time and again? Most people know what Taylor Swift looks like, so a stock image of her on DYK is less interesting than many other of the images nominated. Joseph2302 (talk) 11:21, 24 November 2021 (UTC)
+For DYK articles, all wikiproject taylor swift dyks + more taylor swift dyks that are also FAs theleekycauldron (talk • contribs) (they/them) 21:10, 24 November 2021 (UTC)
+
+
+Swapped it for an image of a creative who has never appeared on the main page :D —valereee (talk) 13:38, 24 November 2021 (UTC)
+
+Comment - I Bet You Think About Me nomination - since this issue came up.  The image used is the video's producer Blake Lively.  She only has a one-sentence mention as the producer, repeated in the lead.  And her image does appear in the article.  We all like to have the lead hook in a set, but in this case, I don't think one-sentence mention of the producer warrants the lead hook. — Maile  (talk) 14:17, 24 November 2021 (UTC)
+Maile, I usually just promote those without an image—competition for the image slot is fierce enough without humouring every tangentially-related ride-along. theleekycauldron (talk • contribs) (they/them) 18:04, 24 November 2021 (UTC)
+Maybe we give the Taylor Swift WP an award for most MP appearances and then stop using image slots? Kingsif (talk) 21:38, 24 November 2021 (UTC)
+I'm not comfortable with that, no—there may be a dyk that we really do want to feature in the future. There's no reason to arrest ourselves this way. If there's exceptionally good work, we want to reward it. theleekycauldron (talk • contribs) (they/them) 21:41, 24 November 2021 (UTC)
+Exceptional work = FA. I'm sure there'll be more TS FAs in WP's future, as clearly her fans are willing to do that work. I definitely don't think we should give TS image slots for DYKs if there's been a TS on the MP in the past ~year, and personally I question whether TS DYK image slots serve readers at all. It's not like there's anyone out there who is going, "Who's this TS whose photo is in the DYK?" But there are, OTOH, many many many images that might actually contribute to readers' understanding of other topics. —valereee (talk) 22:56, 26 November 2021 (UTC)
+Yes-there should be some sort of restrictions with regard to this case. The image slot should really work to help others with understanding new things. Repeatedly showing someone in DYK goes against the soul of DYK, I believe. --Mhhossein talk 12:29, 28 November 2021 (UTC)
+And we can always IAR, if there's something some nominator/reviewer/promoter think really needs that image slot in order to be understood. Like the slot is about something actually visual rather than simply being yet another photo of TS. —valereee (talk) 19:30, 29 November 2021 (UTC)
+Moms for Liberty[edit]
+
+
+I'm a newbie to DYK (which seems very complicated, going by the questions about hooks and queues above). So I have a  stupid question. I've been reading the rules for eligibility, but I'm not sure whether the article Moms for Liberty is eligible for DYK. The current version has been expanded compared to what it was here, on 20 November. Per wordcounter.net, it's well over five times longer now, if the references aren't counted. But if they are counted, then it's only about 3,5 times as long. This comes about because the short version had a lot of references, which it didn't really use (compare this talkpage comment), while today's longer version has pretty much the same refs, put to better use (modestly spoken) to produce more content. So, would such an article be appropriate for DYK? Or not? Bishonen | tålk 21:44, 23 November 2021 (UTC).
+
+Short and quick answer - Yes, the article is eligible. It is still classified as a 'stub' but, that tag just needs to go. I would say it is somewhere between a 'start' class and a 'C' class article. Also, per DYKChecker the article has been 5x expanded since November 20. So, you should be good there. Get working and submit this for DYK. Good luck. PS: See if you can remove the yellow banner as well. Ktin (talk) 21:51, 23 November 2021 (UTC)
+References aren't counted in a 5x expansion, only "readable prose." Pawnkingthree (talk) 21:54, 23 November 2021 (UTC)
+Yep, Moms for Liberty was at 762 characters before expansion, and it's now 5991 characters, so that's a 7.9x expansion. (DYKcheck.js is a handy tool for checking whether an article is eligible for DYK.) Be sure to nominate it by 27 November at the latest. DanCherek (talk) 21:56, 23 November 2021 (UTC)
+Thanks for the prompt replies. I did remove the stub template, days ago; Did somebody put it back? Uhh... I don't see it. Also, I've been regretting the orphan state of the article (the yellow banner), but haven't been able to think of a useful link to it. Can anybody help with that? Bishonen | tålk 22:05, 23 November 2021 (UTC).
+Do not worry about the stub categorization, DanCherek took care of that here&nbsp;:) If you have not already tried these two scripts, I would recommend that you try them out -- pretty handy for DYK evaluations and submissions -- DYKcheck and DYKhelper. Good luck and thanks for joining us at WP:DYK. We are always looking for more editors to join us. We would also be interested in your learning from your nominating experience as you try those scripts or nominations sans the scripts. Ktin (talk) 22:21, 23 November 2021 (UTC)
+@Bishonen, I made a link from Megyn Kelly. —valereee (talk) 22:42, 23 November 2021 (UTC)
+Great, Valereee, thank you. I'll try the helper script, Ktin. Bishonen | tålk 07:23, 24 November 2021 (UTC).
+Update: I've nominated the article now, using the DYK-helper script. The script worked well, except it left me unsure of how, and whether, to format the name of the article. I guess it ought to have been bolded, but I can't tell how to do that on the page now. But that's a minor point indeed, and I'm sure somebody who knows their way around here can do it for me. Thanks everybody for helping, and please see what you think of my suggested hooks. 200 characters really isn't a lot. Bishonen | tålk 11:37, 24 November 2021 (UTC).
+Creating a type of DYK Wardens level to monitor Preps and Queues[edit]
+
+
+Not sure why this was archived while being actively discussed:
+
+
+
+[Begin archived content]
+
+@Kavyansh.Singh, @Theleekycauldron, the problem is always the opposes because "if someone wants to be able to edit through protections, they should just run an RfA." Being able to move a prep to queue means that person would be able to edit through all protections sitewide. Someone with that right could in theory cause a lot of damage.
+
+
+You know...the true basic problem here is that we have our admin instructions set up to say that by moving a prep to queue, an admin is saying they have done a final quality check. Maybe what we need to do is stop requiring that. I'd be happy to promote a set a day if it didn't require that quality check. The move to queue takes two minutes. It's rechecking eight hooks and articles, and dealing with any concerns found, that takes the time. But really someone else could do that final quality check. That part doesn't actually require 7 days of vetting by the community, just an experienced DYK regular who is willing to do that third quality check to catch anything the reviewer and prep builder didn't catch. DYK could designate those people internally, they could sign off on a prep, and any admin on the project could promote to queue, wouldn't take any special experience here at DYK. Hm. @DYK admins:                 ? —valereee (talk) 12:43, 24 November 2021 (UTC) 
+
+The whole point of doing a quality check when you promote to a queue is that you are taking responsibility for that set. If you leave it up to somebody else, then you are not taking responsibility. Apart from which, there have been too many errors creeping through DYK recently and the last thing we need to do is further weaken quality control. Gatoclass (talk) 13:06, 24 November 2021 (UTC)
+Yes, I would agree with this. The admin checks are a very useful part of the pipeline, particularly given that we have a diverse set of reviewers and nominators, and sometimes fairly obvious things creep through that need fixing. Admittedly I'm probably more pernickety than most (as per my Queue 2 points at the bottom of this page!) but I wouldn't like to do away with it entirely. I also don't really think we lack admins at the moment. I haven't done too many sets lately, but I'm always happy to help and it's partly because I'm usually pinged in the middle of the night and the backlog has often been reduced by the time I wake up. &nbsp;—&nbsp;Amakuru (talk) 14:00, 24 November 2021 (UTC)[End archived content]
+But does it need to be done by an admin? We are BEGGING for people to move prep to queue. We literally are begging, regularly. Why does that final check need to be done by an admin? Why do we need an admin to sign off on this? Why can't the admin just take the word of some trusted user that, yes, this has received a final check? Why can't a non-admin provide the exact same level of quality control as an admin does? —valereee (talk) 18:56, 24 November 2021 (UTC)
+sorry about the archive, my bad. To answer, I think that when a mistake is made, and mistakes do get through, it'll be a lot more heat when people know that we didn't get an admin (who has been thoroughly vetted by the community) to make the rounds, and instead just did something under the table. I'm not saying I agree with that; I would trust quite a few non-admins here to perform the final checks. But people don't trust our non-admin regulars. So, unless we were to create a formal position for it, it'd bring a lot of scrutiny on DYK. theleekycauldron (talk • contribs) (they/them) 19:03, 24 November 2021 (UTC)
+I'm suggesting a formal position, people who are expert at and willing to do the same checks I do when I'm checking a set. These folks don't need to be vetted like an admin. They don't need to be trusted with blocking and protecting. They just need to be people that other DYK regulars go, "Yeah, that person knows what they're doing and doesn't let mistakes through often." Why does it need to be an admin? —valereee (talk) 19:52, 24 November 2021 (UTC)
+@Theleekycauldron:@DYK admins:                  First of all, I agree with Valereee that the admin check can be a time-consuming pain.  But we knew it when we took on the job. If we have to squeeze by on a last-minute promotion with all previous Queues empty, sometimes you have to make a choice between holding up the main page rotation because all Queues are empty, etc., or promoting it first and then checking and hoping you don't miss anything.  But things are sometimes missed, anyway, no matter how diligently we do it. I disagree with adding to the bureaucracy by adding another position.  Glimpse at all the admins who have passed through here, or the ones who used to be active and then moved on to other things. That same thing will happen if we add a position - the editor(s) will be diligent for a while, and then not be around when we need them - it's human nature. A new formal position would be another level that only these select users would get.  Also, Theleekycauldron, I'm probably not the only one who sees adminship in your future. Hee! Hee! Hee! Hee! — Maile  (talk) 20:42, 24 November 2021 (UTC)
+@Theleekycauldron: Run. ;D —valereee (talk) 20:50, 24 November 2021 (UTC)
+Better run through the jungle * du nu nu nu nu nun * / Better run through the jungle / oh don't look back, ya see
+Actual question about that, though: I'm probably going to be building lots of preps even if I do get access to the queues, and I can't promote preps I've built. So, say prep 1 is next in line for promotion, but I built that one. Prep 2 was built by someone else, say, Kavyansh.Singh. Could I swap Prep 2 with Prep 1 manually, promote prep 2 (which is now prep 1), cycle the preps, and wait for someone else to promote the prep I built? Or do I just have to wait until someone promotes prep 1? theleekycauldron (talk  contribs) (they/them) 20:58, 24 November 2021 (UTC)
+I don't recall that ever coming up.  Maybe @BlueMoonset: or @Gatoclass: have some tips for that.  Also, you give yourself away quoting Creedence. Now I feel like going over to YouTube and absorbing that song. — Maile  (talk) 21:13, 24 November 2021 (UTC)
+I wouldn't advise it. Sometimes there are unlabeled special occasion hooks, and swapping them means that a hook doesn't end up on the main page when it ought. Mind, if this sort of thing is to be done, a prep swap is infinitely preferable to promoting preps out of order, which gets the prep and queue numbers unsynched and mass confusion results. It's much easier to request another admin to promote the prep that you can't, and then promote the one you can. But this is an issue that's well in the future, so not one to spend time on now.
+Getting back to valereee's original question as to why it has to be admins: it's because admins have both privilege and responsibility—in this case, to the main page and its content. An admin has been given certain privileges to approve material for the main page, and in the case of the prep to queue promotion, are saying that they have done their best to check all the hooks against their articles and the sources in them and these appear to be accurate. Many DYK people—as noted below, Yoninah was certainly one—did careful checks when they promoted, but nobody's perfect, and sometimes they make errors. I wasn't immune back when I built sets. If we were getting tired at the end of the day, there was always the knowledge that the admin would also be taking a look at prep to queue promotion time. BlueMoonset (talk) 04:27, 25 November 2021 (UTC)
+@Maile66, but if we could designate a certain number of non-admins who could also do this final check job, wouldn't it be helpful? When I saw that Yoninah, who had zero interest in becoming an admin, had built the set, I knew damn well I didn't need to spend two hours. I could just check anything that had been nom'd and reviewed by anyone inexperienced. —valereee (talk) 20:54, 24 November 2021 (UTC)
+@Valereee: in theory, that's supposed to  be happening in prep anyhow.  And we do see postings here that others pay attention. They either want to, or they don't.  And if they want to, we're already hearing from them.  Just giving somebody a title isn't going to change this. Yoninah was unique in the Wikipedia universe.  However, she was also a professional editor in RL, so it came natural to her. I miss getting emails from her when she wanted me to change something of my own, she was like a dog with a bone. Yoninah would not back down on what she believed enhanced the end product. — Maile  (talk) 21:06, 24 November 2021 (UTC)
+Just coming up to speed on this conversation. I think just designating a few folks as DYK Wardens, who have had some experience doing this, should just be as fine. I do not know if they need some sort of systems rights to edit the queues, but, if that is not an issue or can be solved easily, I would perfectly be alright in recommending some fine non-admins from amongst us to be doing this job. Good luck. Ktin (talk) 21:18, 24 November 2021 (UTC)
+
+
+Firstly, admins have a level of accountability that other users do not. If as an admin you serially screw up, you are likely to lose the bit. By contrast, there are no consequences for errors made by non-admins. Secondly, who would want to do this job anyway? It's an onerous, time-consuming task that nobody wants to do - as this very thread testifies. Thirdly, even if somebody could be found who would be prepared to do it, I know that I personally would still be checking all the hooks before promoting, because everybody no matter how competent or diligent can miss things. Fourth, there is no real "problem" here that needs addressing anyway. Whether or not the queues are full, the preps will be quickly filled regardless when one has somebody as keen as leeky on the job. We've had the same issue before, remember when we decided to go to seven preps and queues? - that was supposed to help alleviate the backlog, and just as I predicted it made no difference. 
+
+
+The only thing that matters is that there is always a set ready to go to the main page on time. It doesn't really matter if there are empty queues, because the rate of set promotion remains the same so sooner or later all the preps get filled. If we went and filled all the queues now, leeky would fill all the preps in five minutes so we'd be right back where we started. A solution in search of a problem IMO. Gatoclass (talk) 04:00, 25 November 2021 (UTC)
+
+Well, Theleekycauldron Gatoclass has certainly noticed your M.O.  I know I've started to notice that. Empty preps don't stay empty long.  Sometimes not even as long as five minutes. — Maile  (talk) 04:06, 25 November 2021 (UTC)
+Yeah, I've wanted to get back into prep building since returning to some level of activity but have been unable to. Vaticidalprophet 05:41, 25 November 2021 (UTC)
+@Vaticidalprophet: there's an open prep set—would you do me the honour of getting back in the game? theleekycauldron (talk • contribs) (they/them) 06:32, 25 November 2021 (UTC)
+Leek -- no worries.&nbsp;;) I genuinely do like watching the enthusiasm. It's genuinely a fun job, and I get why you like it. Vaticidalprophet 06:38, 25 November 2021 (UTC)
+I really do, it's a lovely way to contribute&nbsp;:) that said, they're not my prep sets, so if you're ever feeling that vibe, shoot me a ping and I'll leave one open for ya. theleekycauldron (talk • contribs) (they/them) 19:48, 25 November 2021 (UTC)
+I've a more detailed response, but homework is murder at the moment so I shall have to return to this&nbsp;:) theleekycauldron (talk • contribs) (they/them) 06:33, 25 November 2021 (UTC)
+  DYK's backlog should function like a near sawtooth-wave: gradual rise, followed by quick reset.
+:) @Gatoclass: so there are parts of this I agree with, and parts of this i don't.
+Truth to be told, I don't want to keep the backlog down as much as I want to keep the backlog steady. If there were a way to keep at a consistent number of hooks (whether it's 60 or 90), that's the best case scenario for me. In fact, I'd like to set this in a broader theme about what I've noticed on the backlog in general, and whether we're targeting our goals with that correctly.
+There's probably no good way to keep the backlog at a specific number of hooks, so instead, I'd like the backlog to look like a "sawtooth wave" over time: rise gradually, stay low for as long as possible, and then when the backlog gets too high, make a sharp downturn, get out as many hooks as possible in a short time, and start the process over again with the calm one-a-day. There are basically three important attributes of this sawtooth wave:
+The horizontal length of the rise, or how long we stay in the one-a-day (seems to be about 20-25 days)
+The horizontal length of the fall, or how long we stay in the two-a-day (seems to be about 10-15 days, although I can see longer periods in the archives)
+The height of the fall, or what range of hooks we're oscillating in (for now, that's between 60-120)
+Pretty much the only effect DYK wardens would have is on #2—it would shorten the length of the two-a-day periods by a little bit. Take right now, for instance; We have 87 approved hooks and 27 empty slots, so we would be much closer to falling below 60 if we kept all the queues filled. But this is kind of a jolt-y solution: the problem is that the only way to smoothly affect both the length of the rise and fall is to change how fast we burn hooks, i.e. changing the number of hooks we run in a set, or the number of sets we run in a day.
+Pretty much the only way DYK wardens help is in getting out of the backlog quickly, which isn't nothing, but it's not much. What I'd like to see are ways to keep the one-a-day periods long and the two-a-day periods short that aren't just "if we push and pull and beg, we can put in a bunch of effort and then everyone goes home, only to repeat". If nothing else, then fine, but it's inelegant.
+On the subject of actually getting people to do it, I agree. Prep building is fun, if you're like me; you get to talk to lots of people, it's a fun puzzle, you get to know what's going on with pretty much everything. Anyone who actively wants to spend hours of their life just checking over someone else's work in promoting preps to queues has to have a jonestown-like obsession with the inner workings of DYK—that's really not that many people. theleekycauldron (talk • contribs) (they/them) 21:14, 25 November 2021 (UTC)
+I agree with Gatoclass and Amakuru on this. When we promote preps to queues we are functionally making an edit to the main page. Any edit to the main page is a serious matter, and any admin doing that must be prepared to take responsibility for it. Even with such a role, I can't imagine I would not do checks myself anyway. At this point I think the only real solution is to get some of the newer DYK regulars to run for the sysop bit. — Wug·a·po·des​ 06:29, 25 November 2021 (UTC)
+@Wugapodes, so, my thinking here was that if four editors, including one very experienced at DYK, had said, "Yes, this edit is good to go," then the actual move is more like closing a deletion discussion. The admin isn't actually saying "I agree, this deletion decision is correct" when they close a discussion and delete (or not) an article. They're saying, "Here is what I am finding consensus is saying." In the case of DYK what the admin would be saying is "I find consensus that this has been okayed for the MP." —valereee (talk) 22:41, 26 November 2021 (UTC)
+I agree with the OP that the requirement is excessive and should be dropped.  The primary responsibility for a DYK belongs to its author(s).  The review is then the formal quality check.  Prep-builders provide additional oversight by ensuring that a review has been done.  To require another detailed and onerous review is doing things in triplicate and that's risk-aversion contrary to WP:BOLD and WP:BURO. Andrew🐉(talk) 11:03, 25 November 2021 (UTC)
+Even if we as the DYK community could somehow agree that such a new role was the way to go, I predict that the wider WP community would not concur. The main argument would be that mainpage edits can only be done by admins. Period. Hence it’s a moot point to discuss here in my view. Schwede66 18:00, 25 November 2021 (UTC)
+Valereee you've been at DYK since around 2015. The first item you mentioned in your 2019 RFA was that becoming an admin would give you a chance to help promote preps to queue. I also understand that people get burned out on repetitive processes, and that's where you are right now. Our process is what it is, and the extra layer of bureaucracy you are suggesting sounds a lot like unpaid internship. You know, that process whereby the underling does all the work, but the person at the top gets their name put on the work and gets the credit. The person who does the promoting to queue is the one whose name goes out on the individual notices. If you're burned out, removing your name from Template:@DYK admins might help you.  But an admin's job is to make the final check, in a long line of checks by others involved in each nomination. — Maile  (talk) 01:11, 27 November 2021 (UTC)
+I sure don't care about any credit. It's not so much burned out that it is frustrated that so many who nom regularly and could help don't. If every admin moved a prep to queue for every nom they made, we wouldn't need to beg for help. But aight, I guess I'm being a pain, and I apologize, I'll take my name off and try to ignore and not feel guilty about ignoring the begging pings. I'll move a queue when I make a nom and try to tell myself it's okay to ignore the pleas for admin help that show up multiple times a week. Oh, there's one from an hour ago lol... —valereee (talk) 03:54, 27 November 2021 (UTC)
+I share your frustration, and probably most admins here do.  Perhaps the cause of the "disappearing admins", is that they all reached the point you have, and that I often have.  People move on to other interests. — Maile  (talk) 11:37, 27 November 2021 (UTC)
+Which is why I'd like to see us make this less burdensome on admins. I'm not actually burnt out on the project. If I were, I wouldn't be here arguing about how a problem might be solved.
+I have a lifelong philosophy that if no one else is willing help with a certain volunteer activity, maybe that's because no one else thinks it's worth doing. If regular nominators don't think this a job worth doing, maybe it's not actually worth my time. And when the fact we almost always do get something moved to queue in time is being used to argue there isn't a problem, then I feel like I'm helping support that argument every time I move a prep I didn't really feel like moving. Maybe if we all just stopped moving any preps we didn't actually feel like moving, people would listen. But I feel bad when I look at the queues and see the same people are always ending up doing the work. So even though I've got an article I'm creating or whatever that I'd rather use my time and energy on, I move a goddamn prep to queue. :D —valereee (talk) 12:37, 27 November 2021 (UTC)
+a DYK admins general strike would be a sight to see. In all seriousness, it's okay&nbsp;:) I'm happy that you did what's best for you in taking your name off. DYK'll manage. theleekycauldron (talk • contribs) (they/them) 20:17, 27 November 2021 (UTC)
+Actually I think remaining on the list is probably okay. I can just ignore the pings, but at least I'll be aware of when, if it sounds like fun, it would be helpful. :D —valereee (talk) 19:47, 29 November 2021 (UTC)
+(I'm not a DYK regular so take my comments with a pinch of salt.)  ... and the extra layer of bureaucracy you are suggesting sounds a lot like unpaid internship. It doesn't have to be that. There's a more systematic way of doing things:
+Unprotect the queues.
+List the usernames of DYK wardens on a fully-protected page
+Amend DYKUpdateBot so that it checks the edit history of the queue and refuses to promote the queue if there are non-reverted edits by users who aren't DYK wardens or admins.
+Updating the main page requires a lot of trust, indeed, but that doesn't necessarily have to come from adminship. Non-admins can already be template editors (who can edit templates transcluded on millions of articles) and edit filter managers (who can technically write a filter to block every single edit to the 'pedia). Is indirectly approving content for the main page (which has already been vetted twice) a more critical job than those? – SD0001 (talk) 11:48, 27 November 2021 (UTC)
+What SD0001 said. —valereee (talk) 12:40, 27 November 2021 (UTC)
+Yes, but it doesn't solve the problem of (a) finding people with the competence to do it, and (b) finding people with the competence who actually want to do it. And then there's the issue of !voting for the "wardens" - that could get quite awkward, given that there are probably very few people who are non-admins whom I personally would actually trust to get it right. And then, there's the fact that non-admins are not held responsible for their errors in the same way. Not to mention, as I have said previously, that this is still a solution in search of a problem. Gatoclass (talk) 15:47, 27 November 2021 (UTC)
+You've done 11 moves-to-queue this entire year. Clearly you aren't feeling overburdened by that, but I'm not sure it qualifies you to assess whether this is a "solution in search of a problem"? In a typical month we need ~60 moves made. You've averaged 1 per month. If all admins were performing at your level, we'd need sixty admin regulars here. There are currently 7 on the DYK admin ping list. —valereee (talk) 19:35, 27 November 2021 (UTC)
+Yes Valereee, I have not been very active recently on Wikipedia or indeed anywhere else, since I have been struggling with significant health issues this year. But also, I haven't been needed much since Cwm got the bit - she has beaten me to the draw on a number of occasions. But since we're counting contributions, I see you have done exactly 25 updates yourself this year, which is slightly more than two per month, so you have not "overburdened" yourself to a much greater degree than I have - but only one of us is complaining about our workload. For the record however, I along with a handful of others were the main contributors to the project for a couple of years when it was first taking off - we did most of the hook verifications (no QPQ then), put together the sets, promoted them to the main page and gave out the credits - all of which had to be done manually back then (no bots). Over time we also helped establish a fair chunk of the ruleset that has guided the project ever since. In short, I think it fair to say that I have a familiarity with all aspects of this process, along with an institutional memory, that are probably shared by relatively few current contributors. So with respect, please don't suggest that I am not qualified to have an informed opinion about DYK matters - I think my qualifications are as good as anybody's, regardless of my decreased activity more recently. Gatoclass (talk) 08:05, 28 November 2021 (UTC)
+GC, I'm doing less because of this issue. That's why I'm calling it a problem. You're doing less because of health issues, and I'm sorry to hear that, but the point is that you aren't in a position to call this "a solution in search of a problem".
+As Maile points out, I've explained my perspective. It's fine if others don't agree with me. But don't dismiss my point of view just because you don't agree with it. —valereee (talk) 18:39, 29 November 2021 (UTC)
+To remove some abstraction here, let's make the list—which DYK regulars do y'all trust to make these moves? It's not like we have an excess of overqualified active prep builders to begin with. I'd trust Mandarax, Ravenpuff, and BlueMoonset to do the more minor fixes and swaps they usually do, but in terms of other active and undoubtedly qualified prep builders, SL93 is the only name that comes to mind—and not for nothing, their chances in an RfA are pretty high (in my opinion). Do you trust any other names I'm missing? theleekycauldron (talk • contribs) (they/them) 20:39, 27 November 2021 (UTC)
+Thanks for mentioning me as trustworthy, but I would rather not edit the queues. SL93 (talk) 19:49, 29 November 2021 (UTC)
+I thought there might be a chance of that, after so many years. So, we're pretty much running dry on potential candidates anyway. theleekycauldron (talk • contribs) (they/them) 19:58, 29 November 2021 (UTC)
+All this discussion and we haven't had so much as a poll of who would even be interested. SL93 (talk) 20:04, 29 November 2021 (UTC)
+I know I'm not doing enough to help here at the moment (but standing ready to help if needed more desperately), but I think we need to keep admins engaged with DYK work more. Ideally, the people who fix DYK problems at WP:ERRORS should be experienced with DYK processes, and if we remove admins from prep-to-queue, there's no longer a reason for admins to regularly work at DYK. If there are not enough admins at DYK, then nominate DYK regulars for adminship and vote "support" at every RFA. —Kusma (talk) 11:17, 28 November 2021 (UTC)
+I haven't read through all of the above but I think Valereee raises a good point; the admin part of the process and the final check need not be inherently linked. If a non-admin can perform the final rubber-stamp and indicate that it has been checked off and needs moved by an admin, then an admin should be able to do that move separately without needing to further check everything. Rather than creating an extra layer of bureaucracy we could be stripping away some of the hassle for the admins and making it easier to entice a little more mercenary work. If a non-admin can simply leave a &lt;!--note--&gt; in the prep set approving it then an admin can finish up on the basis of that existing approval without further vetting anything.  ᵹʀᴀᴘᴘʟᴇ ꭗ 14:10, 28 November 2021 (UTC)
+Insight on adminship[edit]
+
+
+You all might find it enlightening to read: Wikipedia:Former administrators/reason.
+
+
+Admins are not called "the mop and bucket crew" for nothing. There's no glamour to it, and an admin is likely to be pinged at inconvenient moments. Valereee has stated her perspective above, and if she has other things she'd like to use her time on, let her go. But please don't add another level to the bureaucracy, because those editors will also drift away.   Some of my favorite admins over the years are gone, for a variety of reasons.  Let her go.  We move on with the admins who are available. — Maile  (talk) 13:19, 28 November 2021 (UTC)
+
+I'll keep helping, but I'm starting to feel pretty comfortable doing just exactly what I feel like doing and not feeling guilty about not doing more than that. :D —valereee (talk) 18:42, 29 November 2021 (UTC)
+Queue&nbsp;4[edit]
+... that in 2018, 41 out of 45 members of the Malang city council were arrested under suspicions of bribery?
+
+
+@Juxlos: I have just promoted this to the queue and find the wording awkward. They may have been arrested under suspicions of bribery but they were all found guilty and served jail sentences. I propose changing the hook to:
+
+... that in 2018, 41 out of 45 members of the Malang city council were arrested for corruption? Cwmhiraeth (talk) 07:07, 25 November 2021 (UTC)
+Sure, same thing for me. Juxlos (talk) 07:11, 25 November 2021 (UTC)
+Wikipedia:Did you know/Create new nomination[edit]
+
+
+Quick follow-up to note that the above page is now available for creating DYKs (without installing any userscript/gadget). You may want to modify the instructions at T:DYKT.
+
+
+There was some disagreement in the earlier discussion (@Beetricks @Sdkb) about what should be done to the helper script (User:SD0001/DYK-helper.js) now that this is in place. There are two options:
+
+Keep the helper-script as it is now.
+Modify the helper-script so that when you click on "DYK" in the dropdown menu, the new nomination page is opened in a new tab like this. Note that the article name from which you clicked the button gets pre-filled!
+
+
+I personally much prefer (2) because MediaWiki:DYK-nomination-wizard.js which powers the new nomination page has some subtle improvements over the helper-script (you are alerted if you accidentally try to close the page without submitting the nomination, textarea size grows based on amount of text entered, clearer submit/preview buttons, etc). Also, a single script is easier to maintain rather than two.
+
+
+Thanks, – SD0001 (talk) 08:22, 25 November 2021 (UTC)
+
+@SD0001, is there any reason you shouldn't just kill the script and leave a message telling people to go to the page? —valereee (talk) 22:49, 26 November 2021 (UTC)
+Because it's easier for people to navigate to a script they have used hundreds of times, rather than to a page they won't know the exact name of. Frankly, I don't see why we created a page for this when we already have a script for it, seems like pointlessly re-inventing the wheel. Although pointlessly re-inventing the wheel does seem like the speciality of DYK right now...... Joseph2302 (talk) 00:54, 27 November 2021 (UTC)
+It sounds like it’s easier for the maintainer? —valereee (talk) 05:00, 27 November 2021 (UTC)
+and it's more friendly to newer users, imo. I won't lose any sleep over the fact that Joseph2302 and other veteran nominators will have to spend a few minutes re-adjusting themselves to a new script if it means that fewer new nominators will be deterred by the complexity of DYK's nomination process. (and hey, at least I wasn't name-checked this time) theleekycauldron (talk • contribs) (they/them) 06:31, 27 November 2021 (UTC)
+Yes making it easier for new users was the primary intent. It isn't re-inventing the wheel because most of the code is the very same. (It may look different at first because the blue background colour in the userscript version is not there here.) – SD0001 (talk) 11:52, 27 November 2021 (UTC)
+Thanks SD0001. This looks great. Nicely done. My vote is for Option 2. Also, can someone also help create one of those acronym-ed access for this page. e.g. WP:DYKNC. Also, someone will have to update the instructions, if not already. Nice work again SD0001! Ktin (talk) 06:28, 29 November 2021 (UTC)
+
+
+I was going to add this to T:DYKT and honestly, that whole page just needs to be simplified. With the script and now this new nom page, do we even need those manual instructions any more? All they're really doing is making the process look daunting. Is there any reason we shouldn't just remove them and add a button to this new page? —valereee (talk) 13:06, 27 November 2021 (UTC)
+
+My vote is for doing away with the manual instructions and just having a button linking out to this page. Cheers. Ktin (talk) 06:29, 29 November 2021 (UTC)
+Template:Did you know nominations/Zeliha Ağrıs[edit]
+
+
+Template:Did you know nominations/Zeliha Ağrıs has been approved by Victuallers on 23 November 2021. However, it is still not moved to the  Template talk:Did you know/Approved from the Template talk:Did you know. Normally, it is done automatically so far I know. I guess it needs attention. Thanks. CeeGee 09:40, 26 November 2021 (UTC)
+
+I believe you have to substitute the DYKtick for some reason i.e. use {{subst:DYKtick}} rather than {{DYKtick}}, which is what was being used on that nomination. I've changed it on the nomination, so hopefully it should move to approved when the bot next runs (which I think is 1100 UTC, as it seems to run every 2 hours). Joseph2302 (talk) 10:11, 26 November 2021 (UTC)
+My mistake - oops - sorry - thanks Joseph Victuallers (talk) 10:34, 26 November 2021 (UTC)
+2 queues filled, all 7 preps filled[edit]
+
+
+@DYK admins:                  It's that time again. SL93 (talk) 02:53, 27 November 2021 (UTC)
+
+Ok....Cas Liber (talk · contribs) 03:09, 27 November 2021 (UTC)
+Thanks for handling it&nbsp;:) theleekycauldron (talk • contribs) (they/them) 06:31, 27 November 2021 (UTC)
+Prep&nbsp;7: Myanmar–South Korea relations[edit]
+
+
+Pinging @Htanaungg, Juxlos,  and Kavyansh.Singh as involved users. Current hook: (did you know...)
+
+... that South Korea was the first country in Asia to host a representative office of the National Unity Government of Myanmar?
+
+
+Unlike some previous hooks, I'm not seeing a great reason for this hook to violate WP:EGG (both bolded links go to the same article, Myanmar–South Korea relations). There's no indication that users know that they'll be clicking through to an article about the relationship between the two countries, and it doesn't add much good surprise value to the hook. I'd also argue that if there's no way to rework this hook without it violating WP:EGG (i am admittedly not seeing an obvious workaround), a new hook fact should be found.
+
+
+In disclosing my conflict of interest here, running this hook would also disrupt my stats script and I really don't feel like fielding that at the moment. That's obviously less important, but I don't think this hook works as is. theleekycauldron (talk • contribs) (they/them) 06:37, 27 November 2021 (UTC)
+
+Shall I provide another hook, theleekycauldron? Htanaungg (talk) 07:11, 27 November 2021 (UTC)
+T'would be excellent if possible, Htanaungg—thanks&nbsp;:) theleekycauldron (talk • contribs) (they/them) 07:12, 27 November 2021 (UTC)
+We're below 60![edit]
+
+
+good god, finally. As we are at 59 approved hooks, the time has come to switch back to running one set a day.  shame, my hook just got promoted :l  Pinging @BlueMoonset and @DYK admins:                  I don't see any special occasion hooks in the queues [except for the lead hook of queue 3, of course&nbsp;:) (not really)], so in the next three and a half hours or so between midnight and noon UTC, so we'll need an admin to change User:DYKUpdateBot/Time Between Updates from 43200 to 86400. Thanks to all the admins and prep set builders who lent a hand during this time! theleekycauldron (talk • contribs) (they/them) 08:24, 27 November 2021 (UTC)
+
+&nbsp;Done. Thanks for the memo, Leeky. I guess a more relaxing few weeks is ahead of us then! &nbsp;—&nbsp;Amakuru (talk) 08:51, 27 November 2021 (UTC)
+honestly, I prefer the two-a-day ride on the frothy white water rapids to the molasses tide of one-a-day, but I know it can be stressful on others—so I try to keep these periods as short as possible. College apps are due on tuesday, though, so it's probably for my own good. theleekycauldron (talk • contribs) (they/them) 09:23, 27 November 2021 (UTC)
+also, to our prep builders (@SL93, Kavyansh.Singh,  and Vaticidalprophet): let's go back to leaving a prep set blank—we're off the hook for a while, no need to keep running our engines like it's the daytona 500. theleekycauldron (talk • contribs) (they/them) 09:29, 27 November 2021 (UTC)
+Sure! – Kavyansh.Singh (talk) 09:39, 27 November 2021 (UTC)
+Sounds like a challenge. Anyone up to promote DYKs to more authors to get it to 8-hour hooks instead of 12-hour ones? Juxlos (talk) 10:56, 27 November 2021 (UTC)
+please no, my family's gonna start making groundhog day jokes at me—if i see my shadow it's six more weeks of prep set building theleekycauldron (talk • contribs) (they/them) 11:12, 27 November 2021 (UTC)
+quick question[edit]
+
+
+are set index articles on given names or surnames (e.g. John, Smith (surname)) eligible for DYK if sufficiently expanded and referenced? theleekycauldron (talk • contribs) (they/them) 23:59, 27 November 2021 (UTC)
+
+I don’t see why they wouldn’t be. Juxlos (talk) 01:41, 28 November 2021 (UTC)
+For a concrete example, see Template:Did you know nominations/Li surnames, which I came across the other day. eviolite (talk) 02:34, 28 November 2021 (UTC)
+thanks&nbsp;:) that's what i thought theleekycauldron (talk • contribs) (they/them) 03:06, 28 November 2021 (UTC)
+Opinions on article title[edit]
+
+
+Just seeing if I can get opinions on what an article title should be - Template:Did you know nominations/Song Zhuo Qun. SL93 (talk) 02:26, 28 November 2021 (UTC)
+
+Does this help? - Wikipedia:Naming conventions (Chinese), — Maile  (talk) 03:07, 28 November 2021 (UTC)
+(For the record, I am the person who first brought up this issue.) That page suggests "The encyclopedia should use the name more familiar to most English readers", which in my opinion is "Zhuo Qun Song" or possibly even "Alex Song" because the subject is also Canadian (having represented Canada in the International Mathematical Olympiad, which he is notable for) and the (primarily Canadian) media coverage uses first name first. eviolite (talk) 03:17, 28 November 2021 (UTC)
+Certainly "Alex Song". I looked at several of the refs &amp; only one I saw doesn't use that, and that used Western name order with "(Alex)" in the middle. Do any sources actually use "Song Zhuo Qun"?  Johnbod (talk) 04:09, 28 November 2021 (UTC)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Did_you_know&amp;oldid=1057807639"
+		Categories: Wikipedia Did you know discussion pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 29 November 2021, at 20:05&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

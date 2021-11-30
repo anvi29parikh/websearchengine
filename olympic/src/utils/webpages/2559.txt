@@ -1,0 +1,700 @@
+
+
+
+
+Wikipedia:Wikipedia Signpost/Next issue/Wikimania - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Wikipedia Signpost/Next issue/Wikimania
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia:Wikipedia Signpost‎ | Next issue
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This is a draft of a potential Signpost article, and should not be interpreted as a finished piece. Its content is subject to review by the editorial team and ultimately by Smallbones, the editor-in-chief.  Please do not link to this draft as it is unfinished and the URL will change upon publication. If you would like to contribute and are familiar with the requirements of a Signpost article, feel free to be bold in making improvements!
+
+
+
+
+
+
+
+This draft article ...
+
+
+N ... has no title defined.
+N ... has no blurb defined.
+N ... is not yet ready to be copyedited.
+N ... has not yet been copyedited.
+N ... is not yet ready for publication.
+
+
+
+
+
+Writer resources ...
+
+The Newsroom (talk)
+
+Content guidance
+Cheatsheet
+Formatting
+Resources
+Style
+Submissions
+Suggestions
+
+
+
+
+
+
+Last revised 18:19, 25 August 2021 (UTC) (2 months ago) by Smallbones (refresh)
+
+← Back to ContentsView Latest IssueNext issue
+
+ Wikimania
+YOUR ARTICLE'S DESCRIPTIVE TITLE HERE
+ 
+
+
+Contribute&nbsp;&nbsp;—&nbsp;&nbsp;
+Share this
+
+
+ E-mail
+ Facebook
+ Twitter
+ LinkedIn
+ Reddit
+
+
+
+By Smallbones
+
+
+
+
+
+
+
+
+		
+			
+			
+			
+		
+		
+			
+			
+			
+		
+		
+			
+			
+			
+		
+		
+			
+			
+			
+		
+		
+			
+			
+			
+		
+		
+			
+			
+			
+		
+		
+			
+			
+			
+		
+
+
+
+Optional: Give a short WP:LEAD-like introduction statement here.
+top image
+
+Header 1[edit]
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Header 2[edit]
+
+
+Just gathering a few videos to review
+
+
+General Opening: Wikimania 2021 Suggest watching Dnagarra (sp)
+
+
+[:https://www.youtube.com/watch?v=s6zRuU6DqXY]
+
+Play media  WikiDonne's Women in climate change, 3:13
+
+
+Board
+
+
+Wikipedia Enterprise (technical) with Liam Wyatt and  Ryan Brounley (WMF)
+
+
+File:Perspectives of PetrSU students (Russia), Wikimania 2021.webm
+
+
+Wikimedians for Sustainable Development User Group 45:00
+
+
+Reflecting on the Past, Present and the Future 30 minutes  Dr Tedros Adhanom Ghebreyesus, Butch Bustria, Phoebe Ayers, Ward Cunningham, Denny Vrandečić, Sal Khan, Winnie Kabintie. get   quore
+
+
+
+
+
+
+
+
+Signpost draft helper (vte)
+
+For more options, replace {{Signpost draft helper}} with {{Signpost draft helper|advanced=yes}}
+
+
+
+
+
+Images and Galleries
+
+
+
+
+
+Sidebar images
+
+
+To put an image in your article, use the following code
+
+
+
+
+
+[[|center|300px|alt=Placeholder alt text]]
+
+CAPTION
+
+
+{{Wikipedia:Wikipedia Signpost/Templates/Filler image-v2
+ |image=
+ |size=300px
+ |alt=Placeholder alt text
+ |caption=CAPTION
+ |fullwidth=no
+}}
+
+
+This will create the file on the right. Keep the 300px in most cases. If writing a 'full width' article, change |fullwidth=no to |fullwidth=yes.
+
+Inline images
+
+
+Placing 
+
+{{Wikipedia:Wikipedia Signpost/Templates/Inline image
+ |image=
+ |size=300px
+ |align=center
+ |alt=Placeholder alt text
+ |caption=CAPTION
+}}
+
+
+will instead create an inline image like below
+
+[[|300px|center|alt=Placeholder alt text]]CAPTION
+Galleries
+
+
+To create a gallery, use the following
+
+&lt;gallery mode = packed | heights=200px&gt;
+|Caption for second image
+&lt;/gallery&gt;
+
+
+to create
+
+
+
+
+
+
+
+
+Quotes
+
+
+
+
+
+Framed quotes
+
+
+
+
+“
+
+Lorem ipsum dolor sit amet...
+
+”
+
+
+— AUTHOR, SOURCE
+
+
+
+
+
+To insert a framed quote like the one on the right, use
+
+{{Wikipedia:Wikipedia Signpost/Templates/Filler quote-v2
+ |1=Lorem ipsum dolor sit amet...
+ |author=AUTHOR
+ |source=SOURCE
+ |fullwidth=no
+}}
+
+
+
+If writing a 'full width' article, change |fullwidth=no to |fullwidth=yes.
+
+Pull quotes
+
+
+To insert a pull quote like
+
+
+
+“
+
+Lorem ipsum dolor sit amet...
+
+”
+
+
+
+
+
+use
+
+{{Signpost quote
+ |1=Lorem ipsum dolor sit amet...
+ |source=Attribution
+}}
+Long quotes
+
+
+To insert a long inline quote like
+
+
+
+Lorem ipsum dolor sit amet...
+—&nbsp;Attribution
+
+
+use
+
+{{Signpost inline quote
+ |1=Lorem ipsum dolor sit amet...
+ |source=Attribution
+}}
+
+
+
+
+
+Side Frames
+
+
+
+
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+A caption
+
+
+
+
+Side frames help put content in sidebar vignettes. For instance
+
+{{Wikipedia:Wikipedia Signpost/Templates/Filler frame-v2
+ |1=Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ |caption=A caption
+ |fullwidth=no
+}}
+
+
+gives the frame on the right. This is useful when you want to insert non-standard images, quotes, graphs, and the like.
+
+
+Example − Graph/Charts
+Further information: Category:Graph, chart and plot templates
+
+
+
+A caption
+
+
+
+
+For example, to insert the {{Graph:Chart}} generated by
+
+{{Graph:Chart
+ |width=250|height=100|type=line
+ |x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9
+}}
+
+
+in a frame, simple put the graph code in |1=
+
+{{Wikipedia:Wikipedia Signpost/Templates/Filler frame-v2
+ |1=
+{{Graph:Chart
+ |width=250|height=100|type=line
+ |x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9
+}}
+ |caption=A caption
+ |fullwidth=no
+}}
+
+
+to get the framed Graph:Chart on the right.
+
+
+If writing a 'full width' article, change |fullwidth=no to |fullwidth=yes.
+
+
+
+
+
+
+Two-column vs full width styles
+
+
+
+
+
+
+
+If you keep the 'normal' preloaded draft and work from there, you will be using the two-column style. This is perfectly fine in most cases and you don't need to do anything.
+
+
+However, every time you have a |fullwidth=no and change it to |fullwidth=yes (or vice-versa), the article will take that style from that point onwards (|fullwidth=yes → full width, |fullwidth=no → two-column). By default, omitting |fullwidth= is the same as putting |fullwidth=no and the article will have two columns after that. Again, this is perfectly fine in most cases, and you don't need to do anything.
+
+
+However, you can also fine-tune which style is used at which point in an article.
+
+
+To switch from two-column → full width style midway in an article, insert
+
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-block-end-v2}}
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-block-start-v2|fullwidth=yes}}
+
+
+
+where you want the switch to happen.
+
+
+To switch from full width → two-column style midway in an article, insert
+
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-block-end-v2}}
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-block-start-v2|fullwidth=no}}
+
+
+
+where you want the switch to happen.
+
+
+
+
+
+
+
+
+
+
+
+In this issueNext issue
+
+
+
++ Add a commentDiscuss this story
+To follow comments, add the page to your watchlist. If your comment has not appeared here, you can try purging the cache.
+No comments yet. Yours could be the first!+ Add a comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make sure we cover what matters to you — leave a suggestion.
+
+
+Home
+About
+Archives
+Newsroom
+Subscribe
+Suggestions
+
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Next_issue/Wikimania&amp;oldid=1040630845"
+		Categories: Wikipedia Signpost draft articlesHidden categories: Noindexed pagesPages using the Graph extension
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 25 August 2021, at 18:19&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

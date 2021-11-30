@@ -1,0 +1,321 @@
+
+
+
+
+Global locks - Meta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Global locks
+	
+		From Meta, a Wikimedia project coordination wiki
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Translate this pageOther languages:Bahasa Indonesia
+Deutsch
+English
+Esperanto
+Nederlands
+Simple English
+Tiếng Việt
+Türkçe
+dansk
+español
+français
+føroyskt
+galego
+italiano
+magyar
+occitan
+polski
+português
+português do Brasil
+română
+svenska
+čeština
+Ελληνικά
+русский
+اردو
+العربية
+हिन्दी
+বাংলা
+ગુજરાતી
+中文
+日本語
+粵語
+한국어
+
+
+A global lock is a way by which stewards can technically prevent Wikimedia accounts from logging into any project (and thus, no editing can be done). When an account is locked, attempts to log into it fail on all Wikimedia projects. It is generally applied to vandalism-only accounts, spam-only accounts, long-term abuser sock accounts, compromised accounts, and though in rare cases (until global blocking is extended to named accounts) users who would be eligible for a global block are locked in this way as well. The locking interface also offers the option of hiding the account name in all logs, for usernames that are impersonating, harassing or offensive.
+
+For global blocks and bans, see Global blocks and Global bans.
+Global locks may be requested and appealed at Steward requests/Global.
+  The message displayed to a globally locked account
+Reasons to request a global lock
+
+
+
+The following is a list of common reasons for global locks. As a general rule, global locks happen almost always in clear-cut situations. There is no community-approved policy governing global locks, but this list represents de facto practice.
+
+
+Accounts that have been used only for vandalism or abuse on multiple wikis and are actively vandalizing now or obviously are otherwise being disruptive on multiple wikis are candidates for a global lock. Please include links to block histories or other evidence of abuse on other projects, and indicate where the account is still active.
+Accounts whose only intent is to spam on Wikimedia wikis.
+Accounts whose names are offensive or abusive are also eligible for locking, and may be hidden from logs as well.
+Accounts that have violated other principles which are grounds for indefinite blocks on multiple individual wikis, such as making repeated legal threats, publishing child pornography, or posting private personal information about others which may endanger them.
+Accounts that are suspected to have been compromised, as a temporary measure to maintain account security until the owner is contacted.
+Accounts that have been globally banned (community or foundation).
+Accounts that have been created to evade a global ban (community or foundation).
+Accounts whose owners are known to be deceased.
+Compromised account
+
+
+You may be looking for Help:Compromised accounts.
+
+
+Sometimes stewards lock with reason as "Compromised account". If your account has been locked with this reason, please contact cawikimediaorg.
+
+
+
+
+
+
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Global_locks&amp;oldid=22348670"
+		Categories: Meta-WikiGlobal actionsGuidelines
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Content pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+		
+	
+
+
+	
+	
+		
+		Community
+	
+	
+		
+		Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+		
+	
+
+
+	
+		
+		Beyond the Web
+	
+	
+		
+		Meet WikimediansEventsMovement affiliatesDonate
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 17 November 2021, at 19:07.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About Meta
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+

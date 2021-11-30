@@ -1,0 +1,479 @@
+
+
+
+
+Wikipedia administrators - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia administrators
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		User group on Wikipedia
+This is an article about Wikipedia administrators. For Wikipedia's policy page on administrators, see Wikipedia:Administrators.
+  Icon that typically represents administrators on Wikipedia
+
+
+On Wikipedia, trusted users may be appointed as administrators (also referred to as admins, sysops or janitors),[1]: 327  following a successful request for adminship. As of November 2021, there are 1,072 administrators on the English Wikipedia.[2] Administrators have additional technical privileges compared with other editors.
+
+
+On Wikipedia, becoming an administrator is often referred to as being "given [or taking up] the mop",[2] a term which has also been used elsewhere.[3] In 2006, The New York Times reported that administrators on Wikipedia, of whom there were then about 1,000, were "geographically diverse".[4] In July 2012, it was widely reported that Wikipedia was "running out of administrators", because in 2005 and 2006, 40 to 50 people were often appointed administrators each month, but in the first half of 2012, only nine in total were appointed.[5][6] However, Jimmy Wales, Wikipedia's co-founder, denied that this was a crisis or that Wikipedia was running out of admins, saying, "The number of admins has been stable for about two years, there's really nothing going on."[7] Wales had previously (in a message sent to the English Wikipedia mailing list on February 11, 2003) stated that being an admin is "not a big deal", and that "It's merely a technical matter that the powers given to sysops are not given out to everyone."[8]
+
+
+In his 2008 book Wikipedia: The Missing Manual, John Broughton states that while many people think of administrators on Wikipedia as judges, that is not the purpose of the role.[9] Instead, he says, admins usually "delete pages" and "protect pages involved in edit wars".[9] Wikipedia administrators are not employees or agents of the Wikimedia Foundation.[10]
+
+Contents
+
+1 Requests for adminship
+2 Role
+3 Scientific studies
+4 References
+
+
+
+Requests for adminship[edit]
+
+
+While the first Wikipedia administrators were appointed by Jimmy Wales in October 2001,[11] administrator privileges on Wikipedia are now granted through a process known as requests for adminship (RfA).[1] Any registered editor may nominate themselves, or may request another editor to do so. The process has been said to be "akin to putting someone through the Supreme Court" by Andrew Lih, a scientist and professor who is himself an administrator on the English Wikipedia. Lih also said, "It's pretty much a hazing ritual at this point", in contrast to how the process worked early in Wikipedia's history, when all one had to do to become an admin was "prove you weren't a bozo".[5] Candidacy for the role is normally considered only after "extensive work on the wiki".[1] While any editor may vote in an RfA, the outcome is not determined by a majority vote, but rather by whether consensus has been reached that the candidate would make a good administrator, a decision that can only be made by a bureaucrat, a Wikipedia editor who is also appointed by the community through a "request" process, though the process is much stricter for them than for administrators.[12] This may have been implemented as a result of RfAs attracting increasing levels of attention: Stvilia et al. quoted that "Prior to mid-2005, RfAs typically did not attract much attention. Since then, it has become quite common for RfAs to attract huge numbers of RfA groupies who all support one another",[13] with the record number of votes in one RfA as of May 2020 being 456 for the second RfA of editor "Floquenbeam".
+
+Role[edit]
+
+
+Once granted administrator privileges, a user has access to additional functions in order to perform certain duties.[5] These include "messy cleanup work",[1] deletion of articles deemed unsuitable, protecting pages (restricting editing privileges to that page),[14]: 66  and blocking the accounts of disruptive users.[1][5] Blocking a user must be done according to Wikipedia's policies and a reason must be stated for the block, which will be permanently logged by the software.[1]: 401 [14]: 120  Use of this privilege to "gain editing advantages" is considered inappropriate.[1]
+
+Scientific studies[edit]
+
+
+A 2013 scientific paper by researchers from Virginia Tech and Rensselaer Polytechnic Institute found that after editors are promoted to administrator status, they often focus more on articles about controversial topics than they did before. The researchers also proposed an alternative method for choosing administrators, in which more weight is given to the votes of experienced editors.[15] Another paper, presented at the 2008 Conference on Human Factors in Computing Systems, analyzed data from all 1,551 requests for adminship from January 2006 to October 2007, with the goal of determining which (if any) of the criteria recommended in Wikipedia's Guide to requests for adminship[16] page were the best predictors of whether the user in question would actually become an admin.[3] In December 2013, a similar study was published by researchers from the Polish-Japanese Institute of Information Technology in Warsaw, which aimed to model the results of requests for adminship on the Polish Wikipedia using a model derived from Wikipedia's edit history. They found that they could "classify the votes in the RfA procedures using this model with an accuracy level that should be sufficient to recommend candidates."[17]
+
+References[edit]
+
+
+^ a b c d e f g Ayers, Phoebe; Matthews, Charles; Yates, Ben (2008). How Wikipedia Works. No Starch Press. ISBN&nbsp;978-1-59327-176-3.
+
+^ a b "Wikipedia:Administrators". Wikipedia. Wikimedia Foundation. Retrieved 29 July 2015.
+
+^ a b Burke, Moira; Kraut, Robert (April 2008). Taking Up the Mop: Identifying Future Wikipedia Administrators. CHI '08 Extended Abstracts on Human Factors in Computing Systems. pp.&nbsp;3441–3446. doi:10.1145/1358628.1358871. ISBN&nbsp;978-1-60558-012-8. S2CID&nbsp;5868576.
+
+^ Hafner, Katie (17 June 2006). "Growing Wikipedia Refines Its 'Anyone Can Edit' Policy". The New York Times. Retrieved 23 January 2014.
+
+^ a b c d Meyer, Robinson (16 July 2012). "3 Charts That Show How Wikipedia Is Running Out of Admins". The Atlantic. Retrieved 23 January 2014.
+
+^ Further coverage:
+Steadman, Ian (19 July 2012). "Wikipedia might be running out of administrators, figures show". Wired. Archived from the original on October 6, 2014. Retrieved 24 January 2014.
+Lo Wang, Hansi (19 July 2012). "As Wikipedia Gets Pickier, Editors Become Harder To Find". NPR. Retrieved 29 November 2014.
+
+^ Lee, Dave (18 July 2012). "Jimmy Wales denies Wikipedia admin recruitment crisis". BBC News. Retrieved 24 January 2014.
+
+^ Wales, Jimmy (11 February 2003). "Sysop Status". EN-I Wikimedia Mailing List. Retrieved 24 January 2014.
+
+^ a b Broughton, John (2008). Wikipedia – The Missing Manual. O'Reilly Media. p.&nbsp;199.
+
+^ Kosseff, Jeff (April 15, 2019). The Twenty-Six Words That Created the Internet. Cornell University Press. ISBN&nbsp;9781501735790.
+
+^ Schiff, Stacy (31 July 2006). "Know It All". The New Yorker. Retrieved 19 February 2014.
+
+^ "Wikipedia:Bureaucrats". Wikipedia. Wikimedia Foundation. Retrieved 29 July 2015.
+
+^ Stvilia, Besiki; Twidale, Michael B.; Smith, Linda C.; Gasser, Les (2008). "Information quality work organization in wikipedia". Journal of the Association for Information Science and Technology. 59 (6): 983. CiteSeerX&nbsp;10.1.1.163.5109. doi:10.1002/asi.20813.
+
+^ a b Ebersbach, Anja; Adelung, Andrea; Dueck, Gunter; Glaser, Markus; Heigl, Richard; Warta, Alexander (2008). Wiki: Web Collaboration. Springer. ISBN&nbsp;978-3-540-68173-1.
+
+^ Das, Sanmay (2013). Manipulation Among the Arbiters of Collective Intelligence: How Wikipedia Administrators Mold Public Opinion (PDF). Proceedings of the 22nd ACM International Conference on Information &amp; Knowledge Management. pp.&nbsp;1097–1106. doi:10.1145/2505515.2505566. ISBN&nbsp;978-1-4503-2263-8. S2CID&nbsp;52865675.
+
+^ See Wikipedia:Guide to requests for adminship.
+
+^ Jankowski-Lorek, Michal; Ostrowski, Lukasz; Turek, Piotr; Wierzbicki, Adam (2013). "Modeling Wikipedia admin elections using multidimensional behavioral social networks". Social Network Analysis and Mining. 3 (4): 787. doi:10.1007/s13278-012-0092-6.
+
+
+
+
+
+Wikimedia Commons has media related to Wikipedia administrators.
+
+vteWikipediaOverview
+(outline)
+Censorship
+Citation needed
+Conflict-of-interest editing
+Criticism
+Biases
+gender
+geographical
+ideological
+racial
+Deletion of articles
+Deletionism and inclusionism
+Notability
+Edit count
+Fact-checking
+"Ignore all rules"
+MediaWiki
+Predictions of the project's end
+Reliability
+Vandalism
+Community
+Administrators
+AfroCrowd
+Arbitration Committee
+Art+Feminism
+Bots
+Lsjbot
+Edit-a-thon
+List of Wikipedias
+The Signpost
+Wiki Indaba
+Wiki Loves Monuments
+Wiki Loves Pride
+WikiConference India
+WikiConference North America
+Wikimania
+Wikipedian in residence
+WikiProject
+Women in Red
+People
+Florence Devouard
+Sue Gardner
+James Heilman
+Maryana Iskander
+Katherine Maher
+Magnus Manske
+Erik Möller
+Ira Brad Matetsky
+Larry Sanger
+María Sefidari
+Lila Tretikov
+Jimmy Wales
+Wikipedians
+Wikimedian of the Year
+History
+Bomis
+Logo
+Controversies
+U.S. Congressional staff edits
+Essjay controversy
+Seigenthaler biography incident
+Henryk Batuta hoax
+Jar'Edo Wens hoax
+Croatian Wikipedia administration
+Internet Watch Foundation
+Scientology
+CAMERA campaign
+Italian Wikipedia blackout
+English Wikipedia blackout
+Hillsborough disaster Wikipedia posts
+MyWikiBiz
+VisualEditor
+#1Lib1Ref
+Coverage of American politics
+Coverage of the COVID-19 pandemic
+2021 WMF actions on the Chinese Wikipedia
+Honors
+2008 Quadriga award
+Wikipedia Monument
+2015 Erasmus Prize
+2015 Princess of Asturias Award
+References
+and analysis
+Cultural
+Bibliography
+Films
+Academic studies
+Listen to Wikipedia
+Wiki-Watch
+Wikipediocracy
+WikiScanner
+Wikipedia Review
+Mobile access
+Apps
+QRpedia
+Wapedia
+WikiNodes
+Wikipedia Zero
+Wikiwand
+Content use
+Books LLC
+Boundless (company)
+DBpedia
+Deletionpedia
+Kiwix
+WikiReader
+Science information
+Health information
+Similar projects
+Interpedia
+Nupedia
+Citizendium
+Enciclopedia Libre Universal en Español
+Everipedia
+Veropedia
+List of online encyclopedias
+List of wikis
+Related
+The Iraq War: A Historiography of Wikipedia Changelogs
+Print Wikipedia
+Magna Carta (An Embroidery)
+Wiki rabbit hole
+Wikiracing
+274301 Wikipedia
+Wikipedia for World Heritage
+Wikimedia Foundation
+movement
+
+ List
+ Category
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia_administrators&amp;oldid=1056197033"
+		Categories: System administrationWikipediaHidden categories: Articles with short descriptionShort description is different from WikidataCommons category link is on WikidataArticles containing Spanish-language text
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		ArticleTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia Commons
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		বাংলাفارسی한국어Lietuviųဘာသာ မန်日本語සිංහලSimple EnglishతెలుగుУкраїнська中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 20 November 2021, at 09:57&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+

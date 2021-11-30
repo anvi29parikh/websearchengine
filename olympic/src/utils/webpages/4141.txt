@@ -1,0 +1,770 @@
+
+
+
+
+Beta Features - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Beta Features
+	
+		From mediawiki.org
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Translate this pageOther languages:Bahasa Indonesia
+Bahasa Melayu
+Bân-lâm-gú
+Cymraeg
+Deutsch
+English
+Nederlands
+Tiếng Việt
+Türkçe
+dansk
+español
+français
+galego
+italiano
+kurdî
+magyar
+polski
+português
+português do Brasil
+română
+sicilianu
+suomi
+čeština
+български
+русский
+українська
+עברית
+العربية
+سنڌي
+मराठी
+हिन्दी
+বাংলা
+മലയാളം
+ไทย
+ქართული
+中文
+日本語
+한국어 
+
+Wikimedia Commons has media related to Wikimedia Beta Features.
+
+
+Beta Features are a way for you to test new features on Wikipedia and other Wikimedia sites before they are released for everyone.
+Go to your preferences to enable Beta Features for yourself; remember, enabling features works on a per-site basis.
+
+
+Please let us know what you think of this program on this discussion page.
+
+Contents
+
+1 Purpose
+2 Functionality
+3 Current Beta Features
+4 Current features gallery
+5 Deployed features
+6 Other features
+7 Creating your own
+8 Appearance
+9 Known issues
+10 External links
+
+
+
+Purpose
+
+
+The primary purpose of Beta Features is to allow for Wikimedia designers and engineers (from the Wikimedia Foundation and community alike) to roll out technical improvements in an environment where large numbers of users can test, give feedback, and use these features in real-world settings. The secondary purpose of Beta Features is to provide a path so that helpful, well-designed gadgets and other community code can be integrated into core after vetting, testing, and reviewing by Wikimedia Design and Engineering.
+
+
+The code to provide features like this is in an extension, BetaFeatures . Beta Features' preferences are available in a Preferences tab, accessible via the personal bar at the top of the page for all logged-in users.
+
+Functionality
+
+
+Right now, users can:
+
+manually opt-in to individual features
+automatically enroll in all additional features as they are subsequently released[issue 1]
+
+
+To use either function, users should select the appropriate checkbox, then click “Save”, which will save their Beta Features preferences (like with other preferences). Every now and then new features are made available to users, as outlined at Beta Features/Roadmap .
+
+Current Beta Features
+
+
+Here are the current beta features which we are testing with this system:
+
+Content translation  (lead: Amir Aharoni) – A tool to quickly translate pages into your language with side-by-side editor.
+New wikitext mode  (lead: James Forrester) – Enable the new wikitext mode inside the visual editor. It has many of the tools present in the visual editor, uses a similar design, and allows better switching between the two.
+Paragraph-based edit conflict  (lead: Lea Voget) – Show the edit conflict view using a more advanced paragraph-based view.
+Visual differences  (lead: Ed Sanders) – Enable the new visual mode on revision difference pages.
+New video player  (lead: James Forrester) – Watch video files in a modern player with a cleaner look and mobile compatibility.
+Reference Previews  (lead: Lena Meintrup) – Show a preview of a reference by hovering over its footnote marker.
+
+
+These features are only available on some wikis:
+
+Visual editing  (lead: Roan Kattouw) – Enable the visual editor. It will not be available on talk pages and some other namespaces.
+Flow on user talk (lead: Roan Kattouw) – Enables a new structured discussion system on your user talk page.
+Discussion tools  (lead: Ed Sanders) – Enables experimental talk page features:
+Reply to talk page comments in one click.
+Add new topics using an inline form.
+
+
+We invite Wikimedia product teams and community volunteers who want to test out new features, or significant changes to existing features, to do so through this project.
+
+
+
+
+
+Wikimedia Commons has media related to Beta Features icons.
+Current features gallery
+
+		
+			
+			
+
+
+StructuredDiscussions on user talk 
+ (lead: Joe Matazzoni)
+ Enables a new structured discussion system on your user talk page.
+
+			
+		
+		
+			
+			
+
+
+New wikitext editor 
+ (lead: Dan Garry)
+ Enable the new wikitext mode inside the visual editor.
+
+			
+		
+		
+			
+			
+
+
+Reference Previews 
+ (lead: Johanna Strodt)
+Show a preview of a reference by hovering over its footnote marker.
+
+			
+		
+		
+			
+			
+
+
+Content translation 
+ (lead: Amir Aharoni)
+ A tool to quickly translate pages into your language with side-by-side editor.
+
+			
+		
+		
+			
+			
+
+
+Paragraph-based edit conflict 
+ (lead: Lea Voget)
+ Show the edit conflict view using a more advanced paragraph-based view.
+
+			
+		
+		
+			
+			
+
+
+Visual differences 
+ (lead: Dan Garry)
+ Enable the new visual mode on revision difference pages.
+
+			
+		
+		
+			
+			
+
+
+FileExporter
+ (lead: Lea Voget)
+ Allows for easy exporting of files to Wikimedia Commons.
+
+			
+		
+		
+			
+			
+
+
+New video player 
+ (lead: James Forrester)
+Watch video files in a modern player with a cleaner look and mobile compatibility.
+
+			
+		
+		
+			
+			
+
+
+DiscussionTools 
+ (lead: Ed Sanders)
+Enables experimental talk page features: Reply to talk page comments in one click and Add new topics using an inline form.
+
+			
+		
+
+Deployed features
+
+		
+			
+			
+
+
+Media Viewer 
+ (lead: Fabrice Florin)
+ View images in large size.
+
+			
+		
+		
+			
+			
+
+
+Typography refresh 
+ (lead: Steven Walling)
+ Make text more readable.
+
+			
+		
+		
+			
+			
+
+
+VisualEditor Opt-in 
+ (lead: James Forrester)
+ Edit pages without having to learn wiki code.
+
+			
+		
+		
+			
+			
+
+
+VisualEditor Formulæ 
+ (lead: James Forrester)
+ Edit algebra or equations on your pages.
+
+			
+		
+		
+			
+			
+
+
+VisualEditor language tool 
+ (lead: James Forrester)
+ Tool for marking the language in which text is written.
+
+			
+		
+		
+			
+			
+
+
+Completion suggester 
+ (lead: Dan Garry)
+ Uses a new algorithm for search as you type, that is tolerant to small typos.
+
+			
+		
+		
+			
+			
+
+
+Other projects sidebar 
+ (leads: Tpt, Lydia Pintscher)
+ Adds section to the sidebar for sister project links, based on Wikidata site links.
+
+			
+		
+		
+			
+			
+
+
+Enhanced notifications 
+ (lead: Roan Kattouw)
+ View and organize notifications more easily. Includes cross-wiki notifications, which lets you see messages from other wikis.
+
+			
+		
+		
+			
+			
+
+
+ORES 
+ (lead: Amir Sarabadani)
+ ORES is an AI-based tool that highlights probably damaging edits in recent changes and watchlist.
+
+			
+		
+		
+			
+			
+
+
+RevisionSlider 
+ (lead: Lea Voget)
+ Adds a slider interface to the diff view, so that you can easily move between revisions.
+
+			
+		
+		
+			
+			
+
+
+Page Previews (previously Hovercards) 
+ (lead: Jon Katz)
+ Give readers a short summary of an article whenever they hover over a link to it.
+
+			
+		
+		
+			
+			
+
+
+AdvancedSearch 
+ (lead: Lea Voget)
+ Enhances Special:Search through an advanced parameters form
+
+			
+		
+		
+			
+			
+
+
+Compact language links 
+ (lead: Pau Giner)
+ Show a shorter version of the language list, with just the languages that are more relevant to you.
+
+			
+		
+		
+			
+			
+
+
+Syntax highlighting
+ (lead: Danny Horn)
+ Adds colors and shade to wikitext to make it easier to visually separate article text from the code.
+
+			
+		
+		
+			
+			
+
+
+Edit Review Improvements 
+ (lead: Joe Matazzoni)
+ Review edits on Recent Changes using new filters, user-defined highlighting and other improvements.
+
+			
+		
+		
+			
+			
+
+
+Template wizard 
+ (lead: Niharika Kohli)
+
+			
+		
+		
+			
+			
+
+
+Constraint Suggestions
+ (lead: Lydia Pintscher)
+
+			
+		
+
+Other features
+This list may document extensions or features that are obsolete or dormant, or are still in planning. Do not rely on the information here being up-to-date.
+
+		
+			
+			
+
+
+Compact Personal Bar 
+ (lead: Jared Zimmerman)
+ A simplified site header with quick access to primary tools and a flyout for the rest.
+
+			
+		
+		
+			
+			
+
+
+Form Refresh 
+ (lead: Jon Robson)
+
+			
+		
+		
+			
+			
+
+
+Minerva 
+ (lead: Jon Robson)
+ Give more attention to the mobile skin and use it as a vehicle for accelerating change in mobile and desktop.
+
+			
+		
+		
+			
+			
+
+
+Nearby Pages 
+ (lead: ?)
+ See what other pages are nearby.
+
+			
+		
+  
+Creating your own
+
+
+Do you want to create your own Beta Feature? Great! James is happy to help guide you.
+
+
+First, you should check that your code meets the following basic requirements:
+
+Not significantly degrade site performance;
+Not noticeably degrade perceived performance of the site, or the user's system;
+Not crash the user's browser;
+Not cause data loss, or corruption;
+Pass basic interoperability with other Beta Features features; and[issue 2]
+Contribute positively to the user's experience of the site, and be additive in nature. E.g. Beta Features cannot be used to remove site features or functionality without adding features meant to replace what was removed.
+You should expect to test your new feature on the WMF pre-deploy beta server for at least one week before deploying to production. This testing period is intended to catch any serious bugs before jeopardizing users on production.
+
+
+If you're happy your code meets these requirements, you should write-up your proposal on the New Features proposal page. As part of creating the Beta Feature, you will be asked for some text copy and an image to represent your feature in the user interface; the Design and Product teams can help you with this.
+
+Appearance
+
+
+The appearance of the “Beta features” tab in Preferences is purposefully different, to both inspire interest and propose a departure from the standard layout and complexity of the existing user preferences.
+
+
+Here is a screenshot of the “Beta features” preferences tab:
+
+Screenshot of the “Beta features” preferences screen in Vector.
+Known issues
+
+↑ Note that this currently doesn't enroll users until they visit the Preferences page. (phab:T64815)
+
+↑ This is not to say that interoperability is a blocker. Interoperability issues need to be surfaced, and blocker-ness will be determined on a case-by-case basis.
+
+
+External links
+c:Category:Wikimedia Beta Features – category on Wikimedia Commons
+Analytics dashboard
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Beta_Features&amp;oldid=4883036"
+		Categories: DesignBeta FeaturesWMF ProjectsWMF Projects 2013q2WMF Projects 2013q3WMF Projects 2013q4WMF Projects 2014q1WMF Projects 2014q2WMF Projects 2014q3WMF Projects 2014q4WMF Projects 2015q1WMF Projects 2015q2WMF Projects 2015q3WMF Projects 2015q4WMF Projects 2016q1WMF Projects 2016q2WMF Projects 2016q3WMF Projects 2016q4WMF Projects 2017q1WMF Projects 2017q2WMF Projects 2017q3WMF Projects 2017q4WMF Projects 2018q1WMF Projects 2018q2WMF Projects 2018q3WMF Projects 2018q4WMF Projects 2019q1WMF Projects 2019q2WMF Projects 2019q3WMF Projects 2019q4WMF Projects 2020q1WMF Projects 2020q2WMF Projects 2020q3WMF Projects 2020q4WMF Projects 2021q1WMF Projects 2021q2WMF Projects 2021q3WMF Projects 2021q4
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		PageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia Commons
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		DeutschPolski
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 23 October 2021, at 23:22.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+

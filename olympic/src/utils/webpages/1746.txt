@@ -1,0 +1,625 @@
+
+
+
+
+Wikipedia:Article alerts - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Article alerts
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Automated news delivery system for WikiProjects and task forces
+
+
+
+Article Alertsvte
+
+
+
+
+
+Home
+
+
+General information
+
+
+
+
+Discussion / Help
+
+
+Discussion about the Article Alerts project
+
+
+
+
+Subscribing
+
+
+Subscribing information to Article Alert reports
+
+
+
+
+News
+
+
+Have something to share with other projects?
+
+
+
+
+Bug reports
+
+
+Report bugs or problems
+
+
+
+
+Feature requests
+
+
+Request new features and feature changes
+
+
+
+
+Status
+
+
+Y Daily run finished without issue! (As of 20:00, 29 Nov 2021 UTC) [refresh]
+
+
+
+
+
+List of subscribed projects
+Reports category
+Run log
+#ArticleAlerts
+
+
+
+
+ShortcutWP:AALERTS Article alerts is a subscription-based automatic article-monitoring system used to give "status reports" to subscribing WikiProjects. The reports are created and delivered by AAlertBot, operated by both Hellknowz (who also is the sole coder of the bot) and Headbomb.
+
+
+For notification about cleanup tags, such as {{no footnotes}} and {{disputed}}, see cleanup listings.
+For notification about recently created articles that could be of interest to your project, see InceptionBot.
+
+
+
+
+Search Article Alerts for specific topics that interest you. If you find one, add it to your watchlist! You can also browse the subscription list.
+
+
+
+
+
+
+
+
+
+Article Alerts is an automated subscription-based news delivery system designed to notify WikiProjects and Taskforces when articles tagged by their banners or placed in their categories enter various formal workflows (such as Articles for Deletion, Requests for Comments, Peer Review, and many more).
+
+
+First AAlertBot browses all the workflows in its scope, then checks for WikiProject templates/categories on these pages. If a subscribing WikiProject/Taskforce is found, AAlertBot will update a customized report called Article Alerts for that particular WikiProject or Taskforce. (An example of such a report can be found here.) Reports are updated on a daily basis, and provide brief summaries of what is happening, with relevant links to discussion or results when possible. So it is a good idea to request for a bot to place your WikiProject/Taskforce's banner on articles from relevant categories, so AAlertBot covers more articles. (See also Tips and Tricks.)
+
+
+Originally, the Article Alerts relied on ArticleAlertbot (coded and updated by B. Wolterding, operated by Legoktm) from September 2008 to April 2010 (see bot approval). Following several months of downtime, a new bot AAlertBot was developed (coded, maintained, and operated by Hellknowz, and co-operated by Headbomb) from December 2010 onwards (see bot approval).
+
+
+Report issues and problems with the Article Alerts reports on the bug reports page. Requests for new features should be made at the feature requests page.
+
+Contents
+
+1 Workflows covered
+2 Samples
+3 Subscribing
+4 News request
+5 Bug reports
+6 Feature requests
+7 Feedback and questions
+8 Tips and tricks
+9 See also
+
+
+
+Workflows covered[edit]
+See also: Wikipedia:Article alerts/Specification
+ – implemented (may not be fully formatted/data populated)
+ – not for now (not in priority list)
+ – implementing (taking a while or need to do something else to get this working)
+ – under consideration (haven't examined the issues/process to say if currently plausible/worthwhile)
+
+ AfD – Articles for deletion
+ TfD – Templates for discussion
+ RfD – Redirects for discussion
+ CfD – Categories for discussion
+ FfD – Files for discussion
+ FfD (COM) – Deletion requests (on Commons)
+ MfD – Miscellany for deletion
+ PROD – Proposed deletion
+ FAC – Featured article candidates
+ FAR – Featured article review
+ FLC – Featured list candidates
+ FLRC – Featured list removal candidates
+ FP – Featured pictures
+ FTC – Featured topic candidates
+ FTRC – Featured topic removal candidates
+ ACR – A-Class review (project-specific)
+ GAN – Good article nominations
+ GAR – Good article reassessment
+ GTC – Good topic candidates
+ PR – Peer review
+ RfC – Requests for comment
+ RM – Requested moves
+ TFA – Today's featured articles
+ TFAR – Today's featured article requests
+ DYK – Did you know nominations (approved)
+ MRG – Articles for Merging
+ SPL – Articles for Splitting
+ AFC – Articles for Creation
+ ITN – In the news
+ OTD – Selected anniversaries
+ CP – Copyright problems
+ ON – Article alerts/News
+
+Samples[edit]
+
+
+The table below shows an example of WikiProject Video games article alerts report.
+
+Article alerts
+
+
+
+Today's featured articles
+
+13 Dec 2021 – Sega CD (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) will be Today's Featured Article; see blurb
+
+
+Did you know
+
+17 Nov 2021 – Maximilian Dood (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was nominated for DYK by PantheonRadiance (t&nbsp;·&nbsp;c); see discussion
+
+
+Articles for deletion
+
+29 Nov 2021 – List of DCS modules (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by HarryKernow (t&nbsp;·&nbsp;c); see discussion (1 participant)
+27 Nov 2021 – Nicole Fantl (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by SL93 (t&nbsp;·&nbsp;c); see discussion (0 participants)
+26 Nov 2021 – Poppermost Productions (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Jasphetamine (t&nbsp;·&nbsp;c); see discussion (1 participant)
+25 Nov 2021 – Asylumsoft Inc. (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Modussiccandi (t&nbsp;·&nbsp;c); see discussion (2 participants)
+25 Nov 2021 – CyberPowerPC (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Daily Spider Glee (t&nbsp;·&nbsp;c); see discussion (4 participants)
+23 Nov 2021 – WarCities (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by Buidhe (t&nbsp;·&nbsp;c); see discussion (1 participant)
+22 Nov 2021 – Marissa Lenti (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was AfDed by S Marshall (t&nbsp;·&nbsp;c); see discussion (6 participants)
+20 Nov 2021 – Kkatamina (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) AfDed by Delta fiver (t&nbsp;·&nbsp;c) was closed as draftify (deleted) by Daniel (t&nbsp;·&nbsp;c) on 29 Nov 2021; see discussion (5 participants)
+19 Nov 2021 – Slap City (video game) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) AfDed by Cyberlink420 (t&nbsp;·&nbsp;c) was closed as delete by Premeditated Chaos (t&nbsp;·&nbsp;c) on 27 Nov 2021; see discussion (6 participants)
+18 Nov 2021 – List of Vurgun (web series) characters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) AfDed by JackFromWisconsin (t&nbsp;·&nbsp;c) was closed as delete by Explicit (t&nbsp;·&nbsp;c) on 25 Nov 2021; see discussion (8 participants)
+(8 more...)
+
+
+Proposed deletions
+
+27 Nov 2021 – Autobahn Polizei (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was PRODed by JBchrch (t&nbsp;·&nbsp;c): concern
+25 Nov 2021 – Immersia (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was PRODed by David Gerard (t&nbsp;·&nbsp;c): concern
+22 Nov 2021 – Bandai LCD Solarpower (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) PRODed by ILikeToDoSomeOtherStuffs (t&nbsp;·&nbsp;c) was redirected to Handheld electronic game (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist)
+19 Nov 2021 – Munna Bhai Gaming (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) PRODed by Curbon7 (t&nbsp;·&nbsp;c) and endorsed by Dan arndt (t&nbsp;·&nbsp;c) on 19 Nov 2021 was deleted
+18 Nov 2021 – Martial Heroes (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) PRODed by Firefly (t&nbsp;·&nbsp;c) was deleted
+16 Nov 2021 – Canadian Awards for the Electronic &amp; Animated Arts (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) PRODed by SnowFire (t&nbsp;·&nbsp;c) was deleted
+
+
+Categories for discussion
+
+28 Nov 2021 – Category:Video games set on fictional planets (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by Sandstein (t&nbsp;·&nbsp;c); see discussion
+28 Nov 2021 – Category:Video games featuring protagonists of selectable gender (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by Sandstein (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Category:PlayStation All-Stars Battle Royale fighters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by *Treker (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Category:Super Smash Bros. fighters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by *Treker (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Category:Marvel vs. Capcom fighters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by *Treker (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Category:Video game guest characters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by *Treker (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Category:Killer Instinct guest characters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by *Treker (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Category:Soulcalibur series guest characters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by *Treker (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Category:Tekken guest characters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by *Treker (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Category:Tony Hawk's (series) guest characters (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was CfDed by *Treker (t&nbsp;·&nbsp;c); see discussion
+(4 more...)
+
+
+Templates for discussion
+
+22 Nov 2021 – Template:Toei Animation video games (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was TfDed by WikiCleanerMan (t&nbsp;·&nbsp;c); see discussion
+22 Nov 2021 – Template:J.C.Staff video games (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was TfDed by TarkusAB (t&nbsp;·&nbsp;c); see discussion
+20 Nov 2021 – Template:Toronto Defiant roster (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) TfDed by WikiCleanerMan (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Template:Seoul Dynasty roster (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) TfDed by WikiCleanerMan (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Template:Shanghai Dragons roster (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) TfDed by WikiCleanerMan (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Template:Washington Justice roster (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) TfDed by WikiCleanerMan (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Template:Vancouver Titans roster (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) TfDed by WikiCleanerMan (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Template:San Francisco Shock roster (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) TfDed by WikiCleanerMan (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Template:Philadelphia Fusion roster (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) TfDed by WikiCleanerMan (t&nbsp;·&nbsp;c) was closed; see discussion
+20 Nov 2021 – Template:Paris Eternal roster (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) TfDed by WikiCleanerMan (t&nbsp;·&nbsp;c) was closed; see discussion
+(27 more...)
+
+
+Redirects for discussion
+
+26 Nov 2021 – William Taylor(Nights: Journey of Dreams) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →Nights: Journey of Dreams was RfDed by Sonic678 (t&nbsp;·&nbsp;c); see discussion
+19 Nov 2021 – Malzahar (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →League of Legends was RfDed by 1234qwer1234qwer4 (t&nbsp;·&nbsp;c); see discussion
+18 Nov 2021 – Karthus (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →League of Legends was RfDed by 1234qwer1234qwer4 (t&nbsp;·&nbsp;c); see discussion
+18 Nov 2021 – Mordekaiser (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →League of Legends was RfDed by 1234qwer1234qwer4 (t&nbsp;·&nbsp;c); see discussion
+15 Nov 2021 – Katarina Du Couteau (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →League of Legends was RfDed by 1234qwer1234qwer4 (t&nbsp;·&nbsp;c); see discussion
+14 Nov 2021 – Nunu and Willump (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →League of Legends was RfDed by 1234qwer1234qwer4 (t&nbsp;·&nbsp;c); see discussion
+14 Nov 2021 – Nunu &amp; Willump (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →League of Legends was RfDed by 1234qwer1234qwer4 (t&nbsp;·&nbsp;c); see discussion
+14 Nov 2021 – Nunu (League of Legends) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →League of Legends was RfDed by 1234qwer1234qwer4 (t&nbsp;·&nbsp;c); see discussion
+14 Nov 2021 – Willump (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →League of Legends was RfDed by 1234qwer1234qwer4 (t&nbsp;·&nbsp;c); see discussion
+14 Nov 2021 – Willump (League of Legends) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) →League of Legends was RfDed by 1234qwer1234qwer4 (t&nbsp;·&nbsp;c); see discussion
+(9 more...)
+
+
+Files for discussion
+
+28 Nov 2021 – File:DOA - Dead or Alive (movie poster).jpg (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) (on DOA: Dead or Alive) was FfDed by 109.79.161.174 (t&nbsp;·&nbsp;c); see discussion
+21 Sep 2021 – File:Overwatch loot box.gif (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) (on Loot box) was FfDed by Chess (t&nbsp;·&nbsp;c); see discussion
+
+
+Miscellany for deletion
+
+25 Nov 2021 – Draft:Battlefield 6 (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) MfDed by Leomk0403 (t&nbsp;·&nbsp;c) was closed as redirect by Godsy (t&nbsp;·&nbsp;c) on 26 Nov 2021; see discussion
+
+
+Good article nominees
+
+26 Nov 2021 – Super Mario 64 (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Coolperson177 (t&nbsp;·&nbsp;c); start discussion
+25 Nov 2021 – Roberta Williams (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Shooterwalker (t&nbsp;·&nbsp;c); see discussion
+17 Nov 2021 – Faselei! (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by ProtoDrake (t&nbsp;·&nbsp;c); start discussion
+16 Nov 2021 – The Sims 4 (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Theknine2 (t&nbsp;·&nbsp;c); start discussion
+10 Nov 2021 – BioShock 2 (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by David Fuchs (t&nbsp;·&nbsp;c); start discussion
+09 Nov 2021 – Trauma Team (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by ProtoDrake (t&nbsp;·&nbsp;c); start discussion
+07 Nov 2021 – Atari v. Amusement World (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Jorahm (t&nbsp;·&nbsp;c); see discussion
+06 Nov 2021 – Hitman 2 (2018 video game) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by OceanHok (t&nbsp;·&nbsp;c); see discussion
+31 Oct 2021 – Golf Club: Wasteland (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Eviolite (t&nbsp;·&nbsp;c); see discussion
+14 Oct 2021 – Sabacc (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GA nominated by Piotrus (t&nbsp;·&nbsp;c); start discussion
+(3 more...)
+
+
+Good topic candidates
+
+10 Nov 2021 – Shadow Hearts (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was GT nominated by ProtoDrake (t&nbsp;·&nbsp;c); start discussion
+The topic includes: Shadow Hearts: Covenant, Koudelka, Music of the Shadow Hearts series, Shadow Hearts (video game), Shadow Hearts: From the New World
+
+
+Featured article reviews
+
+26 Jun 2021 – Shadow of the Colossus (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was put up for FA review by Buidhe (t&nbsp;·&nbsp;c); see discussion
+
+
+Good article reassessments
+
+23 Sep 2021 – Covenant (Halo) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) was nominated for GA reassessment by Buidhe (t&nbsp;·&nbsp;c); see discussion
+
+
+Peer reviews
+
+26 Nov 2021 – Toys for Bob (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been put up for PR by Shooterwalker (t&nbsp;·&nbsp;c); see discussion
+23 Nov 2021 – Lugia (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been put up for PR by ShadowTemple19 (t&nbsp;·&nbsp;c); see discussion
+07 Nov 2021 – Atari Games Corp. v. Nintendo of America Inc. (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been put up for PR by Jorahm (t&nbsp;·&nbsp;c); see discussion
+29 Jul 2021 – Embodiment of Scarlet Devil (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been put up for PR by Kettleonwater (t&nbsp;·&nbsp;c); see discussion
+
+
+Requested moves
+
+27 Nov 2021 – Minecraft modding (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is requested to be moved to Minecraft mod by SWinxy (t&nbsp;·&nbsp;c); see discussion
+25 Nov 2021 – Hearthstone (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is requested to be moved to Hearthstone (video game) by Crouch, Swale (t&nbsp;·&nbsp;c); see discussion
+
+
+Articles to be merged
+
+12 Nov 2021 – Music of the BioShock series (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to BioShock (series)#Music by David Fuchs (t&nbsp;·&nbsp;c); see discussion
+11 Nov 2021 – List of first generation home video game consoles (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to First generation of video game consoles by Happyecheveria (t&nbsp;·&nbsp;c); see discussion
+05 Nov 2021 – Danmaku (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Danmu by Kainino (t&nbsp;·&nbsp;c); see discussion
+29 Oct 2021 – Arunodoyer Agnishikha (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Video games in Bangladesh by Worldbruce (t&nbsp;·&nbsp;c); see discussion
+08 Oct 2021 – Vortigaunt (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Characters of Half-Life by Haleth (t&nbsp;·&nbsp;c); see discussion
+05 Oct 2021 – PSG.LGD (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to PSG Esports by Paul Vaurie (t&nbsp;·&nbsp;c); see discussion
+03 Oct 2021 – Home video game console (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Video game console by Popcornfud (t&nbsp;·&nbsp;c); see discussion
+07 Sep 2021 – Deus Ex: Revision (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Deus Ex (video game)#Mods by Zxcvbnm (t&nbsp;·&nbsp;c); see discussion
+31 Aug 2021 – Famicom Titler (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Twin Famicom by SmartAn01 (t&nbsp;·&nbsp;c); see discussion
+31 Aug 2021 – Twin Famicom (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for merging to Famicom Titler by SmartAn01 (t&nbsp;·&nbsp;c); see discussion
+(10 more...)
+
+
+Articles to be split
+
+08 Nov 2021 – Mattel (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Fooliard (t&nbsp;·&nbsp;c); see discussion
+20 Oct 2021 – Idolish7 (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Lullabying (t&nbsp;·&nbsp;c); see discussion
+19 Sep 2021 – HTC Vive (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by ViperSnake151 (t&nbsp;·&nbsp;c); see discussion
+10 Sep 2021 – Apple II series (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by DigitalIceAge (t&nbsp;·&nbsp;c); see discussion
+26 Aug 2021 – Harry Potter and the Philosopher's Stone (video game) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Eldomtom2 (t&nbsp;·&nbsp;c); see discussion
+08 Aug 2021 – ScummVM (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Thumperward (t&nbsp;·&nbsp;c); see discussion
+01 Jul 2021 – Road Rash (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Longplay Watcher (t&nbsp;·&nbsp;c); see discussion
+28 Jun 2021 – Mario (franchise) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Longplay Watcher (t&nbsp;·&nbsp;c); see discussion
+26 Jun 2021 – Lego Creator (video game) (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Longplay Watcher (t&nbsp;·&nbsp;c); see discussion
+26 Jun 2021 – WarioWare, Inc.: Mega Microgames! (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) is proposed for splitting by Longplay Watcher (t&nbsp;·&nbsp;c); see discussion
+(15 more...)
+
+
+Articles for creation
+
+28 Nov 2021 – Draft:Rocul Studios (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by 77.96.122.48 (t&nbsp;·&nbsp;c)
+28 Nov 2021 – Draft:Nischay Malhan (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by 2409:4071:D0A:46FB:4851:F499:84FB:5DE (t&nbsp;·&nbsp;c)
+22 Nov 2021 – Draft:Darq (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by DasherPlayer (t&nbsp;·&nbsp;c)
+17 Nov 2021 – Draft:POPCORP (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by Zombeewriter (t&nbsp;·&nbsp;c)
+16 Nov 2021 – Draft:Esports Awards (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by Nathalex1 (t&nbsp;·&nbsp;c)
+11 Nov 2021 – Draft:Cromerty York (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by Hurra04 (t&nbsp;·&nbsp;c)
+09 Nov 2021 – Draft:XBOCT (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by JamelCad (t&nbsp;·&nbsp;c)
+02 Nov 2021 – Draft:Poppy Playtime (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by Jurtaa (t&nbsp;·&nbsp;c)
+02 Nov 2021 – Draft:Old Skull Games (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by Hypolipemi (t&nbsp;·&nbsp;c)
+21 Oct 2021 – Draft:Birdman or The Unexpected Virtue of a Tony Hawk Pro Skater Cover Band (talk&nbsp;·&nbsp;edit&nbsp;·&nbsp;hist) has been submitted for AfC by 2001:8003:C448:4400:2820:D3B2:C545:1D97 (t&nbsp;·&nbsp;c)
+(6 more...)
+
+Updated daily by AAlertBot — Discuss? / Report bug? / Request feature?
+Click to watch (Subscribe via &nbsp;RSS&nbsp;&nbsp;Atom)&nbsp;· Find Article Alerts for other topics!
+Subscribing[edit]
+Main page: Wikipedia:Article alerts/Subscribing
+
+
+All subscriptions are done by placing the {{ArticleAlertSubscription}} template on the /Subscription list. See the /Subscribing page for details/guide.
+
+News request[edit]
+Main page: Wikipedia talk:Article alerts/News
+ &nbsp; &nbsp; Note: the news requests are not currently implemented.
+If something is happening that you think WikiProjects should know about, then let us know and we'll include it in the articles.
+Bug reports[edit]
+Main page: Wikipedia talk:Article alerts/Bugs
+Please report bugs, missed articles, and any other mishaps on the bug report page. Don't think someone else will do it, because that someone else might think you'll do it, and then neither of you will have reported the bug. It is also possible that the error is specific to your project, so you might be the only one to have seen this error.
+Feature requests[edit]
+Main page: Wikipedia talk:Article alerts/Feature requests
+Have an idea that you think would improve the reports? Share it with us, and we'll see what we can do about it.
+Feedback and questions[edit]
+Main page: Wikipedia talk:Article alerts
+Having troubles setting up Article alerts? Leave a message on our talk page, and we'll try to help as best we can.
+Think Article Alerts is the greatest thing since sliced bread? Think it sucks because it doesn't actually cover Featured deletions? Let us know.
+Tips and tricks[edit]
+Remember to watch your project's Article Alerts pages.
+Did you know that you can monitor your project's Article Alerts using RSS and Atom feeds? Go on your project's /Article alerts history page, and there should be a " RSS  Atom" in your toolbox located on the left of the page.
+You can incorporate Article Alerts in navboxes for the users of your WikiProjects (see {{Wikipedia:WikiProject Physics/Member Navbox}} for example).
+If a related WikiProject is also subscribed to Article Alerts, you can transclude their report on your Project's homepage, and monitor their articles too.
+Request a bot to place your WikiProject's banner on the articles located in categories relevant to your WikiProject. You will probably end up with some unrelated pages, but at least you've extended Article Alerts to cover many articles you might have missed.
+InceptionBot (previously AlexNewArtBot) is a bot which produces a list of recently created articles that could be in your project's scope. Going through the list to do some tagging will ensure that ArticleAlertbot picks up these articles as well.
+Consider subscribing to cleanup listings to see articles that need cleanup (covers cleanup tags, such as {{expert needed}}, {{POV}}, {{page numbers needed}}, etc.)
+See also[edit]
+CleanupWorklistBot
+InceptionBot
+This page as it looked for old bot
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Article_alerts&amp;oldid=1049032641"
+		Categories: Wikipedia article alertsWikipedia toolsHidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 9 October 2021, at 12:52&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

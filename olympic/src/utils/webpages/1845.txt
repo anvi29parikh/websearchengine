@@ -1,0 +1,624 @@
+
+
+
+
+Wikipedia:Subpages - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Subpages
+	
+		From Wikipedia, the free encyclopedia
+		&nbsp;&nbsp;(Redirected from Wikipedia:Subpage)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+"WP:SP" redirects here. For other uses, see WP:SP (disambiguation).
+"WP:SUB" redirects here. For page substitution, see Wikipedia:Substitution.
+For sections of long articles spun off into their own articles leaving summaries in their place, see Wikipedia:Summary style.
+This page documents an English Wikipedia editing guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.ShortcutsWP:SPWP:SUB
+Wikipedia guidelines
+Guidelines list
+Policies list
+
+Behavioral
+
+Assume good faith
+Conflict of interest
+Courtesy vanishing
+Disruptive editing
+Don't bite the newcomers
+Don't edit to make a point
+Etiquette
+Don't game the system
+User pages
+Other behavioral guidelines
+WMF friendly space policy
+
+Discussions
+Talk page guidelines
+Signatures
+
+
+Content
+Citing sources
+External links
+Reliable sources
+medicine
+Fringe theories
+Non-free content
+Offensive material
+Don't copy long texts
+Don't create hoaxes
+Patent nonsense
+Other content guidelines
+
+Editing
+
+Article size
+Be bold
+Edit summary
+Understandability
+Other editing guidelines
+
+Organization
+Categories, lists, templates
+Categorization
+Disambiguation
+
+
+Style
+Manual of Style
+contents
+lists
+tables
+
+Deletion
+Deletion process
+Speedy keep
+Deletion guidelines for administrators
+
+Project content
+Project pages
+WikiProjects
+Templates
+User pages
+User boxes
+Shortcuts
+Subpages
+
+Other
+Naming conventions
+Notability
+vte
+
+
+Except in the main namespace (article namespace), where the subpage feature has been disabled in the English Wikipedia, subpages are pages separated with a "/" (a slash) from their 'parent' page. 
+
+
+Making a new [[link]] that begins with a / (slash) is the common way to start a subpage. The page to which this link points is considered "subordinate" to its host page, and is titled and linked as [[Parentpage/Subpage]].  It is possible to create a subpage of a subpage (or a sub-subpage). At the top of each subpage or sub-subpage, you can find a backlink (a.k.a. breadcrumb) to the higher levels of the page.
+
+Contents
+
+1 Allowed uses
+2 Disallowed uses
+3 Using subpages
+4 Finding subpages
+5 Wikipedia namespaces that do not have sub-pages
+
+5.1 Slashes in article titles
+
+
+6 History of subpages
+7 Notes
+8 See also
+
+8.1 In Meta
+8.2 In Wikipedia
+
+
+
+
+
+Allowed uses
+Test pages, following the rules of the sandbox.
+User subpages—making extra pages within your own user namespace, e.g. [[User:Example/Draft of article]] or [[User:Example/About me]].
+WikiProject subpages—for project-specific templates, discussion, or guidelines pages.
+Portal subpages—for Portal-specific templates and content.
+Dividing up Wikipedia process pages (e.g., Wikipedia:Articles for deletion, Wikipedia:Pages needing attention, etc.) which would otherwise get too big to be easily used.
+Documentation subpages for templates.
+Talk page archiving—both article Talk and User_talk pages are typically archived by moving discussion to numbered subpages.  This allows the discussion to still be searchable, rather than requiring a hunt through the page history.
+Talk page adjuncts, such as an article's /to do list or the /Comments pages used for Good Article review. A particularly long and complicated {{ArticleHistory}} may also be put on an /ArticleHistory transclude page.
+Temporary subpages in Talk namespace, usually formatted [[Talk:Example Article/Temp]] or [[Talk:Example Article/Dumping ground]], for example the kind of "/Temp" pages that can be created from Template:Copyvio, which allow editors to begin creating an entirely new article from scratch while the copyright violation is being resolved.
+ Avoid additional incoming and outward links that would make it appear as if this "/Temp" page is part of the encyclopedia: that is, in the case the Copyvio template is used, only this template, applied in article namespace, can link to the "/Temp" article from article or "main" namespace. See Disallowed uses below for further recommendations on how to avoid creating the impression a "/Temp" page is an encyclopedia page.  Other common variants are [[Talk:Example Article/Draft]] and [[Talk:Example Article/Sandbox]]. Such temp pages are also sometimes used for template and Wikipedia-namespace development.
+Disallowed uses
+Writing a content fork to avoid NPOV.
+Writing drafts of major article revisions, e.g., [[Example Article/Temp]] in the main namespace, as you can get there accidentally using Special:Random—write these in the talk namespace, e.g. [[Talk:Example Article/Temp]]. See Wikipedia:Workpages for detail. Also, avoid incoming and outward links regarding such "Talk:.../Temp" page that might create the impression this is an encyclopedia page before it is, e.g.:
+surround "category" links by "nowiki" tags, so that the temp page doesn't show up in a non-project category as if it were an article, example: &lt;nowiki&gt;[[Category:Incredibly smart people]]&lt;/nowiki&gt;. The "nowiki" tags should be removed only when the "temp" content is moved to its place in article namespace. (This is an outward link example.) Another solution: put a colon before word "Category", for example, write [[:Category:Shamanism]] instead of [[Category:Shamanism]]. In this case, it will be still linkable, but it will not make the subpage appear on category pages.
+don't create navigational templates that make it appear as if this temp page is part of a series of encyclopedia articles, for example, don't do this: "... | [[John I of Doeland]] | [[Talk:John II of Doeland/Temp|John II of Doeland]] | [[John III of Doeland]] | ...". (this is an incoming link example).
+Draft pages mistakenly created in the main namespace should be moved as appropriate, or deleted if they are inactive and redundant to the main article.
+Using subpages for permanent content that is meant to be part of the encyclopedia.
+Pasting copies of copyrighted reliable sources to "share" with other editors.  Copyright violations are not permitted on any page in Wikipedia.
+Using subpages
+To create a user subpage, see Wikipedia:User pages#User pages and user space.
+To delete a user subpage, see Wikipedia:User pages#Deleting user pages and subpages.
+To link subpages, see Help:Link#Subpage links.
+To use variables associated with subpages, see WP:Page name#Subpagename and basepagename.
+Finding subpages
+See also: Wikipedia:Tip of the day/March 8
+
+
+The "All pages with prefix" report from Special:PrefixIndex shows subpages.
+
+Select "Page information" from Tools (in the sidebar). Then select the link about "subpages".
+Or navigate to &nbsp; Special:PrefixIndex/fullpagename/ &nbsp; by way of the search box.  For example, &nbsp; Special:PrefixIndex/wp:&nbsp;manual&nbsp;of&nbsp;style/ &nbsp; or &nbsp; Special:PrefixIndex/wp:&nbsp;Manual&nbsp;of&nbsp;Style/.
+Or visit the Special:PrefixIndex page, and run the report from there.  One way to get there is through Special:SpecialPages in Tools (in the sidebar).
+Or to save a click you can add a Subpages link to your version of Tools.[1]
+
+
+The "Search" report from Special:Search similarly uses a prefix search parameter to show subpages.
+For example: &nbsp; prefix:wp: manual of style. &nbsp;
+
+
+Comparing the two:
+
+Both reports can run with any number of initial characters as the "prefix" of the pagename, so excluding the final slash / character only adds the one pagename.
+Only the "All pages with prefix" report shows subpages that are redirects.  (The prefix search parameter does not find redirects.)
+Only the "Search" report is not case sensitive. (Prefix is not case sensitive, PrefixIndex is.)
+Both reports accept namespace aliases in the fullpagename.
+From a content point of view, rather than from a page name point of view, both reports require separate runs for each redirect.
+
+
+To keep an active display of subpages, see {{list subpages}}.
+To keep a link to an "All pages..." report, use {{subpages}} or [[Special:PrefixIndex]].
+To keep a link to a "Search" report, use a {{search link}}.
+
+
+Outside of a single page name, there is no direct method for finding subpages.
+Standard subpagenames are searchable using the intitle parameter.
+
+
+
+
+Template
+doc
+testcases
+sandbox
+
+
+Portal
+featured
+selected
+intro
+
+
+Other
+infoboxes
+archive
+related categories
+
+
+
+There are a few categories that track some types of subpages.
+
+Wikipedia namespaces that do not have sub-pages
+
+
+The MediaWiki software (which runs Wikipedia) supports selectively allowing or disallowing the creation of subpages in various namespaces.
+
+
+The following namespaces in English Wikipedia do not have the subpage feature: 
+
+Main
+This namespace (which is where articles reside) does not have this feature turned on because strictly hierarchical organisation of articles is discouraged, and other distinctions are better made by placing pages in other namespaces (e.g. discussions go in "Talk:", and templates in "Template:").
+File: Unnecessary, and hierarchy among files is bad.
+MediaWiki[why?]
+
+
+However, the corresponding talk namespaces for the above spaces do allow subpages.
+
+
+All other namespaces allow subpages. You can create a subpage simply by linking to the name of the subpage, prefixed with a slash (e.g. [[/Archive]]).
+
+Slashes in article titles
+ShortcutWP:TITLESLASH
+
+
+Some topics have a slash in the name, and should be named accordingly—e.g. OS/2 or Providence/Stoughton Line. Care should be taken with the corresponding talk pages, though, as subpages are enabled in talk space—for example, Talk:OS/2 is treated by the software as a subpage of Talk:OS.
+
+History of subpages
+
+
+Subpages were originally used on Wikipedia to differentiate between subjects to create topical hierarchies of articles, but this proved unworkable because articles tend to belong in more than one hierarchy. The present system of disambiguation was adopted instead, and the Wikipedia:Do not use subpages policy had to be rigorously enforced and retroactively applied.  Since 2004, the category system has supported hierarchical organization while still allowing an article to belong to multiple categories.
+
+Notes
+
+
+^ 
+To add a Subpages link to your Tools in the sidebar,
+add this line:
+mw.util.addPortletLink ('p-tb', wgServer+wgArticlePath.replace("$1", "Special:PrefixIndex/"+mw.config.values.wgPageName+"/"), 'Subpages');
+
+
+
+to your Common.js page and purge per the instructions at the top of the page.
+
+
+
+See also
+
+
+
+This page is referenced in the Wikipedia Glossary.
+
+
+
+
+Note that older discussions of subpages are generally concerned with articles named as subpages of other articles; this is no longer done.
+
+In Meta
+m:Help:Link#Subpage feature
+Accidental linking and hard-wired category schemes
+Case against subpages
+Get rid of subpages entirely
+Mysterious wikipedia user subpages
+Why I am suspicious of subpages
+In Wikipedia
+{{Workpage}}
+Help:Userspace draft
+Wikipedia:Subpages to be moved
+Wikipedia talk:Do not use subpages
+Older discussion regarding the pros and cons of subpages
+Wikipedia:Userfication
+Wikipedia:Naming conventions (long lists)
+Wikipedia:Editors are not mindreaders—Essay encouraging editors to create articles first in user space.
+Wikipedia:Articles with slashes in title
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Subpages&amp;oldid=1035676680"
+		Categories: Wikipedia editing guidelinesWikipedia glossary itemsWikipedia featuresWikipedia how-toWikipedia page helpWikipedia project content guidelinesWikipedia user spaceHidden categories: Wikipedia semi-protected project pagesWikipedia move-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		MediaWikiWikisourceWikiversity
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AlemannischالعربيةتۆرکجهবাংলাभोजपुरीБългарскиDeutschEestiEsperantoفارسیFrançaisગુજરાતી한국어HrvatskiBahasa IndonesiaItalianoעבריתJawaMagyarМакедонскиمصرىBahasa Melayu日本語Norsk bokmålPolskiPortuguêsРусскийසිංහලSimple EnglishسنڌيSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSvenskaTürkçeУкраїнськаTiếng Việt吴语粵語Zazaki中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 27 July 2021, at 02:16&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

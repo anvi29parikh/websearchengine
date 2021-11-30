@@ -1,0 +1,733 @@
+
+
+
+
+Wikipedia:HotCat - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:HotCat
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		JavaScript program which helps to easily remove, change and add categories to Wikipedia pages"WP:HC" redirects here. For the page on the Hovercards beta feature, see mw:Beta Features/Hovercards. For hat collecting, see Wikipedia:Hat collecting.
+ShortcutsWP:HOTCATWP:HC
+Warning: You take full responsibility for any action you perform using HotCat. You must understand Wikipedia policies and use this tool within these policies, or risk being blocked from editing.
+HotCat2019 Coolest Tool Award Winnerin the category
+Tiny
+  An example of HotCat in use, in this case attempting to predict the next word.
+  Logo of HotCat
+
+
+HotCat is a gadget that helps registered users easily remove, change, and add categories to Wikipedia pages. It has a suggestions list that will propose existing categories for auto-completion.
+
+Contents
+
+1 How to enable/disable
+2 How to use
+
+2.1 Removing a single category
+2.2 Changing a category
+2.3 Adding a category
+2.4 Input box
+2.5 Making more than one category change
+
+
+3 Advanced usage tips
+
+3.1 Avoid auto saving
+3.2 Sort keys
+3.3 Easy categorizing to child or parent categories
+3.4 Search engines
+3.5 User configuration
+
+
+4 History
+5 Compatibility
+6 Userboxes
+
+
+
+How to enable/disable[edit]
+
+
+You must be logged in to use HotCat.
+
+
+To turn HotCat on or off, first make sure you are logged in. Then, click on "Preferences" in the upper-right corner, go to the "Gadgets" tab (or use this link), and scroll down to the "Editing" section. Check the box near HotCat to enable it. Scroll down to the bottom of the page and click Save. You will get a "Your preferences have been saved" message. You can now navigate back to the page you started from; you may need to reload the page you were viewing or bypass your cache.
+
+
+To disable, the instructions are similar to enabling it except that the box near HotCat has to be unchecked.
+
+How to use[edit]
+
+
+Whenever a page is loaded, HotCat looks for the category bar. If there are visible categories, it adds links to easily remove, change or add categories. This appears at the very bottom of the page:
+
+
+
+
+
+The new links are:
+
+"(−)" after a category: when clicked, the category is automatically removed.
+"(±)" after a category: when clicked, an input field to change this category is opened.
+"(+)" at the end of the list of categories: when clicked, an input field to add a category is opened.
+"(++)" at the front: when clicked, enters multi-change mode, allowing modifying more than one category.
+
+
+If HotCat can detect that a certain category is not in the page text itself but was transcluded onto the page from a template or other transclusion, it will not add these links. Only categories that are present in the wikitext of the page itself can be modified through HotCat.
+
+Removing a single category[edit]
+
+
+To remove a category, simply click the "(−)" link next to the category name. If the page does indeed contain this category, HotCat will remove it automatically. It will:
+
+open a new window or tab in your browser with the current page opened for editing,
+hide the whole edit form, so that you cannot edit,
+edit the page to remove the category, and
+save the page.
+Changing a category[edit]
+
+
+To change a category, click the "(±)" link next to the category name. This will open the input box where you can enter a new category name.
+
+Adding a category[edit]
+
+
+To add a category, click the "(+)" link at the end of the category line. This will open the input box where you can enter a new category name.+
+
+Input box[edit]
+  The input box of HotCat
+
+
+The input box of HotCat is very simple: a text field to enter the new category name, an indicator icon, and an "OK" and a "Cancel" button.
+
+
+The indicator icon tells you whether the category name you've entered exists. A  icon means that there is no such category yet. You can still add the category, but it will show up as a red link, and you should, after having added the category, click that red link and enter a brief description and parent categories to this new category. A  icon shows that there already is a category with the name you've entered.
+
+  HotCat's input box with a suggestion list
+
+
+When you start typing, HotCat will display a list of suggestions above or below the text input field. Clicking one of these suggestions will copy it into the text field. Double-clicking a suggestion is the same as clicking once and then clicking the "OK" button: HotCat will add the double-clicked suggestion automatically. The suggestion list is populated by the search engine chosen in the selector between the list and the text input field.
+
+
+In the example shown here, we've entered "Alps of", and HotCat presents us with a list of possible completions. The first suggestion has already been copied into the text box, but the added text is selected, so that it will be overwritten when we keep on typing. Entering " S" reduces the suggestion list accordingly.
+
+
+Clicking on "Alps of Switzerland" will then copy that into the text field and close the suggestion list (since there are no more suggestions, i.e., categories beginning with "Alps of Switzerland" as a prefix).
+
+
+Clicking the "Cancel"-button would now abort the operation, clicking "OK" would tell HotCat to go on and add the chosen category.
+
+Making more than one category change[edit]
+  In multi-change mode, category changes are saved only when the "save" button is clicked.
+
+
+The user interface of HotCat is minimalistic on purpose and geared towards making interactions simple and fast. When you just click on a "(−)" link to remove a category, the edit is executed right away, and likewise when you submit a single category addition or change.
+
+
+Still, HotCat fully supports changing more than one category at once. If you click the "(++)" link at the beginning of the category line, HotCat will enter its multi-change mode. The "(++)" link is replaced by a "save" button, and all changes you make from now on will be written to the page only when that button is clicked. Initially, this button may appear disabled. It is enabled only when there are indeed category changes that need saving.
+
+
+
+
+
+This multi-change mode is also entered automatically if you have one category input box open and, while it is still open, add, change, or remove another category.
+
+
+In multi-change mode, submitting a category change or removal will not perform the edit immediately. Instead, the change will only be reflected on the screen, allowing you to make more category changes. HotCat will add "(×)" links after each changed category. This is an "undo" link; it'll undo the last action on that category. Category removals are indicated by striking through the category name. HotCat will also highlight unsaved category changes by changing the background of the category link.
+
+
+Once the "Save" button is clicked, HotCat will make all the changes, and then opens the page in an edit screen, showing the changes made. The changes are at that point not yet saved! Review the changes to make sure that the script did what you intended it to do, and then submit the edit like any other edit you'd make.
+
+
+Note that while HotCat normally automatically submits single category changes, it will never do so when operating in multi-change mode. It will always open a screen showing the changes made, which you should review before submitting the edit manually.
+
+Advanced usage tips[edit]
+Avoid auto saving[edit]
+
+
+Normally HotCat automatically saves your edit. However, sometimes you might wish to go to the edit box instead to verify and then execute the save yourself. Instead of clicking OK, click OK while you have the modifier key pressed. On Windows computers this is the Ctrl key, on Apple computers it should be the Command (⌘) key.
+
+Sort keys[edit]
+
+
+You can even give a sort key together with the category. Just type a vertical bar ("|") after the category, followed by the sort key under which the page shall be sorted within that category's list.
+
+Input "Foo" will add a new category "Foo" without sort key, or change an existing category to "Foo", preserving the sort key.
+Input "Foo|Key" will add a new category "Foo" or change an existing category to "Foo", using the given sort key "Key" in both cases.
+Input "Foo|" (with a trailing vertical bar) will add a new category "Foo" without sort key, or change an existing category to "Foo", removing any sort key the changed category might have had.
+
+
+Note that, to remove an existing sortkey, you should change "Foo|Key" to "Foo|". Changing it to "Foo" has no effect.
+
+Easy categorizing to child or parent categories[edit]
+
+
+Users who do a lot of category maintenance might want to enable the quick access links for categorizing to child or parent categories. To enable this add the following to your JavaScript page:
+
+
+window.hotcat_use_category_links = true;
+
+
+
+
+(You may need to make your browser re-load the JavaScript after the change.)
+
+
+The following controls will be added: 
+
+"(↓)" after a category: when clicked, the input field is opened, and a list of available subcategories is displayed.
+"(↑)" after a category: when clicked, the input field is opened, and a list of available parent categories is shown.
+
+
+Note that the "(↓)" and "(↑)" links are shown only for existing categories. Red-linked categories, i.e. non-existing categories, can have neither parent nor subcategories, and thus showing these links wouldn't make sense. Also note that it is possible that only the input box is shown when these links are clicked, but no list. That indicates that this category does not have parent categories or subcategories, respectively. See also "Search engines" below.
+
+Search engines[edit]
+
+
+Between the suggestion list and the text input field, there is a search engine selector to select the search method which populates the suggestion list. HotCat supports a number of search engines.
+
+
+The MediaWiki servers offer two general ways to search for categories. The first is through the page list of the wiki. This list is always up to date, but is strictly alphabetic and also case-sensitive, so "similar" suggestions (for instance, suggesting "Bláhnjúkur" when "Blahn" was entered) are not shown. The second search engine is the search index that is also used by the "search" box on all pages. It does find "similar" suggestions and is not case-sensitive, but as its index is updated only at intervals, it may not show newly created categories.
+
+
+HotCat by default combines these two search engines to get the best of both worlds: similar suggestions and newly created categories. However, to do so, it must make two requests to the server. Normally, that's not a problem, but if it turns out to be too slow on a slow connection, you can use the engine selector to choose which search engine you want to use. It is also possible to configure which search engine HotCat should use by default.
+
+
+In addition to these general searches, HotCat also provides two additional, more specialized search engines. A first one can be used to search for subcategories of the category given by the current input. A second one returns the parent categories of the category given by the current input. Both engines may return empty results, in which case no suggestion list is shown. (For instance, if the current input is a name of a non-existing category, or if a category has no subcategories). In this case, the search engine is automatically reset to the default search engine after the first non-deleting input.
+
+
+Note that there is no way to "page" through a list of subcategories. The script just tries to get as many subcategories as it can (normally at most 500, the limits for administrators are somewhat higher). Subcategory queries can also be slow if a category contains many items (not just many subcategories), and the input field is made non-editable for the time of the request. If it doesn't become editable in reasonable time, just click cancel.
+
+For the technically inclined: the problem is that subcategory continuation queries appear not to work in the MediaWiki API. On the (hidden) category Category:Media with locations, the API returns (with a limit of 5000) only the first 1540 subcategories of more than 4800 that exist, and continuation queries seem to return no further subcategories at all. Related bug reports on this are bugzilla:1211 and bugzilla:23682. Until this is fixed, there will be no paging through subcategories in HotCat.
+User configuration[edit]
+
+
+You can adapt many of the aspects of HotCat. Please see its full documentation page on Wikimedia Commons.
+
+History[edit]
+
+
+HotCat was initially developed for Wikimedia Commons by Magnus Manske and later adapted and improved by many users, including, but not limited to User:Lupo, User:Dschwen, User:TheDJ, User:Superm401 and User:Merlissimo.
+
+
+The version on English Wikipedia is the same as the version on Commons but with a different default user configuration.
+
+Compatibility[edit]
+Safari 3 &amp; 4: Tested and fully working
+Safari 2: Has a non-harmful issue with displaying the "change" (±) link.
+Firefox 2, 3, 16.0.2: Tested and fully working
+IE 6, 7 &amp; 8: Tested and fully working
+Google Chrome: Tested and fully working
+Opera: Tested and fully working
+
+
+It is also tested and confirmed to be working in combination with Navigation popups, wikEd and the modern skin.
+
+
+Not completely compatible with the Timeless skin – in wide-screen, category links are displayed as a sidebar instead of the bottom bar, and HotCat does not work. Add the following codes in your Timeless custom css page, forcing category links always displayed as the bottom bar, which might be helpful:
+
+#catlinks-sidebar { display: none; }
+#catlinks { display: inherit !important; }
+
+Userboxes[edit]
+
+
+Code
+
+Result
+
+
+{{User:Scarce/Userboxes/HotCat}}
+
+This user uses HotCat.
+
+Usage
+
+
+{{User:Cj005257/userbox/hotcat}}
+
+This user uses HotCat to work with categories.
+
+Usage
+
+
+{{Template:User HotCat only}}
+
+This user does not use automated or semi-automated editing tools other than HotCat.
+
+Usage
+
+
+
+
+Also, there is the HotCat topicon. {{HotCat topicon}}.
+
+
+By using any of the above userboxes or topicon, a person can add their name into the List of Wikipedians who use HotCat.
+
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:HotCat&amp;oldid=1056115278"
+		Categories: Wikipedia scriptsWikipedia categorization toolsWikipedia mobile-friendly toolsHidden categories: Project pages with short descriptionWikipedia move-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMediaWikiMeta-WikiWikibooksWikivoyageWiktionary
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AcèhAfrikaansالعربيةܐܪܡܝܐঅসমীয়াAsturianuAymar aruAzərbaycancaتۆرکجهবাংলাBanjarBân-lâm-gúБеларускаяБеларуская (тарашкевіца)भोजपुरीBosanskiCatalàČeštinaDanskDavvisámegiellaDeutschDolnoserbskiडोटेलीEestiΕλληνικάEspañolEsperantoفارسیFøroysktFrançaisGagauzGalegoગુજરાતીगोंयची कोंकणी / Gõychi Konknni한국어Հայերենहिन्दीHornjoserbsceHrvatskiBahasa IndonesiaÍslenskaItalianoעבריתქართულიҚазақшаKurdîLietuviųमैथिलीമലയാളംमराठीBahasa Melayuမြန်မာဘာသာNederlandsनेपाली日本語Norsk bokmålNorsk nynorskOʻzbekcha/ўзбекчаਪੰਜਾਬੀپښتوPolskiPortuguêsRipoarischRomânăRuna SimiРусиньскыйРусскийScotsසිංහලSimple EnglishSlovenčinaSlovenščinaکوردیSundaSuomiSvenskaTagalogதமிழ்Татарча/tatarçaతెలుగుไทยТоҷикӣTürkçeУкраїнськаاردوVènetoTiếng Việt文言吴语粵語Zazaki中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 19 November 2021, at 20:41&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

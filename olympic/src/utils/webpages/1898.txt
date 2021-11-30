@@ -1,0 +1,934 @@
+
+
+
+
+Wikipedia:Substitution - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Substitution
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+For a technical description of substitution functions, see Help:Substitution.
+This page documents an English Wikipedia editing guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.ShortcutsWP:TSUBWP:SUBST
+This page in a nutshell: Substitution is the one-time, permanent copying of any content on Wikipedia. It differs from transclusion, which continually updates as the linked-to content changes.
+
+
+Substitution is a different way of handling templates than normally done on Wikipedia. Usually, templates are transcluded, which means that if the template changes, every page that uses it will update to comply with the change-in-question. This is the procedure used for most templates. However, some templates are instead substituted. This means that if the template changes, the page that uses it will not, and will continue to show the old version of the template. Some templates should always be substituted, while most should always be transcluded.
+
+
+To substitute, add subst: after the opening braces, as in {{subst:page name}}. For example: substitution {{subst:Medicine}} in contrast to transclusion {{Medicine}}. The contents of Template:Medicine will be expanded (for any templates) and stored at each point where "{{subst:Medicine}}" is placed in a page. Note that ref-tags refuse to run "subst:" unless temporarily renamed as "&lt;xref name=xx&gt;" or similar.
+
+
+This page also lists templates that should either always or never be substituted except in the Wikipedia namespace. Automated tools (a.k.a. bots) that do such replacements will never be used on the original template. If you are going to use a bot to substitute templates, please read through the talk page first, as many are under dispute or change status over time, and substitution is permanent.
+
+Contents
+
+1 About subst:
+
+1.1 Definition
+1.2 Usage
+1.3 Benefits
+1.4 Neutral
+1.5 Drawbacks
+
+
+2 Templates that should always be substituted
+
+2.1 Article namespace
+2.2 Article talk
+2.3 User talk namespace
+2.4 File namespace
+2.5 Misc. templates
+2.6 Uncategorized suggestions
+
+
+3 Templates that must be substituted
+4 Templates that should not be substituted
+
+4.1 List
+4.2 Wrong title templates
+4.3 Chemical abbreviations
+4.4 Deletion-related
+
+
+5 Under debate
+6 See also
+
+
+
+About subst:
+Definition
+
+
+The subst: keyword (short for "substitution") is used inside template code, placed as a prefix before the name of the template but within the curly braces ({{}}). It changes the way the software expands the template.
+
+
+Ordinarily, a template will be expanded "on the fly"; that is, the template code on a page calls a separate page every time it is rendered. Although most page views are served from the cache, pages need to be rendered for previews and rendered again when the page changes. When someone is editing a page with a normal template call, they see the template call.
+
+
+Placing "subst:" inside the curly braces tells the software to permanently replace the template with the text of the template (i.e., the text that is on the template's article page when the template is added to the page). Therefore, {{template}} becomes {{subst:template}}, until you save the page. The next editor sees not the template call, but instead the text of the template when you saved; it does not change even if the original template is edited.
+
+Usage
+
+
+You can substitute a template tag by adding "subst:" to it. For example, use {{subst:test5}} instead of {{test5}}.
+
+
+When this is a major component of an edit, it is strongly suggested that the template be mentioned in the edit summary (for instance, put "{{subst:test}}", "subst:test" or "test1 applied" in your edit summary) so other editors can easily see what you have done.
+
+
+Additionally, when creating or editing templates that are commonly substituted, adding a hidden comment to the template page helps article editors to see how templates are being used (e.g. &lt;!-- Substituted from Template:Documentation --&gt;).
+
+Benefits
+If there is a template you would like to modify for a single occasion, but you do not want to modify the template for all the pages that use it, and you do not want to make a new template, you can substitute the template and then with a second edit, make the modifications. For example, a template might be used with all the states of the United States and with the District of Columbia. The template might be worded correctly for the states, but not for DC. To fix the wording, you can substitute the template and then fix the wording.
+Substituting frequently used, but unprotected templates, limits the damage that can be caused by people vandalizing the template. See high-risk templates.
+Transcluding certain templates hides wikitext from newcomers, whereas substituting makes the wikitext visible and gives them the opportunity to learn its use (of course, there is a "how to edit" link at the bottom of each edit page).
+Substitution allows for recursive evaluation through macro templates.
+Neutral
+Substituting en masse may ultimately speed up the site, but this is not a reason to prefer substitution over transclusion. Don't worry about performance of Wikipedia's servers.
+Templates are often modified or deleted. If a template is boilerplate text, consider whether you want it to vary as the template is modified. If your answer is "no", substitution is warranted. An example of this is the {{subst:welcome}} template. The archives of a user's talk page should show the actual welcome message they received, not the current welcome message.
+Drawbacks
+Once a template is substituted, the result is no longer linked to the template, making it hard to find all pages displaying that text (though categories can sometimes relieve this). The problem can easily be worked around by including a link to the template in the template's code or assigning it a z number, specifically for the purpose of tracking its usage.
+A substituted template will not be updated when errors in the master template are corrected.
+If the template is used to standardize the appearance of something, you probably do not want to do a substitution. An example of this is a table of contents or navigation box.
+Substituting en masse—editing thousands of articles with bots—temporarily slows down the site and wastes server resources unnecessarily.
+Substitution increases the size of articles in the database and database dumps.
+A substituted template can add a lot of wiki-code or HTML to the article, harming accessibility for the less technically inclined.
+Substituting templates prevents newcomers from learning to use templates, and prevents users from finding their documentation.
+If the template is just being used temporarily, it is usually better not to substitute. Substituted templates are much harder to remove or modify.
+When a vandalised template is substituted, it is more difficult to repair than regular vandalism because of the lack of links between the template and its incarnations and the lack of updatability.
+Some meta-templates, such as {{!}} and {{((}}, do not work if they are substituted.
+Templates that should always be substituted
+
+
+This is a list of templates that should always be substituted, organized by namespace. Each list is ordered alphabetically with grouped series. This is not a comprehensive list; other less-used templates may also need to be substituted, see the template's documentation for details.
+
+Article namespace
+{{No more links}}, substituting this inserts a commentary only visible in edit mode, with a short explanation to discourage spamming links.
+{{sub}}, {{sup}}, candidates for substituting, unless used many times on one page, which could lengthen the code of the page.
+Article talk
+{{tmfrom}}, {{tmto}}
+User talk namespace
+
+
+All of the templates listed in Category:User warning templates and Category:Welcome templates should be substituted. This does not apply to templates on the user page.
+
+File namespace
+This section is empty.  You can help by adding to it.
+Misc. templates
+User signature templates, if transcluded, cause undue server strain as changes to a minor user template must then be widely propagated. If used, user signature templates should be substituted. (It should be noted, however, that user signature templates are discouraged.)
+Uncategorized suggestions
+This section is empty.  You can help by adding to it.
+Templates that must be substituted
+
+
+ShortcutWP:SUBSTMUST
+
+
+These templates have a purpose and/or syntax that require them to be substituted.
+
+{{afd}}, or else the link to "this article's entry" does not work.
+{{cfd}}, {{cfr}}, {{cfm}}, which insert comments which serve as queues for Cydebot, which is used to rename or merge categories.
+{{copyvio}}, for articles to be listed at copyright problems, will result in an error message if transcluded.
+{{nld}}, for images with no info on copyright status, adds {{no license}} with today's date automatically filled in.
+{{nrd}}, for images with no fair use rationale, adds {{no rationale}} with today's date automatically filled in.
+{{nsd}}, for images with no source info, adds {{di-no source}} with today's date automatically filled in.
+{{orfud}}, for "generic" orphaned fair use images, adds {{di-orphaned fair use}} with today's date automatically filled in.
+{{or-fu-re}}, for fair use images that have been orphaned in favour of another image, adds {{di-orphaned fair use}} with today's date automatically filled in (takes the name of the replacement image as parameter).
+{{proposed deletion}}, for proposed deletion, adds {{proposed deletion/dated}} with today's date automatically filled in.
+{{requested move}}, for requesting page moves
+{{rfd}}, redirects for discussion
+{{rfu}}, for fair use images that it should be possible to replace with a free licensed image, adds {{replaceable fair use}}, with today's date automatically filled in.
+{{refu-c}}, used in captions of images flagged as replaceable fair use, adds {{rfu-c}} with the "due date" (today + 7 days) automatically calculated and filled in.
+{{OnProd}}, which inserts today's-date-dependent name of the category page to which the article was added when nominated for deletion.
+Templates that should not be substituted
+
+
+ShortcutWP:SUBSTNOT
+
+
+Technically, templates should not be substituted that:
+
+contain calls to ParserFunctions (#if, #switch, etc.), unless, where possible, these are substituted too (see mw:Manual:Substitution#Multilevel substitution)
+leave some parameters to their defaults by not specifying them, unless the alternative default mechanism is used
+
+contain external links as the formatting of the URL to perform queries or look-ups may change
+
+
+
+This is because these constructs are not replaced in the generated wiki-code (single level substituting of case (A) leaves the #if or #switch constructs verbatim at the subst location and (B) leaves constructs like {{{1|default value}}}).
+
+If specific consensus is to eliminate a particular call of such a template, Special:ExpandTemplates can be used to expand that call to plain wiki-syntax.
+
+List
+
+
+This is a list of templates that should not be substituted. This is because they contain formatting standard code, contain complex code, or contain code that breaks if substituted.
+
+{{Citation needed}}, contains complex code.
+Various citation/reference templates which contain very complex conditional code (see: WP:CITET).
+{{cleanup}}, {{merge}}, {{trivia}} and other cleanup templates. Bots rely on them, substitution makes a mess of the article text and breaks the cleanup by month date categorization.
+{{Curlie}}, URL queries external web directories (former DMOZ).
+Infobox templates, various ones for the sake of bot-identification and consistency.
+{{Javadoc:EE}}, {{Javadoc:SE}}, {{Javadoc:SE-guide}}, conditional templates whose purpose is to update the links when the master template is updated.
+{{ISP}}, {{Openproxy}}, {{repeat vandal}}, {{SharedIP}}, {{SharedIPEDU}}, {{s/wnote}}, not messages to the users (so it is no problem if they change from their original form), so no reason to subst, but the standard reasons not to subst apply.
+{{ln}}, {{lnt}}, complex code
+{{Main}}, maintains formatting standard.
+{{switch}}, also conditional templates; substituting breaks usage
+{{See also}}, standard formatting for see also list
+{{selfref}}, does not work when substed, as it is meant to contain different code in mirrors.
+{{Signpost-subscription}}, must be updated weekly.
+{{stub}} templates, various ones for simplified usage and removal
+{{talkarchive}}, {{archive}}
+{{tl}}, {{tlp}}, {{ttl}}, {{ti}}, {{tic}}, {{tls}}, {{cl}}, {{ccl}}, many very widely used, {{tl}} with over 4,300,000 transclusions at last count. Quicker to type than their substitutions, and non-substing them allows new Wikipedians to learn about them and be able to use them.
+{{sockpuppet}} and similar templates intended to be placed on the top level page in user space. (Note: warnings and notices in the user talk space should be substituted.)
+
+
+Note also that some things may appear to be templates but are actually magic words, such as {{!}} and {{noexternallanglinks}}. Substituting them either will output nothing, or will substitute a template that shadows them (like the deprecated Template:!).
+
+Wrong title templates
+
+
+These templates, used in the main-space, add a comment about why an article is misnamed. They may be removed as the MediaWiki titling facilities improve, and the wording/layout may change.
+
+{{correct title}}
+{{lowercase}}
+Chemical abbreviations
+
+
+See Category:Chemical element symbol templates. These are used to simplify the entry of chemical formulae.
+
+{{Actinium}}, {{Aluminium}}, {{Americium}}, {{Antimony}}, {{Argon}}, {{Arsenic}}, {{Astatine}}
+{{Barium}}, {{Berkelium}}, {{Beryllium}}, {{Bismuth}}, {{Bohrium}}, {{Boron}}, {{Bromine}}
+{{Cadmium}}, {{Caesium}}, {{Calcium}}, {{Californium}}, {{Carbon}}, {{Cerium}}, {{Chlorine}}, {{Chromium}}, {{Cobalt}}, {{Copernicium}}, {{Copper}}, {{Curium}}
+{{Darmstadtium}}, {{Dubnium}}, {{Dysprosium}}
+{{Einsteinium}}, {{Erbium}}, {{Europium}}
+{{Fermium}}, {{Flerovium}}, {{Fluorine}}, {{Francium}}
+{{Gadolinium}}, {{Gallium}}, {{Germanium}}, {{Gold}}
+{{Hafnium}}, {{Hassium}}, {{Helium}}, {{Holmium}}, {{Hydrogen}}
+{{Indium}}, {{Iodine}}, {{Iridium}}, {{Iron}}
+{{Lanthanum}}, {{Lawrencium}}, {{Lead}}, {{Lithium}}, {{Livermorium}}, {{Lutetium}}
+{{Magnesium}}, {{Manganese}}, {{Meitnerium}}, {{Mendelevium}}, {{Mercury}}, {{Molybdenum}}, {{Moscovium}}
+{{Neodymium}}, {{Neon}}, {{Neptunium}}, {{Nickel}}, {{Nihonium}}, {{Niobium}}, {{Nitrogen}}, {{Nobelium}}
+{{Oganesson}}, {{Osmium}}, {{Oxygen}}
+{{Palladium}}, {{Phosphorus}}, {{Platinum}}, {{Plutonium}}, {{Polonium}}, {{Potassium}}, {{Praseodymium}}, {{Promethium}}, {{Protactinium}}
+{{Radium}}, {{Radon}}, {{Rhenium}}, {{Rhodium}}, {{Roentgenium}}, {{Rubidium}}, {{Ruthenium}}, {{Rutherfordium}}
+{{Samarium}}, {{Scandium}}, {{Seaborgium}}, {{Selenium}}, {{Silicon}}, {{Silver}}, {{Sodium}}, {{Strontium}}, {{Sulfur}}
+{{Tantalum}}, {{Technetium}}, {{Tellurium}}, {{Tennessine}}, {{Terbium}}, {{Thallium}}, {{Thorium}}, {{Thulium}}, {{Tin}}, {{Titanium}}, {{Tungsten}}
+{{Uranium}}
+{{Vanadium}}
+{{Xenon}}
+{{Ytterbium}}, {{Yttrium}}
+{{Zinc}}, {{Zirconium}}
+Deletion-related
+
+
+Most templates related to renaming or deleting pages are used temporarily, and thus do not need to be substituted (it just makes more work to delete them).
+
+{{catfd}}
+{{ifd}} {{ifd2}} {{idw}} {{idw-uo}} {{idw-cp}}
+{{cfdnotice}}
+{{sfd-t}} {{sfd-r}} {{sfr-t}}
+{{prod-2}}
+and all in Category:Speedy deletion templates
+{{editprotected}} not deletion related, but also temporary
+Exceptions
+
+
+
+The following templates must be substituted in order to work correctly:
+
+{{afd}} {{afd2}} {{afd3}}
+{{cfd}} {{cfm}} {{cfr}} {{cfr-speedy}}
+{{nld}} {{nsd}}
+{{prod}}
+{{rfd}}
+{{tfd2}} {{tfdnotice}}
+
+
+In addition, those templates which document a finished deletion process ({{afd top}}, etc.) should be substituted.
+
+Under debate
+{{col-begin}} {{col-2}} {{col-3}} {{col-4}} {{col-end}}, alleged by some to simplify usage.
+{{Clear}}, {{Clearleft}} {{Clearright}}
+{{ed}} {{ed2}} {{ed right}} {{edit}}, simplify addition of edit link to templates.
+{{archive top}} {{archive bottom}}, {{discussion top}} {{discussion bottom}}
+See also
+
+
+
+This page is referenced in the Wikipedia Glossary.
+
+
+Help:Substitution
+meta:Help:Substitution, a longer and more technical help page at Meta
+Special:ExpandTemplates (put the template with the brackets {{ }} in the "input text" box).
+Category:Wikipedia substituted templates
+{{Subst only}} (placed on the {{documentation subpage}}, not the template pages, of templates that need to be substituted rather than transcluded)
+AnomieBOT, a bot approved to substitute certain templates.
+vteWikipedia templatesMain namespace
+General
+Cleanup
+Verifiability and sources
+Disputes
+Hatnotes
+Infoboxes
+Links
+External link templates
+Linking country articles
+Lists
+Main page
+Section
+Sources of articles
+Quick reference
+Standard boxes
+Stub types
+Translation
+Other namespaces
+Compact TOC
+Category
+File
+Talk
+Template
+User
+Userboxes
+User talk
+Wikipedia
+WikiProject banners
+All namespaces
+Deletion (Speedy)
+Formatting
+Maintenance
+Merging
+Moving
+Requested
+Navigation
+Redirect pages
+Functional index
+Language codes
+Splitting
+Wikimedia sister projects
+Navboxes
+with templates
+Archive
+Articles for deletion
+Birth, death and age
+Button
+Category header
+Citation and verifiability
+Citation Style 1
+Deletion review
+Editnotice
+Hatnotes
+Help desk
+Inline cleanup
+Introduction cleanup
+IPA
+Math
+Notice and warnings
+Organization infoboxes
+Proposed article mergers
+Protection
+Quotation
+Redirects
+Search
+Semantics
+Speedy deletion
+Notices
+String-handling
+Sup and sub-related
+Top icon
+Transwiki maintenance
+Unicode
+User talk pages
+User noticeboard notices
+Userboxes
+User rights
+Userspace linking
+Userspace Disclaimers
+Wikibreak
+WikiLove
+Inline images
+Wikipedia icons
+Discussion icons
+Comment icons
+Emoji
+Related topics
+Template documentation
+Examples of templates
+Maintenance template removal
+Requested templates
+WikiProject Templates
+Template help
+Template namespace
+Search  
+  Category
+
+vteWikipedia help pages
+Visit the Teahouse or the Help desk for an interactive Q &amp; A forum.
+
+FAQs&nbsp;(?)
+Reference desks&nbsp;(?)
+Noticeboards&nbsp;(?)
+Cheatsheet&nbsp;(?)
+ Directories&nbsp;(?)
+About Wikipedia&nbsp;(?)
+Administration
+Purpose
+Principles
+Policies and guidelines
+What Wikipedia is not
+Disclaimer&nbsp;(parental advice)
+Making requests
+Who writes Wikipedia?
+Help for readers&nbsp;(?)
+FAQ
+Books
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia&nbsp;(?)
+Advice for young editors
+Avoiding common mistakes
+Etiquette
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Your first article&nbsp;(article wizard)
+Getting started&nbsp;(?)
+Why create an account?
+Introductions by topic
+Graphics tutorials
+Picture tutorial
+IRC (live chat) tutorial
+VisualEditor user guide
+Dos and don'ts&nbsp;(?)
+Accessibility
+Biographies
+Biographies (living)
+Categorization
+Consensus
+Discussions
+Disambiguation
+Images
+Leads
+Links
+Lists
+References
+Tables
+Titles (of articles)
+How-to pages and
+information pages&nbsp;(?)
+Appealing blocks
+Article deletion
+Categories
+Citations/references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+Minor edit
+toolbar
+edit conflict
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking&nbsp;(link color)
+Logging in
+Merging
+Page name
+Renaming pages
+Redirect
+Passwords
+Email confirmation
+Reverting
+Simple vandalism cleanup
+Talk pages&nbsp;(archiving
+simple archiving)
+User contributions
+WP search protocol
+Coding&nbsp;(?)
+Wiki markup
+Barcharts
+Calculations
+Characters
+Columns
+Hidden text
+HTML
+Lists
+Magic words
+Music symbols
+Sections
+Sounds
+Tables
+Templates
+Transclusion
+URL
+Visual files
+Directories&nbsp;(?)
+Abbreviations
+Contents (Encyclopedia proper)
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Manual of Style 
+Policies
+Tasks
+Tips
+Tools
+ Missing Manual
+
+Ask for help on your talk page&nbsp;(?)
+vteWikipedia communityFor a listing of current collaborations, tasks, and news, see the Community portal.
+For a listing of ongoing discussions and current requests, see the Dashboard.General community
+topics
+Administration
+News
+The Signpost
+Goings-on
+In the media
+Meetups
+Mailing lists
+Wikipedians
+Statistics
+The Wikipedia Library
+Centralized discussion
+Village pump
+Idea lab
+Policy
+Proposals
+Technical
+Miscellaneous
+WMF
+Bots
+Contents and grading
+Requested articles
+Most-wanted articles
+Images needing articles
+Articles needing images
+Articles for creation
+WP:AFC/R
+Creation
+Help
+Vital articles
+Articles for improvement
+Peer review
+Good article nominations
+Featured article candidates
+Lists
+Pictures
+Topics
+Article translation
+Pages
+Main Page
+Errors
+WikiProjects
+and collaborations
+Directory
+Culture and the arts
+Geographical
+History and society
+Science, technology and engineering
+Wikipedia assistance and tasks
+Patrols
+Recent changes
+Counter-Vandalism Unit
+Version 1.0 Editorial Team
+Accessibility
+Organizations category
+Awards and feedback
+Reward board
+Contests
+A nice cup of tea and a sit down
+Charitableness
+WikiLove
+Compliment before criticism
+Kindness Campaign
+Thanks!
+Maintenance tasks
+Task Center
+Open tasks
+Backlog
+Category
+Admin category
+Edit requests
+Category
+Database reports
+Category tracker
+Dusty articles
+Special pages
+New pages
+Recent changes
+Controversial issues
+Administrators
+and noticeboards
+Administrators' noticeboard
+Incidents
+Edit warring
+Vandalism
+Admin dashboard
+Admin requests
+Closure
+Page protection
+User permissions
+Sockpuppets
+Open proxies
+Revision deletion
+Oversight
+Request
+Usernames
+Changing
+Title blacklist
+OTRS
+Bureaucrats'
+Requests for adminship and bureaucratship
+Arbitration Committee
+Requests
+Enforcement
+Content dispute
+resolution
+Requests for comment
+Third opinion
+Dispute resolution noticeboard
+Biographies of living persons
+Conflict of interest
+External links
+Fringe theories
+Neutral point of view
+No original research
+Reliable sources
+Other noticeboards
+and assistance
+Regional notice boards
+Requests for help
+Category
+Asking&nbsp;questions
+Teahouse
+Help&nbsp;desk
+Reference&nbsp;desk
+Adopt-a-user
+Copyright assistance
+Copyright investigations
+Text problems
+Media questions
+Resource requests
+Mergers
+History mergers
+Moves
+Page importation
+Spam
+Blacklist
+Whitelist
+Bots
+Education
+General sanctions
+Editor sanctions
+Long-term abuse
+Deletion
+discussions
+Guide
+Admin
+Today
+Articles
+Templates
+Files
+Categories
+Redirects
+Miscellany
+Speedy
+Proposed
+BLP
+Review
+Undeletion
+Arguments to avoid
+Arguments to make
+Article Rescue
+Elections and votings
+Requests for comment (meta)
+Wikimedia Foundation elections
+WP Democracy
+Voting is not evil
+Milestones
+Directories, indexes,
+and summaries
+Departments
+Edit summary legend
+Editor's index
+Essays
+FAQs
+Glossary
+Abbreviations
+Help
+Manual of Style
+Simplified
+Rules
+Five pillars
+Policies
+Guidelines
+Shortcuts
+Templates
+Citation templates
+Tips
+Today
+Tools
+Wiki markup
+
+Media
+Category
+Templates
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Substitution&amp;oldid=1057011227"
+		Categories: Wikipedia editing guidelinesWikipedia glossary itemsWikipedia template guidelinesWikipedia how-toWikipedia template helpHidden categories: Wikipedia semi-protected project pagesWikipedia move-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةتۆرکجهবাংলাभोजपुरीދިވެހިބަސްفارسیગુજરાતીहिन्दीIlokanoBahasa Indonesiaമലയാളംमराठीမြန်မာဘာသာଓଡ଼ିଆPortuguêsRomânăРусскийසිංහලSimple EnglishسنڌيSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaၽႃႇသႃႇတႆး УкраїнськаTiếng Việt
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 24 November 2021, at 22:02&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,389 @@
+
+
+
+
+Wikipedia talk:Categorization - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia talk:Categorization
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		See also: Wikipedia talk:Categories for discussion and Wikipedia talk:WikiProject Categories
+
+
+This is the talk page for discussing improvements to the Categorization page.
+
+
+
+
+
+
+Put new text under old text. Click here to start a new topic.
+Sign your posts by typing four tildes (~~~~).
+New to Wikipedia? Welcome! Learn to edit; get help.
+
+
+Assume good faith
+Be polite and avoid personal attacks
+Be welcoming to newcomers
+Seek dispute resolution if needed
+
+ShortcutWT:CAT
+
+
+
+Archives: Index, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
+
+ 
+
+
+
+This page is for discussing the Wikipedia:Categorization guideline only.  For any other comments add them to the WikiProject Categories talk page.
+
+
+WikiProject Manual of Style 
+&nbsp;
+
+
+
+
+
+
+This page falls within the scope of WikiProject Manual of Style, a drive to identify and address contradictions and redundancies, improve language, and coordinate the pages that form the MoS guidelines.Manual of StyleWikipedia:WikiProject Manual of StyleTemplate:WikiProject Manual of StyleManual of Style articles
+
+&nbsp;
+The use of discretionary sanctions has been authorized by the Arbitration Committee for pages related to the English Wikipedia article titles policy and Manual of Style, including this page. Please consult the awareness criteria and edit carefully.See WP:PROPOSAL for Wikipedia's procedural policy on the creation of new guidelines and policies. See  how to contribute to Wikipedia guidance for recommendations regarding the creation and updating of policy and guideline pages.
+
+
+
+WikiProject Categories 
+&nbsp;
+
+
+
+
+
+
+This page is within the scope of WikiProject Categories, a collaborative effort to improve the coverage of categories on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.CategoriesWikipedia:WikiProject CategoriesTemplate:WikiProject CategoriesCategories articles
+
+&nbsp;
+
+
+
+
+
+
+This talk page is automatically archived by Lowercase sigmabot III. Any threads with no replies in 40&nbsp;days may be automatically moved. Sections without timestamps are not archived.
+Contents
+
+1 Diffusion
+2 Category naming with disambiguation
+3 Feedback requested at Cfd for 'Historical figures with ambiguous or disputed gender identity'
+4 Categorisation of people as Criminals
+5 Overdoing
+6 Suggestion for WP:COPSEP
+
+
+
+Diffusion[edit]
+
+
+Hello! Advice seems to indicate that categories like Category:Irish male actors and Category:Irish actresses should be non-diffusing with Category:Irish actors but they are. Can anyone help me understand this? Usedtobecool&nbsp;☎️ 02:19, 16 September 2021 (UTC)
+
+ Moved to  Wikipedia talk:WikiProject Categories
+Category naming with disambiguation[edit]
+
+
+The ninth bullet point under general naming conventions states: When an article topic requires disambiguation, any category eponymously named for that topic should include the same form of disambiguation, even if no other articles are likely to have an eponymous category.  This seems to result in unnecessarily clunky category titles that incorporate redundancies. If there are several articles that could be titled Schplug, such that there are various Schplug articles with brackets indicating which entity is meant, then is it really necessary that, if one of these is Schplug (band), the categories for that band's recordings be Category:Schplug (band) albums and  Category:Schplug (band) songs, and for its musicians Category:Schplug (band) members (hopefully no-one will insist on Category:Schplug (band) band members).  If the other putative Schplugs are white goods, breeds of cattle or traditional Swiss footwear, (they are not: I made the word up) then none of them are going to be releasing singles or albums, or have an evolving personnel, and the disambiguation is redundant and unsightly.  
+
+
+I would suggest rewriting that ninth bullet point as When an article topic requires disambiguation, any category eponymously named for that topic need only include disambiguation if there is a danger of confusion.  Thus the assumption is that there need not be the parenthetical addition, but that it can be required by anyone claiming reasonable danger of confusion.  Kevin McE (talk) 13:42, 24 September 2021 (UTC)
+
+Oppose - the whole point of C2C is to use the eponymous category name throughout the subtree rather than agonising individually over the name of every subcategory. Cream is ambiguous. Is Cream albums ambiguous? Is Cream members ambiguous? Is Cream songs ambiguous? Who cares: just use Cream (band) throughout Category:Cream (band). (This has been discussed thousands of times.) Oculi (talk) 17:34, 24 September 2021 (UTC)
+I put 'disambiguation' into the search engine of the talk archive before making the proposal, and nothing similar came up.  I have no idea where I am expected to make myself aware of the "thousands" of previous discussions of the matter.  Perhaps you could be kind enough to direct me to one percent of them. Kevin McE (talk) 20:45, 24 September 2021 (UTC)
+No, none of Category:Cream albums, Category:Cream members or Category:Cream songs is ambiguous.  If not one percent of the previous discussions, maybe 2 of them. Kevin McE (talk) 11:13, 18 October 2021 (UTC)
+Where do think WP:C2D (follow the name of the article unless ambiguous) and WP:C2C (follow the name of the parent category) came from? Consensus in dozens of cfds long ago. These are speedy criteria, not rules I have invented. A recent discussion is here. Oculi (talk) 15:44, 18 October 2021 (UTC)
+Thank you for your eventual reply. I was previously unfamiliar with c2c, so your reference to it meant nothing to me, and as I say, I had looked to see if the matter had been previously discussed.  I have never said that anything was a rule you had invented: I made a proposal, you opposed it (the !vote count is therefore 1-1 so far), and I asked you to substantiate claims you made in your response.  I find an aggressive tone in your response: apologies if this is not your intention, but I am simply suggesting that what seems clunky and redundant could be dropped.  I note the number of previous discussions has dropped from thousands to dozens, although I'm not sure that I would consider the one linked as really being the same thing.
+Let's see what anyone else thinks anyway... Kevin McE (talk) 18:03, 18 October 2021 (UTC)
+Feedback requested at Cfd for 'Historical figures with ambiguous or disputed gender identity'[edit]
+
+
+Your feedback would be appreciated at Cfd#Category:Historical figures with ambiguous or disputed gender identity. Thanks, Mathglot (talk) 20:33, 24 September 2021 (UTC)
+
+Categorisation of people as Criminals[edit]
+
+
+This query is triggered by the recent placing of Thomas Aikenhead (hanged for blaspheming against Christianity) into a Criminals from Edinburgh category. It returns to a topic which I recall attempting to raise before, without response, I think in a WikiProject that no longer exists, after Richard Carlile (jailed many times while campaigning for freedom of the press in the UK) was placed into a criminal category. Many figures in history either suffered penalties as criminals or would have so suffered had they fallen into the hands of their adversaries. Obvious examples range from philosophers and historians to the founders of religious schisms or political secessions. I can also think of playwrights, actors and mathematicians convicted because of their sexuality. For all of these, I would regard use of the "criminal" categorisation as unhelpful (whereas something like Category:People prosecuted under anti-homosexuality laws provides a categorised view without carrying that negativity). Looking in the archives I see Wikipedia_talk:Categorization/Archive_17#Criminal_categories touched briefly on this question, but I would like to explore consensus on when a "criminal" categorisation is appropriate. My view (expanding on the exchange in the edit comments in the Carlile article) is that it should be limited to individuals or organised groups who sought financial gain and/or exercised violence against others, though I appreciate that may also be woolly as a definition. AllyD (talk) 09:07, 11 October 2021 (UTC)
+
+People who are convicted of crimes can be categorised as criminals, even if what they did would not be regarded as a crime now. What counts as a crime is, and always has been, a political question.   Just as we categorise people as nationals of the country they lived in at the time, not by what it is called now. If they were convicted that has implications, even if we might disapprove of the conviction.  And there are a lot more crimes than those involving violence or financial gain. But categorisation has to relate to notability. For most people a traffic conviction wouldnt be very notable.  Rathfelder (talk) 22:55, 11 October 2021 (UTC)
+The changing perception over time is one reason why I prefer neutral fact-based categories to the imprecise negativity of the "Criminal..." categorisation. Some examples were it be applied consistently to those convicted in a process (and, no, I do not intend to make any such WP:POINTy additions):
+
+
+
+
+Examples ranging from Socrates to Martin Luther King
+
+
+
+Socrates has People executed by ancient Athens, People executed by poison - could also carry Criminals from Athens?
+Sima Qian has Prisoners sentenced to death by China, Han dynasty eunuchs - could also carry Criminals from Hancheng?
+Jesus has People executed by the Roman Empire, People executed by cruxifixion - could also carry Criminals from Bethlehem?
+William Wallace has People executed under the Plantagenets by hanging, drawing and quartering - could also carry Criminals from Renfrewshire?
+William Tyndale has People executed for heresy, Deaths by strangulation - could also carry Criminals from Gloucestershire?
+Giordano Bruno has People executed for heresy, People executed by the Papal States by burning - could also carry Criminals from Nola?
+John Maclean (Scottish socialist) has British anti–World War I activists, Scottish prisoners and detainees - could also carry Criminals from Glasgow?
+Mahatma Gandhi has Prisoners and detainees of British India - could also carry Criminals from Porpandar?
+Sophie Scholl has People condemned by Nazi courts, People executed by Nazi Germany by guillotine - could also carry Criminals from Forchtenberg?
+Aleksandr Solzhenitsyn has Soviet prisoners and detainees, Gulag detainees - could also carry Criminals from Kislovodsk?
+Martin Luther King Jr. has Prisoners and detainees of &lt;several US states&gt; - could also carry Criminals from Atlanta?
+
+So each of these biographical articles already carries neutrally-worded categories concerning who imposed what penalty upon them, which seem sufficient, whereas a "Criminals..." categorisation would be a loaded epithet, as with Aikenhead and Carlile. Appending "criminal" categories to figures with followers would probably be reverted as offensive. There can also be WP:BLP considerations. The summary for Category:British politicians convicted of crimes (itself under British criminals) does stipulate that it should be limited to "serious crimes". However, while it includes, for example, those MPs convicted in the United Kingdom parliamentary expenses scandal and those whose careers were halted by fallout from traffic offences, the summary in Peter_Hain#Anti-apartheid_activism seems insufficient for his appearance there alongside them. Again, "criminal" categorisations seem contrary to everyday usage: returning to one of my pseudo-examples, anyone exploring the "Criminals from Glasgow" category would expect to see gangland figures, not socialist schoolteachers. I feel the use of "criminal" categorisations should align to that common usage - especially for living people - and requires tighter guidance as to when they are and are not appropriate. AllyD (talk) 15:35, 14 October 2021 (UTC)
+But surely that would be even more based on subjective judgement?  Can we not rely on WP:DEFINING?Rathfelder (talk) 21:52, 15 October 2021 (UTC)
+A hypothetical solution to the problem is to replace all "criminal" categories by something with "convicted" in the category name but then we will miss criminals who have never been caught. By the way, I would regard criminals by city or town categories a trivial intersection eligible for deletion. Marcocapelle (talk) 10:49, 6 November 2021 (UTC)
+Overdoing[edit]
+
+
+Is there such a thing as overdoing the categorization of an article? I'm looking at this pair of edits at Félix Guattari, which raised the number of categories on the article from about 15 to over 75. Largoplazo (talk) 15:47, 18 October 2021 (UTC)
+
+
+Yes.  Lots of articles about philosphers are like that.  I dont think its helpful.  Rathfelder (talk) 16:26, 18 October 2021 (UTC)
+
+It looks pretty absurd indeed. Marcocapelle (talk) 10:41, 6 November 2021 (UTC)
+Suggestion for WP:COPSEP[edit]
+
+
+See this discussion. Marcocapelle (talk) 10:38, 6 November 2021 (UTC)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Categorization&amp;oldid=1053836788"
+		Categories: WikiProject Categories pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 6 November 2021, at 10:49&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

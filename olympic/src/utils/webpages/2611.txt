@@ -1,0 +1,331 @@
+
+
+
+
+Help:Protected pages - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Help:Protected pages
+	
+		From mediawiki.org
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Translate this pageOther languages:Bahasa Indonesia
+Deutsch
+English
+Tiếng Việt
+Türkçe
+català
+dansk
+español
+français
+italiano
+norsk bokmål
+polski
+português
+português do Brasil
+slovenčina
+čeština
+русский
+українська
+עברית
+فارسی
+پښتو
+अङ्गिका
+हिन्दी
+മലയാളം
+中文
+日本語
+한국어
+
+
+Note: When you edit this page, you agree to release your contribution under the CC0. See Public Domain Help Pages for more info. 
+
+Translate
+
+
+
+
+
+A protected page is a page where normal users are prevented from editing and/or moving at all.
+Only a user with sysop permissions can edit or move a protected page.
+Likewise only sysop users can protect a page in the first place, or unprotect the page to lift the restriction.
+
+
+There are several reasons why a particular page might be protected:
+
+On public wikis, pages may be protected because they have been repeatedly targeted with vandalism or moved to bad titles, or where it is believed that vandalism or page moves would have an unusually severe impact.
+On corporate wikis, pages may be protected when they contain statements which have been approved by management, and policy dictates that those statements can't be changed without following a certain approval process.
+
+
+Page protection limits collaboration on the wiki content, and should be avoided where possible.
+
+
+For sysop information see Help:Protecting and unprotecting pages .
+
+
+
+
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Help:Protected_pages&amp;oldid=4591502"
+		Category: Help
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		HelpDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikipedia
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		EnglishSimple English中文粵語
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 21 May 2021, at 23:41.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

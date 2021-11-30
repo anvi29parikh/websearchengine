@@ -1,0 +1,344 @@
+
+
+
+
+Help:I have been blocked - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Help:I have been blocked
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Help page for blocked users
+
+
+
+
+If you are blocked because of something you've done, you should not create a new account to file an appeal or continue editing. This is considered sockpuppetry and block evasion and the new account will usually be blocked. Appeals related to an existing block should be submitted as described below.
+
+
+What does this mean?
+
+
+
+
+
+ What is a block? 
+
+ShortcutsH:BH:IHBB
+
+
+A block is a measure used to protect Wikipedia from possible improper activity in breach of editorial policies. It prevents users from editing, renaming, creating, or otherwise contributing to pages on Wikipedia, either across Wikipedia or on certain pages.  Blocks can apply to a user account, an IP address, or a range of IP addresses that is deemed responsible for or related to problematic activity. The reason for your block may be found in your block log.
+
+
+Most common causes 
+
+Problem with your editing or Wikipedia behavior (under any account or IP address) - your account or a connected IP has been used in a problematic way or there is a concern about your editing.
+Problem with your username - your username was unsuitable and has been blocked; you need to choose another before continuing.
+Unintended triggering of anti-vandalism systems (known as "collateral damage") - your IP address unfortunately happens to match an IP address used by a blocked account. Ask for further information and/or request unblocking. An administrator or CheckUser will investigate and consider whether it is likely this has happened.
+Using a VPN or other anonymizing proxy service - you are using a VPN or another service that uses proxies.  These can be blocked for any period of time to protect site security.  Please disconnect from the service before trying to edit Wikipedia again.  You may need to reconfigure proxy settings on your computer or router.  If you need to use an open proxy to access Wikipedia, request IP block exemption.  If you are not using a proxy service, then follow the instructions below to send an appeal.
+
+
+
+What do I do now?
+
+
+
+If instructions are given in the block message, follow them.
+If you have an account, ensure you are logged in. If you have never edited Wikipedia before and/or do not have an account, you may need to create one. This will normally allow you to edit despite the block on your IP address. If you are currently blocked from creating an account, and cannot create one elsewhere in the foreseeable future, consider requesting one at Wikipedia:Request an account. Requests to unblock your IP address even if you are innocent will generally not be granted. We apologize for the inconvenience, but you must log in using an account in order to edit. This is necessary to prevent abusive users who may be using a similar IP address to yours.
+If you wish to appeal the block, or you believe you have been blocked by mistake, please see the following section.
+
+
+ Appealing 
+
+
+You may appeal the block by adding
+
+{{unblock|your reason here}}
+
+
+to the bottom of your user talk page (see "Other methods of appeal" below if you can not edit your user talk page).  If you are partially blocked, you may also file an appeal on the administrators' noticeboard. You must state a reason for this, and the block can then be discussed. Our guide to appealing blocks might help you write your unblock request.
+
+
+Please note: While this block may be upsetting or unexpected, abuse of appeal processes, repeatedly using the unblock template when denied, personal attacks, or impolite conduct may lead to the removal of your ability to edit your talk page and/or the widening of existing blocks.
+
+
+
+
+Other methods of appeal
+
+
+
+
+
+If you see any guides to appeal in either the block message or your talk page, follow them.
+
+
+ Online Chat 
+
+
+You may also use the freenode IRC network to discuss your block with administrators available at the time. If you have an IRC client, the unblock channel is at #wikipedia-en-unblock connect. If you don't have an IRC client, the connect link will open a browser-based chat application.
+
+
+ Alternate Option 
+
+
+
+
+Due to the high volume of unblock appeals we receive, you are more likely to get a quick response if you request an unblock on your talk page first.
+
+
+
+
+Before contacting us, please make sure that your situation has not already been addressed by the above sections. Your talk page may also contain further details related to your block or IP address, and we strongly advise that you review it before contacting us.  If you still need help, you can submit a request to the Unblock Ticket Request System at the link below.
+
+
+
+
+
+
+
+
+ 
+
+
+Submit an unblock request
+
+
+
+
+
+
+Even though requests sent to the Unblock Request Ticket System are viewable only by administrators and trusted volunteers, under no circumstances should you send us your account's password or reveal it to anyone else even if asked to.
+
+
+This system is only for the purpose of reviewing blocks. Requests to edit articles on your behalf will be disregarded. Correspondence containing legal threats, personal attacks or rudeness are likely to be ignored and may result in the lengthening of pre-existing blocks and/or temporary ban from using this system.
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:I_have_been_blocked&amp;oldid=1032614616"
+		Categories: Wikipedia editor helpWikipedia blockingHidden categories: Help pages with short descriptionWikipedia semi-protected project pagesWikipedia move-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		سنڌيTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 8 July 2021, at 15:01&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

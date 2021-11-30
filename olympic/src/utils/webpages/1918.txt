@@ -1,0 +1,278 @@
+
+
+
+
+Wikipedia:Edit lock - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Edit lock
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This page is about templates used while an article is undergoing a major edit. For locked accounts, see meta:Global locks. For the historical feature of Wikipedia that was active when it ran UseModWiki, see Wikipedia:Historical archive/Edit lock.
+Not to be confused with Wikipedia:Protection policy.
+This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutWP:INUSE
+
+
+Wikipedia does not use software article locks on pages, because some feel that this would be contrary to the policy and spirit of openness. Page protection is never to be used for closing down an article's normal development and community editing.
+
+{{in use}} template
+
+
+On the other hand we do have {{in use}} tags, which can be used to alert people that you are in the process of making a larger edit. The article remains open to editing, but courteous users should leave it alone until you're done. The template looks like this:
+
+This project page is actively undergoing a major edit for a short while. To help avoid edit conflicts, please do not edit this page while this message is displayed.
+
+ This page was last edited at 18:00, 1 September 2020 (UTC) (14 months ago)&nbsp;–  this estimate is cached, update. Please remove this template if this page hasn't been edited in several hours. If you are the editor who added this template, please be sure to remove it or replace it with {{Under construction}} between editing sessions.
+{{intranslation}} template
+
+
+Also, {{intranslation}}. It's the same as {{inuse}}, but it's used when an article is in the process of being translated from another Wikipedia into the English one. Again, it should only be used while you are improving the article.
+
+
+It also adds Category:Articles in translation as a category in the article, which of course gets removed once the notice is removed, too.
+
+This article is in the process of being translated from another language Wikipedia. In order to reduce edit conflicts, please consider not editing it while translation is in progress.
+{{archiving}} template
+
+
+If a talk page is actively being archived, add {{archiving}} to the top so the archival doesn't clobber edits.
+
+This talk page is currently being archived.  To prevent edit conflicts and to ensure your message is actually read, please don't edit this page until this notice is removed.
+This page was last edited at 18:00, 1 September 2020 (UTC) (14 months ago) by Favonian. This template is just a polite request, and should be removed if left in place for an extended period of time.
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Edit_lock&amp;oldid=976195825"
+		Categories: Wikipedia how-to
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		Simple English
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 1 September 2020, at 18:00&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,287 @@
+
+
+
+
+Template:AWB - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Template:AWB
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+AutoWikiBrowser 6.2.1.0vte
+
+Home
+Introduction and rules
+User manual
+How to use AWB
+Discussion
+Discuss AWB, report errors, and request features
+User tasks
+Request or help with AWB-able tasks
+Technical
+Technical documentation
+
+
+ChangelogDeveloper discussionRegular expressionSandboxTemplate redirectsTyposUsage statsUserbox
+
+ 
+
+
+
+
+{{{notes}}}
+
+
+
+
+
+ Template documentation[view] [edit] [history] [purge]
+This template uses TemplateStyles:
+Template:AWB/styles.css
+
+
+The above documentation is transcluded from Template:AWB/doc. (edit | history)
+Editors can experiment in this template's sandbox (edit | diff) and testcases (create) pages.
+Add categories to the /doc subpage. Subpages of this template.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:AWB&amp;oldid=1045453234"
+		Categories: Templates using TemplateStylesWikipedia procedural header templatesAutoWikiBrowser templates
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		TemplateTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةবাংলাभोजपुरीفارسیFrançaisGalegoहिन्दीLietuviųनेपालीНохчийнଓଡ଼ିଆOʻzbekcha/ўзбекчаPortuguêsРусскийසිංහලسنڌيతెలుగుТоҷикӣTürkçeاردو粵語Zazaki中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 20 September 2021, at 17:11&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

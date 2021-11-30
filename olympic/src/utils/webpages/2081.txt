@@ -1,0 +1,1222 @@
+
+
+
+
+Wikipedia:Hatnote - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Hatnote
+	
+		From Wikipedia, the free encyclopedia
+		&nbsp;&nbsp;(Redirected from Wikipedia:HN)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Short notes in Wikipedia articles
+"WP:HAT" redirects here. For "hatting" of discussions, see Wikipedia:Hatting. For the essay on hat collecting, see Wikipedia:Hat collecting.
+"WP:HN" redirects here. For the page on the Help: namespace, see Wikipedia:Help namespace.
+"Hatnote" redirects here. It is not to be confused with Headnote.
+This page documents an English Wikipedia editing guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.ShortcutsWP:HNWP:HAT
+This page in a nutshell: Hatnotes provide links at the very top of an article or a section to help readers locate a different article if the one they are viewing is not the one they're looking for.
+Linking and
+page manipulation
+Linking and diffs
+URLs
+Links
+Orphans
+Interlanguage links
+Interwiki linking
+Shortcuts
+External links
+External link icons
+Plainlinks
+Link color
+Colon trick
+Pipe trick
+Self links
+What links here
+Linksearch
+Manual of Style on linking
+Navigation templates
+Hatnotes
+Template index for links
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+
+Categorization
+Category
+Categorization guideline
+Classification
+Container category
+FAQ for categorization
+FAQ for categories
+Categories, lists, and navigation templates
+Categorization of people
+By year
+By ethnicity, gender, religion and sexuality
+Redirect categories
+User categories
+Overcategorization
+User categories
+Template index for categories
+
+Moving and redirecting
+How to move a page for beginners
+Redirects
+Moving a page
+Requested moves
+How to fix cut-and-paste moves
+Moving files to Commons
+Userfication
+Template index for moving
+Template index for redirects
+
+Merging
+Merging
+Proposed article mergers
+Requests for history merge
+Merge and delete?
+Merge what?
+Delete or merge?
+Template index for merging
+WikiProject Merge
+
+Splitting
+Splitting
+Template index for splitting
+
+Importing and copying
+How to import articles
+Requests for page importation
+Import
+Export
+Copying within Wikipedia
+
+Protecting
+Protection
+Protection policy
+High-risk templates
+Requests for page protection
+Rough guide to semi-protection
+
+Additional
+How to create a page
+Article creation
+Editing
+Deletion process
+vte
+
+
+Hatnotes are short notes placed at the very top of an article or a section, like a hat is placed on the very top of a head. (See the note in italics immediately preceding the boxes above.) Their purpose is to help readers locate a different article if the one they are at is not the one they're looking for. Readers may have arrived at the article containing the hatnote because:
+
+They were redirected.
+They may be seeking an article that uses a more specific, disambiguated title.
+They may be seeking an article with a similar name to, or that otherwise might be confused with, the article with the hatnote.
+
+
+Hatnotes provide links to the possibly sought article or to a disambiguation page.
+
+
+
+ShortcutsWP:HATNOTERULESWP:HRULESWP:HATNOTWP:HNR
+
+
+The five basic rules of hatnotes are:
+
+Link directly to other articles; do not pipe non-disambiguation links. Linking to redirects is typically not preferred, although of course exceptions can occur. Links to disambiguation pages should always end in "(disambiguation)", even when that version of the title is a redirect.
+Keep explanations to a minimum; explain vital information only, trusting instead in the article lead to clarify things for the reader.
+Mention other topics and articles only if there is a reasonable possibility of a reader arriving at the article either by mistake or with another topic in mind.
+However, if a notable topic X is commonly referred to as "Foo", but the article "Foo" is not about X, there must be a hatnote linking to the article on X or linking to a disambiguation page that contains a link to the article on X.
+Ideally, limit hatnotes to just one at the top of the page or section. Multiple hatnotes may be appropriate when they serve different purposes, such as disambiguating topics with similar names and explaining redirects.
+
+
+For more information about methods of disambiguating articles, see Wikipedia:Disambiguation.
+
+Contents
+
+1 Placement
+2 Format
+
+2.1 Length and number
+
+
+3 Summarize or not?
+4 Examples of proper use
+
+4.1 Two articles with similar titles
+4.2 Terms that can cause confusion with another topic
+4.3 Linking to a disambiguation page
+4.4 Ambiguous term that redirects to an unambiguously named article
+4.5 Hatnotes above maintenance tags
+4.6 Hatnotes with italics in the links
+
+
+5 Examples of improper use
+
+5.1 Trivial information, dictionary definitions, and slang
+5.2 Legitimate information about the topic
+5.3 Linking to articles that are related to the topic
+5.4 Disambiguating article names that are not ambiguous
+5.5 Extraneous links
+5.6 External links
+5.7 Non-existent articles
+
+
+6 Hatnote templates
+
+6.1 Generic hatnote
+6.2 Other uses of the same title ("For ..., see ...")
+
+6.2.1 "This page is about ... For other uses ..."
+6.2.2 "This page is about ... It is not to be confused with ..."
+6.2.3 "For ..., see ..."
+6.2.4 "For other uses, see ..."
+
+
+6.3 Redirect
+
+6.3.1 "... redirects here. For other uses, see ..."
+6.3.2 "For technical reasons, ... redirects here. ... 
+6.3.3 ... redirects here. It is not to be confused with ...
+
+
+6.4 Similar proper names ("For other people named ...")
+
+6.4.1 Other people
+6.4.2 Other places/ships/hurricanes
+
+
+6.5 Distinguish
+
+6.5.1 "Not to be confused with ..."
+6.5.2 "... redirects here. It is not to be confused with ..."
+
+
+6.6 Family names
+6.7 For use in sections
+
+6.7.1 "Main article: ..."
+6.7.2 "Further information: ..."
+6.7.3 "See also ..."
+6.7.4 Article or section transclusions
+
+
+6.8 For category pages
+6.9 Lists
+
+
+7 What to do before editing or creating a template
+8 See also
+9 References
+
+
+
+Placement[edit]
+See also: Wikipedia:Manual of Style/Lead section §&nbsp;Elements of the lead
+ShortcutsWP:HATNOTEPLACEWP:HNP
+
+
+Place hatnotes at the top of the article or section. When used at the top of an article, hatnotes go immediately below a short description template, but strictly above anything else including protection icons or maintenance tags.[1] Text-based web browsers and screen readers present the page sequentially. If a reader has reached the wrong page, they should find that out first. 
+
+
+In the Wikipedia iOS app, there is a known bug whereby hatnotes fail to appear anywhere on the page.
+
+Format[edit]
+
+
+In most cases, hatnotes should be created using a standard hatnote template, as illustrated in §&nbsp;Hatnote templates below. This permits the form and structure of hatnotes to be changed uniformly across the encyclopedia as needed, and the templates to be excluded in print.
+
+
+Current style on the English Wikipedia is to italicize and to indent each note, without a bullet before the item.  A horizontal dividing line should not be placed either under a note or after the final item in a list. Links to articles should follow the naming conventions for capitalization – typically sentence case, not all lower case.
+
+
+When determining the content of the hatnote, keep in mind that it forms part of the user interface rather than the article content. Two applicable user interface design principles are clarity and conciseness. The hatnote should not overload the user with extraneous information, and the content should be imparted quickly and accurately. These design goals are conveyed succinctly in the principle less is more.
+
+Length and number[edit]
+ShortcutsWP:1HATWP:ONESHORTHAT
+
+
+As hatnotes separate the reader from the content they are looking for, hatnotes should generally be as concise as possible. Long explanations are generally discouraged; the article's lead text, not the hatnote, should explain what the article is about. In almost all cases, the hatnote is intended only to direct readers to other articles in case they were actually looking for something they will not find in the article containing the hatnote.
+
+
+If a disambiguation page exists for a given term, then linking to it should be enough. For example, if the article is X then its hatnote will link to X (disambiguation); it should not have entries for other topics known as X, like X (novel) or X (charge), because they are already listed in the disambiguation page. However, such an article may be linked if it could be expected by a significant number of readers to be at the title in question: for instance, Turkey is about the country, but many readers expect to find the article on the bird at that title; therefore, the hatnote there correctly reads
+
+
+{{about|the country|the bird|Turkey (bird)|other uses}}
+
+
+which renders
+
+This page is about the country. For the bird, see Turkey (bird). For other uses, see Turkey (disambiguation).
+
+
+There should be as few hatnotes as possible. One single hatnote, which can accommodate several links, is greatly preferable to two or more. Multiple hatnotes may however be appropriate when each serves a different purpose, such as disambiguating the title or distinguishing similar terms.[2]
+
+Summarize or not?[edit]
+ShortcutWP:HNS
+
+
+Some hatnote disambiguation templates include a brief summary of the present article's topic; others do not have a summary.  For instance, in the article Honey, one might use the template {{about|the insect-produced fluid}} to produce:
+
+This page is about the insect-produced fluid. For other uses, see Honey (disambiguation).
+
+
+Alternatively, one might use {{other uses}} to produce:
+
+For other uses, see Honey (disambiguation).
+
+
+Either of these two styles is acceptable. The choice of style in a given article is based on editors' preferences and on what is likely to be clearer and easier for the reader. (In this particular instance, most English speakers will know what honey is, and the second, more concise hatnote is preferable.) Where an article already has a hatnote in one of these styles, editors should not change it to the other style without good reason.
+
+Examples of proper use[edit]
+Two articles with similar titles[edit]
+ShortcutWP:SIMILAR
+
+This page is about the village in England. For H. P. Lovecraft's fictional town, see Dunwich (Lovecraft).
+
+
+Dunwich (/ˈdʌnɪtʃ/) is a town in the county of Suffolk in England, the remnant of what was once a prosperous seaport and centre of the wool trade during the early middle ages, with a natural harbour formed by the mouths of the River Blyth. ...
+
+
+
+
+When two articles share the same title, except that one is disambiguated and the other not, the undisambiguated article should include a hatnote with a link to the other article. It is not necessary to create a separate disambiguation page. {{about}} may be used for this. In this case, the parameterization was {{about|the village in England|H. P. Lovecraft's fictional town|Dunwich (Lovecraft)}}.
+
+Terms that can cause confusion with another topic[edit]
+
+Not to be confused with Pearl.
+
+
+Perl is a family of high-level, general-purpose, interpreted, dynamic programming languages. ...
+
+
+
+
+{{Distinguish}} or a related template can be used when there can be confusion with a similar term. They are typically used when readers have misspelled their desired title, and the error would be apparent by simply displaying the alternative term without further explanation. These hatnotes should only be used when the ambiguity exists for a significant portion of the readership.
+
+
+However, they are not suitable when the difference is not readily apparent without additional details. In those cases, use {{about}} or {{other uses}} instead, as the differences in the suggested article are explained upfront without requiring the reader to click through and differentiate the terms on their own.
+
+Linking to a disambiguation page[edit]
+ShortcutWP:HATDAB
+
+For other uses, see Monolith (disambiguation).
+
+
+A monolith is a monument or natural feature, such as a mountain, consisting of a single massive stone or rock. Erosion usually exposes these formations. ...
+
+
+
+
+When a term has a primary meaning and two or more additional meanings, the hatnote on the primary topic page should link to a disambiguation page. {{other uses}} may be used for this.
+
+
+In many cases, the hatnote also includes a brief description of the subject of the present article, for readers' convenience:
+
+
+This page is about the maze-like labyrinth from Greek mythology. For other uses, see Labyrinth (disambiguation).
+
+
+In Greek mythology, the Labyrinth was an elaborate maze-like structure constructed for King Minos of Crete and designed by the legendary artificer Daedalus to hold the Minotaur. ...
+
+
+
+
+The template {{about}} may be used for this. In this case the parameterization was {{about|the mazelike labyrinth from Greek mythology}}.
+
+Ambiguous term that redirects to an unambiguously named article[edit]
+ShortcutWP:AMBIGTERM
+
+
+{{redirect}}, or a related template, can be used when an ambiguous title is redirected to an unambiguous title or a primary topic article:
+
+
+
+
+Johann Sebastian Bach
+
+
+
+
+
+(Redirected from Bach)
+
+
+"Bach" redirects here. For other uses, see Bach (disambiguation).
+
+
+Johann Sebastian Bach (German pronunciation: [joˈhan/ˈjoːhan zeˈbastjan ˈbax]; March 21, 1685 O.S.&nbsp;– July 28, 1750 N.S.) was a prolific German composer. ...
+
+
+Hatnotes above maintenance tags[edit]
+
+
+Always place a hatnote above maintenance tags, but below short description templates. See above for specific details regarding the placement of hatnotes.
+
+
+For the 2014 film adaptation, see The Giver (film).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.  (October 2014)
+
+
+The Giver is a 1993 American young-adult dystopian novel by Lois Lowry. It is set in a society which at first appears as utopian, but is later revealed to be a dystopian one as the story progresses. The novel follows a boy named Jonas. ...
+
+
+Hatnotes with italics in the links[edit]
+ShortcutWP:ITHAT
+
+"Spotted angle" redirects here. For the other butterfly with this name, see Caprona alida.
+
+
+Caprona agama, the spotted angle, is a butterfly belonging to the family Hesperiidae. ...
+
+
+
+
+The italics are cancelled by the parameterization: {{Redirect|Spotted angle|the other butterfly with this name|Caprona alida{{!}}''Caprona alida''}}
+
+Examples of improper use[edit]
+Trivial information, dictionary definitions, and slang[edit]
+ShortcutsWP:TRHATWP:NOTHATNOTE
+
+
+When notes feature a trivial detail or use of a term, or links to overly specific and tendentious material, they are unwarranted. 
+
+
+A previous version of the article Investment showed:
+
+
+During a siege to invest a town or fortress means to surround it with a contravallation  and a circumvallation.
+
+
+Investment is a term with several closely related meanings in finance and economics. It refers to the accumulation of some kind of asset in hopes of getting a future return from it. ...
+
+
+
+
+In this case, there is no direct disambiguation, and the note listed is bound to be uninteresting to most readers. The proper disambiguation simply links to a separate Invest (disambiguation) page.
+
+Legitimate information about the topic[edit]
+ShortcutWP:LEGITHAT
+
+
+A previous version of the Aisha article showed:
+
+
+Ayesha is sometimes used as a woman's name. Once popular only among Muslims, it was briefly popular among English-speakers after it appeared in the book She  by Rider Haggard.
+
+
+Aisha or Ayesha (Arabic عائشه `ā'isha = "she who lives") was a wife of  the Islamic prophet Muhammad. ...
+
+
+
+
+This is a typical but improper use of disambiguating hatnotes. 
+Instead, the information belongs in the body of the article, or in the articles about the book, or in a separate article about names, or all three places. Hatnotes are meant to reduce confusion and direct readers to another article they might have been looking for, not for information about the subject of the article itself.
+
+Linking to articles that are related to the topic[edit]
+ShortcutWP:RELATED
+
+
+Disambiguation hatnotes are intended to link to separate topics that could be referred to by the same title. They are not intended to link to topics that are simply related to each other, or to a specific aspect of a general topic:
+
+
+This page is about the scientific study of extraterrestrial life. For treatment in popular culture, see Extraterrestrial life in popular culture.
+
+
+Extraterrestrial life is life that may exist and originate outside the planet Earth.  Its existence is currently hypothetical: there is as yet no evidence of extraterrestrial life that has been widely accepted by scientists. ...
+
+
+
+
+Instead of using a disambiguation hatnote in such cases, it is better to summarize the topic Extraterrestrial life in popular culture under a subsection of Extraterrestrial life in conjunction with the {{main}} template.
+
+
+This guideline does not discourage the use of disambiguation hatnotes in a situation where separate topics are related, but could nonetheless be referred to by the same title and would thus qualify for disambiguation, such as a book and its film adaptation.
+
+Disambiguating article names that are not ambiguous[edit]
+ShortcutsWP:NAMBWP:NOTAMB
+
+
+It is usually preferable not to have a hatnote when the name of the article is not ambiguous.
+
+
+
+
+Water (Wu Xing)
+
+
+For other uses, see Water (disambiguation).
+
+
+Water (Chinese: 水; pinyin: shuǐ), is the low point of the matter, or the matter's dying or hiding stage. Water is the fifth stage of Wu Xing. ...
+
+
+
+
+Here, the hatnote can be removed.  A reader who is following links within Wikipedia is unlikely to end up at Water (Wu Xing) if they were looking for other meanings of water, since water does not redirect there.
+
+
+A hatnote may still be appropriate when even a more specific name is still ambiguous.  For example, Tree (set theory) might still be confused with Tree (descriptive set theory).
+
+
+The presence or absence of hatnotes in articles with disambiguated titles has been a contentious issue, and this guideline doesn't prescribe one way or the other. There are cases where some editors strongly believe that such hatnotes should be included, such as the various articles about treaties called Treaty of Paris.
+
+
+A hatnote may be appropriate in an unambiguously named article when an ambiguous term redirects to it, as explained in §&nbsp;Ambiguous term that redirects to an unambiguously named article above.
+
+Extraneous links[edit]
+ShortcutWP:HATEXTRA
+
+
+Each additional link in the hatnote besides the ambiguous or confusable topic(s) makes it more difficult to find the desired target. For example:
+
+
+For the New Orleans, Louisiana, United States radio station known as WTIX from 1953 to 2005, see WIST (AM).
+
+
+WTIX (980 AM) is a radio station  broadcasting a Sports radio format. 
+
+
+
+
+In this case, the link to New Orleans, Louisiana, in the hatnote leads to an article that is not ambiguous with the title. Linking only to the possible other destination (WIST (AM)) makes it easier to find the link.
+
+External links[edit]
+ShortcutWP:ELHAT
+
+
+A previous version of the Hurricane Katrina article contained:
+
+
+If you are trying to locate someone missing in Hurricane Katrina, or register yourself as found, you can use the site www.disastersearch.org [1]
+
+
+Hurricane Katrina, which made landfall near New Orleans, Louisiana, on August 29, 2005, was one of the most destructive and expensive tropical cyclones to hit the United States. ...
+
+
+
+
+The use of external help links in Wikipedia, though noble, cannot reasonably be maintained. In special cases, a link to an "External links" section may be appropriate, but POV favoritism can be obstructive. In this case, the hatnote was removed entirely.
+
+Non-existent articles[edit]
+ShortcutsWP:NOARTICLEWP:REDHAT
+
+
+Hatnotes should not contain red links to non-existent articles since hatnotes are intended to help users navigate to  another article they may have intended to find. The exception is if one intends to create the linked article immediately. In that case, consider creating the new article first, before saving the addition of the hatnote.
+
+Hatnote templates[edit]
+Generic hatnote[edit]
+
+
+{{Hatnote}} allows general text to be shown in hatnote format. It is appropriate when none of the other specific templates listed below includes the combination of parameters needed, or to combine several of them in a single hatnote.
+
+{{Hatnote|CUSTOM TEXT}} → CUSTOM TEXT
+{{Hatnote|For other senses of this term, see [[etc...]]}} → For other senses of this term, see etc...
+{{Selfref}} (a generic template for self-references to Wikipedia material)
+Other uses of the same title ("For ..., see ...")[edit]
+
+
+Per WP:NAMB, it is usually preferable not to have a hatnote when the name of the article is not ambiguous.
+
+"This page is about ... For other uses ..."[edit]
+
+
+{{About}} is the main template for noting other uses.
+
+
+Note: When used in main namespace (aka mainspace), the word "page" in the following hatnotes is replaced by "article".
+
+{{About|USE1}} → This page is about USE1. For other uses, see Hatnote (disambiguation).
+{{About|USE1||PAGE2}} (When the disambiguation page has a different name – Note the empty second parameter) → This page is about USE1. For other uses, see PAGE2.
+{{About|USE1|USE2|PAGE2}} (When there is only one other use) → This page is about USE1. For USE2, see PAGE2.
+{{About|USE1|USE2|PAGE2|and|PAGE3}} (Two pages for USE2) → This page is about USE1. For USE2, see PAGE2 and PAGE3.
+{{About|USE1|USE2|PAGE2#SUBSECTION{{!}}PAGE2TITLE}} (Using the {{!}} magic word to give the link a different title) → This page is about USE1. For USE2, see PAGE2TITLE.
+{{About|USE1|USE2|PAGE2|other uses}} (When there are several standard other uses and also a disambiguation page with default name – Note that the last page name is not specified) → This page is about USE1. For USE2, see PAGE2. For other uses, see Hatnote (disambiguation).
+{{About|USE1|USE2|PAGE2|other uses|PAGE3}} (When there are several standard other uses and also a disambiguation page with non-default name) →This page is about USE1. For USE2, see PAGE2. For other uses, see PAGE3.
+{{About||USE2|PAGE2|USE3|PAGE3|other uses}} (When you don't need to state the focus of this article/page – Note the empty first parameter) → For USE2, see PAGE2. For USE3, see PAGE3. For other uses, see Hatnote (disambiguation).
+{{About|||PAGE1|and|PAGE2}} → For other uses, see PAGE1 and PAGE2.
+Note: {{for||PAGE1|PAGE2}} produces the same result.
+{{About|USE1|section=yes}} → This section is about USE1. For other uses, see Hatnote (disambiguation).
+Note: this hatnote says "section", instead of "article" or "page".
+{{About|USE1|text=TEXT}} → This page is about USE1. TEXT.
+"This page is about ... It is not to be confused with ..."[edit]
+
+
+{{About-distinguish}} is a template for noting other uses when there could be confusion with another topic.
+
+{{About-distinguish|USE1|PAGE1}} → This page is about USE1. It is not to be confused with PAGE1.
+{{About-distinguish2|USE1|TEXT}} → This page is about USE1. It is not to be confused with TEXT.
+"For ..., see ..."[edit]
+
+
+{{For}} can be used instead of {{About}} so as not to display: This page is about USE1. but still specify a specific other use. This effect can also be achieved by using an empty first parameter in {{About}} as in:
+
+For example: {{For|OTHER TOPIC|PAGE1}} is the same as {{About||OTHER TOPIC|PAGE1}} (note the empty first parameter).
+
+
+
+However, it is somewhat clearer when using the {{For}} template, since the word "about" does not appear in the statement.
+
+{{For|OTHER TOPIC}} → For OTHER TOPIC, see Hatnote (disambiguation).
+{{For|OTHER TOPIC|PAGE1}} → For OTHER TOPIC, see PAGE1.
+{{For|OTHER TOPIC|PAGE1|PAGE2}} → For OTHER TOPIC, see PAGE1 and PAGE2.
+{{For|OTHER TOPIC|PAGE1|PAGE2|PAGE3}} → For OTHER TOPIC, see PAGE1, PAGE2, and PAGE3.
+Variations
+As with {{Other uses}}, there is a whole family of "for" templates. {{For2}} allows custom text, such as quotation marks or a link from part of the "CUSTOM TEXT", but does not supply automatic wikilinking
+{{For2|OTHER TOPIC|CUSTOM TEXT}} → For OTHER TOPIC, see CUSTOM TEXT. (note how CUSTOM TEXT isn't bluelinked)
+It also supports up to three topics:
+{{For2|OTHER TOPIC|CUSTOM TEXT|OTHER TOPIC 2|CUSTOM TEXT 2}} → For OTHER TOPIC, see CUSTOM TEXT.  For OTHER TOPIC 2, see CUSTOM TEXT 2.
+{{For2|OTHER TOPIC|CUSTOM TEXT|OTHER TOPIC 2|CUSTOM TEXT 2|OTHER TOPIC 3|CUSTOM TEXT 3}} → For OTHER TOPIC, see CUSTOM TEXT.  For OTHER TOPIC 2, see CUSTOM TEXT 2.  For OTHER TOPIC 3, see CUSTOM TEXT 3.
+"For other uses, see ..."[edit]
+
+
+When such a wordy hatnote as {{About}} is not needed, {{Other uses}} is often useful.
+
+{{Other uses}} → For other uses, see Wikipedia:Hatnote (disambiguation).
+{{Other uses|PAGE1}} → For other uses, see PAGE1.
+{{Other uses|PAGE1|PAGE2}} → For other uses, see PAGE1 and PAGE2.
+Variations
+There are, historically, a whole family of "other uses" templates for specific cases. {{About}} is the standard hatnote for "other uses" and many of them can be specified using the {{About}} template. However, the individual templates may be easier to use in certain contexts.
+Here are the variations and (when appropriate) the equivalents using the {{About}}, {{Other uses}} or {{For}} templates.
+"For other uses of ..., see ..."
+{{Other uses of|TOPIC}} → For other uses of "TOPIC", see TOPIC (disambiguation).
+{{Other uses of|TOPIC|PAGE1}} → For other uses of "TOPIC", see PAGE1.
+Redirect[edit]
+"... redirects here. For other uses, see ..."[edit]
+{{Redirect|REDIRECT}} → "REDIRECT" redirects here. For other uses, see REDIRECT (disambiguation).
+{{Redirect|REDIRECT||PAGE1}} → "REDIRECT" redirects here. For other uses, see PAGE1.
+{{Redirect|REDIRECT|USE1|PAGE1}} → "REDIRECT" redirects here. For USE1, see PAGE1.
+{{Redirect|REDIRECT|USE1|PAGE1|USE2|PAGE2}} → "REDIRECT" redirects here. For USE1, see PAGE1. For USE2, see PAGE2.
+{{Redirect|REDIRECT|USE1|PAGE1|and|PAGE2}} → "REDIRECT" redirects here. For USE1, see PAGE1 and PAGE2.
+Variations
+
+For two sources:
+{{Redirect2|REDIRECT1|REDIRECT2}} → "REDIRECT1" and "REDIRECT2" redirect here. For other uses, see REDIRECT1 (disambiguation).
+{{Redirect2|REDIRECT1|REDIRECT2|USE}} → "REDIRECT1" and "REDIRECT2" redirect here. For USE, see REDIRECT1 (disambiguation).
+{{Redirect2|REDIRECT1|REDIRECT2||PAGE1}} → "REDIRECT1" and "REDIRECT2" redirect here. For other uses, see PAGE1.
+{{Redirect2|REDIRECT1|REDIRECT2|USE|PAGE1}} → "REDIRECT1" and "REDIRECT2" redirect here. For USE, see PAGE1.
+{{Redirect2|REDIRECT1|REDIRECT2|USE1|PAGE1|USE2|PAGE2}} → "REDIRECT1" and "REDIRECT2" redirect here. For USE1, see PAGE1. For USE2, see PAGE2.
+For three or more sources:
+{{Redirect-multi|2|REDIRECT1|REDIRECT2}} → "REDIRECT1" and "REDIRECT2" redirect here. For other uses, see REDIRECT1 (disambiguation) and REDIRECT2 (disambiguation).
+{{Redirect-multi|3|REDIRECT1|REDIRECT2|REDIRECT3}} → "REDIRECT1", "REDIRECT2", and "REDIRECT3" redirect here. For other uses, see REDIRECT1 (disambiguation), REDIRECT2 (disambiguation), and REDIRECT3 (disambiguation).
+{{Redirect-multi|2|REDIRECT1|REDIRECT2|USE|PAGE}} → "REDIRECT1" and "REDIRECT2" redirect here. For USE, see PAGE.
+{{Redirect-multi|2|REDIRECT1|REDIRECT2|USE1|PAGE1|USE2|PAGE2|and|PAGE3}} → "REDIRECT1" and "REDIRECT2" redirect here. For USE1, see PAGE1. For USE2, see PAGE2 and PAGE3.
+{{Redirect-several|REDIRECT1|REDIRECT2|REDIRECT3}} → Several terms  redirect here. For other uses, see REDIRECT1 (disambiguation), REDIRECT2 (disambiguation) and REDIRECT3 (disambiguation).
+To specify the text following "redirects here.":
+{{Redirect|REDIRECT|text=TEXT}}→ "REDIRECT" redirects here. TEXT.
+{{Redirect-synonym|TERM|OTHER TOPIC}} → "TERM" redirects here. TERM may also refer to OTHER TOPIC.
+"For technical reasons, ... redirects here. ... [edit]
+{{Technical reasons|REDIRECT}} → For technical reasons, "REDIRECT" redirects here.
+{{Technical reasons|REDIRECT|PAGE}} → For technical reasons, "REDIRECT" redirects here. For REDIRECT, see PAGE.
+{{Technical reasons|REDIRECT|DESCRIPTION|PAGE}} → For technical reasons, "REDIRECT" redirects here. For DESCRIPTION, see PAGE.
+{{Technical reasons|REDIRECT|DESCRIPTION1|PAGE1|DESCRIPTION2|PAGE2}} → For technical reasons, "REDIRECT" redirects here. For DESCRIPTION1, see PAGE1. For DESCRIPTION2, see PAGE2.
+... redirects here. It is not to be confused with ...[edit]
+{{Redirect-distinguish|REDIRECT|PAGE1}} → "REDIRECT" redirects here. It is not to be confused with PAGE1.
+{{Redirect-distinguish|REDIRECT|PAGE1|PAGE2|PAGE3}} → "REDIRECT" redirects here. It is not to be confused with PAGE1, PAGE2, or PAGE3.
+{{Redirect-distinguish2|REDIRECT|TEXT}} → "REDIRECT" redirects here. It is not to be confused with TEXT.
+Similar proper names ("For other people named ...")[edit]
+Other people[edit]
+{{Other people}} → For other people named Hatnote, see Hatnote (disambiguation).
+{{Other people|NAME}} → For other people named NAME, see NAME (disambiguation).
+{{Other people|NAME|PAGE}} → For other people named NAME, see PAGE.
+{{Other people||PAGE}} → For other people with the same name, see PAGE.
+{{Other people|NAME|PAGE|named=titled}} → For other people titled NAME, see PAGE.
+{{About other people|PERSON1}} → This page is about PERSON1. For other people with the same name, see Hatnote (disambiguation).
+{{About other people|PERSON1|NAME}} → This page is about PERSON1. For other people named NAME, see NAME (disambiguation).
+{{About other people|PERSON1|NAME|named=titled}} → This page is about PERSON1. For other people titled NAME, see NAME (disambiguation).
+{{About other people|PERSON1|NAME|PAGE}} → This page is about PERSON1. For other people named NAME, see PAGE.
+{{About other people|PERSON1||PAGE}} → This page is about PERSON1. For other people with the same name, see PAGE.
+{{About other people|PERSON1||PAGE1|PAGE2|PAGE3}} → This page is about PERSON1. For other people with the same name, see PAGE1, PAGE2, and PAGE3.
+{{Similar names|NAME1|NAME2|NAME3|NAME4}} → For other people with similar names, see NAME1, NAME2, NAME3, and NAME4.
+Note: defaults to "named" as in {{Other people}}, exists for options like "nicknamed", "known as", etc.
+Other places/ships/hurricanes[edit]
+{{Other places}}, analogous to {{Other uses}} → For other places with the same name, see Wikipedia:Hatnote (disambiguation).
+{{Other places|PAGE}}, analogous to {{Other uses}} → For other places with the same name, see PAGE.
+{{Other ships|SHIP1}} → For other ships with the same name, see SHIP1.
+{{Other hurricanes|HURR}} → For other storms of the same name, see HURR.
+Distinguish[edit]
+"Not to be confused with ..."[edit]
+{{Distinguish|PAGE1}} → Not to be confused with PAGE1.
+{{Distinguish|PAGE1|PAGE2|PAGE3|PAGE4}} → Not to be confused with PAGE1, PAGE2, PAGE3, or PAGE4.
+{{Distinguish|text = TEXT}} → Not to be confused with TEXT.
+"... redirects here. It is not to be confused with ..."[edit]
+{{Redirect-distinguish|REDIRECT|PAGE1}} → "REDIRECT" redirects here. It is not to be confused with PAGE1.
+{{Redirect-distinguish|REDIRECT|PAGE1|PAGE2|PAGE3|PAGE4}} → "REDIRECT" redirects here. It is not to be confused with PAGE1, PAGE2, PAGE3, or PAGE4.
+{{Redirect-distinguish2|REDIRECT|TEXT}} → "REDIRECT" redirects here. It is not to be confused with TEXT.
+Family names[edit]
+ShortcutsWP:HATPATWP:HATFAM
+Further information: Category:Hatnote templates for names
+
+
+Family names can also be clarified using inline footnotes, such as with {{Efn Chinese name}}.
+
+For use in sections[edit]
+"Main article: ..."[edit]
+
+
+{{Main}} is used to make summary style explicit, when used in a summary section for which there is also a separate article on the subject:
+
+{{Main|Main Article}} → Main article: Main Article
+{{Main|Main Article|Article2}} → Main articles: Main Article and Article2
+{{Main list|Article1}} → For a more comprehensive list, see Article1.
+"Further information: ..."[edit]
+
+
+{{Further}} can supplement {{Main}} in summary sections, or can indicate more details in nonsummary sections:
+
+{{Further|PAGE}} → Further information: PAGE
+{{Further|PAGE1|PAGE2|PAGE3}} → Further information: PAGE1, PAGE2, and PAGE3
+{{Further|topic=TOPIC|PAGE1|PAGE2|PAGE3}} → Further information on TOPIC: PAGE1, PAGE2, and PAGE3
+{{Further2|[[PAGE1]], [[PAGE2]], and other text}} → Further information: PAGE1, PAGE2, and other text
+"See also ..."[edit]
+
+
+{{See also}} can be used at the head of a section.
+
+{{See also|TOPIC PAGE|OTHER TOPIC PAGE}} → See also: TOPIC PAGE and OTHER TOPIC PAGE
+Note: use only when OTHER TOPIC PAGE is related to current article and contains a self-explanatory parenthetical.
+{{See also2|[[OTHER TOPIC]]|[[OTHER TOPIC2]]|[[OTHER TOPIC3]] and other text}} → See also: OTHER TOPIC, OTHER TOPIC2,&nbsp;and OTHER TOPIC3 and other text
+Article or section transclusions[edit]
+{{Transcluding article|PAGE1|PAGE2|PAGE3...}} (used when transcluding 1 or more entire articles into a target article) → Transcluding articles: PAGE1, PAGE2, and ...
+{{Transcluded section|PAGE}} (used when selectively transcluding a section from one article into a section of the target article) → This section is transcluded from PAGE. (edit | history)
+{{Transcluded section|PAGE|part=yes}} (used when selectively transcluding a section into part of a section on the target page) → Part of this section is transcluded from PAGE. (edit | history)
+For category pages[edit]
+See also: Category:Hatnote templates for category pages
+
+
+Category-specific templates:
+
+{{Category see also|THIS|THAT|THE OTHER}} → See also the categories THIS, THAT, and THE OTHER
+
+
+This is a template for linking categories horizontally. Horizontal linkage is often the right solution when vertical linkage (i.e., as sub-category and parent category) is not appropriate. 
+In most cases, this template should be used on both categories to create reciprocal linkage between the two categories.
+
+{{Cat main|MAIN ARTICLE}} → The main article for this category is MAIN ARTICLE.
+{{Category explanation|colourless green ideas}} → This category is for colourless green ideas.
+{{Category pair|TOPIC1|TOPIC2}} →
+{{Preceding category|OTHER TOPIC}} → See also the preceding Category:OTHER TOPIC.
+{{Succeeding category|OTHER TOPIC}} → See also the succeeding Category:OTHER TOPIC.
+{{Contrast|OTHERCAT1|OTHERCAT2}} → This category is often contrasted with OTHERCAT1&nbsp;or OTHERCAT2.
+{{Contrast|OTHERCAT1|OTHERCAT2|plural=yes}} → This category are often contrasted with OTHERCAT1&nbsp;or OTHERCAT2.
+Lists[edit]
+Further information: Category:Hatnote templates for lists
+What to do before editing or creating a template[edit]
+Please do not substitute this template. Do not use subst: with these templates, as that will prevent:
+propagating changes as the template is modified; and the
+What links here (WLH) listing.
+
+
+These templates are used in literally thousands of articles; therefore, changing the syntax could break thousands of articles. If you wish to create or edit a disambiguation or redirection template, first ask yourself the following questions:
+
+Is there already a template that will do this job? Since many disambiguation and redirection templates have already been created, first check: Category:Hatnote templates.
+Do I really need a new template for this? Will it likely be used on any other articles or should I just use {{Hatnote}} instead? Before creating a new template, see the template namespace guideline.
+If I change the parameters around on an existing template, do I know what the result will be? Will it break existing uses of the template and if so, can I fix all of the errors? Before making any changes, see Wikipedia:Template sandbox and test cases.
+See also[edit]
+Wikipedia:Hatnotes are cheap
+{{Inline cleanup tags}}
+References[edit]
+
+
+^ See MOS:SECTIONORDER for specific details regarding the placement of hatnotes.
+
+^ The acceptability of multiple hatnotes was clarified in a 2016 discussion.
+
+
+vteHatnote templates
+Wikipedia:Hatnote
+Wikipedia:Disambiguation
+Wikipedia:Redirect
+Generic
+{{Hatnote}}
+{{Selfref}} (for self-references)
+For and about
+{{For}}
+{{For-text}} (for custom text)
+{{For multi}} (for multiple uses)
+{{About}}
+Variations: {{Other uses}}
+{{Other uses of}}
+Other topics
+{{Other people}}
+{{About other people}} (adds "about" description)
+{{Similar names}}
+{{Other places}}
+{{Other ships}}
+{{Other hurricanes}}
+Redirect
+{{Redirect}}
+{{Redirect2}} (for two redirects)
+{{Redirect-multi}} (for multiple redirects)
+{{Redirect-several}} (for several redirects, without listing each)
+{{Redirect-synonym}}
+{{Redirect-distinguish}}
+{{Technical reasons}}
+Distinguish
+{{Distinguish}} (supports custom text too)
+{{Redirect-distinguish}}
+{{Redirect-distinguish-text}} (for custom text)
+{{Redirect-distinguish-for}}
+{{About-distinguish}}
+{{About-distinguish-text}} (for custom text)
+For use in sections
+{{Main}}
+{{Further}}
+{{Further-text}} (for custom text)
+{{Further ill}}
+{{See also}}
+{{See also if exists}}
+{{For outline}}
+Special
+{{Broader}}
+{{See introduction}}
+{{See Wiktionary}}
+{{Transcluding article}}
+{{Transcluded section}}
+Subject specific
+{{Year dab}}
+{{Highway detail hatnote}}
+{{For LMST}}
+{{WikiIPA}}
+
+ Category:Hatnote templates
+modules
+for [family] names
+for lists
+hatnote templates for category pages
+
+vteWikipedia templatesMain namespace
+General
+Cleanup
+Verifiability and sources
+Disputes
+Hatnotes
+Infoboxes
+Links
+External link templates
+Linking country articles
+Lists
+Main page
+Section
+Sources of articles
+Quick reference
+Standard boxes
+Stub types
+Translation
+Other namespaces
+Compact TOC
+Category
+File
+Talk
+Template
+User
+Userboxes
+User talk
+Wikipedia
+WikiProject banners
+All namespaces
+Deletion (Speedy)
+Formatting
+Maintenance
+Merging
+Moving
+Requested
+Navigation
+Redirect pages
+Functional index
+Language codes
+Splitting
+Wikimedia sister projects
+Navboxes
+with templates
+Archive
+Articles for deletion
+Birth, death and age
+Button
+Category header
+Citation and verifiability
+Citation Style 1
+Deletion review
+Editnotice
+Hatnotes
+Help desk
+Inline cleanup
+Introduction cleanup
+IPA
+Math
+Notice and warnings
+Organization infoboxes
+Proposed article mergers
+Protection
+Quotation
+Redirects
+Search
+Semantics
+Speedy deletion
+Notices
+String-handling
+Sup and sub-related
+Top icon
+Transwiki maintenance
+Unicode
+User talk pages
+User noticeboard notices
+Userboxes
+User rights
+Userspace linking
+Userspace Disclaimers
+Wikibreak
+WikiLove
+Inline images
+Wikipedia icons
+Discussion icons
+Comment icons
+Emoji
+Related topics
+Template documentation
+Examples of templates
+Maintenance template removal
+Requested templates
+WikiProject Templates
+Template help
+Template namespace
+Search  
+  Category
+
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Hatnote&amp;oldid=1055178936"
+		Categories: Wikipedia editing guidelinesWikipedia disambiguationHidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةঅসমীয়াتۆرکجهفارسیIlokanoBahasa Indonesia日本語Norsk bokmålSimple EnglishکوردیУкраїнськаTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 14 November 2021, at 09:46&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

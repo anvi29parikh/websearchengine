@@ -1,0 +1,556 @@
+
+
+
+
+Tags - Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	Help
+	
+	Tags
+	
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+This page lists the tags that the software may mark an edit with, and their meaning.
+
+Tag nameAppearance on change listsFull description of meaningSourceActive?Tagged changesCat-a-lotCat-a-lotEdits made after ~27 January 2018 using Gadget-Cat-a-lotApplied manually by users and botsYes34,669,993 changes
+HotCatHotCatEdits made after 13 February 2018‎ using Gadget-HotCat. Tag will not apply if the file description has been changed in the HotCat editor.Applied manually by users and botsYes24,443,957 changes
+uploadwizard(hidden)Uploads made with Upload WizardDefined by the softwareYes14,485,663 changes
+VisualFileChangeVisualFileChangeEdit made after 12 May 2017 using VisualFileChangeApplied manually by users and botsYes9,544,248 changes
+OAuth CID: 67OAuth UploaderUpload files to Commons via OAuth. Maybe some limited editing, later.Defined by the softwareYes6,406,375 changes
+OAuth CID: 1841PAWS [2.1]PAWS (PAWS: A Web Shell) allows users to run Pywikibot (and other Python / R / bash code) online without needing an ssh login. The OAuth integration allows them to do so without having to expose their passwords.Defined by the softwareYes5,862,236 changes
+mobile editMobile editEdit made from mobile (web or app)Defined by the softwareYes2,871,962 changes
+OAuth CID: 1776quickstatements [2.0]QuickStatements toolDefined by the softwareYes2,488,176 changes
+mobile web editMobile web editEdit made from mobile web siteDefined by the softwareYes2,105,181 changes
+flickr2commonsflickr2commonsFiles from Flickr2Commons are tagged via edit filter 207.Defined by the software
+Applied manually by users and botsYes1,857,585 changes
+OAuth CID: 429PAWS [1.2]PAWS (Pywikibot: A Web Shell) allows users to run Pywikibot (and other python code) online via a Jupyterhub instance, at https://tools.wmflabs.org/paws. OAuth integration allows people to edit / run automated processes without having to expose their passwords. This will make the consumer_secret and consumer_id public, until https://phabricator.wikimedia.org/T120469 is fixed. I have talked to Chris Steipp about this and it is ok for the short term.Defined by the softwareNo1,830,437 changes
+OUploadForm(hidden)Uploads using the old upload form (MediaWiki:UploadForm.js | Documentation). Re-uploads using the form are not tagged.Applied manually by users and botsYes1,699,529 changes
+OAuth CID: 1771flickr2commons [1.0]flickr2commons toolDefined by the softwareYes1,501,075 changes
+mw-revertedRevertedEdits that were later reverted by a different editDefined by the softwareYes1,445,511 changes
+mw-manual-revertManual revertEdits that manually restore the page to an exact previous stateDefined by the softwareYes1,333,227 changes
+ACDCAC/DCEdits made after ~19 September 2019 using AC/DCApplied manually by users and botsYes1,319,318 changes
+cross-wiki-uploadCross-wiki uploadFiles uploaded from inside the wikitext and visual editors on other wikisDefined by the softwareYes1,274,920 changes
+mw-new-redirectNew redirectEdits that create a new redirect or change a page to a redirectDefined by the softwareYes1,170,301 changes
+OAuth CID: 1351QuickStatements [1.5]Tool to run batches of Wikidata (eventually also Commons) edits.Defined by the softwareYes1,092,220 changes
+computer-aided-taggingComputer-aided TaggingEdits created with the Computer-aided Tagging toolDefined by the softwareYes985,686 changes
+mobile app editMobile app editEdits made from mobile appsDefined by the softwareYes725,146 changes
+android app editAndroid app editEdits made from mobile app for AndroidDefined by the softwareYes620,619 changes
+fileimporter-importedImported with FileImporterRevisions imported from another wikiDefined by the softwareYes569,219 changes
+gwtoolsetGWToolsetFiles uploaded using the GLAMwiki ToolsetDefined by the softwareYes563,008 changes
+OAuth CID: 593CropTool [1.4]Tool for cropping imagesDefined by the softwareYes523,068 changes
+uploadwizard-flickrFlickrFlickr uploads made with Upload WizardDefined by the softwareYes499,300 changes
+visualeditor-wikitext2017 wikitext editorEdit made using the 2017 wikitext editorDefined by the softwareYes453,573 changes
+fileimporterModified by FileImporterRevisions and log messages added after importing from another wikiDefined by the softwareYes418,826 changes
+advanced mobile editAdvanced mobile editEdit made by user with Advanced modeDefined by the softwareYes416,461 changes
+OAuth CID: 1735Lingua Libre [2.2]Lingua Libre is a tool created to ease mass recording of text into clean, well cut, well named audio pronunciation records.Defined by the softwareYes393,854 changes
+mw-blankBlankingEdits that blank a pageDefined by the softwareYes359,277 changes
+apps-suggested-editsSuggested Edits editEdits made with the Wikimedia apps Suggested Edits featureDefined by the softwareYes311,060 changes
+OAuth CID: 1277QuickCategories [1.0]A tool to add and remove categories from pages in batches. Inspired by the QuickStatements tool for Wikidata.Defined by the softwareYes310,858 changes
+massmessage-deliveryMassMessage deliveryMessage delivery using Extension:MassMessageDefined by the softwareYes287,295 changes
+OAuth CID: 1784CropTool [1.5]Tool for cropping imagesDefined by the softwareYes284,392 changes
+OAuth CID: 1077Lingua Libre [2.0]Lingua Libre is a tool created to ease mass recording of text into clean, well cut, well named audio pronunciation recordsDefined by the softwareYes245,358 changes
+mw-undoUndoEdits that undo previous edits using the undo linkDefined by the softwareYes231,916 changes
+OAuth CID: 1393Isa-tool [1.0]This is a tool which is currently being developed and will be used to add structured data to images on Wikimedia Commons. Project is developed as a SDC GLAM Pilot. 
+
+(Note: This proposal adds applicable grants to the previous one)Defined by the softwareNo230,902 changes
+OAuth CID: 2459Depictor [0.1]This is a web-based app that allows you to add 'depicts' (P180) statements to images on Wikimedia Commons (using structured data). Images are presented in simple mobile friendly game-like interface, comparable to the Wikidata game.Defined by the softwareYes228,283 changes
+computer-aided-tagging-manualComputer-aided Tagging - manualEdits created from the Computer-aided Tagging tool with user-provided labelsDefined by the softwareYes216,586 changes
+mw-rollbackRollbackEdits that roll back previous edits using the rollback linkDefined by the softwareYes208,917 changes
+RenameLinkRenameLinkApplied manually by users and botsYes183,558 changes
+discussiontools-added-comment(hidden)A talk page comment was added in this editDefined by the softwareYes167,132 changes
+OAuth CID: 496locator-tool [2.1]A locator-tool to allow adding a location to existing media filesDefined by the softwareYes163,507 changes
+visualeditorVisual editEdit made using the visual editorDefined by the softwareYes146,874 changes
+OAuth CID: 1140import-500px [0.1]This is the OAuth consumer for https://tools.wmflabs.org/import-500px a tool to view and upload to Wikimedia commons all photos with compatible licenses that were on the 500px website when they closed submissions of Creative Commons photos.Defined by the softwareYes123,158 changes
+RotateLinkRotateLinkApplied manually by users and botsYes80,780 changes
+mw-changed-redirect-targetRedirect target changedEdits that change the target of a redirectDefined by the softwareYes80,630 changes
+PermissionOTRSPermissionOTRSEdits made after ~5 January 2018 using Gadget-PermissionOTRS.jsApplied manually by users and botsYes79,562 changes
+OAuth CID: 394video2commonsFiles uploaded using video2commonsDefined by the softwareYes70,091 changes
+OAuth CID: 1857locator-tool [3.0]A locator-tool to allow adding a location to existing media filesDefined by the softwareYes69,951 changes
+OAuth CID: 64CropToolTool to crop imagesDefined by the softwareYes65,635 changes
+OAuth CID: 2450Isa [2.2]An application which is used to enter structured data to images on Wikimedia Commons.Defined by the softwareYes58,883 changes
+mw-replaceReplacedEdits that remove more than 90% of the content of a pageDefined by the softwareYes55,451 changes
+Overwriting artworkOverwriting artworkDefined by the softwareYes44,521 changes
+OAuth CID: 772ia-upload [1.1]Tool to import files from Internet Archive https://tools.wmflabs.org/ia-uploadDefined by the softwareYes44,384 changes
+OAuth CID: 1703QuickCategories [1.1]A tool to add and remove categories from pages in batches. Inspired by the QuickStatements tool for Wikidata.Defined by the softwareYes43,867 changes
+Wikipedia Zero uploadWikipedia Zero uploadNo longer in useNo39,530 changes
+mw-removed-redirectRemoved redirectEdits that change an existing redirect to a non-redirectDefined by the softwareYes39,368 changes
+OTRS permission added by non-OTRS memberOTRS permission added by non-OTRS memberOTRS permission added by non-OTRS memberNo longer in useNo36,268 changes
+New user rapidly uploading filesNew user rapidly uploading files
+
+New user rapidly uploading files.
+
+
+Tagged by filter 110.
+Defined by the softwareYes33,415 changes
+Logo with questionable licenseLogo with questionable licenseDefined by the softwareYes28,750 changes
+image notes by new usersImage notes by new users
+
+Image note edits made through ImageAnnotator by new or unregistered users.
+
+
+Tagged by filter 49.
+Defined by the softwareYes23,824 changes
+Wikipedia Zero editWikipedia Zero editNo longer in useNo22,867 changes
+removing information templateRemoving information template
+
+The {{Information}} template has been removed from a file description page.
+
+
+Tagged by filter 58.
+Defined by the softwareYes22,347 changes
+OAuth CID: 1872Tracker [1.4]Wikimedia Czech Republic's expense tracking app.Defined by the softwareYes19,116 changes
+small image noteSmall image note
+
+Image note edits made through ImageAnnotator that result in small note rectangles (smaller than 20x20px in full-image coordinates).
+
+
+Tagged by filter 48.
+Defined by the softwareYes18,203 changes
+OAuth CID: 1839url2commons [1.0]url2commonsDefined by the softwareYes18,171 changes
+rillke-mw-js-botMwJSBot.js (Software by Rillke)User:Rillke/MwJSBot.js is a JavaScript library written primarily for browsers with a focus on stable upload automation. Its main customer is bigChunkedUpload.js, which provides a simple user interface for chunked uploading meant to be used by power users.Applied manually by users and botsYes17,851 changes
+Short captionShort file captionDefined by the softwareYes17,306 changes
+OAuth CID: 1321Tracker [1.3]Wikimedia Czech Republic's expense tracking app.Defined by the softwareYes14,362 changes
+OAuth CID: 931monumental-wlm [1.5]Monumental is like Reasonator for monuments (with editing and upload features). Find monuments on a map, and upload photos for Wiki Loves monuments.Defined by the softwareYes12,589 changes
+OAuth CID: 538parliamentdiagram [1.1]This application creates parliament diagrams for use on Wikipedia articles. Currently, the user has to download the SVG diagram and upload it to Wikimedia Commons to use it in an article. I would like to add OAuth functionality, so that the user can click "upload diagram": the diagram will be uploaded as an image and the user will be redirected to that page to fine-tune categories etc.Defined by the softwareYes12,466 changes
+OAuth CID: 1696PatrAll [1.0]Simple tool to patrol all edits by a user or on a page.Defined by the softwareYes10,967 changes
+OAuth CID: 1838geograph2commons [1.0]geograph2commonsDefined by the softwareYes10,863 changes
+OAuth CID: 378Widar [1.4]Wikidata remote editorDefined by the softwareYes10,832 changes
+mw-add-media(hidden)Edits that add mediaDefined by the softwareNo9,284 changes
+visualeditor-switchedVisual edit: SwitchedUser started to edit using the visual editor, then changed to the wikitext editor.Defined by the softwareYes8,420 changes
+removal of duplicatesRemoval of duplicates
+
+A file deleted as being a duplicate has been removed from a page
+
+
+Tagged by filter 57.
+Defined by the softwareYes8,319 changes
+OAuth CID: 1702Wikidata Image Positions [1.2]A tool to view and add “relative position within image” qualifiers of “depicts” statements on entities, by showing them as rectangular areas on the corresponding image.Defined by the softwareYes8,048 changes
+OAuth CID: 619wikishootme [1.1]Upload imagesDefined by the softwareYes7,882 changes
+OAuth CID: 1828wikishootme [1.9]WikiShootMeDefined by the softwareYes7,205 changes
+License review by non-Image-reviewersLicense review by non-image-reviewers
+
+Images reviewed by non-license reviewers.
+
+
+Tagged by filter 70.
+Defined by the softwareYes7,153 changes
+Large upload by a new userLarge upload by a new userTo tag files caught by Abuse Filter's rule #166Defined by the software
+Applied manually by users and botsYes6,899 changes
+discussiontools(hidden)Edit made using DiscussionToolsDefined by the softwareYes6,518 changes
+wikilovewikiloveEdit made using the WikiLove toolDefined by the softwareYes6,453 changes
+Blocked user editing own talk pageBlocked user editing own talk pageDefined by the software
+Applied manually by users and botsYes6,437 changes
+editing POTD or MOTD descriptionediting POTD or MOTD descriptionDefined by the softwareYes6,068 changes
+discussiontools-sourceSourceDiscussionTools was in source modeDefined by the softwareYes5,708 changes
+mw-remove-media(hidden)Edits that remove mediaDefined by the softwareNo5,530 changes
+discussiontools-replyReplyUser replied to a comment with DiscussionToolsDefined by the softwareYes4,971 changes
+OAuth CID: 40ia-upload [0.2]Tool to import files from Internet Archive http://tools.wmflabs.org/ia-uploadDefined by the softwareNo4,957 changes
+manual deletion request by new userManual deletion requestDefined by the softwareYes4,882 changes
+OAuth CID: 27CropTool [1.1]Tool to crop images at Wikimedia CommonsDefined by the softwareYes4,440 changes
+discussiontools-source-enhanced(hidden)DiscussionTools was in enhanced source mode with the toolbarDefined by the softwareYes4,066 changes
+OAuth CID: 81Videoconvert [0.3]Simple, webbased videoconverter on Toollabs allowing users to convert common video formats into webm an uploding them directly to Commons.Defined by the softwareYes3,637 changes
+OAuth CID: 544Wikimedia Commons Project Wikimaps Warper [2.2]The historical mapping project on Wikimedia Commons - Wikimaps - https://commons.wikimedia.org/wiki/Commons:Wikimaps uses an application on the Wikimedia Labs system https://warper.wmflabs.org to help georeference and rectify the images of historical maps. It uses OAuth for authentication and if the map's wiki file page has the special Map template, will edit the page to update the values of the "warped" and the "latitude" and "longitude" parameters if changed in that map template when the map has been georeferenced. It leaves an edit summary explaining the edit. 
+
+(Note for approvers: This consumer application v.2.2 is configured for the HTTPS endpoint on wikimedia labs. It would be good to also keep v2.1 which was set for HTTP)Defined by the softwareYes3,634 changes
+removed source informationAnonymous or new user removed source information
+
+A new or anonymous user has removed or altered the |source= line.
+
+
+Tagged by filter 84.
+Defined by the softwareYes3,498 changes
+OAuth CID: 821Commons mass description filler [1.2]This tool is for filling descriptions to images at Commons en masse.Defined by the softwareYes3,326 changes
+OAuth CID: 1835commonshelper [1.0]CommonsHelperDefined by the softwareYes3,137 changes
+OAuth CID: 1770FIST [1.1]FIST and WD-FISTDefined by the softwareYes2,560 changes
+OAuth CID: 1453Wikidata Image Positions [1.1]A tool to view and add “relative position within image” qualifiers of “depicts” statements on entities, by showing them as rectangular areas on the corresponding image.Defined by the softwareYes2,518 changes
+OAuth CID: 1762ia-upload [2.0]Tool to import files from Internet Archive https://ia-upload.toolforge.orgDefined by the softwareYes2,340 changes
+abusefilter-condition-limitcondition limit reachedEdits or other events that couldn't be checked by all active abuse filters (help).Defined by the softwareYes2,188 changes
+OAuth CID: 2386Wiki Loves Monuments Italia photo upload app [2.0.1]This is the app of the Wiki Loves Monuments Italy contest, which allows the users to upload photos directly from the app to participate in the contest.
+
+App source code: https://github.com/ferdi2005/monumenti
+Backend source code: https://github.com/ferdi2005/monumenti_backend
+
+Another oAuth consumer with only the Upload permission had been requested and approved (Wiki Loves Monuments Italia app [2.0]), but doing some testing was found out that to upload photos properly (with a proper description page) also the createeditmovepage is required.
+
+In addition to this, the new consumer uses an official url for the backend (wikilovesmonuments.it).Defined by the softwareYes2,169 changes
+possible vandalismPossible vandalismDefined by the softwareYes2,165 changes
+AWBAutoWikiBrowserEdits made with AutoWikiBrowserNo longer in useNo2,057 changes
+possibly out of scopepossibly out of scopeApplied manually by users and botsYes2,036 changes
+OAuth CID: 1805SWViewer [1.4]App to monitor the recent changes of a wiki's in real-time. For more details, see https://meta.wikimedia.org/wiki/SWViewerDefined by the softwareYes1,697 changes
+OAuth CID: 1352SWViewer [1.3]App to monitor the recent changes of a wiki's in real-time. For more details, see https://meta.wikimedia.org/wiki/SWViewerDefined by the softwareNo1,643 changes
+discussiontools-newtopicNew topicUser added a new topic to the page with DiscussionToolsDefined by the softwareYes1,547 changes
+OAuth CID: 1190NOA Upload Tool [1.0]The goal of the NOA project is to collect images from scientific open-access articles and make them reusable. The images can be viewed in the search engine at http://noa.wp.hs-hannover.de/ . 
+The upload tool is supposed to give users the option to upload images from the collection to Wikimedia Commons with their account.Defined by the softwareYes1,484 changes
+OAuth CID: 1241Videowiki [1.6]Videowiki is a free multi-media encyclopedia that anyone can edit. It is a proposed sister site which aims to visualize  the Sum of All Human Knowledge.  we've recently moved to WMF servers so we need a new OAuth keys with different callback url. More information can be found on this meta page 
+https://meta.wikimedia.org/wiki/Wiki_VideoDefined by the softwareYes1,401 changes
+editing policy pageEditing policy pageEditing page marked with {{Policy}}Defined by the softwareYes1,372 changes
+convenient-discussionsCDEdit made using Convenient DiscussionsApplied manually by users and botsYes1,352 changes
+OAuth CID: 1732SVG Translate [1.4]Tool for translating language strings in SVG files.Defined by the softwareYes1,338 changes
+cross-wiki-upload-4(hidden)Defined by the softwareYes1,257 changes
+cross-wiki-upload-2(hidden)Defined by the softwareYes1,255 changes
+cross-wiki-upload-1(hidden)Defined by the softwareYes1,184 changes
+cross-wiki-upload-3(hidden)Defined by the softwareYes956 changes
+OAuth CID: 2343IA Upload [2.0]Tool for uploading files from the Internet Archive to Wikimedia Commons.Defined by the softwareYes897 changes
+computer-aided-tagging-revertComputer-Aided Tagging revertEdits reverting one or more revisions created with the Computer-Aided Tagging toolDefined by the softwareYes872 changes
+discussiontools-visualVisualDiscussionTools was in visual modeDefined by the softwareYes810 changes
+nonsense charactersnonsense charactersDefined by the softwareYes806 changes
+OAuth CID: 1842drawshield [1.0]Rendering Coat of Arms SVGs for Commons, using blazonry language and https://github.com/drawshield/Drawshield-CodeDefined by the softwareYes736 changes
+disambiguator-link-addedDisambiguation linksEdits that add links to disambiguation pagesDefined by the softwareYes705 changes
+Ticket permission added by non-VRT memberTicket permission added by non-VRT memberDefined by the softwareYes688 changes
+OAuth CID: 1231Tracker [1.1]Wikimedia Czech republic's expense tracking appDefined by the softwareNo681 changes
+OAuth CID: 927glam2commons [1.0]This will be the production tool of the GSoC project phab:T138464.Defined by the softwareNo673 changes
+twinkletwinkleNo longer in useNo638 changes
+OAuth CID: 1404SVG Translate [1.3]Tool for translating language strings in SVG files.Defined by the softwareYes583 changes
+OAuth CID: 864sibutest [1.2]Test tool.Defined by the softwareNo576 changes
+mw-server-side-uploadServer-side uploadMedia files that were uploaded via a maintenance scriptDefined by the softwareYes498 changes
+OAuth CID: 2039Image Annotator [1.0]Tool to run image annotation campaigns, created to gather data for machine learning tasks.
+https://toolsadmin.wikimedia.org/tools/id/image-annotatorDefined by the softwareNo476 changes
+OAuth CID: 1378Twitter to Commons [1.1]Application that helps users to upload photos from free licensed twitter accounts directly from twitter to Wikimedia Commons.Defined by the softwareYes389 changes
+OAuth CID: 350Wikimedia Commons Project Wikimaps Warper [2.1]The historical mapping project on Wikimedia Commons - Wikimaps - http://commons.wikimedia.org/wiki/Commons:Wikimaps uses an application on the Wikimedia Labs system warper.wmflabs.org to help georeference and rectify the images of historical maps. It uses OAuth for authentication and if the map's wiki file page has the special Map template, will edit the page to update the values of the "warped" and the "latitude" and "longitude" parameters if changed in that map template when the map has been georeferenced. It leaves an edit summary explaining the edit. (v.2.1 restricts to Commons only)Defined by the softwareYes350 changes
+Removal of OTRS permissionRemoval of OTRS permissionNo longer in useNo340 changes
+OAuth CID: 19CropTool [1.0]Tool to crop images at Wikimedia CommonsDefined by the softwareYes317 changes
+Abusefilter: SmileyAbusefilter: SmileyDefined by the softwareYes266 changes
+OAuth CID: 359mpaatools [1.3]tool for wikisource maintenance tasksDefined by the softwareYes251 changes
+OAuth CID: 579WLM-IT wikigite [1.0]Form for citizens to easily join local events for Wiki Loves Monuments Italia by signing the page https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2016_in_Italy/Wikigite with a single click. The form needs to verify that the user is logged in on Commons and to perform the edit; it will optionally set contact preferences as requested by the user.Defined by the softwareYes235 changes
+OAuth CID: 1192Videowiki [1.2]Videowiki is a free multi-media encyclopedia that anyone can edit. It is a proposed sister site which aims to visualize the sum of all human knowledge. We're looking forward to enable users to upload their open licence content directly to their wiki commons account, hence we will require to use OAuth to authenticate users. More information can be found on this meta page https://meta.wikimedia.org/wiki/Wiki_VideoDefined by the softwareYes219 changes
+OAuth CID: 1327Flickr Dashboard [1.0]Easily edit your photos on Flickr and Commons at the same time (and import from the former to the latter), with Wikidata integration and an emphasis on improving descriptive metadata one photo at a time.Defined by the softwareYes216 changes
+OAuth CID: 1314Musikverket Description Translations [1.0]Tool to translate image descriptions uploaded from Musikverket (Swedish Performing Arts Agency) on Wikimedia Commons. Part of the Wikimedia Commons Roundtripping pilot project (https://meta.wikimedia.org/wiki/Wikimedia_Commons_Data_Roundtripping).Defined by the softwareYes207 changes
+image template removalimage template removalNo longer in useNo195 changes
+mw-contentmodelchangecontent model changeEdits that change the content model of a pageDefined by the softwareYes186 changes
+WPCleanerWPCleanerNo longer in useNo180 changes
+OAuth CID: 1349Nordic Museum Depicts [1.0]Tool to add depicts statements for images from the Nordic Museum on Wikimedia Commons. Part of the Wikimedia Commons Roundtripping pilot project (https://meta.wikimedia.org/wiki/Wikimedia_Commons_Data_Roundtripping).Defined by the softwareYes156 changes
+TwinkleTwinkleNo longer in useNo152 changes
+OAuth CID: 1188SWViewer [1.0]SPA (but auth process in php) for viewing queue of edits on small wikis for SWMT. Diffs, whitelist, reverts. Will be hosted on Labs. Desktop version [[ru:user:Iluvatar/SWViewer]].Defined by the softwareNo144 changes
+OAuth CID: 1855dtz [1.2]This tool edits the dates of files on Wikimedia Commons, using the DTZ template to display the dates with timezones.Defined by the softwareYes138 changes
+OAuth CID: 1268SVG Translate [1.2]Tool for translating language strings in SVG files.Defined by the softwareYes124 changes
+OAuth CID: 1561ISA Local Dev 2 (TEST) [1.0]ISA local dev use.Defined by the softwareYes90 changes
+EnhancedStashEnhancedStashtracking manually published uploads, detecting script malfunctionApplied manually by users and botsYes90 changes
+OAuth CID: 951Takedown Tools [1.0]Legal Team Takedown ToolsDefined by the softwareYes88 changes
+OAuth CID: 116SVGTranslate [1.0]SVG translation toolDefined by the softwareYes83 changes
+OAuth CID: 2348Wikisource Image Uploader [1.0]A simple tool to easily upload images to Commons or Wikisource (depending on license) along with basic metadata. Designed to make it easier to upload images for books.Defined by the softwareYes78 changes
+OAuth CID: 1626VideoCutTool [2.6]Video cut tool consumer for new wmflabs deploymentDefined by the softwareYes68 changes
+képjegyzetképjegyzetNo longer in useNo65 changes
+hiányos leírólaphiányos leírólapNo longer in useNo64 changes
+OAuth CID: 737samwilson-ia-upload [1.0]A development consumer just for my use. Don't approve this (there's no need).Defined by the softwareYes57 changes
+OAuth CID: 1261SWViewer [1.2]App to view recent changes on small wikis for SWMT. Diffs, whitelist, quick reverts, etc.
+See [[ru:User:Iluvatar/SWViewer]].Defined by the softwareNo48 changes
+OAuth CID: 76LCA Tools [1.5]Tool to allow LCA (Especially CA) team to process certain time heavy tasks (such as takedowns) from a central location.Defined by the softwareYes43 changes
+OAuth CID: 1281TestApp [1.0]testing appDefined by the softwareNo42 changes
+OAuth CID: 1313commons localhost testing [1.0]commonswiki consumer only meant for localhost testing.Defined by the softwareYes40 changes
+додавання OTRS-дозволу не агентом OTRSдодавання OTRS-дозволу не агентом OTRSNo longer in useNo40 changes
+hugglehuggleNo longer in useNo35 changes
+OAuth CID: 1285Flickommons [1.0]Local development version of a tool.Defined by the softwareNo32 changes
+OAuth CID: 1229Tracker (localhost) [1.3]Wikimedia Czech Republic expense tracking app, for localhost testing.Defined by the softwareYes31 changes
+delete-template-removeddelete-template-removedNo longer in useNo31 changes
+translation with only definitiontranslation with only definitionDefined by the softwareYes29 changes
+large non-free filelarge non-free fileNo longer in useNo29 changes
+Removal of ticket permissionRemoval of ticket permissionDefined by the softwareYes29 changes
+OTRS-sablon felhelyezése nem OTRS-kezelő általOTRS-sablon felhelyezése nem OTRS-kezelő általNo longer in useNo26 changes
+OAuth CID: 1424video-cut-tool-back-end [3.1]This provides the back-end services of the VideoCutTool, An online tool to cut and crop the online videos in Wikimedia Commons.Defined by the softwareYes25 changes
+OAuth CID: 1700Noun Project Uploader (localhost) [1.0]Drag and drop uploader for icons obtained through TheNoun Project (https://thenounproject.com/)Defined by the softwareYes25 changes
+OAuth CID: 392video2commons [0.2]Alpha testing, do not approveDefined by the softwareNo22 changes
+OAuth CID: 18CropCrop [1.0]Tool to crop images at Wikimedia CommonsDefined by the softwareNo22 changes
+OAuth CID: 60LCA Tools [1.0]Tool to allow LCA (Especially CA) team to process certain time heavy tasks (such as takedowns) from a central location.Defined by the softwareNo21 changes
+OAuth CID: 1165Videowiki [1.1]A new consumer key for staging server for Videowiki Application.
+Related consumer application
+https://meta.wikimedia.org/wiki/Special:OAuthListConsumers/view/97927782beac4b88e38205870e66322fDefined by the softwareYes21 changes
+yeni kullanıcının resim etiketini kaldırmasıyeni kullanıcının resim etiketini kaldırmasıNo longer in useNo20 changes
+OAuth CID: 1901Thenoun Uploader [1.0]Drag and drop uploader for icons obtained through TheNoun Project. 
+It was initially requested by https://phabricator.wikimedia.org/T189368
+
+Source code: https://github.com/samuelguebo/thenoun-uploaderDefined by the softwareYes20 changes
+OAuth CID: 163Video Editing Server - Production [1.0]A server to facilitate the editing of videos for Commons and Wikipedias under the sponsorship of CDC Leuphana Universitaet and Wikimedia Germany. More info here: https://github.com/ddennedy/wikimedia-video-editing-server/wiki/Requirements-SpecificationDefined by the softwareYes19 changes
+repeating charactersrepeating charactersNo longer in useNo19 changes
+ניטור_תמונותניטור_תמונותNo longer in useNo18 changes
+OAuth CID: 1337Google drive to Wikimedia Commons [1.4]This app allows you to upload files directly form Google drive to Wikimedia Commons!Defined by the softwareNo18 changes
+OAuth CID: 913sibutest [2.4]Test toolDefined by the softwareNo17 changes
+Template crediti apposto da utente non amministratoreTemplate crediti apposto da utente non amministratoreNo longer in useNo16 changes
+OAuth CID: 1558Isa-tool (dev-personal) [1.0]please work, only for development useDefined by the softwareYes14 changes
+OAuth CID: 1372Twitter to Commons [1.0]Application that helps users to upload photos from free licensed twitter accounts directly from twitter to Wikimedia Commons.Defined by the softwareYes14 changes
+OAuth CID: 2576Wiki Commons uploader [1.0]Allows user to see and find points of intrest nearby, take a Picture of it and upload it to wikimedia commons. See gitHub at https://github.com/geometalab/PhotoUploadApp.Defined by the softwareYes13 changes
+OAuth CID: 1234Videowiki [1.6]Dev environment for OauthDefined by the softwareNo12 changes
+OAuth CID: 1164Videowiki [1.0]Videowiki is a free multi-media encyclopedia that anyone can edit. It is a proposed sister site which aims to visualize the sum of all human knowledge.
+We're looking forward to enable users to upload their open licence content directly to their wiki commons account, hence we will require to use OAuth to authenticate users.
+
+More information can be found on this meta page
+https://meta.wikimedia.org/wiki/Wiki_VideoDefined by the softwareYes12 changes
+OAuth CID: 42LCA Tools [0.1]Tool to allow LCA (Especially CA) team to process certain time heavy tasks (such as takedowns) from a central location.Defined by the softwareNo12 changes
+fileimporter-remoteModified by FileImporterEdits made by the FileImporter extension after successfully importing a file from this wiki.No longer in useNo11 changes
+OAuth CID: 1329VideowikiLocal [1.2]Consumer for local dev for Videowiki more info on https://meta.wikimedia.org/wiki/Wiki_VideoDefined by the softwareYes11 changes
+OAuth CID: 1510dtz [1.1]This tool edits the dates of files on Wikimedia Commons, using the DTZ template to display the dates with timezones.Defined by the softwareYes11 changes
+removal of speedy deletion templatesremoval of speedy deletion templatesNo longer in useNo10 changes
+RedWarnRedWarnNo longer in useNo10 changes
+OAuth CID: 1614Media Data Verification Tool (Dev 2) [1.0]Media Data Verification Tool (Dev)Defined by the softwareYes9 changes
+OAuth CID: 1993Media Data Verification Tool [1.0]Media Data Verification ToolDefined by the softwareYes8 changes
+OAuth CID: 2573VideoCutTools - oauth2 [1.0]Testing oauth2 authentication with videocuttoolsDefined by the softwareYes8 changes
+OAuth CID: 1910GDrive to Commons Uploader [1.6]Tool to upload photos from your Google Drive to Wikimedia Commons.Defined by the softwareYes8 changes
+OAuth CID: 1366QR Code Generator [1.0]A QR Code Generator web application for Wikimedia Site. This app also demonstrates the usage of MediaWiki API with OAuth.Defined by the softwareYes8 changes
+OAuth CID: 1317Tracker (localhost) [1.4]Wikimedia Czech Republic expense tracking app, for localhost testing.Defined by the softwareYes8 changes
+OAuth CID: 1425video-cut-tool-back-end [3.2]This provides the back-end services of the VideoCutTool, An online tool to cut and crop the online videos in Wikimedia Commons. For local development purposeDefined by the softwareYes8 changes
+HotCatsHotCatsNo longer in useNo6 changes
+OTRS sablon felhelyezése nem OTRS-kezelő általOTRS sablon felhelyezése nem OTRS-kezelő általNo longer in useNo6 changes
+meta spam idmeta spam idDefined by the softwareYes6 changes
+teksti peitmineteksti peitmineNo longer in useNo6 changes
+OAuth CID: 1303VideowikiLocal [1.1]Consumer for local dev for Videowiki more info on https://meta.wikimedia.org/wiki/Wiki_VideoDefined by the softwareNo6 changes
+삭제 신청삭제 신청No longer in useNo5 changes
+gambar kemungkinan melanggar hak ciptagambar kemungkinan melanggar hak ciptaNo longer in useNo5 changes
+NonFreeReduceNonFreeReduceNo longer in useNo5 changes
+menghapus templat dari berkasmenghapus templat dari berkasNo longer in useNo5 changes
+canned edit summarycanned edit summaryNo longer in useNo4 changes
+צ'קטיצ'קטיNo longer in useNo4 changes
+Eliminación de categoríasEliminación de categoríasNo longer in useNo4 changes
+OAuth CID: 968merge2pdf [0.3]Tool to collect images from commons into a single PDF file,  added rights to edit pages for descriptions.Defined by the softwareYes4 changes
+OAuth CID: 2499EditGroups for Commons [1.0]Tracks edit groups on Commons made by various tools and lets users undo entire groups. Administrators can also use it to batch delete mass-creation of new items.Defined by the softwareYes4 changes
+OAuth CID: 1932Staging.ajapaik.ee [1.0]Ajapaik.ee staging instance.Defined by the softwareYes4 changes
+перше редагуванняперше редагуванняNo longer in useNo4 changes
+OAuth CID: 1322Tracker (test) [1.3]Wikimedia Czech Republic's expense tracking app.Defined by the softwareYes3 changes
+Pasikartojantys simboliaiPasikartojantys simboliaiNo longer in useNo3 changes
+OAuth CID: 2231Lingua Libre [2.30]Lingua Libre is a tool created to ease mass recording of text into clean, well cut, well named audio pronunciation records.Defined by the softwareYes3 changes
+bot trialbot trialNo longer in useNo3 changes
+OAuth CID: 933sibutest [3.0]Test toolDefined by the softwareYes3 changes
+OAuth CID: 72Videoconvert [0.2]Simple, webbased videoconverter on Toollabs allowing users to convert common video formats into webm an uploding them directly to Commons.Defined by the softwareYes3 changes
+OAuth CID: 1692VideowikiLocal [1.3]Local development keyDefined by the softwareYes3 changes
+OAuth CID: 1975Noun Project Uploader (localhost) [3.0]Further localhost development of https://thenoun-uploader.toolforge.org/Defined by the softwareYes3 changes
+גרשיים שגוייםגרשיים שגוייםNo longer in useNo3 changes
+Sil şablonu çıkarıldı.Sil şablonu çıkarıldı.No longer in useNo3 changes
+removal-of-deletion-or-rfv-templateremoval-of-deletion-or-rfv-templateNo longer in useNo2 changes
+OAuth CID: 1738Google drive to Wikimedia Commons [1.5]Tool to upload photos from Google Drive to Wikimedia Commons.Defined by the softwareYes2 changes
+удаление текстаудаление текстаNo longer in useNo2 changes
+OAuth CID: 1904DiBabel [1.2]A tool to help users keep modules and templates in sync across multiple wikis. See  https://www.mediawiki.org/wiki/Multilingual_Templates_and_ModulesDefined by the softwareYes2 changes
+FileImporterFileImporterApplied manually by users and botsYes2 changes
+KeiksmažodžiaiKeiksmažodžiaiNo longer in useNo2 changes
+deletedeleteNo longer in useNo2 changes
+模板模板No longer in useNo2 changes
+OAuth CID: 1744QR Code Generator [2.0]A QR Code Generator web application for Wikimedia Site. This app also demonstrates the usage of MediaWiki API with OAuth.Defined by the softwareNo2 changes
+Possible disruptionPossible disruptionNo longer in useNo2 changes
+I hope it's not a copyright violation.I hope it's not a copyright violation.No longer in useNo2 changes
+Page creator removing CSD tagPage creator removing CSD tagNo longer in useNo2 changes
+OAuth CID: 99Dispenser [1.0]Dispenser toolsDefined by the softwareYes2 changes
+OAuth CID: 128Debug Flickipedia [1.0]This is just for debugging. Don't approve.Defined by the softwareNo1 change
+OAuth CID: 2551VideoCutTools - Beta [1.0]An API key to authenticate the new Video Cut ToolDefined by the softwareYes1 change
+Thêm bản mẫu Xóa nhanhThêm bản mẫu Xóa nhanhNo longer in useNo1 change
+OAuth CID: 926monumental-upload-https [1.5]Monumental is like Reasonator for monuments (with editing and upload features). Now running on Tool ForageDefined by the softwareYes1 change
+OAuth CID: 157Video Editing Server - Cloud9 [1.0]A server to facilitate the editing of videos for Commons and Wikipedias under the sponsorship of CDC Leuphana Universitaet and Wikimedia Germany. More info here: https://github.com/ddennedy/wikimedia-video-editing-server/wiki/Requirements-SpecificationDefined by the softwareYes1 change
+OAuth CID: 346Wikimedia Commons Project Wikimaps Warper [2.0]The historical mapping project on Wikimedia Commons - Wikimaps - http://commons.wikimedia.org/wiki/Commons:Wikimaps uses an application on the Wikimedia Labs system warper.wmflabs.org to help georeference and rectify the images of historical maps.
+
+It uses OAuth for authentication and if the map's wiki file page has the special Map template, will edit the page to update the values of the "warped" and the "latitude" and "longitude" parameters if changed in that map template when the map has been georeferenced. It leaves an edit summary explaining the edit.Defined by the softwareNo1 change
+OAuth CID: 2394QR Code Generator [3.0]A QR Code Generator web application for Wikimedia Site. This app also demonstrates the usage of MediaWiki API with OAuth.Defined by the softwareYes1 change
+OAuth CID: 2404Wiki Museu do Ipiranga - Para que serve? [3.0]Tool for uploading photographs of objects similar to the ones of the Ipiranga Museum collection.Defined by the softwareYes1 change
+添加刪除模板添加刪除模板No longer in useNo1 change
+file-template-removedfile-template-removedNo longer in useNo1 change
+imageimageNo longer in useNo1 change
+图像图像No longer in useNo1 change
+fast-buttonsfast-buttonsNo longer in useNo1 change
+OAuth CID: 2195VideoCutTools [1.0]Testing video cut tools locallyDefined by the softwareYes1 change
+OAuth CID: 1181Commons Mass Description (test local) [1.0]Commons Mass Description's local testing credentialDefined by the softwareYes1 change
+posible spamposible spamNo longer in useNo1 change
+OAuth CID: 2322Wiki Museu do Ipiranga - Onde o objeto é usado? [1.0]Tool for uploading photographs of copies of the objects of the Ipiranga Museum collection.Defined by the softwareNo1 change
+削除依頼テンプレートの除去削除依頼テンプレートの除去No longer in useNo1 change
+centralnoticeCentral NoticeEdit created via the CentralNotice Admin UIDefined by the softwareYes0 changes
+centralnotice translationCentral Notice TranslationEdit of CentralNotice content created via the Translate extensionDefined by the softwareYes0 changes
+visualeditor-needcheckVisual edit: CheckEdit made using the visual editor where the system detected the wikitext possibly having unintended changes.Defined by the softwareYes0 changes
+ios app editiOS app editEdits made from mobile app for iOSDefined by the softwareYes0 changes
+computer-aided-tagging-manual-revertComputer-Aided Tagging - manual (revert)Edits reverting revisions created from the Computer-Aided Tagging tool with user-provided labelsDefined by the softwareYes0 changes
+LTALTADefined by the softwareYes0 changes
+discussiontools-editEdited commentUser edited an existing comment with DiscussionToolsDefined by the softwareYes0 changes
+
+Retrieved from "https://commons.wikimedia.org/wiki/Special:Tags"
+		
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Special page
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigate
+	
+	
+		
+		Main pageWelcomeCommunity portalVillage pumpHelp center
+		
+	
+
+
+	
+	
+		
+		Participate
+	
+	
+		
+		Upload fileRecent changesLatest filesRandom fileContact us
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		Special pagesPrintable version
+		
+	
+
+
+	
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About Wikimedia Commons
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

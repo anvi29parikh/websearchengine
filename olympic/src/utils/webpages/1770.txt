@@ -1,0 +1,455 @@
+
+
+
+
+Wikipedia:Vandalism-only account - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Vandalism-only account
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This page is about accounts used only to vandalize Wikipedia. For Wikipedia's policy on vandalism, see Wikipedia:Vandalism.
+
+
+
+
+Wikipedia information pageThis is an information page.
+It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.ShortcutsWP:VOAWP:VANDALISMONLYWP:VANDALONLY
+This page in a nutshell: Registered accounts that are used only to vandalize Wikipedia are usually blocked indefinitely.
+
+
+A vandalism-only account is a single-purpose registered account that is used only to vandalize Wikipedia.
+
+Contents
+
+1 Background
+2 Identifying vandalism-only accounts
+3 Dealing with vandalism-only accounts
+
+3.1 IP addresses
+
+
+4 See also
+5 Notes
+
+
+
+Background
+See also: Wikipedia:Administrators' guide/Blocking
+
+
+Most vandalism on Wikipedia is done by anonymous users. Such edits can be identified by the IP address in the page history. Repeated vandalism can eventually lead to being blocked. Administrators use WHOIS and geolocation to track vandals and perform range blocks. Generally, schools and other problematic organizations are blocked for a longer period (see §&nbsp;IP addresses).
+
+
+As the IP address of a registered editor is not visible in edit histories, many vandals create an account and vandalize Wikipedia. This can allow editing via an IP address or range that has been blocked to anonymous users.
+
+
+Vandals may also create accounts to vandalize Wikipedia in ways that cannot be done by unregistered users, such as on protected pages or by page-move vandalism. This is one reason for requiring that an account be autoconfirmed to perform these edits. While page protection is one method of mitigation, such vandalism still occurs from new accounts, resulting in the general consensus that they should be blocked as soon as possible (see below).
+
+Identifying vandalism-only accounts
+
+
+If you notice any suspicious edits from a user (particularly one who has only recently registered), the account is possibly intended to be used only for vandalism. A user talk page might not have been created (i.e. appears as a red link), may consist of warning messages only, or be blanked by the vandal. Usernames of disruptive accounts[1] also tend to violate Wikipedia's username policy.
+
+
+Should you notice such activity from registered users, revert the edit(s) if not already done, and check the user's contributions to verify whether the other edits are vandalism. If so, the account can be reported to Administrator intervention against vandalism as a "vandalism-only account".
+
+Dealing with vandalism-only accounts
+See also: Wikipedia:Blocking policy §&nbsp;Disruption-only
+
+
+Vandalism-only accounts are usually blocked indefinitely, sometimes without warning. The latter is typically the case if the vandal's username violates the username policy.
+
+
+Occasionally, the first block implemented may be temporary, depending on the severity of the vandalism. If vandalism resumes after a temporary block expires, it is extremely rare for the second block to be temporary.
+
+
+Cross-wiki vandals should also be reported to meta:Steward requests/Global‎‎ #Requests for global (un)lock and (un)hiding, especially accounts seemingly operated by long-time abusers.
+
+IP addresses
+
+
+IP addresses cannot be considered vandalism-only accounts, as IP addresses are sometimes shared by many users (by way of network address translation or a proxy server), and many are reassigned to another computer after a period of time. However, if an IP address has been used only or mostly for vandalism over a long period of time, it may be subject to a very long block, up to a year and occasionally even longer, but is almost never blocked indefinitely.
+
+See also
+Wikipedia:Blocking policy
+Wikipedia:Open proxies
+Notes
+
+
+^ Not specifically vandalism accounts. Disposable PoV-pushing, block-evasion etc. accounts share this trait as well.
+
+
+vteWikipedia accounts and governanceUnregistered (IP) users
+Why create an account?
+Create an account
+Request an account
+IPs are human too
+IP addresses are not people
+IP hopper
+Registered users
+New account
+Logging in
+Reset passwords
+Username policy
+Changing username
+Usernames for administrator attention
+Unified login or SUL
+Alternate account
+Account security
+Password strength requirements
+User account security
+Personal security practices
+Two-factor authentication
+2FA for AWB
+Committed identity
+On privacy, confidentiality and discretion
+Compromised accounts
+Blocks, bans, sanctions,
+global actions
+Blocking policy
+FAQ
+Admins guide
+Tools
+Autoblock
+Appealing a block
+Guide to appealing blocks
+UTRS Unblock Ticket Request System
+Blocking IP addresses
+Range blocks
+IPv6
+Open proxies
+Banning policy
+ArbCom appeals
+Sanctions
+Personal sanctions
+General sanctions
+Discretionary sanctions and Log
+Essay
+Long-term abuse
+Standard offer
+Global actions
+Related to accounts
+Sockpuppetry
+Single-purpose account
+Sleeper account
+Vandalism-only account
+Wikibreak
+Enforcer
+Retiring
+Courtesy vanishing
+Clean start
+Quiet return
+User groups
+ and global user groups
+Requests for permissions
+Admin instructions
+Admin guide
+Account creator
+PERM
+(Auto) confirmed
+PERM
+Autopatrolled
+PERM
+AutoWikiBrowser
+PERM
+Bot
+Request
+Edit filter helper
+Request
+Event coordinator
+PERM
+Extended confirmed
+PERM
+File mover
+PERM
+IP block exempt
+Request
+Mass message sender
+PERM
+New page reviewer
+PERM
+Page mover
+PERM
+Pending changes reviewer
+PERM
+Rollback
+PERM
+Template editor
+PERM
+Global rights policy
+OTRS Volunteer Response Team
+Advanced user groups
+Administrator
+RfA
+Bureaucrat
+RfB
+CheckUser and Oversight
+Request
+Edit filter manager
+Request
+Interface administrator
+Request
+Founder
+Importer
+Researcher
+Committees and related
+Arbitration Committee
+Bot approvals group
+Functionaries
+Clerks
+SPI clerks
+ArbCom clerks
+Governance
+Administration
+FAQ
+Formal organization
+Editorial oversight and control
+Quality control
+Wikimedia Foundation
+Board
+Founder's seat
+Meta-Wiki
+Proposals
+WikiProjects
+Elections
+Policies and guidelines
+Petitions
+Noticeboards
+Consensus
+Dispute resolution
+Reforms
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Vandalism-only_account&amp;oldid=1033298422"
+		Categories: Wikipedia information pagesWikipedia vandalismHidden categories: Wikipedia semi-protected project pagesProject pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةفارسیქართულიPortuguêsSimple EnglishСрпски / srpskiTürkçeاردو粵語中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 12 July 2021, at 20:25&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

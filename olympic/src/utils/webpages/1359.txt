@@ -1,0 +1,1100 @@
+
+
+
+
+Wikipedia:VisualEditor - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:VisualEditor
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Software Development project of the Wikimedia Foundation
+
+
+
+
+For the Wikipedia article about VisualEditor, see VisualEditor, or to perform tests using Wikipedia's VisualEditor, go to the Sandbox page and click "Edit page visually".
+This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutWP:VE
+
+
+
+Enable VisualEditor.
+
+Read VisualEditor's User&nbsp;Guide.
+
+Report a problem with&nbsp;VisualEditor.
+
+
+Log in, uncheck Temporarily disable the visual editor while it is in beta, optionally change Editing mode to Show me both editor tabs, and save your preferences. Or&nbsp;use&nbsp;this&nbsp;sandbox&nbsp;link for testing.
+
+Find out how to make links, add or move images, create citations, insert templates, edit tables, and more.
+
+Please include your web browser, computer operating system, and Wikipedia skin (usually Vector, sometimes Monobook).
+
+
+
+
+Main page
+Feedback at MediaWiki or local feedback
+Sandbox (no account required)
+
+About
+
+Why are the developers building this?
+User Test Data
+Documentation:
+Introductory tutorial
+User guide
+Keyboard shortcuts
+Frequently Asked Questions (or at MediaWiki)
+Development:
+Roadmap
+Updates
+Weekly status reports
+
+Help out
+
+Update the help pages
+Add TemplateData (Tutorial)
+Translate and localize documentation
+
+Research
+
+Main research page
+
+Other
+
+Customization
+Known problems
+Requests for Comments (RfCs): Jul 2013 a, Jul 2013 b,  Jul 2015, Sep 2015
+
+  As of 2020, editors at the English Wikipedia have used VisualEditor to make more than 10 million edits.
+
+
+Welcome to the portal for VisualEditor, a way of editing Wikipedia being developed by the Wikimedia Foundation (WMF) that does not require editors to learn wiki markup. Until VisualEditor, editors had to learn wiki markup to make most edits. VisualEditor will allow people to edit many types of pages without having to learn wikitext, and WMF staff hope that it encourages more readers to become editors.
+
+
+Even after the eventual anticipated full-feature release of VisualEditor, experienced editors still may prefer editing wikitext because they find it faster and more precise. Editing articles purely in wikitext is and will remain an option that the Wikimedia Foundation has no plans to remove. Even editors who enable VisualEditor will have the wikitext option available from the toolbar for each page and section.
+
+
+VisualEditor still has many bugs and missing features. If you encounter an issue, you can report it on the Feedback page, but be aware that that page is not actively monitored by WMF staff. WMF staff prefer that you report bugs via the Phabricator bug tracking website.
+
+Contents
+
+1 About VisualEditor
+2 Limitations
+3 How to help out
+4 Newsletter
+5 Userbox
+6 External links
+
+
+
+About VisualEditor
+
+
+VisualEditor is a "visual" way of editing Wikipedia that allows people to contribute without having to learn wiki markup. This rich-text editor was made available as an opt-in release on the English-language Wikipedia in December 2012, in 14 other languages in April 2013, and in most other languages at the beginning of June 2013. As of April 2015, it was available by default to users of about 76% of the language editions of Wikipedias and as an opt-in beta feature to the rest, along with most non-Wikipedia projects except Wiktionary and Wikisource.
+
+
+To learn more about using VisualEditor, please read the guide to VisualEditor and the list of common keyboard shortcuts. Your help with the many tasks that need to be done is appreciated. You can also receive regular status updates on your talk page by signing up for the VisualEditor newsletter.
+
+Limitations
+
+
+Current known limitations include: 
+
+Not available in talk or discussion namespaces – In the English Wikipedia, VisualEditor is not enabled for any talk pages, in the Template or Wikipedia namespaces, and in several of the namespaces that are rarely edited. The "Edit" button for VisualEditor is not available on pages where VisualEditor cannot be used.
+Template parameters are wikitext, not rich text – VisualEditor lets you edit the parameters of template transclusions, but only as "wikitext" (so "[[Foo]]" or nested templates like "{{Foo|{{Bar}}}}", not "Foo" or "{{Foo|{{Bar}}}}").
+Incomplete editing functionality – The content of some complex formatting, including definition lists, will display and can be edited, but editors using VisualEditor cannot modify certain details. Multi-column lists are edited through the complex transclusion dialog, which is difficult. Table editing on Mobile doesn't work properly. Adding features in this area is one of the developers' priorities.
+Some browsers not supported – VisualEditor works in almost all relatively modern (2012 or newer) versions of Chrome/Chromium, Firefox, Edge, Internet Explorer, Safari, Opera, Midori, Falkon (formerly Qupzilla), SeaMonkey and WebPositive (approximately 95% of all users). VisualEditor will never work in some browsers that do not follow web standards, including Android 2.3 or Internet Explorer 10 or prior. If VisualEditor is not available in your browser, or if you have turned off Javascript, then you will see the buttons for the wikitext editor only.
+Footnotes inside templates – Footnotes inside templates (most commonly, infoboxes and {{reflist}}) are not visible in the "reuse" dialog, causing discrepancies in the numbering of footnotes displayed at the bottom of the main VisualEditor editing window.
+Numeric reference names – Currently, VE automatically adds numeric ref names with a colon prefix, i.e., ":0", ":1", ":2", and so on. There has long been interest in having VE support named references.
+Unbalanced templates – VisualEditor struggles with templates that pass a bit of incomplete code, with markup, to another template or table. These may display oddly or may not be editable if selected in VisualEditor.
+Slower – Loading longer pages into VisualEditor can take 60 seconds or more for some users.
+Cannot edit a single section – VisualEditor loads and submits only entire pages. Clicking an edit link for a section will scroll to the appropriate section upon opening. In VisualEditor's model, editing sections would be paradoxically slower than editing the whole page. [Note: Opening an entire page for editing does not increase edit conflicts, which are (roughly) based on editing the same paragraph.]
+Cannot upload non-free images – At this time, images that are uploaded inside either the wikitext editor or VisualEditor are sent directly to the Wikimedia Commons, which does not accept non-free images. All images that fall under Wikipedia's non-free content policy must instead be stored on Wikipedia using the File Upload Wizard.
+Unaware of table formatting done by templates - Popular table cell templates (e.g. yes, no, tba, n/a) can cause issues. The reason is that these templates contain a pipe character to separate formatting and text, but the VisualEditor isn't aware of this. As a result, table operations which change the table structure, such as merging/splitting cells or inserting/deleting/moving rows or columns, may not work properly.
+Data in merged cells is deleted if rows or columns are moved across them. Workaround: Unmerge the affected areas before moving, and merge them again afterwards.
+
+
+You can click "Review your changes" to review the wikitext changes before saving a page. Please report any problems you see.
+
+How to help out
+
+
+Help is needed to make VisualEditor as good as it can be: You can find and report bugs and ideas for improvements or lend a hand in many other tasks, such as:
+
+Updating help pages – All Wikimedia Foundation projects have help pages to make contributing easier for new editors. Unfortunately, the full launch of VisualEditor will make obsolete the screenshots and tutorials in these help pages, because they describe how to edit using the markup editor. Therefore, the VisualEditor development team needs help updating help pages. The user guide to VisualEditor is a starting place for text for the new help pages.
+Adding TemplateData code to template documentation pages – VisualEditor features an interactive template editor—described in more detail in the user guide—and as you'll see if you use it on Wikipedia, some templates display named parameters and nice descriptions that make the interactive template editor easy to use. However, other templates lack them, because they need TemplateData code added to their documentation pages for this feature to work. If you're interested in adding TemplateData, read the guide for it and a list of some of the most transcluded templates that may still need TemplateData added to their documentation.
+Help new users – Even though editing with VisualEditor may be easier, learning policies and guidelines and how to interact with the community is always challenging for new editors. You can help by spending time at the appropriate venues: the Help desk, the Teahouse, and the help chatroom. Additionally, please feel free to monitor the Category of Wikipedians looking for help.
+Newsletter
+Click here to sign up for the VisualEditor  newsletter! Just add # {{#target:User talk:YOUR USERNAME HERE}} to the appropriate part of the list.
+Prior issues of the newsletter can be found at Wikipedia:VisualEditor/Updates.  Updates are sent out infrequently.
+This list is for the English Wikipedia only.  If you want this newsletter delivered to a different wiki, then sign up on the global list at m:VisualEditor/Newsletter.
+You can unsubscribe at any time by removing your name from this list.
+
+Wikipedia:Village pump (technical)
+Wikipedia:Village pump (WMF)
+Wikipedia:VisualEditor/Feedback
+Wikipedia talk:Talk pages project
+User talk:2Awwsome
+User talk:3family6
+User talk:5225C
+User talk:6033CloudyRainbowTrail
+User talk:Acather96
+User talk:Adam Cuerden
+User talk:Afernand74
+User talk:Ahm_masum
+User talk:Alaney2k
+User talk:Aleksa Milićević
+User talk:Alessandro57
+User talk:Alsee
+User talk:Anasskoko
+User talk:Anchorvale
+User talk:Andrew Davidson
+User talk:Andrewa
+User talk:annibale covini gerolamo
+User talk:Anonymoustofu
+User talk:Another Believer
+User talk:Anthony Staunton
+User talk:AnUnnamedUser
+User talk:arodb
+User talk:Arthur Rubin
+User talk:Ashorocetus
+User talk:Atchison_clark
+User talk:AWwikipedia
+User talk:Babymissfortune
+User talk:Barkeep49
+User talk:Barte
+User talk:Barzamin
+User talk:Bcorr
+User talk:Beauty School Dropout
+User talk:Bevo
+User talk:Bilby
+User talk:bill52270
+User talk:bishwa_777
+User talk:Blackdiamand21
+User talk:Blahma
+User talk:BoldLuis
+User talk:bouktin
+User talk:C-Brennan-Poole
+User talk:Caius G.
+User talk:CAPTAIN RAJU
+User talk:CASSIOPEIA
+User talk:Catx108/my news subscriptions
+User talk:Celine1776
+User talk:ceyockey
+User talk:Charles Edwin Shipp
+User talk:Charles01
+User talk:Checkingfax
+User talk:Ched
+User talk:Chewings72
+User talk:Chitreshraj
+User talk:Christian75
+User talk:ckoerner
+User talk:ClemRutter
+User talk:CodingCyclone
+User talk:ConradKilroy
+User talk:Corn cheese
+User talk:Crh23
+User talk:CRS-20
+User talk:cscott
+User talk:Cup o' Java
+User talk:CWBoast
+User talk:Damenleeturks
+User talk:Danish AMC
+User talk:danlev
+User talk:Danre98
+User talk:DarkestElephant
+User talk:Darklanlan
+User talk:Darren-M
+User talk:Davey2010
+User talk:David Gerard
+User talk:David Saroyan
+User talk:Davidbuddy9
+User talk:Davisonio
+User talk:Daxx_wp
+User talk:De la Marck
+User talk:Defan24
+User talk:Dekema2
+User talk:Dfcfozz
+User talk:DGG
+User talk:Diaa abdelmoneim
+User talk:Diego Moya
+User talk:Discott
+User talk:Discount Horde
+User talk:Dlwilson88
+User talk:DLynch (WMF)
+User talk:Donald Trung
+User talk:Dtwedt
+User talk:DXLB Muzikant
+User talk:DylWyl
+User talk:Dyork
+User talk:Ed6767
+User talk:EdSaperia
+User talk:Ekhaya2000
+User talk:Elitre
+User talk:Epicgenius
+User talk:EpicPupper2
+User talk:Ergo Sum
+User talk:Esb5415
+User talk:Evangeline
+User talk:Evolution and evolvability
+User talk:Ezlev
+User talk:fabregas0414
+User talk:Fench
+User talk:flekkie
+User talk:Flexdream
+User talk:Fluffernutter
+User talk:foxj
+User talk:Frederico1234
+User talk:Fresternoch
+User talk:Froztbyte
+User talk:FuriouslySerene
+User talk:Gaia Rinaldelli
+User talk:Gasforth-2021
+User talk:Ged UK
+User talk:Gerald Waldo Luis
+User talk:GermanJoe
+User talk:Gerryyabes
+User talk:Goldenshimmer
+User talk:GreatSculptorIthas
+User talk:Ham II
+User talk:Hamham31
+User talk:Happily888
+User talk:Harej
+User talk:Hazeldee0512
+User talk:HeartGlow30797/Subscriptions
+User talk:Henrikdv
+User talk:hibsch
+User talk:HJKeats
+User talk:Hmich176
+User talk:Howicus
+User talk:Hydriz
+User talk:hym411
+User talk:HyperEagle
+User talk:Idell
+User talk:IkselOwk
+User talk:Im5yrsold
+User talk:Imagine Wizard
+User talk:Immu 01
+User talk:Innovative Username
+User talk:Interitus malorum
+User talk:Itcouldbepossible
+User talk:Ivan Humphrey
+User talk:James Allison
+User talk:Jamesjpk
+User talk:Jarble
+User talk:JB82
+User talk:JetBlast
+User talk:Jhertel
+User talk:Jimbo Wales
+User talk:JJBers
+User talk:JMHamo
+User talk:Joe Decker
+User talk:John Broughton
+User talk:Johnny Au
+User talk:Jonathan Lane Studeman
+User talk:JonsterMonster
+User talk:Jrf
+User talk:Jtamad
+User talk:Judgesurreal777
+User talk:Jyoo1011
+User talk:K4rolB
+User talk:K6ka
+User talk:Kasyap
+User talk:katcheez
+User talk:Kerry Raymond
+User talk:Keyacom
+User talk:khamar
+User talk:Killarnee
+User talk:LaDinky
+User talk:Lalit82in
+User talk:LeonardoIannelliCOMPUTE
+User talk:lfstevens
+User talk:Littleb2009
+User talk:Llew_Mawr
+User talk:LogX
+User talk:Lomrjyo
+User talk:LORENZ SARMIENTO
+User talk:Lotje
+User talk:Lucky102
+User talk:Luke1337
+User talk:MadGuy7023
+User talk:Magol
+User talk:Mainline421
+User talk:Manwuel380
+User talk:MarkZusab
+User talk:Masssly
+User talk:MatthewBurton
+User talk:Medo9
+User talk:Melymay123
+User talk:Meow
+User talk:mgiganteus1
+User talk:Mindi Crayon
+User talk:Miya
+User talk:Mostafa12890
+User talk:Moyogo
+User talk:MrTrains227
+User talk:Mruthunjaya9
+User talk:MrWonka
+User talk:Muffizainu
+User talk:MusikAnimal
+User talk:Mvolz
+User talk:NemesisAT
+User talk:Neo12345292
+User talk:Neonorange
+User talk:Nicco18
+User talk:Nicereddy
+User talk:Nick Moyes
+User talk:Nick Wilson
+User talk:nigeleezdr
+User talk:NightWolf1223
+User talk:Nihiltres
+User talk:Nikolaih
+User talk:Nkansahrexford
+User talk:Ocaasi
+User talk:Ohiowa2
+User talk:OhKayeSierra
+User talk:Oiyarbepsy
+User talk:OodFloo
+User talk:Oronsay
+User talk:orsd
+User talk:Paine Ellsworth
+User talk:PamD
+User talk:patchallel
+User talk:Patriccck
+User talk:PearlSt82
+User talk:Pelagic,  User talk:Pelagic/Newsletters
+User talk:Perumalism
+User talk:Peter Chastain
+User talk:Peterdownunder
+User talk:Philoserf
+User talk:PhotographerTom
+User talk:PieThrowerChamp
+User talk:Piotrus
+User talk:Pizza1016
+User talk:Playlikeastar
+User talk:Plingsby
+User talk:Pointillist
+User talk:PradNelluru
+User talk:Pratyya Ghosh
+User talk:Presidentman
+User talk:ProcrastinatingReader
+User talk:ProtoDrake
+User talk:Prototime
+User talk:Pseudonymous Rex
+User talk:Psiĥedelisto
+User talk:Punetor i Rregullt5
+User talk:Pythoncoder/News
+User talk:Quadtripplea
+User talk:Quenhitran
+User talk:Quiddity
+User talk:QWER11296
+User talk:Qwerfjkl
+User talk:Qwerty284651
+User talk:Rachel.dicerbo
+User talk:reb1981
+User talk:Redalert2fan
+User talk:Retinarecorder
+User talk:Rhododendrites
+User talk:Richard Nevell (WMUK)
+User talk:Robert M. Hunt
+User talk:Robert McClenon
+User talk:RoySmith
+User talk:Saehrimnir
+User talk:Sam'kelo Mpungoseh
+User talk:Sanyamkamat
+User talk:Sasuke Sarutobi
+User talk:ScottyWZ
+User talk:Sculpordwarfprunesea
+User talk:Shaded0
+User talk:Shanata
+User talk:shanluan
+User talk:Shibbolethink
+User talk:Signalizing
+User talk:Simoncaulton
+User talk:SivaGovind
+User talk:Slazenger
+User talk:SmartK
+User talk:SMcCandlish
+User talk:Some1
+User talk:Spineas
+User talk:Spurb
+User talk:Sreejiththulaseedharan
+User talk:SshibumXZ
+User talk:SSSB
+User talk:StudiesWorld
+User talk:Sue Gardner
+User talk:Sylvester Penn
+User talk:Symphonic Spenguin
+User talk:TapticInfo
+User talk:TehPlaneFreak
+User talk:Tenryuu
+User talk:TenType
+User talk:TerraCodes
+User talk:The 19th One
+User talk:The Anome
+User talk:The ed17
+User talk:The Land
+User talk:the wub
+User talk:TheFrog001
+User talk:TheOtherGaelan
+User talk:There'sNoTime
+User talk:TheSandDoctor
+User talk:Three97
+User talk:Thryduulf
+User talk:Timeshifter
+User talk:Tom Morris
+User talk:Tom29739
+User talk:Tomorrow and tomorrow
+User talk:Toran107
+User talk:ToxiBoi
+User talk:TPFNoob
+User talk:TrudiJ
+User talk:UMAGPR
+User talk:UnstoppablePhoenix
+User talk:Valereee
+User talk:VeniVidiVicipedia
+User talk:Vishal.acet
+User talk:Vitaium
+User talk:Vpilato
+User talk:VQuakr
+User talk:Vukky/Newsletters
+User talk:Waddie96
+User talk:WDM10
+User talk:WhatamIdoing
+User talk:Whiteghost.ink
+User talk:Wikiuser13
+User talk:Wittylama
+User talk:Wolbo
+User talk:Wouterstomp
+User talk:writeswift
+User talk:wshaggy
+User talk:Xbony2
+User talk:Yobkj
+User talk:Yololobia2
+User talk:Yoshi1423
+User talk:ZLEA
+User talk:Zulujive
+User talk:Zziccardi
+User talk:ԱշոտՏՆՂ
+User talk:علاء
+Userbox
+
+
+VisualEditor userboxen
+This user primarily edits using the VisualEditor.
+This user sometimes edits using the VisualEditor.
+This user primarily edits using the VisualEditor.&nbsp;Please excuse the bugs it occasionally introduces.
+
+
+
+You can signal to other editors your use of the VisualEditor on your userpage by using the userbox User:Psiĥedelisto/Userboxes/VisualEditor. See that page for all the options available.
+
+External links
+
+
+
+Wikimedia Commons has media related to VisualEditor.
+
+The mediawiki.org page about VisualEditor, which links to historical regular status reports from 2011 through 2016.
+The mediawiki.org page about Parsoid, the bidirectional wiki parser behind VisualEditor, and historical regular status reports from 2011 through 2014.
+A 2015 study on VisualEditor's effect on newly registered editors
+
+
+
+
+Subpage Index
+
+
+
+VisualEditor/2014 RFC
+VisualEditor/A/B test
+VisualEditor/August 2013 update
+VisualEditor/Customization
+VisualEditor/Default State RFC
+VisualEditor/FAQ
+VisualEditor/Feedback
+VisualEditor/Feedback/Archive 2012 1
+VisualEditor/Feedback/Archive 2012 12
+VisualEditor/Feedback/Archive 2013 01
+VisualEditor/Feedback/Archive 2013 02
+VisualEditor/Feedback/Archive 2013 04
+VisualEditor/Feedback/Archive 2013 05
+VisualEditor/Feedback/Archive 2013 06
+VisualEditor/Feedback/Archive 2013 07
+VisualEditor/Feedback/Archive 2013 1
+VisualEditor/Feedback/Archive 2013 10
+VisualEditor/Feedback/Archive 2013 11
+VisualEditor/Feedback/Archive 2013 12
+VisualEditor/Feedback/Archive 2013 13
+VisualEditor/Feedback/Archive 2013 2
+VisualEditor/Feedback/Archive 2013 3
+VisualEditor/Feedback/Archive 2013 4
+VisualEditor/Feedback/Archive 2013 5
+VisualEditor/Feedback/Archive 2013 6
+VisualEditor/Feedback/Archive 2013 7
+VisualEditor/Feedback/Archive 2013 8
+VisualEditor/Feedback/Archive 2013 9
+VisualEditor/Feedback/Archive 2014 1
+VisualEditor/Feedback/Archive 2014 13
+VisualEditor/Feedback/Archive 2014 2
+VisualEditor/Feedback/Archive 2014 3
+VisualEditor/Feedback/Archive 2014 4
+VisualEditor/Feedback/Archive 2014 5
+VisualEditor/Feedback/Archive 2015 1
+VisualEditor/Feedback/Archive 2015 2
+VisualEditor/Feedback/Archive 2015 3
+VisualEditor/Feedback/Archive 2016 1
+VisualEditor/Feedback/Archive 2016 2
+VisualEditor/Feedback/Archive 2017 1
+VisualEditor/Feedback/Archive 2017 2
+VisualEditor/Feedback/Archive 2018 1
+VisualEditor/Feedback/Archive 2018 2
+VisualEditor/Feedback/Archive 2019 1
+VisualEditor/Feedback/Archive 2019 2
+VisualEditor/Feedback/Archive 2020 1
+VisualEditor/Feedback/Archive 2021 1
+VisualEditor/Feedback/Diffs
+VisualEditor/Feedback/FAQ
+VisualEditor/Feedback/Toolbar
+VisualEditor/Feedback/header
+VisualEditor/Help
+VisualEditor/Improvements
+VisualEditor/Keyboard shortcuts
+VisualEditor/Known problems
+VisualEditor/Named references
+VisualEditor/New users
+VisualEditor/Newsletter
+VisualEditor/Newsletter/2019/July
+VisualEditor/Opt-in
+VisualEditor/Opt-out
+VisualEditor/RFC
+VisualEditor/RfC
+VisualEditor/TemplateData
+VisualEditor/TemplateData/List
+VisualEditor/TemplateData/Tutorial
+VisualEditor/TemplateData tutorial
+VisualEditor/Updates
+VisualEditor/Updates/08 August 2014
+VisualEditor/Updates/17 January 2014
+VisualEditor/Updates/19 February 2014
+VisualEditor/Updates/20 December 2014
+VisualEditor/Updates/20 March 2014
+VisualEditor/Updates/21 May 2014
+VisualEditor/Updates/23 April 2014
+VisualEditor/Updates/25 June 2014
+VisualEditor/Updates/6 November 2014
+VisualEditor/Updates/8 October 2014
+VisualEditor/Updates/April 2015
+VisualEditor/Updates/April 2020
+VisualEditor/Updates/August 1, 2013
+VisualEditor/Updates/August 2015
+VisualEditor/Updates/August 2020
+VisualEditor/Updates/August 21, 2013
+VisualEditor/Updates/August 6, 2013
+VisualEditor/Updates/December 19, 2013
+VisualEditor/Updates/December 2015
+VisualEditor/Updates/February 2015
+VisualEditor/Updates/February 2016
+VisualEditor/Updates/February 2018
+VisualEditor/Updates/January 2021
+VisualEditor/Updates/July 11, 2013
+VisualEditor/Updates/July 12, 2013
+VisualEditor/Updates/July 17, 2013
+VisualEditor/Updates/July 2019
+VisualEditor/Updates/July 2020
+VisualEditor/Updates/July 24, 2013
+VisualEditor/Updates/July 4, 2013
+VisualEditor/Updates/July 9, 2013
+VisualEditor/Updates/June 2015
+VisualEditor/Updates/June 2016
+VisualEditor/Updates/June 2020
+VisualEditor/Updates/June 2021
+VisualEditor/Updates/May 2017
+VisualEditor/Updates/November 20, 2013
+VisualEditor/Updates/October 16, 2013
+VisualEditor/Updates/October 2015
+VisualEditor/Updates/October 2016
+VisualEditor/Updates/October 2018
+VisualEditor/Updates/October 2019
+VisualEditor/Updates/September 05, 2013
+VisualEditor/Updates/September 13, 2013
+VisualEditor/Updates/September 19, 2013
+VisualEditor/Updates/Single Edit Tab
+VisualEditor/User guide
+VisualEditor/VisualEditor RfC 2014 part 1
+VisualEditor/VisualEditor default state 2014 part 1
+VisualEditor/Why
+VisualEditor/Why/Quantitative data
+VisualEditor/Why/User Test Data
+VisualEditor/tabs
+
+
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:VisualEditor&amp;oldid=1051982777"
+		Categories: MassMessage delivery listsWikipedia how-toVisualEditorHidden categories: Project pages with short descriptionWikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		MediaWikiMeta-WikiWikidataWikinewsWikiquoteWikisourceWikiversityWiktionary
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AfrikaansالعربيةԱրեւմտահայերէնঅসমীয়াAsturianuAymar aruAzərbaycancaবাংলাBân-lâm-gúБеларускаяБеларуская (тарашкевіца)BislamaБългарскиBosanskiBrezhonegCatalàČeštinaChamoruCorsuCymraegDanskالدارجةDeutschEestiΕλληνικάEmiliàn e rumagnòlEspañolEsperantoفارسیFøroysktFrançaisFurlanGaelgGalegoગુજરાતી客家語/Hak-kâ-ngî한국어HausaHawaiʻiՀայերենहिन्दीHrvatskiIlokanoBahasa IndonesiaIsiXhosaIsiZuluÍslenskaItalianoעבריתJawaಕನ್ನಡქართულიKaszëbscziҚазақшаKirundiKongoKreyòl ayisyenLadinoLatinaLatviešuLietuviųLigureLa .lojban.LugandaLombardMagyarMalagasyമലയാളംMaltiमराठीمصرىဘာသာ မန်Bahasa MelayuMinangkabauMìng-dĕ̤ng-ngṳ̄Mirandésမြန်မာဘာသာNa Vosa VakavitiNederlandsNedersaksiesNēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣनेपाली日本語NapulitanoNordfriiskNorfuk / PitkernNorsk bokmålNorsk nynorskOccitanଓଡ଼ିଆOʻzbekcha/ўзбекчаਪੰਜਾਬੀPälzischPiemontèisPolskiPortuguêsRipoarischRomânăRomani čhibRumantschРусскийSakizayaGagana SamoaSängöSarduSesothoSetswanaSicilianuSimple EnglishسنڌيSlovenčinaSlovenščinaСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟSoomaaligaSranantongoСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiSvenskaTagalogதமிழ்TaclḥitTarandíneၽႃႇသႃႇတႆး ไทยТоҷикӣTsetsêhestâheseTürkçeТыва дылУкраїнськаاردوVènetoVepsän kel’Tiếng Việt吴语Xitsongaייִדיש粵語ZazakiŽemaitėška中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 26 October 2021, at 17:51&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

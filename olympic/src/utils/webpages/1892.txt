@@ -1,0 +1,567 @@
+
+
+
+
+Template:R to disambiguation page - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Template:R to disambiguation page
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+When used with the "Redirect category shell" (Rcat shell) template:
+
+ This page is a redirect. The following categories are used to track and monitor this redirect:
+
+To a disambiguation page: This is a redirect to a disambiguation page. This redirect is intended for use in links from other articles that need to refer to the disambiguation page, rather than be disambiguated.  Therefore, this template should only appear on a redirect page that has "(disambiguation)" at the end of its title.  Ambiguous titles that do not have  page names ending with "(disambiguation)" may use {{R from ambiguous term}} instead. For disambiguations that later prove to still be ambiguous (e.g. "(painter)" when there are multiple notable painters by the same name) and which redirect to disambiguation pages, then {{R from incomplete disambiguation}} is the appropriate template.
+Any talk page redirect that has "(disambiguation)" in its title targets another talk page, not a disambiguation page, and should be tagged with {{R from unnecessary disambiguation}} instead of this template.
+
+When appropriate, protection levels are automatically sensed, described and categorized.
+Template {{Redirect category shell}} may be used to add one or more rcat templates, along with their parameters and categories, to a redirect.  For more information see the documentation page below.
+
+
+
+When used by itself:
+
+
+To a disambiguation page: This is a redirect to a disambiguation page. This redirect is intended for use in links from other articles that need to refer to the disambiguation page, rather than be disambiguated.  Therefore, this template should only appear on a redirect page that has "(disambiguation)" at the end of its title.  Ambiguous titles that do not have  page names ending with "(disambiguation)" may use {{R from ambiguous term}} instead. For disambiguations that later prove to still be ambiguous (e.g. "(painter)" when there are multiple notable painters by the same name) and which redirect to disambiguation pages, then {{R from incomplete disambiguation}} is the appropriate template.
+Any talk page redirect that has "(disambiguation)" in its title targets another talk page, not a disambiguation page, and should be tagged with {{R from unnecessary disambiguation}} instead of this template.
+
+
+
+
+ Template documentation[view] [edit] [history] [purge]
+This template is used on approximately 238,000 pages.
+ To avoid major disruption and server load, any changes should be tested in the template's /sandbox or /testcases subpages, or in your own user subpage. The tested changes can be added to this page in a single edit. Consider discussing changes on the talk page before implementing them.
+If you plan to make breaking changes to this template, move it, or nominate it for deletion, please notify Twinkle's users and maintainers at Wikipedia talk:Twinkle as a courtesy, as this template is used in the standard installation of Twinkle. Thank you!
+This template should not be substituted nor used to tag soft redirects.
+Usage
+Use this rcat template in any namespace.
+This redirect category (rcat) template automatically populates Category:Redirects to disambiguation pages and, when the redirect is in main-article namespace (mainspace), this rcat also populates Category:Unprintworthy redirects by default.  In 2003, efforts were begun to support the Wikimedia Foundation's goal of increasing access and availability of  Wikipedia articles in printed versions.  Mainspace redirects to disambiguation pages are not suitable for a printed version.  In other words they are unprintworthy.
+Please do not alter the printworthy settings of this rcat without first notifying the Version 1.0 Editorial Team, who are responsible for any and all materials, including redirects, that go into a printed version of Wikipedia.
+A talk page redirect in any talk namespace that has "(disambiguation)" in its title targets another talk page, not a disambiguation page, so it should be tagged with {{R from unnecessary disambiguation}} instead of this template.
+Place this rcat on a redirect page (never on a talk page redirect) in the following manner:
+#REDIRECT [[(target page name)]]
+
+{{Redirect category shell|
+{{R to disambiguation page}}
+}}
+
+and when the redirect is in article mainspace, printworthiness should also be tagged:
+#REDIRECT [[(target page name)]]
+
+{{Redirect category shell|
+{{R to disambiguation page}}
+{{R unprintworthy}}
+}}
+
+Template {{Rcat shell}} is an alias for the Redirect category shell template, which may be used to add as many appropriate rcats as needed, usually from one to seven, along with their parameters, to a redirect.  For more information see the documentation on its template page.  This rcat may also tag a redirect individually:
+#REDIRECT [[(target page name)]]
+
+{{R to disambiguation page}}
+
+This is in accord with instructions found at Wikipedia:REDCAT.
+Use this rcat on all redirects to disambiguation (dab) pages if and only if the redirect on which this rcat is placed has the word "(disambiguation)" after its title.  If an ambiguous subject does not have a primary topic, then the name of the subject will be the title of a dab page and will not have the word "(disambiguation)" following their page name.  For these, there should always be a redirect titled with exactly the same title plus the word "(disambiguation)".  An example is the dab page Antenna, which does not have the word "(disambiguation)" after its title.  The associated redirect that does is Antenna (disambiguation), and that redirects to the "Antenna" page.  If one clicks that "Antenna (disambiguation)" link, then just below the page title, "Antenna", appear the phrases:
+From Wikipedia, the free encyclopedia
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Redirected from Antenna (disambiguation))
+Click on that link either here or on the "Antenna" page to see the redirect.  That redirect, the one with the word "(disambiguation)" in its title, is the only kind of redirect that should be categorized by this rcat.
+If this rcat tags a redirect that does not have "(disambiguation)" in its title, the redirect will populate Category:Pages with incorrectly transcluded disambiguation templates and will need to be repaired.
+Aliases
+Also known as... – list of templates that redirect here and may also be used
+TemplateData
+This is the TemplateData for this template used by TemplateWizard, VisualEditor and other tools. Click here to see a monthly parameter usage report for this template based on this TemplateData.
+
+
+TemplateData for R to disambiguation page
+
+
+
+
+Placed on redirects which target a disambiguation page; adds Redirects to disambiguation pages and Unprintworthy redirects categories (the latter because disambiguation redirects wouldn't be useful in a printed Wikipedia). Takes no parameters.
+
+Template parametersParameterDescriptionTypeStatusNo parameters specified
+See also
+Template:R to disambiguation page/preload for [1]
+
+
+Disambiguation rcat template family:
+
+
+{{R from ambiguous term}}
+{{R from incomplete disambiguation}}
+{{R from incorrect disambiguation}}
+{{R from other disambiguation}}
+{{R from predictable disambiguation}}
+{{R from unnecessary disambiguation}}
+{{R to disambiguation page}}
+
+
+
+Wikipedia:Disambiguation
+WikiProject Disambiguation
+Partially disambiguated page names (essay)
+WikiProject Redirect/Style guide
+
+vteRcat functional indexGrammar,
+punctuation,
+and spellingAbbreviation
+{{R to acronym}}
+{{R from acronym}}
+{{R to initialism}}
+{{R from initialism}}
+{{R from numeronym}}
+{{R from Bluebook abbreviation}}
+{{R from ISO 4 abbreviation}}
+{{R from MathSciNet abbreviation}}
+{{R from NLM abbreviation}}
+Capitalisation
+{{R from CamelCase}}
+{{R from other capitalisation}}
+{{R from miscapitalisation}}
+Grammar &amp;
+punctuation
+{{R from modification}}
+{{R from rearrangement}}
+{{R from plural}}
+{{R to plural}}
+{{R from alternative punctuation}}
+{{R from alternative hyphenation}}
+{{R from alternative spacing}}
+Parts of speech
+{{R from adjective}}
+{{R from adverb}}
+{{R from common noun}}
+{{R from gerund}}
+{{R from proper noun}}
+{{R from verb}}
+Spelling
+{{R from alternative spelling}}
+{{R from alternative transliteration}}
+{{R from American English}}
+{{R from ASCII-only}}
+{{R to ASCII-only}}
+{{R from British English}}
+{{R from diacritic}}
+{{R to diacritic}}
+{{R from ligature}}
+{{R to ligature}}
+{{R from misspelling}}
+{{R from stylization}}
+Alternative
+namesGeneral
+{{R from alternative language}}
+language codes
+{{R from alternative name}}
+{{R from ambiguous sort name}}
+{{R from antonym}}
+{{R from colloquial name}}
+{{R from former name}}
+{{R from incomplete name}}
+{{R from incorrect name}}
+{{R from less specific name}}
+{{R from long name}}
+{{R from more specific name}}
+{{R from non-neutral name}}
+{{R from numerals}}
+{{R from Roman numerals}}
+{{R from portmanteau}}
+{{R from short name}}
+{{R from sort name}}
+{{R from synonym}}
+People
+{{R from birth name}}
+{{R from given name}}
+{{R to joint biography}}
+{{R from married name}}
+{{R from name with title}}
+{{R from person}}
+{{R from personal name}}
+{{R from pseudonym}}
+{{R from surname}}
+Technical
+{{R from CAS Registry Number}}
+{{R from citation identifier}}
+{{R from drug trade name}}
+{{R from filename}}
+{{R from Java package name}}
+{{R from chemical formula}}
+{{R from gene symbol}}
+{{R from technical name}}
+{{R to technical name}}
+Organisms
+{{R to scientific name}}
+{{R from scientific name}}
+{{R from alternative scientific name}}
+{{R from scientific abbreviation}}
+{{R to monotypic taxon}}
+{{R from monotypic taxon}}
+{{R taxon with possibilities}}
+Geography
+{{R from name and country}}
+{{R from more specific geographic name}}
+{{R from postal code}}
+Navigation
+aidsNavigation
+{{R to anchor}}
+{{R avoided double redirect}}
+{{R from category navigation}}
+{{R from file metadata link}}
+{{R to list entry}}
+{{R mentioned in hatnote}}
+{{R to section}}
+{{R from shortcut}}
+Disambiguation
+{{R from ambiguous term}}
+{{R to disambiguation page}}
+{{R from incomplete disambiguation}}
+{{R from incorrect disambiguation}}
+{{R from other disambiguation}}
+{{R from predictable disambiguation}}
+{{R from unnecessary disambiguation}}
+Merge, duplicate &amp; move
+{{R from draft}}
+{{R from duplicated article}}
+{{R with history}}
+{{R from merge}}
+{{R from move}}
+{{R with old history}}
+To namespaces
+{{R from remote talk page}}
+{{R to category namespace}}
+{{R to draft namespace}}
+{{R to help namespace}}
+{{R to main namespace}}
+{{R to portal namespace}}
+{{R to project namespace}}
+{{R to talk page}}
+{{R to template namespace}}
+{{R to user namespace}}
+MediaGeneral
+{{R from book}}
+{{R from film}}
+{{R from upcoming film}}
+{{R from journal}}
+{{R from meme}}
+{{R from work}}
+Music
+{{R from album}}
+{{R from hook line}}
+{{R from lyric}}
+{{R from song}}
+{{R from cover song}}
+{{R from band name}}
+Television
+{{R from television episode}}
+{{R from television program}}
+Fiction
+{{R from fictional character}}
+{{R from fictional element}}
+{{R from fictional location}}
+Comics
+{{R comics with possibilities}}
+{{R comics from alternative name}}
+{{R comics to list entry}}
+{{R comics from merge}}
+{{R comics naming convention}}
+{{R comics from related word}}
+{{R comics to section}}
+MiscellaneousRelated
+information
+{{R to article without mention}}
+{{R to decade}}
+{{R to century}}
+{{R from domain name}}
+{{R from second-level domain}}
+{{R from top-level domain}}
+{{R from gender}}
+{{R from legislation}}
+{{R from list topic}}
+{{R from member}}
+{{R from phrase}}
+{{R to related topic}}
+{{R from related word}}
+{{R from relative}}
+{{R from spouse}}
+{{R from school}}
+{{R from subtopic}}
+{{R to subtopic}}
+{{R from team}}
+{{R from Unicode character}}
+{{R from Unicode code}}
+{{R from emoji}}
+With possibilities
+{{R with possibilities}}
+Category:Template redirects with possibilities
+{{R category with possibilities}}
+ISO codes
+{{R from ISO 4 abbreviation}}
+{{R from ISO 639 code}}
+{{R from ISO 3166 code}}
+{{R from ISO 4217 code}}
+{{R from ISO 15924 code}}
+Printworthiness
+Printability
+{{R printworthy}}
+{{R unprintworthy}}
+e.g. {{R with possibilities}} is printworthy by default; {{R from misspelling}} is unprintworthy by default; some have no default
+Protection
+{{R extended-protected}}
+{{R fully protected}}
+{{R semi-protected}}
+{{R template-protected}}
+{{R from high-use template}}
+Tools
+Category:Miscellaneous redirects
+Protection policy
+{{R from template-generated category}}
+{{Redirect category shell}}
+{{Talk page of redirect}}
+Wikidata
+{{Wikidata redirect}}
+
+ Complete alphanumeric index
+for the full list of rcat templates
+ Category
+ WikiProject Redirect
+ Categorizing redirects
+
+
+
+The above documentation is transcluded from Template:R to disambiguation page/doc. (edit | history)
+Editors can experiment in this template's sandbox (edit | diff) and testcases (create) pages.
+Add categories to the /doc subpage. Subpages of this template. 
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:R_to_disambiguation_page&amp;oldid=1055279426"
+		Categories: Templates used by TwinkleWikipedia transclusionless templatesRedirect templatesTemplates for redirects to disambiguation pagesTemplates for unprintworthy redirectsHidden categories: Redirects to disambiguation pagesWikipedia template-protected templatesTemplates using TemplateDataUnprintworthy redirects
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		TemplateTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةবাংলাभोजपुरीفارسیမြန်မာဘာသာSimple English中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 14 November 2021, at 23:39&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

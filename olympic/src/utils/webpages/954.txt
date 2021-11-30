@@ -1,0 +1,1431 @@
+
+
+
+    
+    
+    
+
+
+      
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+Madagascar's alpine skier Mialitiana Clerc has big Olympic dreams
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+
+
+
+
+
+
+
+
+
+	
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+	
+
+
+
+
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+    
+
+  
+
+
+  
+  
+  
+    
+  
+
+  
+   
+
+
+
+        
+        
+            
+        
+
+
+
+    
+        
+    
+    
+        
+        
+            
+                
+                    
+                    
+                
+            
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+  
+
+
+
+  
+    
+  
+
+  
+    
+
+
+
+
+    
+  Sign In
+
+
+
+
+  
+      English
+      Français
+      Deutsch
+      Italiano
+      Português
+      Español
+      日本語
+      العربية
+      中文
+      हिंदी
+      한국어
+      Русский
+  
+
+
+
+
+
+
+    
+
+    
+        
+    
+
+
+
+
+    
+
+      
+        
+        
+        
+      
+  
+
+
+
+
+    
+
+
+    
+        
+            
+                
+                
+            
+
+            
+                
+                
+                Search
+            
+        
+        
+            
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+    
+      Olympic Games
+      
+          
+            Beijing 2022
+          
+          
+            Results &amp; Medals
+          
+          
+            Replays &amp; Highlights
+          
+          
+            All Olympic Games
+          
+      
+    
+    
+      Athletes
+      
+      
+    
+    
+      Sports
+      
+      
+    
+    
+      News
+      
+          
+            Podcast
+          
+          
+            Topics
+          
+      
+    
+    
+      Olympic Channel
+      
+          
+            Live Events
+          
+          
+            Original Series
+          
+          
+            TV Channel
+          
+      
+    
+
+
+
+  
+      English
+      Français
+      Deutsch
+      Italiano
+      Português
+      Español
+      日本語
+      العربية
+      中文
+      हिंदी
+      한국어
+      Русский
+  
+
+
+
+
+
+
+
+    
+    
+        
+
+            
+                Enter the Olympic Fanzone games and play together!
+            
+
+
+        
+            
+
+                
+                    Join the fun now!
+                
+                
+                    Join the fun now!
+                
+            
+        
+
+    
+
+
+    
+
+    
+        
+    
+        
+
+            
+                Enter the Olympic Fanzone games and play together!
+            
+
+
+        
+            
+
+                
+                    Join the fun now!
+                
+                
+                    Join the fun now!
+                
+            
+        
+
+    
+
+        
+
+        
+    
+        
+
+            
+                Enter the Olympic Fanzone games and play together!
+            
+
+
+        
+            
+
+                
+                    Join the fun now!
+                
+                
+                    Join the fun now!
+                
+            
+        
+
+    
+
+
+        
+    
+
+
+
+
+
+
+
+
+        
+            IOC
+
+        
+        
+            Beijing 2022
+
+        
+        
+            Paris 2024
+
+        
+        
+            Milano Cortina 2026
+
+        
+        
+            LA 2028
+
+        
+        
+            Brisbane 2032
+
+        
+        
+            Museum
+
+        
+        
+            Shop
+
+        
+
+        
+        
+            
+                
+
+
+
+  
+    
+  
+
+
+
+
+
+
+    
+
+    
+        
+    
+
+
+
+
+    
+
+                
+                    
+                    
+                
+            
+            
+                
+
+
+
+
+    
+        
+            Featured athletes
+            View all
+        
+        
+
+            
+                
+                    {{#items}}
+                    
+
+                        
+                            
+                                {{#thumb}}
+                                
+                                    
+
+                                
+                                {{/thumb}}
+                                {{^thumb}}
+                                
+                                {{/thumb}}
+                            
+                            
+                                
+                                    
+                                        {{title}}
+                                    
+                                
+                            
+                        
+
+                    
+                    {{/items}}
+                    {{^items}}
+                    
+                        Sorry! No Featured Athletes at the moment
+                    
+                    {{/items}}
+                
+            
+        
+    
+
+
+
+
+
+  
+    
+      Sports
+      
+      
+    
+    View all
+  
+  
+
+    
+       
+        {{#items}}
+        
+          
+            
+              
+                
+              
+              {{name}}
+            
+          
+        
+        {{/items}}
+      
+    
+  
+
+            
+        
+
+    
+
+
+
+  
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+
+  
+ 
+        
+
+  
+
+
+  
+    
+      Madagascar’s skiing pioneer Mialitiana Clerc: “I want to inspire Africans”
+      
+
+Born in Madagascar and raised in France, alpine ski racer Mialitiana Clerc is excited to represent the country of her birth at Beijing 2022, four years after her Olympic debut in PyeongChang: "“I want to be one of the best skiers in the alpine skiing world," she told Olympics.com.
+    
+    
+
+      
+          
+            By Evelyn Watta
+          
+        
+          
+            
+              
+                {{day}} {{monthName}} {{year}} {{hour}}:{{minuteTwoDigit}}
+              
+            
+          
+        
+      
+
+      
+            
+                              Mialitiana CLERC
+            
+            
+                              Mikaela SHIFFRIN
+            
+      
+
+      
+        
+      
+
+
+
+
+
+
+
+    
+    
+      
+        
+        
+          
+          
+            Picture by 2018 Getty Images
+          
+        
+      
+    
+  
+
+
+
+
+
+
+
+        
+
+
+
+
+
+    
+
+
+Madagascar is renowned for its rich biodiversity and wildlife.
+
+You would not associate this subtropical island in the Indian Ocean with winter sports or alpine skiing.
+
+But that changed four years ago when Mialitiana Clerc became the second Malagasy - and the first woman from her country - to compete at the Winter Olympics.
+
+The then 16-year-old was her country’s youngest ever flag bearer at an Olympic Ceremony and she went on to finish 47th in the slalom, and 48th in the giant slalom - amongst over 80 competitors.
+
+And that was just the start.
+
+In 2019, Clerc made more history by becoming the first African woman to qualify for a second run in both her events at the World Championships in Are, Sweden.
+
+Now, as she heads to Beijing, it’s no longer about the experience for the young skier.
+
+“I'm trying to be the first woman who will be on a World Cup podium and to medal at the Olympics,” she told Olympics.com in an exclusive interview.  
+
+“I want to inspire Africans.”						Making of an Olympian
+
+Clerc was born in Ambohitrmanjaka, a small area outside Madagascar’s capital Antananarivo. At the age of one she was adopted by a French family but remained in contact with her biological parents. She began skiing at three even though she loathed the freezing conditions.
+
+As she got older, skiing with friends made it somewhat bearable and she developed a new appreciation for the mountains. The arty skier - who likes to draw, sing and dance - turned the slopes into her canvas.
+
+By the time she was 10, she had mastered the sport's basics and started to enjoy training on snow around her home in the Haute-Savoie region of the French Alps.
+
+The young teenager built on these solid foundations and joined the Inter Club Magland Desert Blanc.
+
+Shortly after she began competing down the slopes around the world and this fuelled her desire to make the most out of her abilities and become an Olympian.
+
+And with her family’s support, she slowly saw her dream come true.
+
+“I always wanted to go to the Olympics, finish the races and become an Olympian,” Clerc tells Olympics.com of her motivation at PyeongChang.
+
+“It wasn't challenging for me to compete with all the best skiers because I didn't expect to win a medal. I knew I couldn't do it as I was really young, but it was a good experience competing with all them. I was also not skiing confidently.”                  GettyImages-918389764      Picture by 2018 Getty Images         
+
+
+
+
+  
+    
+      
+      
+    
+
+    
+      
+      
+    
+  
+
+
+
+
+Raising the flag of Madagascar at a Winter Olympics was an emotional moment for the teenager, and hugely rewarding for the citizens of the fourth largest island in the world - which previously was represented by skier Mathieu Razanakolona at Turin 2006.
+
+“My best moment was at the Opening Ceremony because I was the flag bearer at the Olympics which, for me, was a huge event. I was really impressed by all the people around me and the lights and the songs. It was amazing!”                  GettyImages-916118348      Picture by 2018 Getty Images         Mialitiana Clerc: Now I have more experience
+
+After sharing the Olympic stage with her hero Mikaela Shiffrin, a “more confident” Clerc decided to start another chapter in her skiing career.
+
+One year after PyeongChang she made her debut at the World Championships in Are.
+
+In the 2019-2020 season the tech specialist recorded a series of impressive results in the South American Cup circuit and FIS events in Argentina. She went on to compete in Europa Cup and World Cup races.
+
+Participating at top events helped her garner enough points and earn the Olympic qualification for the second time. Even more encouraging, her exploits have inspired 18-year-old Mathieu Neumuller, another Malagasy skier who has also qualified for Beijing 2022.
+
+“I'm really happy and I can't wait to be there because I want to have my best results by bettering my last results. It’s also another [Olympic] experience” she said from Sweden where she was training with her team Orsatus under coach Fabien Pollier.
+
+The skier was delighted to be back on snow after undergoing surgery on a fractured leg in January.						
+
+
+
+
+  
+    
+      
+      
+    
+
+    
+      
+      
+    
+  
+
+
+
+
+“I now have more experience; I know how to react. I feel less stressed about races and worry less about how I'm going to ski tomorrow,” she said about her post-Olympics growth.
+
+“I know more things than [I did] four years ago because then I was kind of just starting [top-level] skiing…I was just entering the world of skiing with the best skiers.”“I want to be one of the best skiers in the alpine skiing world”
+
+Clerc is not just content about being a pioneer for Malagasy female skiers.
+
+“I feel lucky because, yeah, there is not a lot of African women in the world of skiing. I try to enjoy and to be proud of me and get the best results because I'm here for that...”  
+
+“I'm trying to be the first [African] woman who will make a World Cup podium and bring back a gold medal from at the Olympics.”
+
+“I want to be one of the best skiers in the alpine skiing world. And at the Olympics in Beijing, I want to be in the top 40.”
+
+Clerc is keen to be part of Africa’s winter sport revolution as she pursues her other ambition of becoming a fashion designer while contributing to the design of her Olympic competition suit.
+
+“I'm living in France but when people see Madagascar, they are kind of shocked and impressed because we don't see a lot of Africans and a lot of people from Madagascar. And I think, yeah, they want to see if I'm skiing good and if I can post good results.”
+
+“I want to inspire all Africans and inspire my followers, though I know alpine skiing is hard.”
+
+The Beijing 2022 alpine skiing competition begins on 6 February next year and ends with the mixed team parallel on 19 February. Find the schedule for the competition here.
+    
+
+    
+        
+
+
+
+  
+    Share article
+
+
+
+
+
+
+
+  
+  
+    More from
+      
+          
+                          Mialitiana CLERC
+          
+          
+                          Mikaela SHIFFRIN
+          
+          
+                          Mathieu RAZANAKOLONA
+          
+          
+              
+                
+                  
+                
+              
+                          Alpine Skiing
+          
+          
+                          PyeongChang 2018 | Olympic Winter games
+          
+          
+                          Torino 2006 | Olympic Winter games
+          
+          
+                          Beijing 2022 | Olympic Winter games
+          
+      
+  
+
+
+    
+
+      
+        
+      
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+
+	
+		
+			
+		
+		
+			
+		
+	
+	
+				
+			GO OLYMPIC. GET ALL THIS.
+		
+	
+		Free live sport events. Unlimited access to series. Unrivalled Olympic news &amp; highlights.
+	
+	
+		
+
+			Sign up here
+			Sign up here
+
+
+
+		
+	
+
+	
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+                        
+                            
+                        
+                        Related content
+                
+
+                
+                    {{#items}}
+                    
+                        
+                            
+                                
+                                    
+                                        
+                                    
+                                
+                                
+                                    {{#roofline.primary}}
+                                    
+
+                                        {{#roofline.linkPrimary}}
+                                        {{roofline.primary}}
+                                        {{/roofline.linkPrimary}}
+
+                                        {{^roofline.linkPrimary}}
+                                        {{roofline.primary}}
+                                        {{/roofline.linkPrimary}}
+
+                                    
+                                    {{/roofline.primary}}
+
+                                    {{#isPodCast}}
+                                    
+                                        
+                                            
+                                        
+                                        {{#roofline.type.duration}}
+                                        {{roofline.type.duration}}
+                                        {{/roofline.type.duration}}
+                                    
+                                    {{/isPodCast}}
+                                    {{^isPodCast}}
+
+                                    {{#showPlayButton}}
+                                    
+                                        
+                                            
+                                            {{#roofline.type.label}}
+                                            {{roofline.type.label}}
+                                            {{/roofline.type.label}}
+                                        
+                                        {{#roofline.type.duration}}
+                                        {{roofline.type.duration}}
+                                        {{/roofline.type.duration}}
+                                    
+                                    {{/showPlayButton}}
+
+                                    {{/isPodCast}}
+
+                                    {{#showGalleryButton}}
+                                    
+                                        
+                                            
+                                            {{#roofline.type.label}}
+                                            {{roofline.type.label}}
+                                            {{/roofline.type.label}}
+                                        
+                                    
+                                    {{/showGalleryButton}}
+
+                                    {{#showLinkButton}}
+                                    
+                                        
+                                            
+                                        
+                                    
+                                    {{/showLinkButton}}
+                                
+                            
+                            
+                                
+                                    
+                                        {{#roofline.subtype}}
+                                        {{roofline.subtype}}
+                                        {{/roofline.subtype}}
+                                        {{title}}
+                                    
+                                
+
+                                {{#roofline.secondary}}
+                                {{#roofline.linkSecondary}}
+                                {{roofline.secondary}}
+                                {{/roofline.linkSecondary}}
+
+                                {{^roofline.linkSecondary}}
+                                {{roofline.secondary}}
+                                {{/roofline.linkSecondary}}
+                                {{/roofline.secondary}}
+
+                            
+                        
+                    
+                    {{#marked}}
+                    
+                        
+
+
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+
+
+                    
+                    {{/marked}}
+                    {{/items}}
+                
+            
+        
+    
+
+
+
+
+        
+            
+
+            
+        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+        
+            
+                
+                    
+                        
+                          
+                          
+                        
+                    
+
+                    
+                        
+
+
+
+
+	
+        
+Olympic Games        
+        
+Beijing 2022        
+        
+Results &amp; Medals        
+        
+Replays &amp; Highlights        
+        
+All Olympic Games        
+	
+
+
+                    
+
+                    
+                        
+
+
+
+
+	
+        
+Olympic Channel        
+        
+TV Channel        
+        
+Live Events        
+        
+Original Series        
+	
+
+
+                    
+
+                    
+                        
+
+
+
+
+	
+        
+News        
+        
+Podcast        
+        
+Topics        
+	
+
+
+                    
+
+                    
+                        
+
+
+
+
+	
+        
+Explore        
+        
+Athletes        
+        
+Sports        
+	
+
+
+                    
+
+                    
+                        
+
+
+
+
+	
+        
+More        
+        
+International Olympic Committee        
+        
+Museum        
+        
+Shop        
+        
+About Us        
+        
+Contact Centre        
+        
+Sitemap        
+        
+Careers        
+	
+
+
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                    
+                        
+
+
+  
+
+        
+          
+              
+              
+          
+        
+        
+          
+              
+              
+          
+        
+
+  
+
+
+                        
+
+
+
+
+	
+        
+menu-to-hide-DO-NOT-REMOVE        
+        
+Cookie Policy        
+        
+                
+                    Cookie Settings
+                
+        
+        
+Privacy Policy        
+        
+Terms of Service        
+	
+
+
+                        
+
+  
+    
+
+            
+              
+                  
+                  
+              
+            
+            
+              
+                  
+                  
+              
+            
+            
+              
+                  
+                  
+              
+            
+            
+              
+                  
+                  
+              
+            
+            
+              
+                  
+                  
+              
+            
+            
+              
+                  
+                  
+              
+            
+            
+              
+                  
+                  
+              
+            
+            
+              
+                  
+                  
+              
+            
+
+    
+  
+                    
+                
+            
+        
+    
+    
+        
+            
+                
+                    
+                        
+                            TM © 2021 – International Olympic Committee – All Rights Reserved.
+                        
+                    
+                
+            
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+

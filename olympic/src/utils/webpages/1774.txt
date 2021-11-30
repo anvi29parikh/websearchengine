@@ -1,0 +1,733 @@
+
+
+
+
+Help:Edit conflict - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Help:Edit conflict
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikimedia help page
+This page is about the technical problem where multiple editors try to edit the same page at once, leading to a conflict the software cannot resolve automatically. For editing disagreements between editors, see Wikipedia:Edit warring.
+
+
+
+
+This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutsH:ECWP:EDCWP:ECF
+This page in a nutshell: Edit conflicts occur when two users make edits to the same page at the same time, causing the edits to conflict with each other. When this happens, the MediaWiki software provides a screen that allows the user to resolve the conflict manually.
+
+
+This page discusses edit conflicts, and how to deal with them. To understand what an edit conflict is, consider the following situation:
+
+Bob clicks "Edit" on a page. The software sends Bob the current revision of the page, #1.
+Alice clicks "Edit" on the same page, while Bob is editing. The software sends Alice the current revision of the page, #1.
+Bob finishes his edits and clicks "Publish changes". The software saves Bob's edits as revision #2, and publishes #2. Alice is still editing #1.
+Alice finishes her edits and clicks "Publish changes". The software saves Alice's edits as revision #3, but discovers that #3 is based on revision #1, although the currently published revision is #2. The software tries to automatically reconcile the differences, but fails. Alice therefore gets an "edit conflict" page, giving Alice a chance to reconcile the differences between #2 and #3 manually.
+Contents
+
+1 Layout of the edit-conflict page
+2 Resolving an edit conflict
+3 Logical edit conflicts
+4 Mistakes
+5 Reverting
+6 Prevention
+7 See also
+
+
+
+Layout of the edit-conflict page
+ Note: The following explanation may not be consistent with the editing interface that you see, depending on your account's preferences and gadgets, which web browser you use, and whether you use Wikipedia's traditional editor, visual editor, or a mobile app to edit.
+  Your changes have been copied into a box at the very end of the page. The box with your changes is labeled "Your text".  On a large page with many changes, you may have to scroll down a very long way to find the box that contains your changes.
+
+
+At the top of the edit-conflict page is an editing box containing Bob's version of the whole page, even if Alice is doing section editing.
+
+
+At the bottom of the edit-conflict page is a second editing box containing the text Alice was going to submit. This will be Alice's version of the page or section she was editing.
+
+
+Between the two editing boxes is a diff that shows the difference between Bob's and Alice's version of the article. For the section Alice is editing, it shows Alice's changes and Bob's possible changes, except for sections where Alice and Bob have both made the same change. For the other sections, it shows the full new text as if all that text was added.
+
+
+Alice can edit in the upper editing box and press Publish  changes. In the case Alice was editing only a section, this will be interpreted as the new version of the section, hence produce duplication of the other sections, unless Alice deletes them before saving. (This seems to be a bug.) The best solution in this case is to save your new text outside of Wikipedia (e.g., to the clipboard), cancel out, then try again.
+
+
+At certain times when pressing Publish changes and the system is slow, one may be able to make multiple edits to the same page before the system responds. This produces an edit conflict with oneself. In this case the upper text may be the old version instead of the one involving the first edit, i.e., the system notices the earlier change but has not processed it yet. A moment later, while one is viewing the edit-conflict page, the first change is carried out in the background, and the upper text no longer is the current one. Hence, the diff shows the combined edit, and in the case of section editing, like before, the "addition" of the other sections. If you choose to publish your work in this type of edit conflict, it will result in the removal of your previous editing from the page.
+
+Resolving an edit conflict
+  In most situations, an edit conflict can be resolved by merging the two changes to a page — including the contributions of both editors.
+
+
+If Alice made only small changes, and Bob made large changes, she may choose to work from Bob's version, and re-merge her changes in. Alice might choose to add some text like "via edit conflict" to the edit summary, or use template {{edit conflict}} on a Discussion/Talk page, to warn Bob and others that she had to do this&nbsp;– Bob can then peer review her merging for accuracy.
+
+
+If Alice made large changes, and Bob made small changes, Alice may choose to work from her version. One option is for Alice to copy the bottom text into the top text (or just copy over the one section of the top text, if Alice was section editing), with an appropriate edit summary (e.g., "via edit conflict, will remerge"). Then Alice can view the page history, determine Bob's changes, and re-apply them to her version, in a separate edit.
+
+
+If both Alice and Bob made large changes, matters become complicated, and Alice and Bob just have to do the best they can. For example, if both Alice and Bob simultaneously add a large section of text on the same subject, then it may be best for Alice to submit her changes, and then for Alice and Bob to both have a look at the two versions and decide between themselves which version is better.
+
+
+Alice should not just post her changes over the top of Bob's. We assume good faith&nbsp;– mistakes are occasionally made, and newcomers may not understand the edit conflict window. However, Alice must not routinely ignore edit conflicts. It is absolutely not acceptable for Alice to overwrite Bob out of laziness. We encourage contributors to double-check their merges by using the diff feature.
+
+Logical edit conflicts
+
+
+(This is a conflict between editors that is undetectable by the mechanism that decides whether to give the "edit conflict" message.)
+
+
+Some people edit by copying the source text into a text editor, making lots of changes (reorganising, adding new content, etc.), and then, when they're done, pasting the whole thing back onto Wikipedia as a single (new) edit. If someone else has made changes in the meantime these changes would get lost in the paste back. People who edit in this manner should either:
+
+paste only into the same edit box that was originally copied from, or
+check the page history for such edits, and merge the changes before pasting back.
+
+
+The second method is not foolproof, since another editor may save changes in the time interval between the retrieval of the page history and the final pasting back. This can be detected by checking the page history again afterwards.
+
+
+If third-party software that assists a user to edit a page in an external editor does not follow the first bullet point above (or the equivalent measure, if any, for the method it is using to access Wikipedia) and causes a logical edit conflict, then that is a software bug which should be reported to the software developers of the third-party software being used.
+
+Mistakes
+
+
+Sometimes mistakes will be made in the merging process, because Alice is human, and this may cause some of Bob's changes to be accidentally reversed. Logical edit conflicts aren't always immediately visible. Sometimes Alice may have good reasons for thinking that Bob's improvements aren't useful. In this case, Bob and Alice are expected to resolve their differences amicably.
+
+
+If Bob made a small change which Alice accidentally replaced, Bob must not revert to his version. It is absolutely not acceptable for Bob to reverse Alice's major improvements to the page out of a desire to protect his minor improvements, or to punish Alice for her carelessness. This is particularly important if the page has subsequently been edited by other editors.
+
+
+The best approach for Bob in this circumstance is to edit Alice's version, reinstate his minor improvements, and leave Alice's major improvements intact. He may also add something to the edit summary to indicate that he had to do this&nbsp;– for example: "Reinstating link which Alice accidentally removed". Alice should then apologize to Bob for her mistake, and thank him for preserving her improvements.
+
+
+If Alice repeats her error, then the best approach is for Bob to have a friendly word on her talk page, point her to this page, and ask her if she could take a little more care in the future. This is particularly important for newcomers, who may not understand the correct way to resolve edit conflicts, though even experienced users may need the occasional friendly reminder.
+
+Reverting
+
+
+When saving a previous version (i.e., when reverting) or a new version based on that (a modified reversion) the edit conflict warning and prevention system is not triggered and a possible new edit made in the meantime is unintentionally reverted also, see Reverting a page to an earlier version. To avoid this problem one can copy the text from the edit box of the old version into the edit box of the latest version. In some sense, this can cause hidden edit conflicts: you may overwrite someone else's changes without realising that you are doing so. It's always wise to check the diff after performing a revert, just as you would after posting via edit conflict. Preferably, one can simply try to avoid reversion wars.
+
+Prevention
+See also: Wikipedia:Avoiding edit-conflicts
+
+
+Edit conflicts are irritating and can be time-consuming, but there are ways to make them less frequent or easier to recover from.
+
+
+Saving your work frequently reduces the risk of your experiencing an edit conflict, and when you do they should be easier to resolve.
+
+
+When practical, edit one area of the article at a time. This reduces edit conflicts because the system can cope if different editors are editing different areas at the same time. Both the source code editor and the visual editor use CVS-style edit-conflict merging, based on the diff3 utility. This feature triggers an edit conflict only if users attempt to edit the same few lines. Edit conflict detection is by line/paragraph.
+
+
+Start new articles in sandboxes and move them to mainspace only when you are ready to stop editing them for an hour or so and instead watch what others do to them.
+
+
+Wikipedia has an "In Use" notice in its Template namespace that people may use when editing a page over a long period of time. This may discourage other editors from editing while you are editing. Simply put {{inuse}} on an article before proceeding with a major edit, and remove the template when the editing is complete.
+
+See also
+
+
+
+This page is referenced in the Wikipedia Glossary.
+
+
+Template:Edit conflict
+Race condition, a computing issue of which Wikipedia edit conflicts are an example.
+vteWikipedia help pages
+Visit the Teahouse or the Help desk for an interactive Q &amp; A forum.
+
+FAQs&nbsp;(?)
+Reference desks&nbsp;(?)
+Noticeboards&nbsp;(?)
+Cheatsheet&nbsp;(?)
+ Directories&nbsp;(?)
+About Wikipedia&nbsp;(?)
+Administration
+Purpose
+Principles
+Policies and guidelines
+What Wikipedia is not
+Disclaimer&nbsp;(parental advice)
+Making requests
+Who writes Wikipedia?
+Help for readers&nbsp;(?)
+FAQ
+Books
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia&nbsp;(?)
+Advice for young editors
+Avoiding common mistakes
+Etiquette
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Your first article&nbsp;(article wizard)
+Getting started&nbsp;(?)
+Why create an account?
+Introductions by topic
+Graphics tutorials
+Picture tutorial
+IRC (live chat) tutorial
+VisualEditor user guide
+Dos and don'ts&nbsp;(?)
+Accessibility
+Biographies
+Biographies (living)
+Categorization
+Consensus
+Discussions
+Disambiguation
+Images
+Leads
+Links
+Lists
+References
+Tables
+Titles (of articles)
+How-to pages and
+information pages&nbsp;(?)
+Appealing blocks
+Article deletion
+Categories
+Citations/references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+Minor edit
+toolbar
+edit conflict
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking&nbsp;(link color)
+Logging in
+Merging
+Page name
+Renaming pages
+Redirect
+Passwords
+Email confirmation
+Reverting
+Simple vandalism cleanup
+Talk pages&nbsp;(archiving
+simple archiving)
+User contributions
+WP search protocol
+Coding&nbsp;(?)
+Wiki markup
+Barcharts
+Calculations
+Characters
+Columns
+Hidden text
+HTML
+Lists
+Magic words
+Music symbols
+Sections
+Sounds
+Tables
+Templates
+Transclusion
+URL
+Visual files
+Directories&nbsp;(?)
+Abbreviations
+Contents (Encyclopedia proper)
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Manual of Style 
+Policies
+Tasks
+Tips
+Tools
+ Missing Manual
+
+Ask for help on your talk page&nbsp;(?)
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Edit_conflict&amp;oldid=1054206928"
+		Categories: Wikipedia how-toWikipedia glossary itemsHidden categories: Help pages with short descriptionWikipedia semi-protected project pagesWikipedia move-protected project pagesWikipedia help
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMediaWikiMeta-Wiki
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AfrikaansAlemannischÆngliscالعربيةБългарскиCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoفارسیFrançaisGalego한국어Bahasa IndonesiaÍslenskaItalianoעבריתJawaLatviešuLietuviųMagyarBahasa MelayuNederlands日本語Norsk bokmålPolskiPortuguêsScotsSimple EnglishSlovenčinaSlovenščinaSundaSvenskaதமிழ்తెలుగుไทยУкраїнськаاردوTiếng Việt粵語中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 8 November 2021, at 18:00&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

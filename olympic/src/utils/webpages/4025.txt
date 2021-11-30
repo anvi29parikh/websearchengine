@@ -1,0 +1,627 @@
+
+
+
+
+Wikipedia:Edit requests - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Edit requests
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		"WP:ER" redirects here. It is not to be confused with Wikipedia:Expert retention, Wikipedia:Editing restrictions, Wikipedia:Editor review, Wikipedia:WikiProject Editor Retention, or Wikipedia:WikiProject Edit requests."WP:PER" redirects here. For the essay about the word "per", see Wikipedia:What does "per" mean? For "Perennial issues", see Wikipedia:Perennial proposals.
+
+
+
+
+Wikipedia information pageThis is an information page.
+It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.ShortcutsWP:EDITREQWP:ER
+
+
+Edit requests are requests for edits to be made to a page where editors cannot or should not make the proposed edits themselves. Requests should be accompanied by a clear and specific description of the requested change, and consensus should be obtained before requesting changes that are likely to be controversial. Requests are made using an appropriate talk page template (see making requests below). Clarity in edit requests is important, and providing the new sentences or code in your request, if possible, will expedite the process.
+
+
+To see a listing of current edit requests, go to WP:Dashboard §&nbsp;Requested edits.
+
+
+When requested edits are found suitable and made to a page by the responder, copyright attribution must be provided in the edit summary, as instructed below. 
+
+
+Errors on the Main Page are a special case and should not be handled via standard edit requests. To report an error you have noticed on the current main page or tomorrow's main page, please add it to the appropriate section on Wikipedia:Main Page/Errors.
+
+
+To request that an article be renamed or moved, see Wikipedia:Requested moves.
+
+Contents
+
+1 Planning a request
+
+1.1 General considerations
+1.2 Requests for templates
+
+
+2 Making requests
+
+2.1 Response time
+2.2 Edits affecting several pages
+2.3 Further information needed
+
+
+3 Responding to requests and mandatory copyright attribution
+
+3.1 Mandatory copyright attribution
+3.2 Monitoring new requests
+
+
+4 Notes
+
+
+
+Planning a request
+
+
+In general, if you want to make an edit request:
+
+Propose a specific change on a talk page. Don't add an edit request template yet.
+Once there is consensus for the change, and any final details have been worked out, put a template on the talk page along with a short, clear explanation.
+A user who can make the edit will notice the template has been added, and will respond to the request.
+
+
+Consensus isn't needed if a change is not controversial. Uncontroversial changes don't require sourcing, such as correcting typographical errors or disambiguating links. If this is the case, you don't need to establish consensus, but instead propose the change as stated above.
+
+General considerations
+
+
+Edit requests for articles or templates should meet the same four basic requirements. Note, however, that edit requests for templates should meet the additional requirement of adequate testing—see §&nbsp;Requests for templates below. 
+
+
+Before requesting an edit, please consider the following requirements (SUNS—Specific, Uncontroversial, Necessary, Sensible):
+
+ShortcutWP:EDITXYIs your request specific? Any edit request must be accompanied by a detailed and specific description of what changes need to be made. Clearly indicate which sections or phrases should be replaced or added to, and what they should be replaced with or have added. Examples: Change X to Y; Insert X after/before Y; Remove X. See some sample edit requests that demonstrate how to be specific and detailed in your edit requests.
+Is your request uncontroversial? Edit requests for fully protected pages must be handled by an administrator. Administrators can respond only to requests that are either uncontroversial improvements (correcting typos, grammar, or reference formatting; improving the reliability or efficiency of template code) or are already supported by a consensus of editors, usually on the protected page's talk page. If consensus is required for your request, and you would like to see action on it sooner, please explain how a clear consensus came about, rather than hoping that the admin will read pages of discussion. Please do not add the {{edit fully-protected}} template merely to attract attention to a post, even in the name of finding consensus, as it clutters up the category that administrators check to find unanswered edit requests with unactionable requests that still take time to clear out. Instead, try to get opinions by appropriately notifying any editors who have already worked on the page or a related WikiProject about your post.
+Is your request necessary? Could you do it soon yourself? Just as in the first stage of creating an edit request, you can post comments on the talk page, but not add the edit request template, and then wait until you can do it yourself: A. If the page protection is of short duration or is about to expire, consider waiting that short time for the opportunity to make the edit yourself. B. If the page is semi-protected, then autoconfirmed users can edit it. How close are you to  becoming autoconfirmed? You can edit semi-protected pages yourself after you have made at least ten edits and your account is at least four days old.
+Is your request sensible? For example, if you perform basic tidying such as ensuring that all references are properly formatted using citation templates, be certain that the section still flows correctly after the text is changed.
+
+
+Responding editors may decline to make any edit, and are especially likely to reject edits that are controversial, violate Wikipedia policy, or do not have evidence of consensus. There is a forum at WP:Requests for page protection §&nbsp;Current requests for edits to a protected page for requesting or discussing edits to protected pages, including edits to locked discussion pages, and edits that may be significant or controversial. The direct shortcut to the section is WP:RFED, (in Wikipedia's namespace, the Requests For EDiting).
+
+Requests for templates
+
+
+If you are requesting a complex change to a template, place the required code on the template's sandbox page. This gives the opportunity to test the code before changing the live template. Instead of pasting the code on the talk page, which can affect its readability, just place a link to the /sandbox along with the request and rationale.
+
+As above, clearly indicate which lines of code need to be changed, or (ideally) provide a link or diff to a sandbox that contains the entire code of the template, with the required changes. The responding editor can then simply replace the code in the live template with the code from the sandbox.
+Edits to protected templates, except when they are trivial, must be tested in a sandbox first to make sure that they do not cause problems or corrupted output.
+Making requests
+For a more detailed explanation about making requests where you have a conflict of interest, see Wikipedia:Simple conflict of interest edit request.
+For examples of edit requests, see Wikipedia:Sample edit requests.
+See also: Wikipedia:Guide to effective COI edit requests
+
+
+If you are a newer user, it is recommended that you use the edit request wizard. The wizard guides you through the process of making the edit request.
+
+
+The simplest approach for edit requests for fully protected, template-protected or semi-protected pages is to use the View source tab on that page and use the "Submit an edit request" link at the bottom right; this automatically loads the correct talk page tag.[1] If you are making a request because of a conflict of interest (COI; see Wikipedia:Suggestions for COI compliance), use the {{request edit}} tag; it must be added manually to the relevant page's talkpage.
+
+
+Alternatively, you can use a tag directly, adding it manually to the relevant page's talkpage:
+
+{{edit interface-protected}} (shortcut: {{IPER}}) for sitewide JavaScript or style sheet pages;
+{{edit fully-protected}} (shortcut: {{FPER}}) for fully protected and move-protected pages;
+{{edit template-protected}} (shortcut: {{TPER}}) for template-protected pages;
+{{edit extended-protected}} (shortcut: {{EPER}}) for extended-protected pages;
+{{edit semi-protected}} (shortcut: {{SPER}}) for semi-protected pages;
+{{request edit}} for conflict-of-interest edits.
+
+
+Remember that all editors are volunteers, and a polite request (rather than a demand) is more likely to be acted on promptly.
+
+Response time
+
+
+Edit request templates automatically add the relevant page into an appropriate administrative category, such as Category:Wikipedia fully-protected edit requests (from {{edit fully-protected}}) for edits to fully protected pages. Administrators routinely check this category for protected edit requests to process. Other relevant categories, Category:Wikipedia semi-protected edit requests, Category:Wikipedia extended-confirmed-protected edit requests, Category:Wikipedia template-protected edit requests, Category:Wikipedia interface-protected edit requests and Category:Wikipedia requested edits, are monitored by other editors. Please be patient; it can take a few days for an edit request to be acted upon.
+
+Edits affecting several pages
+
+
+Sometimes, the same or similar edits are needed on several pages, such as adding the same category to many pages. In this case, add the tag to only one talk page, with a list of all the pages that need updating and a clear description of what needs to be done. This saves work both for the editor making the request and for the editor responding to the request. Requests for large-scale edits that require administrative abilities can also be made at the administrator's noticeboard.
+
+Further information needed
+
+
+Sometimes, responding editors may request further information, and disable the template by changing the |answered= parameter to "yes" — e.g. {{edit fully-protected|answered=yes}}. Feel free to re-enable the template when the additional information has been provided or additional consensus has been obtained by changing the "yes" in the template to "no". If you're unable to do this, you can simply respond on the talk page. If you do not receive a response in a day or two, then submit a new edit request.
+
+Responding to requests and mandatory copyright attribution
+See also: Wikipedia:Conflict of interest §&nbsp;RespondingShortcutWP:ERREQ
+
+
+In responding to requests, consider the four points listed under "General considerations". In particular, edits likely to be controversial should have prior consensus, and edits to templates should be appropriately tested beforehand. Responding editors should use their judgement to respond appropriately to requests, and take into account relevant Wikipedia policies such as neutral point of view, verifiability and reliable sourcing. 
+
+
+
+Edits made on behalf of other editors must be appropriately attributed in the edit summary to comply with copyright. An example copyright attribution edit summary appears below:
+
+Implementing talk page edit requested by [[Special:Contributions/NAME|NAME]] – short description of changes made
+
+
+The following are standard templates for responding to edit requests, and their usage:
+
+{{subst:EEp}}, for extended-confirmed-protected
+{{subst:EIp}}, for interface-protected pages
+{{subst:EP}}, for fully protected
+{{subst:ESp}}, for semi-protected
+{{subst:ETp}}, for template-protected
+
+
+They have a variety of options. For example, {{subst:EIp|?}} / {{subst:EP|?}} / {{subst:ETp|?}} / {{subst:EEp|?}} / {{subst:ESp|?}} is convenient for responding to insufficiently specific requests. These templates should be subst:ed and added at the beginning of the editor's description of the request. For example: {{subst:ESp}} Under the title, add the word "Malumba". 
+
+
+It is acceptable to remove empty edit requests from a Talk page, if considered necessary. Consider using {{Empty edit request}} on the User Talk page of a user who has posted an empty edit request.
+
+
+Once the request has been responded to, the responding editor should disable the protected edit request template by changing the |answered= parameter to "yes" — e.g. {{edit fully-protected|answered=yes}}.
+
+Mandatory copyright attribution
+ShortcutWP:ERCOPYVIO
+
+
+Edits made on behalf of other editors must be appropriately attributed in the edit summary to comply with copyright. An example copyright attribution edit summary appears below:
+
+Implementing talk page edit requested by [[Special:Contributions/NAME|NAME]] – short description of changes made
+Monitoring new requests
+
+
+Purge this page to update the number of requests in this section.
+
+
+Editors may wish to use the following lists to keep track of new edit requests (for an overview of the tables below, click here):
+
+User:AnomieBOT/IPERTable: interface-protected edit requests (currently 2 requests—add to watchlist)
+User:AnomieBOT/PERTable: protected edit requests (currently 2 requests—add to watchlist)
+User:AnomieBOT/TPERTable: template-protected edit requests (currently 4 requests—add to watchlist)
+User:AnomieBOT/EPERTable: extended-confirmed-protected edit requests (currently 8 requests—add to watchlist)
+User:AnomieBOT/SPERTable: semi-protected edit requests (currently 32 requests—add to watchlist)
+User:AnomieBOT/EDITREQTable: COI edit requests (currently 179 requests—add to watchlist)
+
+
+For a directory of current requests, see WP:Dashboard §&nbsp;Requested edits.
+
+
+These pages are automatically updated by AnomieBOT. Because they are regular Wikipedia pages and not categories, it is possible to inspect the page histories to see edit requests that have previously been closed. AnomieBOT also includes the number of pending requests in its edit summary when it updates the list, making it possible to monitor new edit requests directly from the watchlist.
+
+Notes
+
+
+^ Technical details: The link is provided by MediaWiki:Protectedpagetext, and it uses Template:Submit an edit request/preload as the preload and an appropriate tag as the editintro. For protected pages, this is Template:Edit fully-protected/editintro, for semi-protected pages, Template:Edit semi-protected/editintro, and for template-protected pages, Template:Edit template-protected/editintro
+
+
+vteWikipedia communityFor a listing of current collaborations, tasks, and news, see the Community portal.
+For a listing of ongoing discussions and current requests, see the Dashboard.General community
+topics
+Administration
+News
+The Signpost
+Goings-on
+In the media
+Meetups
+Mailing lists
+Wikipedians
+Statistics
+The Wikipedia Library
+Centralized discussion
+Village pump
+Idea lab
+Policy
+Proposals
+Technical
+Miscellaneous
+WMF
+Bots
+Contents and grading
+Requested articles
+Most-wanted articles
+Images needing articles
+Articles needing images
+Articles for creation
+WP:AFC/R
+Creation
+Help
+Vital articles
+Articles for improvement
+Peer review
+Good article nominations
+Featured article candidates
+Lists
+Pictures
+Topics
+Article translation
+Pages
+Main Page
+Errors
+WikiProjects
+and collaborations
+Directory
+Culture and the arts
+Geographical
+History and society
+Science, technology and engineering
+Wikipedia assistance and tasks
+Patrols
+Recent changes
+Counter-Vandalism Unit
+Version 1.0 Editorial Team
+Accessibility
+Organizations category
+Awards and feedback
+Reward board
+Contests
+A nice cup of tea and a sit down
+Charitableness
+WikiLove
+Compliment before criticism
+Kindness Campaign
+Thanks!
+Maintenance tasks
+Task Center
+Open tasks
+Backlog
+Category
+Admin category
+Edit requests
+Category
+Database reports
+Category tracker
+Dusty articles
+Special pages
+New pages
+Recent changes
+Controversial issues
+Administrators
+and noticeboards
+Administrators' noticeboard
+Incidents
+Edit warring
+Vandalism
+Admin dashboard
+Admin requests
+Closure
+Page protection
+User permissions
+Sockpuppets
+Open proxies
+Revision deletion
+Oversight
+Request
+Usernames
+Changing
+Title blacklist
+OTRS
+Bureaucrats'
+Requests for adminship and bureaucratship
+Arbitration Committee
+Requests
+Enforcement
+Content dispute
+resolution
+Requests for comment
+Third opinion
+Dispute resolution noticeboard
+Biographies of living persons
+Conflict of interest
+External links
+Fringe theories
+Neutral point of view
+No original research
+Reliable sources
+Other noticeboards
+and assistance
+Regional notice boards
+Requests for help
+Category
+Asking&nbsp;questions
+Teahouse
+Help&nbsp;desk
+Reference&nbsp;desk
+Adopt-a-user
+Copyright assistance
+Copyright investigations
+Text problems
+Media questions
+Resource requests
+Mergers
+History mergers
+Moves
+Page importation
+Spam
+Blacklist
+Whitelist
+Bots
+Education
+General sanctions
+Editor sanctions
+Long-term abuse
+Deletion
+discussions
+Guide
+Admin
+Today
+Articles
+Templates
+Files
+Categories
+Redirects
+Miscellany
+Speedy
+Proposed
+BLP
+Review
+Undeletion
+Arguments to avoid
+Arguments to make
+Article Rescue
+Elections and votings
+Requests for comment (meta)
+Wikimedia Foundation elections
+WP Democracy
+Voting is not evil
+Milestones
+Directories, indexes,
+and summaries
+Departments
+Edit summary legend
+Editor's index
+Essays
+FAQs
+Glossary
+Abbreviations
+Help
+Manual of Style
+Simplified
+Rules
+Five pillars
+Policies
+Guidelines
+Shortcuts
+Templates
+Citation templates
+Tips
+Today
+Tools
+Wiki markup
+
+Media
+Category
+Templates
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Edit_requests&amp;oldid=1048619875"
+		Categories: Wikipedia information pagesWikipedia edit requestsHidden categories: Wikipedia semi-protected project pagesProject pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		فارسیमराठीRomânăСрпски / srpski中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 7 October 2021, at 01:40&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

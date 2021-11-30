@@ -1,0 +1,431 @@
+
+
+
+
+Template:Committed identity - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Template:Committed identity
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Committed&nbsp;identity: {{{1}}} is a SHA-512 commitment to this user's real-life identity.
+
+
+
+
+ Template documentation[view] [edit] [history] [purge]
+This template uses TemplateStyles:
+Template:Committed identity/styles.css
+
+
+This template gives you a way to later prove that you are the person who was in control of your account on the day this template was placed. This is done by putting a code (called a "hash") on your user page so that, in the event that your account is compromised, you can convince someone else that you are really the person behind your username.
+
+Contents
+
+1 About
+2 Usage
+
+2.1 Syntax
+2.2 Obtaining a hash
+
+2.2.1 Ultrasecure method
+2.2.2 Passphrase method
+
+
+
+
+3 Password reset
+4 See also
+
+
+
+About
+
+
+The intended use of this template is to help in the hopefully unlikely event that your account is compromised. If you published your real-life identity, then that identity could be used to reestablish contact with you if your account were compromised; keep in mind, in this scenario contact could not be established with you through your account, since it may be under the control of someone else. However, many Wikipedia users do not disclose their real-life identities, or disclose little enough of them that it may be difficult to establish their identity.
+
+
+This is not a replacement for having a strong password, nor for registering an email address for your account. You should still do everything you can to prevent your account being compromised, including using a strong password and remembering to log yourself out when using a computer to which others may have access. If you have one, it may also be helpful to post your PGP public key. But even with the best of precautions, your account could become compromised, for instance, via a trojan horse or a brute-force attack on your password. This is intended to be a last resort.
+
+Usage
+
+
+The idea is to use cryptographic hashes; you choose a secret string known only to yourself, put it through a one-way hash function, and publish the result somewhere. It is infeasible to determine the secret string corresponding to the hash; hence, an attacker compromising an account presumably would not be able to supply the secret string.
+
+Syntax
+{{Committed identity|hash|hash function used|background=CSS color|border=CSS color|article=grammatical article for the hash function}}
+
+
+Italicized text should be replaced with appropriate input, or its parameter should be removed. Parameters are represented by "parameter=value", and separated by vertical bars |.
+
+Replace "hash" with the hash produced from your secret string. This unnamed parameter is equivalent to a parameter named "1" (see parameters).
+The "hash function used" parameter, if not included, defaults to SHA-512. (This hash function is strongly recommended.)
+The "background" parameter, if not included, defaults to #E0E8FF (light blue, see Web colors#Hex triplet)
+The "border" parameter, if not included, also defaults to #E0E8FF.
+The "article" parameter, if not included, defaults to "a". The other likely value is "an".
+The "extra-style" parameter can be used to specify additional style considerations, such as "text-align:center".
+
+
+For example, if your hash is "1eb00f7cdeaa38f5e9aec8f065b956acf94d416a4a40c1fb5d1dd23b857ba6fe" using SHA-256, and you want a light orange box with a black border, use the following code:
+
+{{Committed identity|1eb00f7cdeaa38f5e9aec8f065b956acf94d416a4a40c1fb5d1dd23b857ba6fe|SHA-256|background=#FC9|border=#000}}
+
+
+to produce
+
+Committed&nbsp;identity: 1eb00f7cdeaa38f5e9aec8f065b956acf94d416a4a40c1fb5d1dd23b857ba6fe is a SHA-256 commitment to this user's real-life identity.
+
+Obtaining a hash
+
+
+Use Fastily's browser tool or software on your computer such as sha512sum provided in the GNU Core Utilities. The use of other online hash generators is not recommended, as they are outside Wikipedia's control and should not be trusted with your secret string.
+
+Ultrasecure method
+Your secret string should end with a long string of random text like "fFfwq0DuDmMXj8hYTM3NTKeDhk". This ensures that brute force and dictionary attacks cannot infer your identity from your public hash.
+Your secret string should specify enough of your identity that, if the string were revealed, you could unambiguously prove that you match that identity. At least two means of contact is a good rule. For instance, your secret string could include a telephone number and email address at which you can be reached. However, it should not contain data that you are not willing to show to Wikipedia's administrative staff.
+Try not to choose a secret string that represents your identity that could go completely out of date. For instance, it may be bad to choose a string that specifies only your telephone number as that number might change.
+If you want to change your secret string, do so, but keep track of all your old secret strings. It is best to reveal all of them if you ever want to confirm your identity, as this will establish that you are the same person who used your account from the first moment the committed identity was published.
+Advanced options:
+If you have public accounts on other websites with different passwords, list URLs of those accounts. You can later take a specified action to prove that you own those accounts. For example, if you have a YouTube account, an administrator can provide a string which you then insert in a video comment.
+You may include information such as your driver's license number, national identification number, or passport number. You can then later supply copies of these documents as additional evidence to prove your identity.
+Another option is to take a photo or video of yourself, take a SHA hash of the resulting file, and include that hash in your secret string. Retain the file. You can then later supply the file to an administrator, and they can video call with you and compare the file with your current appearance. This will remain effective even if the attacker has compromised all your listed means of contact.
+Example
+
+
+Full name, multiple forms of contact, contact information for trusted friends, and a random string:
+
+
+Joe Schmoe. joe@example.com. 555-123-3456. P.O. Box 1234, San Jose, CA. My best friend Bob's email: bob@example.com. fFfwq0DuDmMXj8hYTM3NTKeDhk
+
+which results in a SHA-512 hash of 92938b5423a1793d836333694cf0e55d92b42fb0c14ffcfe8349b51e86bceedcf9631398c31e1afdf114936502ca95577fa9014c26d718e77a235eb889ed56f3
+Passphrase method
+
+
+For a simpler way of choosing a string, you can use a passphrase, as illustrated in this XKCD comic or a Diceware method. The passphrase should be something easy for you to remember, but hard for someone else to guess like an inside joke or a secret. As usual, the longer the passphrase, the more secure it is. With the Diceware method, at one trillion guesses per second, a 4-word passphrase can be cracked in half an hour, a 5-word passphrase in 6 months, a 6-word passphrase in 3500 years and a 7-word passphrase in 27 million years. If you come up with your own passphrase, it will be less secure because some words are more likely to be paired with others (e.g. You is often followed by are, but rarely by cytoplasm). You are also more likely to use common words (my, you, are, and, the, of) than obscure ones (agastopia, erinaceous, impignorate, kakorrhaphiophobia).
+
+Examples (good)
+
+
+These examples would be good if they had not already been published here (and elsewhere), so don't use any of these exact ones  (or simple variants) - this is just to illustrate some formats of good passphrases.
+
+String: correct horse battery staple
+String: Who you gonna call? Ghost don't exist you nutjob!
+String: I actually like Battlefield Earth.
+Examples (bad)
+String: My name is Bob.
+String: I was born in 1982.
+String: Any one word, or specific years/date.
+String: Any famous quotes, or any book sentences.
+Password reset
+
+
+Anyone who wishes to get a password reset through the Committed Identity process should exhaust other options first. There is not a routine process for resetting passwords, and calling for a committed identity password reset will take time and the agreement of several humans who will discuss the case.
+
+
+Before the Committed Identity process, confirm that you still know your passphrase by inputting your passphrase through any safe tool to get your confirmed identity. After you confirm your own passphrase, now make the request. When you make the request follow the guidance at Help:Logging in#What if I forget my password? which as of 2020 recommends posting the request to Wikipedia:Administrators' noticeboard. On the administrators' noticeboard give the following information:
+
+the account name to be unlocked
+If you have one, a ticket number from the WP:Volunteer Response Team
+a link to any old edit on that account which shows that the Committed Identity on that page has been in place for some time. Preferably, link to the edit where you added the committed identity.
+say "I am requesting a password reset based on my committed identity". Briefly give any other information you feel is relevant.
+
+
+An administrator will follow up in public on the admin noticeboard with next steps. They may ask you to also make the request at WP:Volunteer Response Team. There is no standard process for this.
+
+See also
+Make sure you have a password (essay)
+User:Unimaginative Username/Simple Committed ID Instructions
+Strong password
+Wikipedia:Changing username
+Wikipedia:Security
+Wikipedia Signpost: Committed identity
+Two-factor authentication
+{{Committed identity topicon}} (symbolic)
+
+
+Code
+
+Result
+
+Transclusions
+
+
+{{User:Anomie/Userbox committed identity|…}}
+
+This user has an SHA-512 committed identity.
+See this userbox's invocation.
+
+Transclusions
+
+
+{{User:Urdna/CIDuserbox}}
+
+
+
+
+
+
+This user's account is secured with a unique Committed Identity.
+
+
+Usage
+
+
+
+{{Template:User CID}}
+
+This user account is secured with a unique committed identity.
+
+Usage
+
+
+
+
+The above documentation is transcluded from Template:Committed identity/doc. (edit | history)
+Editors can experiment in this template's sandbox (edit | diff) and testcases (create) pages.
+Add categories to the /doc subpage. Subpages of this template.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Committed_identity&amp;oldid=974631249"
+		Categories: Templates using TemplateStylesUser namespace templatesHidden categories: Wikipedia template-protected templates
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		TemplateTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMeta-WikiWikinewsWikiquoteWikisourceWikivoyageWiktionary
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةবাংলাभोजपुरीBosanskiDeutschEspañolفارسیFrançaisIlokanoItalianoBahasa Melayu日本語Norsk bokmålOʻzbekcha/ўзбекчаРусскийScotsසිංහලSimple EnglishСрпски / srpskiTiếng Việt粵語中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 24 August 2020, at 02:58&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

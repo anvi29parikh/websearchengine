@@ -1,0 +1,375 @@
+
+
+
+
+MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	MediaWiki
+	
+		From mediawiki.org
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+MediaWiki is a collaboration and documentation platform brought to you by a vibrant community.
+Photo of participants of the Wikimedia Hackathon 2019
+
+
+The MediaWiki software is used by tens of thousands of websites and thousands of companies and organizations.
+It powers Wikipedia and also this website.
+MediaWiki helps you collect and organize knowledge and make it available to people.
+It's powerful, multilingual, free and open, extensible, customizable, reliable, and free of charge.
+Find out more and if MediaWiki is right for you.
+
+
+
+	
+		Set up and run MediaWiki
+		
+Download, install and configure MediaWiki
+Add functionality by installing extensions
+Problems? See Errors and symptoms and FAQ
+Don't own a server? See Hosting services
+Get professional development and consulting 
+Join MediaWiki Stakeholders user group
+		
+	
+	
+		Edit and use MediaWiki
+		
+Learn how to navigate 
+Learn how to edit a page 
+Learn more about reading, editing, and personal customization 
+		
+	
+	
+		Develop and extend code
+		
+
+
+New to development?
+
+Start coding for a Wikimedia project 
+How to make a MediaWiki skin 
+How to work on MediaWiki or extensions' code 
+
+
+Already a developer?
+
+Interact with content by using the Action API or Web API
+Read the developer docs or visit the developer hub
+		
+	
+
+
+	
+		Get help and contribute
+		
+Cannot find the answer to a problem with MediaWiki? Ask the Support desk!
+Get involved as a translator, designer, documentation writer, tester, tech ambassador, …
+Report wrong software behavior or a feature proposal 
+		
+	
+	
+		News
+		
+		
+		
+2021-12-08 to 2021-12-10
+ SMWCon Fall 2021 (online)
+2021-11-18
+ MediaWiki 1.37.0 is now available.
+2021-11-10
+ MediaWiki 1.37.0-rc.2 pre-release is now ready for testing.
+2021-11-04
+ MediaWiki 1.37.0-rc.1 pre-release is now ready for testing.
+2021-10-21
+ MediaWiki 1.37.0-rc.0 pre-release is now ready for testing.
+2021-09-30
+ MediaWiki 1.31.16, 1.35.4 and 1.36.2 security releases are now available.
+ MediaWiki 1.31.x versions are now end of life.
+2021-05-20
+ #mediawiki IRC support channel is moving from Freenode to Libera Chat.		
+
+
+		More news
+		 
+
+		
+	
+
+
+
+
+Other languages: 
+
+English &nbsp;• Afrikaans&nbsp;• العربية&nbsp;• asturianu&nbsp;• беларуская (тарашкевіца)&nbsp;• български&nbsp;• বাংলা&nbsp;• bosanski&nbsp;• català&nbsp;• کوردی&nbsp;• čeština&nbsp;• dansk&nbsp;• Deutsch&nbsp;• español&nbsp;• فارسی&nbsp;• suomi&nbsp;• français&nbsp;• ગુજરાતી&nbsp;• עברית&nbsp;• हिन्दी&nbsp;• hrvatski&nbsp;• magyar&nbsp;• հայերեն&nbsp;• Bahasa Indonesia&nbsp;• italiano&nbsp;• 日本語&nbsp;• Jawa&nbsp;• қазақша&nbsp;• 한국어&nbsp;• Bahasa Melayu&nbsp;• Mirandés&nbsp;• Nederlands&nbsp;• polski&nbsp;• português&nbsp;• português do Brasil&nbsp;• română&nbsp;• русский&nbsp;• sardu&nbsp;• සිංහල&nbsp;• slovenčina&nbsp;• shqip&nbsp;• српски / srpski&nbsp;• svenska&nbsp;• ไทย&nbsp;• Türkçe&nbsp;• українська&nbsp;• Tiếng Việt&nbsp;• 粵語&nbsp;• 中文
+
+
+
+
+
+
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=MediaWiki&amp;oldid=3878227"
+		Hidden category: Languages pages
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Main pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMeta-WikiMultilingual WikisourceWikispeciesWikibooksWikidataWikimaniaWikinewsWikipediaWikiquoteWikisourceWikiversityWikivoyageWiktionary
+		
+	
+
+
+	
+
+
+
+
+	
+	 This page was last edited on 26 May 2020, at 13:38.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+

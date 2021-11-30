@@ -1,0 +1,278 @@
+
+
+
+
+User:ImperfectlyInformed - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	User:ImperfectlyInformed
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Lately (as of 2014-11) I'm thinking about the editor retention issue as shown in these links. We need to oversee and educate our vandal fighters.
+Keep track of science at Eurekalert.
+Please read about range voting
+
+
+To change your mind and to follow him who sets you right is to be nonetheless the free agent that you were before.— Marcus Aurelius, Meditations
+About Wikipedia[edit]
+
+
+Anyone encountering my user page is most likely already aware of the flaws in Wikipedia, Mediawiki, and the Wikimedia movement. As of 2015, these include a toxic and divided community, antiquated software, and declining or at best plateaued participation. I prefer optimism (my original username was OptimistBen): quality continues to improve incrementally, we continue to have a core group of active users, and software iteration is slowly occurring (check out Wikimedia Phabricator and particularly the current sprint list). Regardless of problems and inevitable variations in my ability to actively contribute, I am committed to this project and I hope you are too.
+
+About me[edit]
+
+
+I've been hanging around this place since 2007. I generally work on articles that I consider "core" to a traditional encyclopedia in a broad range of topics including law, economics, medicine and science, environmental issues, and software although I don't necessarily have expertise in these topics. For example, as of 2015 I'm responsible for most of tort, and I'm not a lawyer. These types of articles are too complex to easily get to "good" quality, so I've been satisfied with iterative improvements. When I make an edit, I try to introduce at least one citation and make the edit reasonably substantive.
+
+
+Much of the discussion and rapid-fire editing on Wikipedia happens in lightly-trafficked controversial articles, which is why you'll find that my list of top-edited articles shows various odd fringe topics even though these might be mostly reverts or tweaks to head off nasty disputes leading to ArbCom. I like to think I'm dispassionate, but everyone who edits an article has some interest and opinion on the topic.
+
+
+Due to a career pivot from finance in 2015, I'm a software developer in San Francisco. Between work, side projects, and recreation, my time for Wikipedia is unfortunately limited - but I expect to free up time, over time.
+
+Article editing guidelines[edit]
+
+
+When I edit articles, I try to abide by certain ground rules and sometimes introduce the idea on talk pages. These aren't mandatory and no doubt I don't follow them 100%, but they could make things simpler and easier for future generations:
+
+Use descriptive edit summaries. Whenever you add/remove a reference, say so and why. If you add/remove a bunch, consider discussing the change in the talk page. Quantify the number of references added/removed if feasible.
+If you want to edit two sections, edit the entire page. Deleting material in one edit and adding it in the next makes it more difficult to review differences.
+When you use a citation, put it directly behind the distinct fact rather than stacking it at the end of a paragraph. If you add a sentence with several major facts sourced to the same article and that article is not freely-available, you may want to cite each fact rather than just sticking it at the end of the paragraph. Otherwise you risk your information being deleted.
+I start out my research on a given topic at Google Scholar. I always look through the sources that are available on there first. If it's freely-available on Google Scholar but perhaps illegally hosted, it is still better than not available online at all. I sometimes add such hosted articles; it might be technically illegal but I think the way the academic publishing industry takes scholars' copyrights is dubious at best.
+Most people understand verifiability, but remember to learn about the somewhat more complex policies neutral point of view and original research.
+This user lives in San Francisco
+CThis user is a celiac.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=User:ImperfectlyInformed&amp;oldid=751282499"
+		Categories: Wikipedians in San FranciscoWikiProject Agriculture membersWikiProject Economics participants
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		User pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUser contributionsUser logsView user groupsUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 24 November 2016, at 15:57&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

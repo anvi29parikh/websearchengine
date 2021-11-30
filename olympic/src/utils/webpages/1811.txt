@@ -1,0 +1,262 @@
+
+
+
+
+Wikipedia:HTML5 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:HTML5
+	
+		From Wikipedia, the free encyclopedia
+		Redirect page
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Redirect to:Wikipedia:HTML 5 This page is a redirect. The following categories are used to track and monitor this redirect:
+
+From a shortcut: This is a redirect from a shortcut in any namespace to a page in any namespace except template namespace.
+Shortcuts are wikilinked on community pages, talk pages, and edit summaries, but not in mainspace articles.
+
+
+To a project page: This is a redirect from any page inside or outside of project (Wikipedia: or WP:) space to any page in the project namespace. The above category link leads to a list of redirects from inside project space.  Redirects from outside project space are automatically sorted to Category:Redirects to project space.
+
+
+From a different spelling: This is a redirect from a title with a different spelling of the target name. Pages that link to this redirect may be updated to link directly to the target page if that results in an improvement of the text.  Do not "fix" such links if they are not broken.  Also, these links should not be replaced with piped links.
+Please note that there are many more specific templates. See subcategories of Category:Redirects from modifications for other options (capitals, abbreviations, diacritics, plurals, stylizations, transliteration, ligatures, different parts of speech, etc.)
+At present, {{R from alternative hyphenation}}, {{R from alternative punctuation}}, and {{R from alternative spacing}} all redirect to this template and feed into the same maintenance category. This is likely to change in the future, so please use the more specific template names.
+
+
+From a page move: This is a redirect from a page that has been moved (renamed) or is the result of a page move. One reason this page was kept as a redirect is to avoid breaking links, both internal and external, that may have been made to the old page name. Any redirect with a page move logged on its history page should be tagged with this rcat template.
+
+When appropriate, protection levels are automatically sensed, described and categorized.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:HTML5&amp;oldid=1057299160"
+		Hidden categories: Redirects from shortcutsRedirects to Wikipedia project pagesRedirects from alternative spellingsRedirects from moves
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 26 November 2021, at 19:11&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

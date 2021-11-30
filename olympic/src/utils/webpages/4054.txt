@@ -1,0 +1,610 @@
+
+
+
+
+Wikipedia:Short description - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Short description
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Brief phrase saying what a page is about
+For the WikiProject, see Wikipedia:WikiProject Short descriptions.
+
+
+
+
+Wikipedia information pageThis is an information page.
+It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.ShortcutsWP:SHORTDESWP:SHORTDESC
+This page in a nutshell: Each Wikipedia article should include a concise explanation of its scope in the form of a short description of no more than about 40 characters. These descriptions appear in Wikipedia mobile and some desktop searches, and help users identify the desired article.
+  In the mobile app, descriptions appear below the article title.
+
+
+The short description of a Wikipedia article or of another namespace page is a concise explanation of the scope of the page. These descriptions appear in Wikipedia mobile and some desktop searches,[note 1] and help users identify the desired article. When viewing an article, some mobile Wikipedia apps also display the description below the page title.
+
+
+Short descriptions do not appear by default when viewing an article in desktop view, but logged-in users who wish to see and edit them can do so easily by enabling the Shortdesc helper in their Preferences "gadgets".
+
+Contents
+
+1 Purposes
+2 Pages that should have a short description
+3 Content
+
+3.1 Content
+3.2 Formatting
+3.3 "None" as a short description
+3.4 Examples
+3.5 Inclusion of dates
+
+
+4 How to edit
+
+4.1 Single page
+4.2 Placement
+4.3 By transclusion into multiple pages
+
+
+5 Why can't I see any short description?
+6 Short descriptions on redirect pages
+7 Annotated links
+8 History
+9 See also
+10 Notes
+
+
+
+Purposes
+
+
+Short descriptions provide: 
+
+a very brief indication of the field covered by the article
+a short descriptive annotation
+a disambiguation in searches, especially to distinguish the subject from similarly titled subjects in different fields
+Examples of short description use
+		
+			
+			
+
+
+In a list of suggested articles on the mobile platform
+
+			
+		
+		
+			
+			
+
+
+In a list of suggested articles using the latest desktop Vector skin
+
+			
+		
+		
+			
+			
+
+
+Creating a wikilink in the desktop Visual Editor
+
+			
+		
+
+Pages that should have a short description
+
+
+All mainspace articles should have a short description. Redirects and most pages outside the mainspace do not normally need a description, although one may be added in the rare cases it would be useful.
+
+
+The short description may appear directly in the wikicode for the page, via the {{Short description}} template, or may be transcluded automatically from a template such as an infobox. Disambiguation pages and list articles both make use of transcluded descriptions, and those do not normally need to be edited manually.
+
+
+
+
+Content
+ShortcutsWP:SDCONTENTWP:HOWTOSD
+
+
+The short description is part of the article content, and is subject to the normal rules on content, including Wikipedia:Neutral point of view and Wikipedia:Biographies of living persons. The normal editing rules such as Wikipedia:Consensus and Bold–Revert–Discuss also apply.
+
+
+Editors adding or amending short descriptions should bear in mind that they are not intended to define the subject of the article. Rather, they provide a very brief indication of the field that is covered, a short descriptive annotation, and a disambiguation in searches (especially to distinguish the subject from similarly titled subjects in different fields).
+
+
+Each page should ideally have its own purpose-written short description. The Shortdesc helper does allow the importing of text from Wikidata, but that should be done with care – Wikidata descriptions are not subject to Wikipedia's policies, and have a different purpose. Wikidata descriptions may sometimes be appropriate, but often they are too long or too technical to be used as short descriptions and may not have received sufficient scrutiny. It is the responsibility of the editor to ensure that the short description is appropriate, accurate, and compliant with Wikipedia content policies. This is especially important for biographies of living people and for medical articles.
+
+Content
+
+
+When visible on desktop or mobile, the short description immediately follows the article title, and should be comprehensible in that location.
+
+
+
+ShortcutWP:SDNOTDEF
+
+
+A short description is not a definition and should not attempt to define the article's subject nor to summarise the lead.
+
+
+As far as possible, it should:
+
+focus on the purposes stated above
+use universally accepted facts that will not be subject to rapid change, avoiding anything that could be understood as controversial or judgemental
+avoid jargon, and use simple, readily comprehensible terms that do not require pre-existing detailed knowledge of the subject
+avoid duplicating information that is already in the title (but don't worry too much if you need to repeat a word or two for context)
+start with the most important information (mobile applications may truncate long descriptions).
+
+
+
+
+Formatting
+ShortcutsWP:SDFORMATWP:SDLENGTHWP:SDSHORT
+
+
+Each short description should:
+
+be short – no more than about 40 characters (but this can be slightly exceeded if necessary)
+The Shortdesc helper gadget displays a character count as the description is changed.
+be written in plain text – without HTML tags or wiki markup
+start with a capital letter
+avoid initial articles (A, An, The) except when required for correct grammar and meaning
+avoid a final full stop.
+
+
+
+
+"None" as a short description
+ShortcutWP:SDNONE
+
+
+If an article title is sufficiently detailed that an additional short description would not be helpful, e.g., Alpine skiing at the 1960 Winter Olympics – Men's downhill, a description of "none" should be used to remove the article from the missing-description tracking categories, thus: {{Short description|none}}. Occasionally, a default value of "none" may already be transcluded, for example for Wikipedia list articles; that should not normally need to be edited, but can be overridden for a specific page by adding {{Short description|overriding description}}.
+
+Examples
+
+
+A good way to draft a short description is to consider the words that would naturally follow if you started a sentence like this:
+
+"[Article subject] is/was a/an/the ... ".
+
+
+You can then use those additional words as the short description. So for example if you wanted to write a short description for Stève Nzigamasabo, your sentence would be "Stève Nzigamasabo is a Burundian footballer"; and Burundian footballer becomes your short description.
+
+
+Here are some examples, though they can all be varied if the context allows something better. See also #Inclusion of dates. Remember to ensure your description is short: no more than about 40 characters.
+
+For a person: "[country adjective] [what the person is known for]" (Examples: "American singer/songwriter" or "Cuban ice skater")
+For a location: "[type of location], [country]" (Examples: "City in Florida, United States" or "University in Oxford, England")
+For an organism: "[type of organism] [how it is best known]" (Examples: "Species of moth", "South American monkey", "Extinct group of molluscs"). Do not include family or other technical taxonomic terms.
+Publication: "[year] [type of publication] by [author or director]" (Examples: "1983 novel by John Irving", "2017 film by Jordan Peele", "2006 role-playing video game").
+
+
+
+
+Inclusion of dates
+ShortcutWP:SDDATES
+
+
+The inclusion of a date or date range is encouraged where it would improve the short description as a disambiguation, or enhance it as a descriptive annotation. Generally that is the case at least for biographies, articles on specific publications, and dated historical events. Editor discretion is always needed, and in some cases there will be more important information than dating to be included within the available 40 or so characters, but if space is available such dates are encouraged.
+
+
+Care should be taken where WP:BLP applies, and birthdates for living people should not be copied from the page unless sourced.
+
+
+The following date formats are recommended for consistency, but can be varied if there is consensus that in some particular case an alternative date format would be better. In the table below, the examples illustrate the recommended date format only; they are not intended to recommend any particular descriptive wording.
+
+
+In biographies, care should be taken to distinguish between dates which define a lifespan and those which define a period in office: lifespans should normally be specified by "(birthyear–deathyear)", and periods in office by "from startyear to endyear". For historical biographies, specific dates such as "1750–1810", where known, are preferred to "18th-century", as it is not clear whether that means "born and died during the century", "in office during the century" or "mostly active during the century". Other dated events or ranges can use any convenient dating format, as long as the meaning is clear.
+
+
+Date inclusion recommendations, by article subject type
+
+
+Type
+
+Criterion
+
+Recommended date format
+
+Examples
+
+
+Biography
+
+Lifetime most important
+
+[Person description] (birthyear–deathyear)
+
+English composer (1668–1735)
+
+
+BLP or year of death unknown: [Person desc] (born birthyear)
+
+English composer (born 1668)
+
+
+Year of birth unknown: [Person desc] (died deathyear)
+
+English composer (died 1735)
+
+
+Period in office most important
+
+[Office description] from startyear to endyear
+
+King of Scotland from 1488 to 1513Pope from 965 to 972
+
+
+Publication
+
+Publication in a specific year
+
+Publicationyear [Description]
+
+1964 musical film1988 novel by Penelope Fitzgerald1981 arcade game
+
+
+Historical
+
+Event in a specific year
+
+Eventyear [Description]
+
+1861 American Civil War battle
+
+
+Period or range
+
+[Description] from startyear to endyear
+
+Epidemic of plague from 1665 to 1666
+
+
+[Description] (startyear–endyear)
+
+Epidemic of bubonic plague (1665–1666)
+
+
+[Description], startyear–endyear
+
+Epidemic of bubonic plague, 1665–1666
+
+
+
+Where a date is not known exactly, "c.&nbsp;" may be used for "circa". Other examples are given at WP:APPROXDATE, although "fl.&nbsp;" for "floruit" should be avoided as it is not universally understood. Centuries should not be abbreviated "c.&nbsp;" due to the potential for confusion with "circa".
+
+How to edit
+Single page
+
+
+The easiest way to create and edit short descriptions on the desktop is to use the Shortdesc helper gadget.
+This may be enabled in the Gadgets tab of your Preferences under the "Editing" section.
+
+
+Alternatively, you can manually amend the {{Short description}} template. Short descriptions cannot yet be edited with the VisualEditor.
+
+
+If you are editing manually on desktop and do not have the gadget loaded, do not add a {{Short description}} solely because the template seems to be missing from the wikicode.
+Descriptions are sometimes set by another template (such as an Infobox) elsewhere in the article.
+For more information, see §&nbsp;Why can't I see any short description?.
+
+
+If you are editing manually, do not start the template with a space — {{ Short description... — this may break other templates which search for the {{Short description... text.
+
+
+Always use the {{Short description}} template – do not use any alias. See WP:SDNOALIASES
+
+
+
+
+Placement
+ShortcutWP:SDPLACE
+
+
+Per MOS:ORDER and MOS:LEADORDER , the template should always be the very first element on the page. There is just one exception to this, namely redirects. If (unusually) you need to add a short description to a redirect, you should add {{Short description}} below #REDIRECT. For more information, see #Short descriptions on redirect pages. Placement is handled automatically if you are using Shortdesc helper.
+
+By transclusion into multiple pages
+
+
+Where a single short description (or rule for generating one) is suitable for multiple articles that all use the same template/infobox, the description can be transcluded from the template rather than being added one by one to each article. In that case {{Short description}} does not appear in the wikicode for the page.
+
+
+Such transclusions are normally done after local consensus by template editors. {{Template short description}} is available to simplify the process, and ensures that the resultant description doesn't exceed the recommended length even if a page editor adds some unusually long text to an infobox. All templates that generate a default description should include a |noreplace parameter so that the result can be overridden by a later manually inserted instance (see T193857 for technical details). {{Auto short description}} should also be added to the documentation page so that the template gets added to Category:Templates that generate short descriptions.
+
+Why can't I see any short description?
+
+
+By default, short descriptions are not displayed when viewing an article in desktop view. To make them visible on the page and to enable easy editing, enable Shortdesc helper in Preferences. On the desktop platform, short descriptions appear below article titles in search result lists only if you are using the latest Vector skin: in Preferences | Appearances, make sure the Vector radio button is selected and the Use Legacy Vector box is not ticked.
+
+
+You can always see whether the page has a manual short description by opening it for source editing (not visual editing); you should find {{Short description}} right at the top. Unfortunately, the absence of {{Short description}} there does not necessarly mean that a short description is missing, as it may be transcluded from some template such as an infobox. That can't be determined from the page code (at least without following through to the template code pages), hence the recommendation to enable Shortdesc helper.
+
+
+As mentioned above, please don't add a new short description solely on the basis that {{Short description}} is missing from the wikicode.
+
+Short descriptions on redirect pages
+
+
+Most redirects do not require a short description. Occasionally it may be useful to add one:
+
+on soft redirects where an annotation would make the page clearer
+where the redirect page is the target of an {{Annotated link}}
+as an indicator that the topic described may be a valid article topic.
+
+
+{{Short description}} conflicts with #REDIRECT if placed in the standard position at the top of the page. For such pages only, the template should be placed immediately underneath #REDIRECT.
+
+
+The short description of a Redirect to section should refer to the section content and should not generally be the same as that of the article itself.
+
+Annotated links
+
+
+The {{Annotated link}} template can be used to automatically annotate a wikilink with a corresponding short description for the page. This may be useful where links to multiple pages are presented in the form of a list, for example in "See also" sections. {{Annotated link}} does not follow redirects, and if the link has to point to a redirect it may be appropriate to add a short description to the redirect page itself.
+
+History
+
+
+Short descriptions were initially implemented by WMF developers primarily as a search disambiguator, using item descriptions from Wikidata. After concerns were raised about accuracy, suitability, and the potential for hard-to-detect vandalism on Wikidata, the developers created a SHORTDESC magic word, giving editors the ability to override the Wikidata text directly on Wikipedia, as was discussed here:
+
+Incidents §&nbsp;Hard to detect mobile vandalism
+Village pump (technical) §&nbsp;Discussion at ANI about Wikidata use in mobile view
+Rfc: Remove description taken from Wikidata from mobile view of en-WP
+Blockers to having short description on mobile
+RfC: Populating article descriptions magic word
+Wikipedia talk:Wikidata/2018 State of affairs §&nbsp;Short descriptions
+Template talk:Short description/Archive 1 §&nbsp;Some history and explanation of this template for those without the time or inclination to read the full discussion
+Phabricator ticket T184000
+Phabricator ticket T193857
+
+
+The magic word approach was later superseded by the current Wikipedia template {{Short description}}. At first, mobile devices displayed the Wikipedia-specific short description where that existed, but continued to display the Wikidata text where it did not. In 2020, use of Wikidata text to characterise Wikipedia content was discontinued. Mobile devices now display the Wikipedia description if it exists, and display no short description if it does not.
+
+See also
+Wikipedia:WikiProject Short descriptions&nbsp;– Project to improve short descriptions
+Template:Short description
+Category:Pages with short description
+Category:Short description is different from Wikidata
+Category:Short description matches Wikidata
+Category:Short description with empty Wikidata description
+Wikidata Help: Description
+Help:Wikidata
+Notes
+
+
+^ Currently used for the new search widget, enabled on the latest version of Vector.
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Short_description&amp;oldid=1056995841"
+		Categories: Wikipedia information pagesHidden categories: Project pages with short descriptionWikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		BosanskiFrançais한국어日本語ᱥᱟᱱᱛᱟᱲᱤСрпски / srpskiతెలుగుTürkçeУкраїнська中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 24 November 2021, at 19:59&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

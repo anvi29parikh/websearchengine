@@ -1,0 +1,842 @@
+
+
+
+
+Editing Nova Scotia (section) - Wiktionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Editing Nova Scotia (section)
+	
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+You are not logged in. If you save your edits to this page, your IP address will be recorded in the page's history. For that and other reasons, you should create an account.
+
+
+Please do not save test edits. If you want to experiment, please use the sandbox. Inserting nonsense, knowingly adding false information and gratuitously removing content are considered vandalism, and editors who engage in such behavior may be blocked without a warning.
+
+Anti-spam check.
+Do not fill this in!==English==
+{{wikipedia}}
+
+===Etymology===
+From {{der|en|la|-}}, literally “New Scotland”, from {{m|la|nova}}, feminine of {{m|la|novus||new}} + {{m|la|Scōtia||Scotland}}.
+
+===Pronunciation===
+* {{a|Canada|GA}} {{IPA|en|/ˌnoʊ.və ˈskoʊ.ʃə/}}
+* {{a|RP}} {{IPA|en|/ˌnəʊ.və ˈskəʊ.ʃə/}}
+
+===Proper noun===
+{{en-propn|head=Nova Scotia}}
+
+# {{place|en|province|in eastern|c/Canada|capital=Halifax}}.
+# {{place|en|peninsula|on the coast of the|ocean/Atlantic}}, comprising most of the province of Nova Scotia.
+
+====Derived terms====
+* {{l|en|Nova Scotian}}
+* {{l|en|NS}}, [[N.S.]], [[N. S.]] {{qualifier|abbreviation}}
+
+====Translations====
+{{trans-top|province in eastern Canada}}
+* Arabic: {{t|ar|نُوفَا سْكُوتْيَا|f}}
+* Armenian: {{t|hy|Նոր Շոտլանդիա}}
+* Basque: {{t|eu|Eskozia Berria}}
+* Bulgarian: {{t|bg|Нова Скотия|f}}
+* Catalan: {{t|ca|Nova Escòcia|f}}
+* Chinese:
+*: Cantonese: {{t|yue|諾華斯高沙|sc=Hani}}, {{t|yue|诺华斯高沙|tr=nok6 waa4 si1 gou1 saa1|sc=Hani}}, {{t|yue|諾華斯高沙省|sc=Hani}}, {{t|yue|诺华斯高沙省|tr=nok6 waa4 si1 gou1 saa1 saang2|sc=Hani}}, {{t|yue|斯高沙|tr=si1 gou1 saa1|sc=Hani}}, {{t|yue|斯高沙省|tr=si1 gou1 saa1 saang2|sc=Hani}}, {{t|yue|新斯高沙|tr=san1 si1 gou1 saa1|sc=Hani}}, {{t|yue|新斯高沙省|tr=san1 si1 gou1 saa1 saang2|sc=Hani}}
+*: Mandarin: {{t+|cmn|新斯科舍|tr=Xīn Sīkēshě|sc=Hani}}, {{t|cmn|新斯科舍省|tr=Xīn Sīkēshě Shěng|sc=Hani}}, {{t|cmn|新斯科細亞|sc=Hani}}, {{t|cmn|新斯科细亚|tr=Xīn Sīkēxìyà|sc=Hani}}, {{t|cmn|新斯科細亞省|sc=Hani}}, {{t|cmn|新斯科细亚省|tr=Xīn Sīkēxìyà Shěng|sc=Hani}}, {{t|cmn|諾華斯高沙|sc=Hani}}, {{t|cmn|诺华斯高沙|tr=Nuòhuá Sīgāoshā|sc=Hani}}, {{t|cmn|諾華斯高沙省|sc=Hani}}, {{t|cmn|诺华斯高沙省|tr=Nuòhuá Sīgāoshā Shěng|sc=Hani}}, {{t|cmn|斯高沙|tr=Sīgāoshā|sc=Hani}}, {{t|cmn|斯高沙省|tr=Sīgāoshā Shěng|sc=Hani}}, {{t|cmn|新斯高沙|tr=Xīn Sīgāoshā|sc=Hani}}, {{t|cmn|新斯高沙省|tr=Xīn Sīgāoshā Shěng|sc=Hani}}
+* Czech: {{t+|cs|Nové Skotsko|n}}
+* Danish: {{t|da|Nova Scotia}}
+* Dutch: {{t|nl|Nova Scotia}}, {{t|nl|Nieuw-Schotland}}
+* Esperanto: {{t|eo|Nov-Skotio}}
+* Estonian: {{t|et|Nova Scotia}}
+* Finnish: {{t+|fi|Nova Scotia}}
+* French: {{t+|fr|Nouvelle-Écosse|f}}
+* Galician: {{t+|gl|Nova Escocia}}
+* Georgian: {{t|ka|ახალი შოტლანდია}}
+* German: {{t+|de|Neuschottland|n}}, {{t+|de|Nova Scotia|n}}
+* Greek: {{t|el|Νέα Σκωτία|f}}
+* Hindi: {{t|hi|नोवा स्कॉटिया}}
+* Hungarian: {{t+|hu|Új-Skócia}}
+{{trans-mid}}
+* Icelandic: {{t|is|Nýja-Skotland|n}}
+* Inuktitut: {{t|iu|ᓅᕙᓯᑰᓴ|sc=Cans}}
+* Irish: {{t|ga|Albain Nua|f}}
+* Italian: {{t+|it|Nuova Scozia|f}}
+* Japanese: {{t|ja|ノバスコシア|tr=Nobasukoshia}}, {{t|ja|ノバスコシア州|tr=Nobasukoshia-shū}}
+* Korean: {{t|ko|^노바스코샤}}
+* Latvian: {{t|lv|Jaunskotija|f}}
+* Lithuanian: {{t|lt|Naujoji Škotija|f}}
+* Macedonian: {{t|mk|Нова Шкотска|f}}
+* Manx: {{t|gv|Nalbin Noa|f}}, {{t|gv|Albin Noa|f|alt=Yn Albin Noa}}
+* Norwegian:
+*: Bokmål: {{t|nb|Nova Scotia}}
+* Ottawa: {{t|otw|Miijmaawki}}
+* Polish: {{t+|pl|Nowa Szkocja|f}}
+* Portuguese: {{t+|pt|Nova Escócia|f}}
+* Romanian: {{t|ro|Noua Scoție|f}}
+* Russian: {{t+|ru|Но́вая Шотла́ндия|f}}
+* Scottish Gaelic: {{t|gd|Alba Nuadh|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Нова Шкотска|f}}
+*: Roman: {{t|sh|Nova Škotska|f}}
+* Slovak: {{t|sk|Nové Škótsko|n}}
+* Slovene: {{t+|sl|Nova Škotska|f}}
+* Spanish: {{t|es|Nueva Escocia|f}}
+* Swedish: {{t+|sv|Nova Scotia}}
+* Ukrainian: {{t|uk|Нова Шотландія|f}}
+* Volapük: {{t+|vo|Nula-Skotän}}
+* Welsh: {{t|cy|Nova Scotia|m|f}}, {{t|cy|yr [[Alban Newydd]]|f}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=aacinoostv|avocations}}
+
+{{topics|en|Nova Scotia}}
+
+----
+
+Edit summary:
+
+
+
+By clicking the “Publish changes” button, you are agreeing to the Terms of Use and the Privacy Policy, and you irrevocably agree to release your contribution under the CC BY-SA 3.0 License and the GFDL. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.
+
+
+
+
+
+	Cancel
+	Editing help (opens in new window)
+
+
+
+
+
+
+
+
+
+Acute: Á á Ć ć É é ǵ ḱ Í í Ĺ ĺ Ń ń Ó ó Ŕ ŕ Ś ś Ú ú Ẃ ẃ Ý ý Ź ź Ǽ ǽ ···
+Grave: À à È è Ì ì Ò ò Ù ù Ẁ ẁ Ỳ ỳ ···
+Circumflex: Â â Ĉ ĉ Ê ê Ĝ ĝ Ĥ ĥ Î î Ĵ ĵ Ô ô Ŝ ŝ Û û Ŵ ŵ Ŷ ŷ ···
+Umlauts and diaereses: Ä ä Ë ë Ï ï Ö ö Ü ü Ẅ ẅ Ÿ ÿ ···
+Tilde: Ã ã Ẽ ẽ Ĩ ĩ l̃ m̃ Ñ ñ r̃ Õ õ Ũ ũ Ỹ ỹ ···
+Ring: Å å Ů ů ···
+Cedilla: Ç ç Ģ ģ Ķ ķ Ļ ļ Ņ ņ Ŗ ŗ Ş ş ···
+Comma below: D̦ d̦ Ș ș Ț ț ···
+Ogonek: Ą ą Ę ę Į į Ǫ ǫ Ų ų ··· Hook: Ả ả Ẻ ẻ Ỉ ỉ Ỏ ỏ Ủ ủ Ỷ ỷ ··· Horn: Ơ ơ Ư ư ··· Caron: Ǎ ǎ Č č Ď ď Ě ě Ǐ ǐ J̌ ǰ Ľ ľ Ň ň Ǒ ǒ Ř ř Š š Ť ť Ǔ ǔ Ž ž Ǯ ǯ ···
+Breve: Ă ă Ĕ ĕ Ğ ğ Ĭ ĭ Ŏ ŏ Ŭ ŭ ···
+Stroke: Ƀ ƀ Đ đ Ǥ ǥ Ħ ħ Ł ł Ø ø Ŧ ŧ Ʉ ʉ ···
+Double acute: Ő ő Ű ű ···
+Macron: Ā ā Ē ē Ī ī Ō ō Ū ū Ȳ ȳ Ǣ ǣ ···
+Dot above: Ḃ ḃ Ċ ċ Ḋ ḋ Ė ė Ḟ ḟ Ġ ġ İ i Ṁ ṁ Ṅ ṅ Ṗ ṗ Ṙ ṙ Ṡ ṡ Ṫ ṫ Ż ż ···
+Dot below: Ạ ạ Ḍ ḍ Ẹ ẹ Ḥ ḥ Ị ị Ọ ọ Ṛ ṛ Ṣ ṣ Ṭ ṭ Ụ ụ Ỵ ỵ Ẓ ẓ ···
+Ligatures: Æ æ Œ œ ẞ ß ··· Others: 
+Ð ð Ə ə Ȝ ȝ Ᵹ ᵹ Ƕ ƕ ı Ŋ ŋ ſ Þ þ Ƿ ƿ ʻ ···  Double diacritics: Ằ ằ Ẳ ẳ Ẵ ẵ Ắ ắ Ặ ặ Ầ ầ Ẩ ẩ Ẫ ẫ Ấ ấ Ậ ậ ą́ ą̃  č̣ Č̣ Ề ề Ể ể Ễ ễ Ế ế Ệ ệ ḗ Ė̄ ė̄ ę́ ę̃ ė́ ė̃  Ḯ ḯ į́ į̃ Ồ ồ Ổ ổ Ỗ ỗ Ố ố Ǭ ǭ Ộ ộ ṓ Ờ ờ Ở ở Ỡ ỡ Ớ ớ Ợ ợ Ṏ ṏ Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ Ừ ừ Ử ử Ữ ữ Ứ ứ Ự ự ų́ ų̃ ū́ ū̃  ÿ́ 
+
+
+
+
+IPA: {{IPA||/+/}}
+Vowels: ɨ ʉ ɯ ɪ ʏ ʊ ø ɘ ɵ ɤ ə ɛ œ ɜ ɞ ʌ ɔ æ ɐ ɶ ɑ ɒ ɚ ɝ ã ɑ̃ ə̃ ɛ̃ ɔ̃ œ̃ æ̃ ẽ ĩ õ ũ i̯ y̯ u̯ ɪ̯ ʏ̯ ʊ̯ ɐ̯ e̞ o̞ ø̞ a̯ i̥ u̥ ɯ̥ ᵊ ··· 
+Suprasegmentals: ˈ ˌ ː ˑ ˥ ˦ ˧ ˨ ˩ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ‿ ꜛ ꜜ  ···
+Pulmonic consonants: b̥ d̥ ɡ̊ l̥ m̥ n̥ r̥ t̪ d̪ n̪ ʈ ɖ ɟ ɢ ʔ ɱ n ɳ ɲ ŋ ɴ ʙ ʀ ɾ ɽ ɸ β ṽ θ ð ʃ ʒ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ɦ ɬ ɮ ʋ ɹ ɻ ɰ ɭ ʎ ʟ ʍ ɥ ʜ ʢ ʡ ɕ ʑ ɺ ɧ ɡ ɫ l̩ m̩ n̩ r̩ ɹ̩ r̥ t͡ʃ d͡ʒ t͡ɕ d͡ʑ t͡s d͡z ···
+Non-pulmonic consonants: Clicks: ʘ ǀ ǃ ǂ ǁ · Implosives: ɓ ɗ ʄ ɠ ʛ · Ejectives: ʼ ··· Diacritics: ʰ ʱ ʲ ʷ ˠ ˀ ˤ ˞ ᵝ ᵐ ᶬ ⁿ ᶯ ᶮ ᵑ ᶰ &nbsp;̰  &nbsp;̤  &nbsp;͈ &nbsp;̯ &nbsp;̑
+
+enPR: {{enPR|+}}
+Vowels: ā ă ä â ē ĕ ī ĭ î ō ŏ ô ŭ o͞o (“food”) o͝o (“foot”) û ə ···
+Partially anglicised foreign phonemes: ɴ ʀ ᴋʜ ö ü ···
+Stress markers: ʹ '
+
+
+
+
+Spacing modifiers: 
+ʹ
+ʺ
+ʻ
+ʼ
+ʽ
+ʾ
+ʿ
+ˀ
+ˁ
+˂
+˃
+˄
+˅
+ˆ
+ˇ
+ˈ
+ˉ
+˘
+ˊ
+ˋ
+ˌ
+ˍ
+ˎ
+ˏ
+◌
+
+
+Combining diacritics: 
+ &nbsp;̀
+ &nbsp;́
+ &nbsp;̂
+ &nbsp;̃
+ &nbsp;̄
+ &nbsp;̅
+ &nbsp;̆
+ &nbsp;̇
+ &nbsp;̈
+ &nbsp;̉
+ &nbsp;̊
+ &nbsp;̋
+ &nbsp;̌
+ &nbsp;̍
+ &nbsp;̎
+ &nbsp;̏
+ &nbsp;̐
+ &nbsp;̑
+ &nbsp;̒
+ &nbsp;̓
+ &nbsp;̔
+ &nbsp;̕
+ &nbsp;̖
+ &nbsp;̗
+ &nbsp;̘
+ &nbsp;̙
+ &nbsp;̚
+ &nbsp;̛
+ &nbsp;̜
+ &nbsp;̝
+ &nbsp;̞
+ &nbsp;̟
+ &nbsp;̠
+ &nbsp;̡
+ &nbsp;̢
+ &nbsp;̣
+ &nbsp;̤
+ &nbsp;̥
+ &nbsp;̦
+ &nbsp;̧
+ &nbsp;̨
+ &nbsp;̩
+ &nbsp;̪
+ &nbsp;̫
+ &nbsp;̬
+ &nbsp;̭
+ &nbsp;̮
+ &nbsp;̯
+ &nbsp;̰
+ &nbsp;̱
+ &nbsp;̲
+ &nbsp;̳
+ 
+
+
+
+
+Wiki markup: [[+]] {{+}} # &lt;+&gt; ~ | ···
+Quotation marks: “+” ‘+’ ‘ ’ ‛ „+“ ‚+‘ «+» ‹+› ⟨+⟩ ···
+Other punctuation: 
+… ·
+‑ – — ― ⸗
+¿
+¡
+‽
+Mathematical symbols:
+±
+−
+×
+÷
+°
+≈
+≠
+∅
+Superscripts and subscripts:
+
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
+₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
+
+Other symbols:
+ª º
+¶
+§
+† ‡
+№
+⁊
+✔
+← ⇐
+→ ⇒
+∴
+∵
+〃
+♀
+♂
+
+
+
+
+{{en-noun}} {{en-adj}} {{en-verb}} {{en-adv}} {{en-proper&nbsp;noun}} {{plural&nbsp;of|+}} {{present&nbsp;participle&nbsp;of|+}} {{past&nbsp;of|+}} {{comparative&nbsp;of|+}} {{superlative&nbsp;of|+}} {{misspelling&nbsp;of|+}} {{inflected&nbsp;form&nbsp;of|+}} {{alternative&nbsp;spelling&nbsp;of|+}} {{trans-top|+}} {{trans-mid}} {{trans-bottom}} {{der-top|+}} {{der-mid}} {{der-bottom}} {{rel-top|+}} {{rel-mid}} {{rel-bottom}}
+
+
+*&nbsp;{{l|+|}}
+#&nbsp;{{lb|+|}}
+
+
+===Alternative&nbsp;forms=== ===Etymology=== ===Pronunciation=== ===Adjective=== ===Adverb=== ===Glyph&nbsp;origin=== ===Hanja=== ===Hanzi=== ===Idiom=== ===Interjection=== ===Kanji=== ===Noun=== ===Numeral=== ===Participle=== ===Phrase=== ===Prefix=== ===Preposition=== ===Pronoun=== ===Proper&nbsp;noun=== ===Romanization=== ===Suffix=== ===Symbol=== ===Verb===  ====Usage&nbsp;notes==== ====Synonyms==== ====Antonyms==== ====Derived&nbsp;terms==== ====Related&nbsp;terms==== ====Translations==== ===See&nbsp;also=== ===References===
+
+
+
+
+Ɑ ɑ Ɓ ɓ Ƈ ƈ Ɖ ɖ Ɗ ɗ Ǝ ǝ Ɛ ɛ Ƒ ƒ Ɠ ɠ Ɣ ɣ Ɩ ɩ Ɨ ɨ Ƙ ƙ Ŋ ŋ Ɲ ɲ Ɔ ɔ Ƥ ƥ Ʃ ʃ Ƭ ƭ Ʈ ʈ Ʊ ʊ Ʋ ʋ Ⱳ ⱳ Ƴ ƴ Ʒ ʒ
+
+
+
+
+
+Transliteration: G̃ g̃ Ḫ ḫ Š š Ṣ ṣ Ṭ ṭ ʾ ā ē ī ō ū â ê î ô û
+
+Indexes: ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₓ ×
+
+
+
+
+Letters: ا أ إ آ ٱ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي ة ى ء ؤ ئ ﻻ ﷲ ـ ݣ ··· Persian: پ چ ژ ک گ ی  ··· Urdu: ٹ ڈ ڑ ں ے ۓ ہ ھ ··· Kurdish: ە ڕ ڒ ڤ ڵ ۆ ۊ ێ  ··· Vowels: fatha: ـَ damma: ـُ kasra: ـِ fathatan: ـً dammatan: ـٌ kasratan: ـٍ ••• Other: shadda: ـّ sukun: ـْ maddah above: ـٓ hamza above: ـٔ hamza below: ـٕ dagger alif: ـٰ
+Arabic translit.: ʾ ṯ ḥ ḵ ḏ š ṣ ḍ ṭ ẓ ʿ ḡ ā ī ū ē ō á í ú é ó
+Persian translit: ’ â š ž č ğ
+
+
+
+
+Ա ա Բ բ Գ գ Դ դ Ե ե Զ զ Է է Ը ը Թ թ Ժ ժ Ի ի Լ լ Խ խ Ծ ծ Կ կ Հ հ Ձ ձ Ղ ղ Ճ ճ Մ մ Յ յ Ն ն Շ շ Ո ո Չ չ Պ պ Ջ ջ Ռ ռ Ս ս Վ վ Տ տ Ր ր Ց ց Ւ ւ Փ փ Ք ք Օ օ Ֆ ֆ և ﬔ ﬕ ﬓ ﬗ ﬖ ··· Dialectal: ՙ  ա̈  ա̊  օ̈  ո̈ւ յ̵  ʔ ··· Punctuation:   ՚   ՛   ՜   ՝   ՞   ՟   ․   ։   ֊  ··· Symbols: ֏ ֎ ֍
+
+
+
+
+
+𐬀
+𐬁
+𐬂
+𐬃
+𐬄
+𐬅
+𐬆
+𐬇
+𐬈
+𐬉
+𐬊
+𐬋
+𐬌
+𐬍
+𐬎
+𐬏
+𐬐
+𐬑
+𐬒
+𐬓
+𐬔
+𐬕
+𐬖
+𐬗
+𐬘
+𐬙
+𐬚
+𐬛
+𐬜
+𐬝
+𐬞
+𐬟
+𐬠
+𐬡
+𐬢
+𐬣
+𐬤
+𐬥
+𐬦
+𐬧
+𐬨
+𐬩
+𐬪
+𐬫
+𐬬
+𐬭
+𐬮
+𐬯
+𐬰
+𐬱
+𐬲
+𐬳
+𐬴
+𐬵
+ ··· Punctuation: 
+𐬹
+𐬺
+𐬻
+𐬼
+𐬽
+𐬾
+𐬿
+
+
+
+
+
+က ခ ဂ ဃ င စ ဆ ဇ ဈ ည ဉ ဋ ဌ ဍ ဎ ဏ တ ထ ဒ ဓ န ပ ဖ ဗ ဘ မ ယ ရ လ ဝ သ ဿ ဟ အ ဣ ဤ ဥ ဦ ဧ ဩ ဪ &nbsp;င်္ &nbsp;် &nbsp;္ &nbsp;ျ &nbsp;ြ &nbsp;ွ &nbsp;ှ &nbsp;ာ &nbsp;ါ &nbsp;ိ &nbsp;ီ &nbsp;ု &nbsp;ူ &nbsp;ေ &nbsp;ဲ &nbsp;ော &nbsp;ေါ &nbsp;ို &nbsp;ံ &nbsp;့ &nbsp;း ၌ ၍ ၎ ၏ ၊ ။ ၀ ၁ ၂ ၃ ၄ ၅ ၆ ၇ ၈ ၉
+
+Transliteration: ā à á ă ḍ è é ī ì í ḷ ṃ ñ ṅ ṇ ò ó ṭ ū ù ú ʔ ’ ‘ ′ ″
+
+
+
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ Ꭺ Ꭻ Ꭼ Ꭽ Ꭾ Ꭿ Ꮀ Ꮁ Ꮂ Ꮃ Ꮄ Ꮅ Ꮆ Ꮇ Ꮈ Ꮉ Ꮊ Ꮋ Ꮌ Ꮍ Ꮎ Ꮏ Ꮐ Ꮑ Ꮒ Ꮓ Ꮔ Ꮕ Ꮖ Ꮗ Ꮘ Ꮙ Ꮚ Ꮛ Ꮜ Ꮝ Ꮞ Ꮟ Ꮠ Ꮡ Ꮢ Ꮣ Ꮤ Ꮥ Ꮦ Ꮧ Ꮨ Ꮩ Ꮪ Ꮫ Ꮬ Ꮭ Ꮮ Ꮯ Ꮰ Ꮱ Ꮲ Ꮳ Ꮴ Ꮵ Ꮶ Ꮷ Ꮸ Ꮹ Ꮺ Ꮻ Ꮼ Ꮽ Ꮾ Ꮿ Ᏸ Ᏹ Ᏺ Ᏻ Ᏼ
+
+
+
+
+А а Б б В в Г г Ѓ ѓ Ґ ґ Д д Ђ ђ Е е Ё ё Є є Ж ж З з Ѕ ѕ З́ з́ И и І і Ї ї Й й Ј ј К к Ќ ќ Л л Љ љ М м Н н Њ њ О о П п Р р С с С́ с́ Т т Ћ ћ У у Ў ў Ф ф Х х Ц ц Ч ч Џ џ Ш ш Щ щ Ъ ъ Ы ы Ь ь Э э Ю ю Я я ’ m-dash:— acute:&nbsp;́ grave:&nbsp;̀ macron:&nbsp;̄ double grave:&nbsp;̏ inverted breve:&nbsp;̑ А́ а́ Е́ е́ Є́ є́ И́ и́ І́ і́ Ї́ ї́ О́ о́ Р́ р́ У́ у́ Ъ́ ъ́ Ы́ ы́ Э́ э́ Ю́ ю́ Я́ я́ А̀ а̀ Ѐ ѐ Є̀ є̀ Ѝ ѝ І̀ і̀ Ї̀ ї̀ О̀ о̀ Р̀ р̀ У̀ у̀ Ъ̀ ъ̀ Ы̀ ы̀ Э̀ э̀ Ю̀ ю̀ Я̀ я̀
+
+Non-Slavic: Ӓ ӓ Ӑ ӑ Ӕ ӕ Ӡ ӡ Ӷ ӷ Ӣ ӣ Ҋ ҋ Ԥ ԥ Ӯ ӯ Ҕ ҕ Ғ ғ Е̃ е̃ Ӗ ӗ Ҽ ҽ Ҿ ҿ Ә ә Ӛ ӛ Җ җ Ӝ ӝ Ӂ ӂ Ҙ ҙ Ӟ ӟ Ҋ ҋ И̃ и̃ Ӏ ӏ Ҟ ҟ Ҡ ҡ Ҝ ҝ Қ қ Ӄ ӄ Ӆ ӆ Ԓ ԓ Ң ң Ҥ ҥ Ӈ ӈ Һ һ Ҩ ҩ Ө ө Ӫ ӫ Ӧ ӧ О̃ о̃ Р̌ р̌ Ҏ ҏ Ҫ ҫ Ҭ ҭ Ӱ ӱ Ү ү Ұ ұ Ҳ ҳ Ӽ ӽ Ӿ ӿ Ҍ ҍ Ӹ ӹ Ҵ ҵ Ҷ ҷ Ӵ ӵ Ӌ ӌ Ӭ ӭ Є̈ є̈ Ю̆ ю̆ Я̆ я̆ ˮ 
+
+Archaic: Ҁ ҁ Ѻ ѻ Ѡ ѡ Ѿ ѿ Ꙑ ꙑ Ѣ ѣ Ꙓ ꙓ Ꙗ ꙗ Ѥ ѥ Ѧ ѧ Ѩ ѩ Ѫ ѫ Ѭ ѭ Ѯ ѯ Ѱ ѱ Ѳ ѳ Ѵ ѵ Ѷ ѷ Ꙟ ꙟ
+
+Transliteration: Ž ž Č č Š š ʹ ʺ Á á Ǎ ǎ Ǎ̀ ǎ̀ É é Í í Ó ó Ú ú Ý ý ɛ ɛ́ Ǵ ǵ Ḱ ḱ Ŭ ŭ
+
+
+
+
+&nbsp;ँ &nbsp;ं &nbsp;ः अ आ इ ई उ ऊ ऋ ऌ ऍ ऎ ए ऐ ऑ ऒ ओ औ क क़ ख ख़ ग ग़ घ ङ च छ ज ज़ झ झ़ ञ ट ठ ड ड़ ढ ढ़ ण त थ द ध न ऩ प फ फ़ ब भ म य य़ र ऱ ल ळ ऴ व श ष स ह &nbsp;़ ऽ &nbsp;ा &nbsp;ि &nbsp;ॊ &nbsp;ो &nbsp;ौ &nbsp;् &nbsp;ी &nbsp;ु &nbsp;ू &nbsp;ृ &nbsp;ॄ &nbsp;ॅ &nbsp;ॆ &nbsp;े &nbsp;ै &nbsp;ॉ ॐ &nbsp;॑ &nbsp;॒ &nbsp;॓ &nbsp;॔ ॠ ॡ &nbsp;ॢ &nbsp;ॣ। ॥ ॰ ...
+
+Transliteration: ā ḍ ġ ḥ ī ḷ ḹ ṃ ñ ṅ ṇ ŕ ṛ ṝ ś ṣ ṭ ū .  ã ā̃ ẽ ĩ ī̃ õ ũ ū̃
+
+
+
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ ሉ ሊ ላ ሌ ል ሎ ሏ ሐ ሑ ሒ ሓ ሔ ሕ ሖ ሗ መ ሙ ሚ ማ ሜ ም ሞ ሟ ሠ ሡ ሢ ሣ ሤ ሥ ሦ ሧ ረ ሩ ሪ ራ ሬ ር ሮ ሯ ሰ ሱ ሲ ሳ ሴ ስ ሶ ሷ ሸ ሹ ሺ ሻ ሼ ሽ ሾ ሿ ቀ ቁ ቂ ቃ ቄ ቅ ቆ ቇ ቈ ቊ ቋ ቌ ቍ ቐ ቑ ቒ ቓ ቔ ቕ ቖ ቘ ቚ ቛ ቜ ቝ በ ቡ ቢ ባ ቤ ብ ቦ ቧ ቨ ቩ ቪ ቫ ቬ ቭ ቮ ቯ ተ ቱ ቲ ታ ቴ ት ቶ ቷ ቸ ቹ ቺ ቻ ቼ ች ቾ ቿ ኀ ኁ ኂ ኃ ኄ ኅ ኆ ኇ ኈ ኊ ኋ ኌ ኍ ነ ኑ ኒ ና ኔ ን ኖ ኗ ኘ ኙ ኚ ኛ ኜ ኝ ኞ ኟ አ ኡ ኢ ኣ ኤ እ ኦ ኧ ከ ኩ ኪ ካ ኬ ክ ኮ ኯ ኰ ኲ ኳ ኴ ኵ ኸ ኹ ኺ ኻ ኼ ኽ ኾ ዀ ዂ ዃ ዄ ዅ ወ ዉ ዊ ዋ ዌ ው ዎ ዏ ዐ ዑ ዒ ዓ ዔ ዕ ዖ ዘ ዙ ዚ ዛ ዜ ዝ ዞ ዟ ዠ ዡ ዢ ዣ ዤ ዥ ዦ ዧ የ ዩ ዪ ያ ዬ ይ ዮ ዯ ደ ዱ ዲ ዳ ዴ ድ ዶ ዷ ዸ ዹ ዺ ዻ ዼ ዽ ዾ ዿ ጀ ጁ ጂ ጃ ጄ ጅ ጆ ጇ ገ ጉ ጊ ጋ ጌ ግ ጎ ጏ ጐ ጒ ጓ ጔ ጕ ጘ ጙ ጚ ጛ ጜ ጝ ጞ ጟ ጠ ጡ ጢ ጣ ጤ ጥ ጦ ጧ ጨ ጩ ጪ ጫ ጬ ጭ ጮ ጯ ጰ ጱ ጲ ጳ ጴ ጵ ጶ ጷ ጸ ጹ ጺ ጻ ጼ ጽ ጾ ጿ ፀ ፁ ፂ ፃ ፄ ፅ ፆ ፇ ፈ ፉ ፊ ፋ ፌ ፍ ፎ ፏ ፐ ፑ ፒ ፓ ፔ ፕ ፖ ፗ ፘ ፙ ፚ ፠ ፡ ። ፣ ፤ ፥ ፦ ፧ ፨ ፩ ፪ ፫ ፬ ፭ ፮ ፯ ፰ ፱ ፲ ፳ ፴ ፵ ፶ ፷ ፸ ፹ ፺ ፻ ፼ ᎐ ᎑ ᎒ ᎓ ᎔ ᎕ ᎖ ᎗ ᎘ ᎙ 
+
+
+
+
+ა
+ბ
+გ
+დ
+ე
+ვ
+ზ
+ჱ
+თ
+ი
+კ
+ლ
+მ
+ნ
+ჲ
+ო
+პ
+ჟ
+რ
+ს
+ტ
+ჳ
+უ
+უ̂
+ჷ
+ფ
+ქ
+ღ
+ყ
+ჸ
+შ
+ჩ
+ც
+ძ
+წ
+ჭ
+ხ
+ჴ
+ჯ
+ჰ
+ჵ
+ჶ
+ჺ
+ჼ
+ა̈
+ა̄
+ა̄̈
+ო̈
+ო̄
+ო̄̈
+უ̈
+უ̄
+უ̄̈
+ე̄
+ი̄
+ჷ̄
+
+
+
+
+
+𐌰 𐌱 𐌲 𐌳 𐌴 𐌵
+𐌶 𐌷 𐌸 𐌹 𐌺 𐌻
+𐌼 𐌽 𐌾 𐌿 𐍀 𐍁
+𐍂 𐍃 𐍄 𐍅 𐍆 𐍇
+𐍈 𐍉 𐍊 ··· Þ þ Ƕ ƕ
+
+
+
+
+Plain: Α α Β β Γ γ Δ δ Ε ε Ζ ζ Η η Θ θ Ι ι Κ κ Λ λ Μ μ Ν ν Ξ ξ Ο ο Π π Ρ ρ Σ σ ς Τ τ Υ υ Φ φ Χ χ Ψ ψ Ω ω · ᾼ ᾳ ῌ ῃ ῼ ῳ · Acute: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ · ᾴ ῄ ῴ · Grave: Ὰ ὰ Ὲ ὲ Ὴ ὴ Ὶ ὶ Ὸ ὸ Ὺ ὺ Ὼ ὼ · ᾲ ῂ ῲ · Circumflex: ᾶ ῆ ῖ ῦ ῶ · ᾷ ῇ ῷ ··· 
+With smooth breathing: Plain: Ἀ ἀ Ἐ ἐ Ἠ ἠ Ἰ ἰ Ὀ ὀ ὐ Ὠ ὠ · ᾈ ᾀ ᾘ ᾐ ᾨ ᾠ · ῤ · Acute: Ἄ ἄ Ἔ ἔ Ἤ ἤ Ἴ ἴ Ὄ ὄ ὔ Ὤ ὤ · ᾌ ᾄ ᾜ ᾔ ᾬ ᾤ · Grave: Ἂ ἂ Ἒ ἒ Ἢ ἢ Ἲ ἲ Ὂ ὂ ὒ Ὢ ὢ · ᾊ ᾂ ᾚ ᾒ ᾪ ᾢ · Circumflex: Ἆ ἆ Ἦ ἦ Ἶ ἶ ὖ Ὦ ὦ · ᾎ ᾆ ᾞ ᾖ ᾮ ᾦ ··· 
+With rough breathing: Plain: Ἁ ἁ Ἑ ἑ Ἡ ἡ Ἱ ἱ Ὁ ὁ Ὑ ὑ Ὡ ὡ · ᾉ ᾁ ᾙ ᾑ ᾩ ᾡ · Ῥ ῥ · Acute: Ἅ ἅ Ἕ ἕ Ἥ ἥ Ἵ ἵ Ὅ ὅ Ὕ ὕ Ὥ ὥ · ᾍ ᾅ ᾝ ᾕ ᾭ ᾥ · Grave: Ἃ ἃ Ἓ ἓ Ἣ ἣ Ἳ ἳ Ὃ ὃ Ὓ ὓ Ὣ ὣ · ᾋ ᾃ ᾛ ᾓ ᾫ ᾣ · Circumflex: Ἇ ἇ Ἧ ἧ Ἷ ἷ Ὗ ὗ Ὧ ὧ · ᾏ ᾇ ᾟ ᾗ ᾯ ᾧ ··· 
+Diaeresis: ϊ ΐ ῒ ῗ ϋ ΰ ῢ ῧ · Long/short: ᾰ ᾱ ῐ ῑ ῠ ῡ Ᾰ Ᾱ Ῐ Ῑ Ῠ Ῡ ··· 
+ &nbsp;̀
+ &nbsp;́
+ &nbsp;̈
+ &nbsp;̓
+ &nbsp;̔
+ &nbsp;̄
+ &nbsp;̆  ··· 
+Archaic letters: Ϝ ϝ Ϙ ϙ Ϟ ϟ Ϡ ϡ Ϛ ϛ ϗ ··· 
+Variant forms: ϐ ∂ ϵ ϑ ϰ ϖ ϱ ϲ ϒ ϕ Ȣ ȣ ··· 
+For {{grc-IPA}}: ¯ ˘ ··· Templates: {{subst:chars|grc|+}}
+
+
+
+
+Letters: א ב ג ד ה ו ז ח ט י כ ך ל מ ם נ ן ס ע פ ף צ ץ ק ר ש שׁ שׂ ת ··· Marks: dagésh:&nbsp;&nbsp;ּ géresh:&nbsp;׳ gersháyim:&nbsp;״ makáf:&nbsp;־ sof pasúk:&nbsp;׃ ··· Vowels: kamáts:&nbsp;&nbsp;ָ patákh:&nbsp;&nbsp;ַ tseiréi:&nbsp;&nbsp;ֵ segól:&nbsp;&nbsp;ֶ khirík:&nbsp;&nbsp;ִ kholám:&nbsp;&nbsp;ֹ kubúts:&nbsp;&nbsp;ֻ sh'vá:&nbsp;&nbsp;ְ khatáf-kamáts:&nbsp;&nbsp;ֳ khatáf-patákh:&nbsp;&nbsp;ֲ khatáf-segól:&nbsp;&nbsp;ֱ ··· Accents: ráfe:&nbsp;&nbsp;ֿ dot above:&nbsp;&nbsp;ׄ méteg:&nbsp;&nbsp;ֽ ··· Ligatures: ײַ ··· Translit.: á é í ó ú ··· Scholarly: ʾ ḇ ḡ ḏ ḥ ṭ ḵ ʿ p̄ ṣ ḳ š ś ṯ ə ᵊ ă ĕ ŏ ā ē ī ō ū â ê î ô û ā́ ḗ ī́ ṓ ū́ ··· Misc. tr.: ḍ ẓ č ž
+
+
+
+
+Hiragana: ぁ あ ぃ い ぅ う ぇ え ぉ お か が き ぎ く ぐ け げ こ ご さ ざ し じ す ず せ ぜ そ ぞ た だ ち ぢ っ つ づ て で と ど な に ぬ ね の は ば ぱ ひ び ぴ ふ ぶ ぷ へ べ ぺ ほ ぼ ぽ ま み む め も ゃ や ゅ ゆ ょ よ ら り る れ ろ ゎ わ ゐ ゑ を ん ゛ ゜ ゝ ゞ ゟ ···
+Katakana: ァ ア ィ イ ゥ ウ ェ エ ォ オ カ ガ キ ギ ク グ ケ ゲ コ ゴ サ ザ シ ジ ス ズ セ ゼ ソ ゾ タ ダ チ ヂ ッ ツ ヅ テ デ ト ド ナ ニ ヌ ネ ノ ハ バ パ ヒ ビ ピ フ ブ プ ヘ ベ ペ ホ ボ ポ マ ミ ム メ モ ャ ヤ ュ ユ ョ ヨ ラ リ ル レ ロ ヮ ワ ヰ ヱ ヲ ン ヴ ヵ ヶ ・ ー ヽ ヾ ヿ ···
+Punctuation: 、 。 々 〆 〈+〉 《+》 「+」 『+』 【+】 〔+〕 〖+〗 〘+〙 〚+〛 〜
+
+
+
+
+ក ខ គ ឃ ង ច ឆ ជ ឈ ញ ដ ឋ ឌ ឍ ណ ត ថ ទ ធ ន ប ផ ព ភ ម យ រ ល វ ឝ ឞ ស ហ ឡ អ ឣ ឤ ឥ ឦ ឧ ឨ ឩ ឪ ឫ ឬ ឭ ឮ ឯ ឰ ឱ ឲ ឳ ។ ៕ ៖ ៗ ៘ ៙ ៚ ៛ ៜ &nbsp;៝ ០ ១ ២ ៣ ៤ ៥ ៦ ៧ ៨ ៩ ៰ ៱ ៲ ៳ ៴ ៵ ៶ ៷ ៸ ៹
+ &nbsp;&nbsp;឴ &nbsp;឵ &nbsp;ា &nbsp;ិ &nbsp;ី &nbsp;ឹ &nbsp;ឺ &nbsp;ុ &nbsp;ូ &nbsp;ួ &nbsp;ើ &nbsp;ឿ &nbsp;ៀ &nbsp;េ &nbsp;ែ &nbsp;ៃ &nbsp;ោ &nbsp;ៅ &nbsp;ំ &nbsp;ះ &nbsp;ៈ &nbsp;៉ &nbsp;៊ &nbsp;់ &nbsp;៌ &nbsp;៍ &nbsp;៎ &nbsp;៏ &nbsp;័ &nbsp;៑ &nbsp;្ &nbsp;៓ &nbsp;
+
+
+
+
+Korean Jamo: ㄱ ㄲ ㄳ ㄴ ㄵ ㄶ ㄷ ㄸ ㄹ ㄺ ㄻ ㄼ ㄽ ㄾ ㄿ ㅀ ㅁ ㅂ ㅃ ㅄ ㅅ ㅆ ㅇ ㅈ ㅉ ㅊ ㅋ ㅌ ㅍ ㅎ ㅏ ㅑ ㅒ ㅓ ㅔ ㅕ ㅖ ㅗ ㅘ ㅙ ㅚ ㅛ ㅜ ㅝ ㅞ ㅟ ㅠ ㅡ ㅢ ㅣ ㅤ ㅥ ㅦ ㅧ ㅨ ㅩ ㅪ ㅫ ㅬ ㅭ ㅮ ㅯ ㅰ ㅱ ㅲ ㅳ ㅴ ㅵ ㅶ ㅷ ㅸ ㅹ ㅺ ㅻ ㅼ ㅽ ㅾ ㅿ ㆀ ㆁ ㆂ ㆃ ㆄ ㆅ ㆆ ㆇ ㆈ ㆉ ㆊ ㆋ ㆌ ㆍ ㆎ
+
+
+
+
+ກ ຂ ຄ ງ ຈ ສ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ ຜ ຝ ພ ຟ ມ ຢ ລ ວ ຫ ອ ຮ ··· Ligatures: ຫຼ ໜ ໝ ··· Vowel nuclei:  ະ   ັ າ   ິ   ີ   ຶ   ື   ຸ   ູ  ເ ແ ໂ   ົ   ໍ  ໄ ໃ ຽ   ຳ ··· Tone marks:   ່   ້   ໋   ໊
+
+
+
+
+Letters: 𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈 𐌉 𐌊 𐌋 𐌌 𐌍 𐌎 𐌏 𐌐 𐌑 𐌒 𐌓 𐌔 𐌕 𐌖 𐌗 𐌘 𐌙 𐌚 𐌛 𐌜 𐌝 𐌞 𐌟 ··· Numerals: 𐌠 𐌡 𐌢 𐌣 ··· Punctuation: · ⁚ ⁝
+
+
+
+
+𐎠 𐎡 𐎢 𐎣 𐎤 𐎥 𐎦 𐎧 𐎨 𐎩 𐎪 𐎫 𐎬 𐎭 𐎮 𐎯 𐎰 𐎱 𐎲 𐎳 𐎴 𐎵 𐎶 𐎷 𐎸 𐎹 𐎺 𐎻 𐎼 𐎽 𐎾 𐎿 𐏀 𐏁 𐏂 𐏃 ··· Logograms: 𐏈 𐏉 𐏊 𐏋 𐏌 𐏍 𐏎 𐏏 ··· Word divider: 𐏐 ··· Numerals: 𐏑 𐏒 𐏓 𐏔 𐏕
+
+
+
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆 𐤇 𐤈 𐤉 𐤊 𐤋 𐤌 𐤍 𐤎 𐤏 𐤐 𐤑 𐤒 𐤓 𐤔 𐤕 ··· Numerals: 𐤖 𐤗 𐤘 𐤙 𐤚 𐤛 ··· Word divider: 𐤟
+
+
+
+
+Common: æ ə á é í ó ú ǽ ə́ ā ē ī ō ū ǣ ə̄ ā́ ḗ ī́ ṓ ū́ ǣ́ ə̄́ ₔ ᵊ — ś ź č š ž ʷ ʰ ɸ β θ þ ð χ ɣ
+Balto-Slavic: ˀ
+Brythonic: β̃ ė ɨ ö ọ ü ʉ
+Germanic: ê ô ą į ų į̄ ǭ ǫ̂
+West Germanic: ą̄ į̄ ų̄ ʀ
+Indo-European: ḱ ǵ ₁ ₂ ₃ l̥ r̥ m̥ n̥ ŕ̥ ĺ̥ ḿ̥ ń̥
+Indo-Iranian: ć ȷ́ ǰ
+Semitic: ʾ ḥ ḫ θ̣ ʿ ġ ṣ ṣ́
+Slavic: ť ď ľ ň ř ě ę ǫ ь ъ
+Other: ·
+
+
+
+
+Postures: shape 𝠀 1 𝠎 3 𝠞 Bent3 𝠟 𝠭 4 𝡄  5 𝡌 Claw5 𝡐 6 7 8 Open8 𝣄 9 Flat9 A OpenA B BentB FlatB OpenB C FlatC SmallC D E G H I K L M OpenM N O FlatO SmallO R S T V BentV X OpenX Y ILY Corna @ location on (or Near From Distal) the (In Back Radial Ulnar Tip Base zone of) opposite hand's Forearm Wrist Hand Finger Thumb Palm or body Backhead Top Forehead Sfhead Nose Cheek Ear Mouth Lip Jaw Chin Neck Shoulder Sternum Chest Trunk Abdomen Upperarm Forearm Leg, or in space (Near Distal Extend) Center Inside Side Left1 Left2 Left3 Right1 Right2 Right3 at Tophigh Foreheadhigh Nosehigh Mouthhigh Chinhigh Neckhigh Sternumhigh Chesthigh Trunkhigh Abdomenhigh - orientation Finger Thumb Palm facing Forward Back Up Down Across Aside Moves: Round Seven Circles along Horiz Vert Midline Surface Oblique ... Slow Fast Accel Tense Small Large Contact ... Wiggle Hook Flatten Twist Nod Release Rub Squeeze ... Sidetoside Frontandback Upanddown
+
+
+
+අ ආ ඇ ඈ ඉ ඊ උ ඌ ඍ ඎ ඏ ඐ එ ඒ ඓ ඔ ඕ ඖ ක ඛ ග ඝ ඞ ඟ ච ඡ ජ ඣ ඤ ඥ ඦ ට ඨ ඩ ඪ ණ ඬ ත ථ ද ධ න ඳ ප ඵ බ භ ම ඹ ය ර ල ව ශ ෂ ස හ ළ ෆ ෴
+&nbsp;ං &nbsp;ඃ &nbsp;් &nbsp;ා &nbsp;ැ &nbsp;ෑ &nbsp;ි &nbsp;ී &nbsp;ු &nbsp;ූ &nbsp;ෘ &nbsp;ෙ &nbsp;ේ &nbsp;ෛ &nbsp;ො &nbsp;ෝ &nbsp;ෞ &nbsp;ෟ &nbsp;ෲ &nbsp;ෳ 
+
+
+
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ ܟ ܠ ܡ ܢ ܣ ܥ ܦ ܨ ܩ ܪ ܫ ܬ ··· ܀ ··· Western vowels: &nbsp;ܰ &nbsp;ܳ &nbsp;ܶ &nbsp;ܺ &nbsp;ܽ &nbsp;ܱ &nbsp;ܴ &nbsp;ܷ &nbsp;ܻ &nbsp;ܾ ··· Eastern vowels: &nbsp;ܲ &nbsp;ܵ &nbsp;ܸ &nbsp;ܼ &nbsp;ܿ &nbsp;ܹ ··· Other diacritics: &nbsp;ܑ &nbsp;̮ &nbsp;݀ &nbsp;݁ &nbsp;݂ &nbsp;̈ &nbsp;̤ &nbsp;̄ &nbsp;̱ &nbsp;̇ &nbsp;̣ &nbsp;̃ &nbsp;̰ &nbsp;݊ &nbsp;̊ &nbsp;̥ &nbsp;݉ &nbsp;܊ ··· Translit.: ʾ ḇ ḡ ḏ ḥ ṭ ḵ ʿ p̄ ṣ ḳ š ś ṯ ə ᵊ ă ĕ ŏ ā ē ī ō ū â ê î ô û ā́ ḗ ī́ ṓ ū́ ḍ ẓ č ž
+
+
+
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช ซ ฌ ญ ฎ ฏ ฐ ฑ ฒ ณ ด ต ถ ท ธ น บ ป ผ ฝ พ ฟ ภ ม ย ร ฤ ล ฦ ว ศ ษ ส ห ฬ อ ฮ ฯ ··· &nbsp;ะ  า  &nbsp; ำ เ แ โ ใ ไ ๅ ๆ ··· ฤ ฦ
+
+Diacritics:  &nbsp;ั &nbsp;ิ &nbsp;ี &nbsp;ึ &nbsp;ื &nbsp;ุ &nbsp;ู &nbsp;ฺ &nbsp;่ &nbsp;้ &nbsp;๊ &nbsp;๋ &nbsp;์ &nbsp;ํ &nbsp;๎ &nbsp;็ &nbsp;๏
+
+Thai numerals:๐ ๑ ๒ ๓ ๔ ๕ ๖ ๗ ๘ ๙ •••
+ ◌
+
+Transliteration diacritics:  &nbsp;́ &nbsp;̀ &nbsp;̂ &nbsp;̌
+
+Transliteration: ʉ ɛ ɔ ə á à â ǎ é è ê ě ɛ́ ɛ̀ ɛ̂ ɛ̌ ə́ ə̀ ə̂ ə̌ í ì î ǐ ó ò ô ǒ ɔ́ ɔ̀ ɔ̂ ɔ̌ ú ù û ǔ ʉ́ ʉ̀ ʉ̂ ʉ̌
+&nbsp;́
+
+
+
+
+ⴰ ⴱ ⴲ ⴳ ⴴ ⴵ ⴶ ⴷ ⴸ ⴹ ⴺ ⴻ ⴼ ⴽ ⴿ ⵀ ⵁ ⵃ ⵄ ⵅ ⵇ ⵉ ⵊ ⵋ ⵍ ⵎ ⵏ ⵒ ⵓ ⵔ ⵕ ⵖ ⵘ ⵙ ⵚ ⵛ ⵜ ⵝ ⵞ ⵟ ⵠ ⵡ ⵢ ⵣ ⵤ ⵥ ⵯ ··· Tuareg: ⴾ ⵀ ⵂ ⵆ ⵈ ⵌ ⵐ ⵑ ⵓ ⵗ
+
+
+
+
+𐎀 𐎁 𐎂 𐎃 𐎄 𐎅 𐎆 𐎇 𐎈 𐎉 𐎊 𐎋 𐎌 𐎍 𐎎 𐎏 𐎐 𐎑 𐎒 𐎓 𐎔 𐎕 𐎖 𐎗 𐎘 𐎙 𐎚 𐎛 𐎜 𐎝 ··· Word divider: 𐎟 ··· Translit.: ʿ ḫ ḥ ṭ š ḏ ẓ ṣ ṯ ġ s̀ ả ỉ ủ ʾ ā ē ī ō ū â ·
+
+
+
+À à Ả ả Ã ã Á á Ạ ạ Ă ă Ằ ằ Ẳ ẳ Ẵ ẵ Ắ ắ Ặ ặ Â â Ầ ầ Ẩ ẩ Ẫ ẫ Ấ ấ Ậ ậ Đ đ È è Ẻ ẻ Ẽ ẽ É é Ẹ ẹ Ê ê Ề ề Ể ể Ễ ễ Ế ế Ệ ệ Ì ì Ỉ ỉ Ĩ ĩ Í í Ị ị Ò ò Ỏ ỏ Õ õ Ó ó Ọ ọ Ô ô Ồ ồ Ổ ổ Ỗ ỗ Ố ố Ộ ộ Ơ ơ Ờ ờ Ở ở Ỡ ỡ Ớ ớ Ợ ợ Ù ù Ủ ủ Ũ ũ Ú ú Ụ ụ Ư ư Ừ ừ Ử ử Ữ ữ Ứ ứ Ự ự Ỳ ỳ Ỷ ỷ Ỹ ỹ Ý ý Ỵ ỵ
+
+
+
+
+
+Zhuyin: 
+ㄅ ㄆ ㄇ ㄈ ㄉ ㄊ
+ㄋ ㄌ ㄍ ㄎ ㄏ ㄐ
+ㄑ ㄒ ㄓ ㄔ ㄕ ㄖ
+ㄗ ㄘ ㄙ ㄚ ㄛ ㄜ
+ㄝ ㄞ ㄟ ㄠ ㄡ ㄢ
+ㄣ ㄤ ㄥ ㄦ ㄧ ㄨ
+ㄩ ㄪ ㄫ ㄬ
+
+
+
+
+
+This page is a member of 11 hidden categories:
+
+Category:Arabic redlinks
+Category:Arabic redlinks/t
+Category:Cantonese redlinks
+Category:Cantonese redlinks/t
+Category:Latin nouns with red links in their inflection tables
+Category:Macedonian redlinks
+Category:Macedonian redlinks/t
+Category:Mandarin redlinks
+Category:Mandarin redlinks/t
+Category:Russian redlinks
+Category:Russian redlinks/t+
+
+
+
+Retrieved from "https://en.wiktionary.org/wiki/Nova_Scotia"
+		
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		EntryDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditHistory
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main PageCommunity portalPreferencesRequested entriesRecent changesRandom entryHelpGlossaryDonationsContact us
+		
+	
+
+
+	
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPage information
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About&nbsp;Wiktionary
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

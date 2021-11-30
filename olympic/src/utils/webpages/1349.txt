@@ -1,0 +1,285 @@
+
+
+
+
+Category:Miscellaneous redirects - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	Help
+	
+	Category:Miscellaneous redirects
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		The pages in this category are redirects that are tagged by the raw (no rcats added) template below, or that do have rcats, but the first parameter is left blank (empty). To add a redirect to this category, place {{Redirect category shell}}  on the second new line (skip a line) after #REDIRECT&nbsp;[[Target page name]]. For more information follow the links. Never substitute redirect template(s), nor place them on soft redirects.
+See also the complete list of redirect templates and the redirect style guide.
+This is a maintenance category, used for maintenance of the Wikipedia project. It is not part of the encyclopedia and contains non-article pages, or groups articles by status rather than subject. Do not include this category in content categories. 
+This is a tracking category. It builds and maintains a list of pages primarily for the sake of the list itself. They are not part of the encyclopedia's categorization scheme.
+
+This category is hidden on its member pages—unless the corresponding user preference (appearance → show hidden categories) is set.
+These categories can be used to track, build and organize lists of pages needing "attention en masse" (for example, pages using deprecated syntax), or that may need to be edited at someone's earliest convenience.
+These categories also serve to aggregate members of several lists or sub-categories into a larger, more efficient list (discriminated by classifications).ShortcutCAT:MISCR
+Administrators: Please do not delete this category as empty!
+ This category may be empty occasionally or even most of the time.
+
+
+
+
+
+This category is used to track redirects that are tagged with the {{Redirect category shell}} template or its shortcut, the  {{Rcat shell}} template.  Either no rcat has been added that would sort the redirect into a more specific category, or an editor has tagged a redirect with one or more rcats and has left the first parameter empty, for example:
+
+{{Redirect category shell || {{R from/to/with...}}}}
+
+or:
+{{Rcat shell || {{R from/to/with...}}}}
+
+Note:  There is nothing between the first two pipes, so that first parameter is "empty".
+This may be necessary if an editor is unsure if they have used the correct rcat(s), or whether or not the redirect needs at least one more rcat.
+
+
+Editors who monitor this category may then find and help categorize those redirects.
+
+
+Some redirects in this category may be test redirects used to check sandbox proposals.
+
+
+
+
+
+
+Pages in category "Miscellaneous redirects"
+
+
+The following 4 pages are in this category, out of  4 total. This list may not reflect recent changes (learn more).
+0–9
+2021-22 Indian Super League seasonA
+User:Anupam Mahapatra/sandboxB
+Burgermeister BeerM
+Mayan Temples
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Category:Miscellaneous_redirects&amp;oldid=1041193041"
+		Categories: Wikipedia redirectsHidden categories: Hidden categoriesAll redirect categoriesRedirect tracking categoriesWikipedia maintenance
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		CategoryTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		فارسیIlokanoमराठीBahasa MelayuSlovenščina中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 29 August 2021, at 04:31&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

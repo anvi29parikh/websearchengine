@@ -1,0 +1,317 @@
+
+
+
+
+Abuse filter log - Wiktionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	Help
+	
+	Abuse filter log
+	
+		
+		Edit filter navigation (Home | Recent filter changes | Examine past edits | Abuse log)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+This log shows a list of all actions caught by the filters.
+
+Search the abuse logExpandCollapseUser:Changes made after:Changes made before:Title:Impact:All actionsSaved changes onlyWithout saved changesTriggering action:AnyautocreateaccountcreateaccountdeleteeditmovestashuploaduploadOtherAction taken:AnyBlockBlock autopromoteDisallowRange-blockRemove from groupsTagThrottleWarnNone
+Search
+(newest | oldest) View (newer 50  |  older 50) (20 | 50 | 100 | 250 | 500)19:50, 29 November 2021: Kutchkutch (talk | contribs) triggered an abuse filter, performing the action "edit" on Module:pa-Arab-Mult-convert/sandbox.
+Actions taken: Tag;
+Filter description: addition of Arabic Presentation Forms (diff)19:32, 29 November 2021: 208.108.133.127 (talk) triggered an abuse filter, performing the action "edit" on paper girl.
+Actions taken: Warn;
+Filter description: No header for the language and part of speech19:32, 29 November 2021: Equinox (talk | contribs) triggered an abuse filter, performing the action "edit" on attack page.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)19:19, 29 November 2021: Ruakh (talk | contribs) triggered an abuse filter, performing the action "edit" on fine print.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)19:18, 29 November 2021: Ruakh (talk | contribs) triggered an abuse filter, performing the action "edit" on האותיות הקטנות.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)19:16, 29 November 2021: 86.145.59.7 (talk) triggered an abuse filter, performing the action "edit" on proboscis.
+Actions taken: Tag;
+Filter description: Tag new {etyl} usage (diff)19:16, 29 November 2021: 030BeterHe (talk | contribs) triggered an abuse filter, performing the action "edit" on Ingen.
+Actions taken: Tag;
+Filter description: Removal of Descendants section (diff)19:16, 29 November 2021: 030BeterHe (talk | contribs) triggered an abuse filter, performing the action "edit" on Ingen.
+Actions taken: Warn;
+Filter description: Removal of Descendants section18:43, 29 November 2021: 12.97.199.185 (talk) triggered an abuse filter, performing the action "edit" on oman turkey relations.
+Actions taken: Disallow;
+Filter description: 2Short18:43, 29 November 2021: 12.97.199.185 (talk) triggered an abuse filter, performing the action "edit" on oman turkey relations.
+Actions taken: Disallow, Tag;
+Filter description: adding one bad word and nothing else18:43, 29 November 2021: 12.97.199.185 (talk) triggered an abuse filter, performing the action "edit" on oman turkey relations.
+Actions taken: Warn;
+Filter description: No header for the language and part of speech18:42, 29 November 2021: 2409:4050:db2:1075::d1cb:5708 (talk) triggered an abuse filter, performing the action "edit" on योगेश पुण्डीर.
+Actions taken: Warn;
+Filter description: probably vandalism18:42, 29 November 2021: 2409:4050:db2:1075::d1cb:5708 (talk) triggered an abuse filter, performing the action "edit" on योगेश पुण्डीर.
+Actions taken: Warn;
+Filter description: No header for the language and part of speech17:51, 29 November 2021: Alexlin01 (talk | contribs) triggered an abuse filter, performing the action "edit" on soro.
+Actions taken: Tag;
+Filter description: new L2 (diff)17:51, 29 November 2021: 2402:3a80:1f44:e26f::646:4726 (talk) triggered an abuse filter, performing the action "edit" on Adani group.
+Actions taken: Tag;
+Filter description: No header for the language and part of speech17:50, 29 November 2021: 2402:3a80:1f44:e26f::646:4726 (talk) triggered an abuse filter, performing the action "edit" on Adani group.
+Actions taken: Warn;
+Filter description: No header for the language and part of speech17:37, 29 November 2021: Alexlin01 (talk | contribs) triggered an abuse filter, performing the action "edit" on sore.
+Actions taken: Tag;
+Filter description: new L2 (diff)17:33, 29 November 2021: Alexlin01 (talk | contribs) triggered an abuse filter, performing the action "edit" on sopi.
+Actions taken: Tag;
+Filter description: new L2 (diff)17:29, 29 November 2021: ZETA LOMATIC (talk | contribs) triggered an abuse filter, performing the action "edit" on Afrophobia.
+Actions taken: Tag;
+Filter description: "added content" but page got smaller (diff)17:28, 29 November 2021: 2600:100a:b115:a8fe:b1:b84b:4f8e:ab6 (talk) triggered an abuse filter, performing the action "edit" on Mountain grove Missouri.
+Actions taken: Tag;
+Filter description: No header for the language and part of speech17:28, 29 November 2021: 2600:100a:b115:a8fe:b1:b84b:4f8e:ab6 (talk) triggered an abuse filter, performing the action "edit" on Mountain grove Missouri.
+Actions taken: Warn;
+Filter description: No header for the language and part of speech17:22, 29 November 2021: Equinox (talk | contribs) triggered an abuse filter, performing the action "edit" on easeled.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)17:15, 29 November 2021: Alexlin01 (talk | contribs) triggered an abuse filter, performing the action "edit" on kuraci.
+Actions taken: Tag;
+Filter description: new L2 (diff)17:10, 29 November 2021: 2001:4bc9:810:b38f:2:1:cc0d:2e49 (talk) triggered an abuse filter, performing the action "edit" on IGN.
+Actions taken: Tag;
+Filter description: new L2 (diff)16:37, 29 November 2021: Equinox (talk | contribs) triggered an abuse filter, performing the action "edit" on lunchee.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)16:37, 29 November 2021: Equinox (talk | contribs) triggered an abuse filter, performing the action "edit" on lunchor.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)16:36, 29 November 2021: Equinox (talk | contribs) triggered an abuse filter, performing the action "edit" on lunchee.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)16:35, 29 November 2021: Equinox (talk | contribs) triggered an abuse filter, performing the action "edit" on luncher.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)16:34, 29 November 2021: 118.216.30.121 (talk) triggered an abuse filter, performing the action "edit" on койор.
+Actions taken: Warn;
+Filter description: ref no references16:29, 29 November 2021: 170.238.79.73 (talk) triggered an abuse filter, performing the action "edit" on brotherhood.
+Actions taken: Warn;
+Filter description: Posting an e-mail address16:28, 29 November 2021: Equinox (talk | contribs) triggered an abuse filter, performing the action "edit" on messenger.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)16:22, 29 November 2021: 174.216.68.230 (talk) triggered an abuse filter, performing the action "edit" on farkle.
+Actions taken: none;
+Filter description: blank line before first heading16:22, 29 November 2021: 174.216.68.230 (talk) triggered an abuse filter, performing the action "edit" on farkle.
+Actions taken: Tag;
+Filter description: missing headword templates16:22, 29 November 2021: 174.216.68.230 (talk) triggered an abuse filter, performing the action "edit" on farkle.
+Actions taken: Tag;
+Filter description: bad lede16:22, 29 November 2021: 174.216.68.230 (talk) triggered an abuse filter, performing the action "edit" on farkle.
+Actions taken: none;
+Filter description: blank line before first heading16:22, 29 November 2021: 174.216.68.230 (talk) triggered an abuse filter, performing the action "edit" on farkle.
+Actions taken: Tag;
+Filter description: missing headword templates16:22, 29 November 2021: 174.216.68.230 (talk) triggered an abuse filter, performing the action "edit" on farkle.
+Actions taken: Warn;
+Filter description: bad lede16:21, 29 November 2021: Sartma (talk | contribs) triggered an abuse filter, performing the action "edit" on 𒈪.
+Actions taken: Tag;
+Filter description: missing headword templates (diff)16:19, 29 November 2021: 24.158.16.162 (talk) triggered an abuse filter, performing the action "edit" on farkle.
+Actions taken: Tag;
+Filter description: missing headword templates16:16, 29 November 2021: Ⲁⲡⲟⲗⲗⲟⲇⲱⲣⲟⲥ (talk | contribs) triggered an abuse filter, performing the action "edit" on ⲁⲃⲓϭⲉⲛⲓ.
+Actions taken: Tag;
+Filter description: Tag new {etyl} usage (diff)16:15, 29 November 2021: Sartma (talk | contribs) triggered an abuse filter, performing the action "edit" on giggi.
+Actions taken: none;
+Filter description: blank line before first heading (diff)15:57, 29 November 2021: 2a01:cb05:8b96:e000:6c8a:4092:39c7:ad07 (talk) triggered an abuse filter, performing the action "edit" on loam.
+Actions taken: Disallow;
+Filter description: PdL-ja15:44, 29 November 2021: Chuck Entz (talk | contribs) triggered an abuse filter, performing the action "edit" on User:Chuck Entz/Lifeform Category Tables/Animals.
+Actions taken: none;
+Filter description: addition of invisible characters (diff)15:33, 29 November 2021: Martelkapo (talk | contribs) triggered an abuse filter, performing the action "edit" on renminbio.
+Actions taken: Tag;
+Filter description: Tag new {etyl} usage (diff)15:33, 29 November 2021: 2601:183:4501:2760:a040:3526:866c:45a3 (talk) triggered an abuse filter, performing the action "edit" on User talk:2601:183:4501:2760:A040:3526:866C:45A3.
+Actions taken: Tag;
+Filter description: New user created user page (diff)15:29, 29 November 2021: YousuhrNaym (talk | contribs) triggered an abuse filter, performing the action "edit" on 薀蓄.
+Actions taken: Tag;
+Filter description: new L2 (diff)15:21, 29 November 2021: 82.1.7.243 (talk) triggered an abuse filter, performing the action "edit" on buhsum.
+Actions taken: Tag;
+Filter description: No header for the language and part of speech15:21, 29 November 2021: 82.1.7.243 (talk) triggered an abuse filter, performing the action "edit" on buhsum.
+Actions taken: Warn;
+Filter description: No header for the language and part of speech15:11, 29 November 2021: 42.108.164.193 (talk) triggered an abuse filter, performing the action "edit" on User talk:42.108.164.193.
+Actions taken: Tag;
+Filter description: New user created user page14:37, 29 November 2021: 65.51.88.210 (talk) triggered an abuse filter, performing the action "edit" on XAND648146754.
+Actions taken: Warn;
+Filter description: No header for the language and part of speech(newest | oldest) View (newer 50  |  older 50) (20 | 50 | 100 | 250 | 500)
+Retrieved from "https://en.wiktionary.org/wiki/Special:AbuseLog"
+		
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Special page
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main PageCommunity portalPreferencesRequested entriesRecent changesRandom entryHelpGlossaryDonationsContact us
+		
+	
+
+
+	
+	
+		
+		Tools
+	
+	
+		
+		Upload fileSpecial pagesPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About&nbsp;Wiktionary
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

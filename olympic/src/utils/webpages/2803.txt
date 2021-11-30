@@ -1,0 +1,16 @@
+Wikimedia PhabricatorPage MenuHomePhabricatorSearchConfigure Global SearchLog InWikimedia PhabricatorProject ManagementTasks &amp; BugsProjects &amp; TagsCodeSource RepositoriesGerrit Code Reviewgitlab.wikimedia.orgDeveloper BlogsWikimedia Tech blogCollaboratePaste (share text snippets)Pholio (design review)Event CalendarRecent ActivitySearchTask SearchWikimedia Code SearchPhabricator Global SearchDashboardsPortalsMore ApplicationsWelcome to Wikimedia Phabricator!New here?
+
+Phabricator is a collaboration platform open to all Wikimedia contributors. It is mostly used for managing work in software projects. Non-technical initiatives are welcome as well.
+
+
+ Report a software bug (guidelines).
+ Report a security issue (guidelines).
+ Create a feature or enhancement request.
+ Create a generic task.
+ Learn what happens after reporting a ticket here.
+
+ Learn to use Phabricator (including videos) or ask questions about Phabricator itself.
+ For Wikimedia software maintainers: Request a project to use Phabricator for planning.
+ For general Wikimedia development questions, see Communication instead.
+ To test and experiment with Phabricator, go to phab.wmflabs.org instead.
+Latest Blog PostsView AllLoading...Activity FeedView AllLoading...ActivityNew TasksClosed TasksFresh MockupsFresh ProjectsLoading...Loading...Loading...Loading...Content licensed under Creative Commons Attribution-ShareAlike 3.0 (CC-BY-SA) unless otherwise noted; code licensed under GNU General Public License (GPL) or other open source licenses. By using this site, you agree to the Terms of Use, Privacy Policy, and Code of Conduct. · Wikimedia Foundation · Privacy Policy · Code of Conduct · Terms of Use · Disclaimer · CC-BY-SA · GPL

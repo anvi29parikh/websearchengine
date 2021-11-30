@@ -1,0 +1,990 @@
+
+
+
+
+Wikipedia:WikiProject Short descriptions - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:WikiProject Short descriptions
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Project to improve short descriptions
+For basic information on short descriptions, see Wikipedia:Short description.
+This is a WikiProject, an area for focused collaboration among Wikipedians. New participants are welcome; please feel free to participate!
+
+Guide to WikiProjects
+Directory of WikiProjects  ShortcutsWP:WPSHORTDESCWP:WPSD
+WikiProject Short descriptionsShortcutsWP:WPSHORTDESC, WT:WPSHORTDESC (talk)CategoriesWikiProject Short descriptions, Pages with short descriptionProject banner template{{WikiProject Short descriptions}}Has goals?Populate all articles with short descriptions, and improve existing descriptions
+
+
+This is a project to populate all Wikipedia mainspace articles with a suitable short description, and to improve existing descriptions.
+
+Contents
+
+1 State of the project
+2 Why help to make sure that all articles have a short description?
+3 How to write  a short description
+4 Adding and editing short descriptions
+
+4.1 Editing using Shortdesc helper gadget
+4.2 Other useful scripts
+4.3 What if I want to see the text that is used on Wikidata?
+
+
+5 Auto-generated and bot-generated descriptions
+
+5.1 Auto-generated from infoboxes and other templates
+
+5.1.1 Already done
+5.1.2 Work in progress
+
+
+5.2 Bot-generated
+5.3 Templates and modules
+
+
+6 Can I use the Wikidata text if it is good?
+7 Can I use a bot to copy over text from Wikidata?
+8 Which articles can I work on?
+9 What should I do about a bad short description?
+10 Join the project
+11 Userbox
+12 Tracking categories
+13 Monthly checks
+14 Discussions
+
+
+
+State of the project[edit]
+
+
+There are a total of 6,415,234 articles, of which 331,913 disambiguation pages are not counted for this project.
+
+
+Out of 6,083,321 articles, 3,832,188 have a short description and 2,251,133 articles do not have a short description.
+
+3,832,188 / 6,083,321
+
+
+This is 62.995&nbsp;% complete – Help make this bar green!
+
+
+This Search finds all articles that have had the {{Short description}} template added manually or with Shortdesc helper.
+
+About 1,100,000 articles on 8 July 2020
+About 1,210,000 articles on 31 August 2020
+About 1,440,000 articles on 29 December 2020
+About 2,027,000 articles on 15 April 2021
+About 2,225,000 articles on 22 June 2021
+About 2,370,000 articles on 27 August 2021
+About 2,418,000 articles on 20 September 2021
+About 2,478,000 articles on 19 October 2021
+About 3,791,000 articles on 12 November 2021
+
+
+The remaining descriptions are defaults that have been generated from infoboxes or other templates.
+
+
+See Checklists of current progress.
+
+Why help to make sure that all articles have a short description?[edit]
+
+
+Short descriptions appear in Wikipedia mobile and some desktop searches, and help users identify the desired article. When viewing an article, some mobile Wikipedia Apps also display the description below the page title. Short descriptions are likely to become more widely used, both within Wikipedia and by third parties, as the proportion of articles lacking one falls.
+
+
+Articles that are lacking a short description appear in search result lists simply by their titles, with no annotation. If all titles were self-evidently clear, it would be immediately obvious which one relates to the article of interest, but very often that is not the case. Titles alone can be ambiguous or otherwise not comprehensible to non-specialist readers, as well as to readers who are not fluent speakers of English.
+
+How to write  a short description[edit]
+
+
+See Wikipedia:Short description.
+
+
+The easiest way to add and edit short descriptions on desktop is to make use of Shortdesc helper. Alternatively, in the source code editor insert the short description template to the very top of the page, above all other article headers and templates. The format to use is {{Short&nbsp;description|Your short description here}}.
+
+
+If a short description would be redundant you can use "none", thus:  {{Short description|none}}. See WP:SDNONE.
+
+Adding and editing short descriptions[edit]
+
+
+Short descriptions can be added and edited using the standard wiki markup editor (edit source), but it is often easier to enable Short description helper in Preferences | Gadgets, in the Editing section.
+
+Editing using Shortdesc helper gadget[edit]
+  Editing with shortdesc helper
+
+
+If you click on (Edit), (Add), (Import), or (Edit and Import), it should open a small editing window in the third line with the current short description and give the options (Save) and (Cancel). Edit will import the description from Wikidata and allow you to change it before saving, while Import will import the Wikidata description as is and save. It can be edited later. Edit and Import will open the edit window with the Wikidata description and allow you to edit it before clicking on (Save) or (Cancel).
+
+
+If adding a new short description, either type it in from the keyboard, or drag and drop from the article text and edit as appropriate.
+
+
+By default, adding short descriptions to an article also adds the description to Wikidata if Wikidata has no description. This can be changed in the settings. To edit a short description that is already on Wikidata, click on one of the links (not shown in this example) in the Wikidata item description or Q-number to open the item at Wikidata.
+
+
+Difference in formatting conventions for the description:
+
+Wikidata: text always starting only with a lower case;
+Short description in Wikipedia pages: Sentence case: Text starting with a first letter in upper case.
+
+
+When the description does not yet exist in Wikidata and one types all the text in lower case using Shortdesc helper, it sends the description in lower case to Wikidata while simultaneously formatting the short description of the Wikipedia page in Sentence case. However, when exporting a modified short description back to Wikidata, it is not the case. Then, it is necessary to manually edit the Wikidata description to change the first Uppercase letter of the sentence into a lower case.
+
+
+The Shortdesc helper will provide a standardised edit summary describing the edit.
+
+Other useful scripts[edit]
+The script User:SD0001/shortdescs-in-category shows the short descriptions of pages while viewing a category
+The SDlinkBuilder user script helps you build a TODO list - taking all of the article links in a page and showing their current short descriptions.
+What if I want to see the text that is used on Wikidata?[edit]
+
+
+Wikidata maintains its own texts which are not linked in any way with Wikipedia short descriptions (although Short description helper can display the  Wikidata text to help editors construct a suitable description for Wikipedia). Wikipedia descriptions and Wikidata texts serve different purposes and are not required to be the same. If you want to view the Wikidata text, you can:
+
+Configure Short description helper to show the Wikidata text at all times; or
+Click on the Wikidata link in the sidebar to go directly to Wikidata, where you can view and edit the information.
+Auto-generated and bot-generated descriptions[edit]
+
+
+Semi-automated tools would be extremely helpful. If you can produce a script that is easy to use, checks through a category for the presence of short descriptions, and when absent checks for a Wikidata description and opens the page to allow the editor to check if it is suitable, then adds the description or allows manual addition and saves on a click before going on to the next article, it would accelerate the work by orders of magnitude.
+
+Auto-generated from infoboxes and other templates[edit]
+See also: Category:Templates that generate short descriptions
+Already done[edit]
+
+
+
+Template
+
+Approximate number of articles
+
+
+{{Disambiguation page short description}}
+
+315,401
+
+
+{{Infobox settlement}}
+
+530,312
+
+
+{{Infobox Australian place}}
+
+14,646
+
+
+{{Infobox element}}
+
+388
+
+
+{{Infobox number}}
+
+400
+
+
+{{Infobox musical artist}}
+
+117,000
+
+
+{{Infobox musical interval}}
+
+42
+
+
+{{Day}}
+
+365
+
+
+{{Year nav}}
+
+2,766
+
+
+{{Given name}}
+
+15,020
+
+
+{{Surname}}
+
+56,757
+
+
+{{Infobox museum}}
+
+3000–4000 / 8,540 (when Type includes one of: Museum / Hall / Gallery / Center)
+
+
+{{Infobox hospital}}
+
+5,638
+
+
+{{Infobox church}}
+
+12,151
+
+
+{{Infobox television episode}}
+
+10,835
+
+
+{{Year nav topic5}}
+
+6,846
+
+
+{{Infobox album}}
+
+156,488
+
+
+{{Infobox professional wrestling team}}
+
+560
+
+
+{{Infobox kana}}
+
+53
+
+
+{{Infobox dam}}
+
+3,929
+
+
+{{Infobox Unicode block}}
+
+313
+
+
+{{Infobox Doctor Who episode}}
+
+473
+
+
+{{Infobox radio station}}
+
+21,685
+
+
+{{Humorous essay}}
+
+157
+
+
+{{Wikipedia how-to}}
+
+314
+
+
+{{Infobox football club season}}
+
+16,037
+
+
+{{Infobox NRHP}}
+
+69,975
+
+
+{{Infobox professional wrestling event series}}
+
+0 / 162
+
+
+{{Infobox royalty}}
+
+17,861
+
+
+{{Infobox rugby club season}}
+
+86
+
+
+{{Infobox sports competition event}}
+
+0 / 11,541
+
+
+{{Infobox television station}}
+
+3,701
+
+
+{{Infobox UK place}}
+
+24,586
+
+
+{{Information page}}
+
+? / 291 (when it is used in Wikipedia, Help, or User space)
+
+
+{{Infobox song}}
+
+Some portion of 70,000
+
+
+{{Infobox sports season}}
+
+4132
+
+Work in progress[edit]
+{{Infobox video game}}
+{{Infobox NFL biography}} (players in the American football league) – approx. 21,000 articles
+{{Infobox religious building}}
+{{Infobox film}}
+{{Infobox river}} approx. 14,000 articles
+{{Infobox book}}
+{{Infobox military installation}}
+Bot-generated[edit]
+User:DannyS712 bot Task 4&nbsp;– Short descriptions for articles about bilateral relations (approx. 3,000 articles)
+User:DannyS712 bot Task 20&nbsp;– Short descriptions for outlines (approx. 400 articles)
+Templates and modules[edit]
+
+
+Templates and modules that are useful for this/created for helping with short descriptions:
+
+Module:Plain text, for removing extraneous markup
+Module:Type in location, for formatting input from |location= and getting shorter location
+Module:Is infobox in lead, for checking if the infobox is the lead infobox and the only lead infobox
+Template:Auto short description, for tagging templates that have code that automatically generates a short description.
+See also Category:Modules that create a short description
+Can I use the Wikidata text if it is good?[edit]
+
+
+Yes, but only if it complies with the Wikipedia rules WP:SDFORMAT and WP:SDSHORT (typically no more than 40 characters). If it is good, you can copy it to Wikipedia in one click using the helper gadget, or choose to edit the text beforehand. There is no legal issue with copying, as all Wikidata texts are in the public domain.
+
+Can I use a bot to copy over text from Wikidata?[edit]
+
+
+No. The idea of bulk-importation from Wikidata has been rejected in an RFC. Wikidata texts are often not suitable as they are not subject to Wikipedia's policies, and have a different purpose.
+
+Which articles can I work on?[edit]
+Start with topics where you are sufficiently familiar to be able to write a good short description. If you run out, do anything that you are confident you can handle. If in doubt, leave it out.
+If dealing with biographies, follow the WP:BLP policy scrupulously. Don't add a date of birth unless it is properly sourced in the article
+Consider working though your watchlist (or part of it), or a WikiProject's articles, or a category
+add the User:SD0001/shortdescs-in-category user script to help working on categories
+If you like Outlines, work through one, they may be a good source of short descriptions if well annotated, and if not, you can annotate with the short descriptions as you create them.
+All articles need a short description. Featured, Good, A and B class could be prioritised.
+If you are a bot operator, there are bot tasks to be done.
+If you don't have the time or inclination to work on this systematically:
+consider just checking and adding a short description on articles that you will be editing anyway.
+search for -incategory:"Articles with short description" -incategory:"Disambiguation pages" — this ignores any disambiguation pages, as they are being handled separately
+What should I do about a bad short description?[edit]
+Fix it: this is Wikipedia.
+Follow Bold - Revert - Discuss, or you can start with Discuss in uncertain cases. The short description is just another piece of content.
+In the case of a content dispute, get talk page consensus.
+For a BLP violation, remove or preferably replace the description, providing an edit summary to explain.
+Join the project[edit]
+
+
+Add your signature to the bottom of the list of project members.
+
+Userbox[edit]
+
+
+Add {{User Short descriptions}} to your user page to be included in Category:WikiProject Short descriptions participants. The userbox looks like this:
+
+This user is a participant in WikiProject Short descriptions.
+
+
+
+Maybe display a top icon as well — add {{Short descriptions topicon}} anywhere in your user page.
+
+Tracking categories[edit]
+
+
+Counts of different types of pages having short descriptions
+
+Category:Articles with short description&nbsp;(3,832,188)
+Category:Categories with short description&nbsp;(1,849)
+Category:Disambiguation pages with short description&nbsp;(2)
+Category:Drafts with short description&nbsp;(11,086)
+Category:Files with short description&nbsp;(1)
+Category:Help pages with short description&nbsp;(251)
+Category:Modules with short description&nbsp;(5)
+Category:Portals with short description&nbsp;(524)
+Category:Project pages with short description&nbsp;(2,279)
+Category:Redirects with short description&nbsp;(4,550)
+Category:Templates with short description&nbsp;(1,027)
+Category:User pages with short description&nbsp;(59,903)
+Category:Pages with short description&nbsp;(0) — These should instead be in one of the above categories
+
+
+Categories for this project
+
+Category:WikiProject Short descriptions&nbsp;(43)
+Category:WikiProject Short descriptions participants&nbsp;(121)
+
+
+Counts of Short description vs. Wikidata
+
+Category:Short description matches Wikidata&nbsp;(1,495,706)
+Category:Short description is different from Wikidata&nbsp;(2,679,578)
+Category:Short description with empty Wikidata description&nbsp;(69,051)
+
+
+Counts of modules/templates that create short descriptions
+
+Category:Modules that create a short description&nbsp;(3)
+Category:Templates that generate short descriptions&nbsp;(91)
+
+
+Maintenance category to identify problems with the template parameters
+
+Category:Pages using short description with unknown parameters&nbsp;(1)
+
+
+Maintenance categories to list pages with descriptions over 100 characters
+
+Category:Articles with long short description&nbsp;(5,008)
+Category:Drafts with long short description&nbsp;(24)
+Category:Files with long short description&nbsp;(0)
+Category:Help pages with long short description&nbsp;(0)
+Category:Modules with long short description&nbsp;(0)
+Category:Portals with long short description&nbsp;(0)
+Category:Project pages with long short description&nbsp;(0)
+Category:Redirects with long short description&nbsp;(20)
+Category:Templates with long short description&nbsp;(1)
+Category:User pages with long short description&nbsp;(133)
+
+
+Full category tree
+
+
+
+To display all subcategories click on the "►":
+
+
+  WikiProject Short descriptions‎ (8 C, 35 P)
+
+Monthly checks[edit]
+Review Category:Wikipedia pages with long short description&nbsp;(10)
+This TemplateParam report lists articles where the SD template has a missing or blank description.
+The main TemplateParam report can also highlight cases where the template has too many parameters.
+Also Template:Short description#Maintenance categories
+Discussions[edit]
+
+
+Previous and current discussions on English WP short description and WikiData descriptions
+
+
+Note: Template talk:Short description redirects to Wikipedia talk:Short description
+
+
+Discussions related to short descriptions
+
+
+When
+
+Where
+
+What
+
+
+2017-03-27
+
+Administrators' noticeboard
+
+Hard to detect mobile vandalism
+
+
+2017-03-28
+
+Village pump (technical)
+
+Discussion at ANI about Wikidata use in mobile view
+
+
+2017-03-30
+
+Village pump (proposals)
+
+RFC Remove description taken from Wikidata from mobile view of en-WP — 2017-03-30 Withdrawn
+
+
+2017-03-30
+
+Village pump (proposals)
+
+Blockers to having short description on mobile
+
+
+2017-11-09
+
+Template talk
+
+Some history and explanation of this template for those without the time or inclination to read the full discussion
+
+
+2017-12-08
+
+Village pump (proposals)
+
+RFC Populating article descriptions magic word
+
+
+2018-02-07
+
+Wikipedia talk
+
+2018 State of affairs - Short descriptions
+
+
+2018-02-17
+
+Manual of Style talk
+
+(position of) Short descriptions (in articles)
+
+
+2018-04-14
+
+Template talk
+
+Infobox settlement - short descriptions
+
+
+2019-04-13
+
+Manual of Style talk
+
+Where to put {{short_description}}
+
+
+2020-05-15
+
+Village pump (WMF)
+
+Update: Scheduled shutdown of Wikidata descriptions on EnWiki
+
+
+2020-08-03
+
+WikiData
+
+Pi bot 14 — Import short descriptions from the English Wikipedia (bot task to copy English WP short descriptions to WikiData) Y 2020-10-20
+
+
+2020-08-03
+
+Wikipedia talk
+
+Copying short descriptions to Wikidata — Reference to Pi bot 14 / Pi bot 5
+
+
+2020-08-03
+
+Wikipedia Bot Requests
+
+Pi bot 5 — Synchronise short descriptions with Wikidata (bot task to copy all WikiData descriptions to English WP) — 2020-09-15 Denied
+
+
+2020-08-06
+
+Village pump (proposals)
+
+RFC Synchronising short descriptions and Wikidata descriptions — 2020-09-05 Closed No
+
+
+2020-08-07
+
+WikiProject talk
+
++ RfC on bot-importing short descriptions to and from Wikidata — Reference to the above
+
+
+2020-08-07
+
+WikiProject talk
+
+Bot proposal to create short descriptions from scratch
+
+
+2020-08-07
+
+Wikipedia talk
+
++ Report-assisted importing of short descriptions — Reference to the above
+
+
+2021-07-20
+
+Redirects for discussion
+
+Proposal to delete the 7 Aliases for Short description template — 2021-07-29 closed as Clear consensus to delete the first 5 — 4 deleted
+
+
+ Some of the Phabricator tickets related to short descriptions
+
+
+Opened
+
+Ticket
+
+Title
+
+Closed
+
+
+2018-01-03
+
+T184000
+
+Magic word on English WP to override display of Wikidata short description
+
+2018-04-09
+
+
+2018-05-04
+
+T193857
+
+Support 'noreplace' keyword in {{SHORTDESC}}
+
+2018-07-02
+
+
+2020-03-25
+
+T248457
+
+Fully terminate use of Wikidata item descriptions as short article descriptions for English Wikipedia articles
+
+Open
+
+
+2020-06-30
+
+T256817
+
+[EPIC] Replace Wikidata descriptions on enwiki with local descriptions — Parent to T257486, T257488 and others
+
+Open
+
+
+2020-07-08
+
+T257486
+
+Switch search to use local descriptions on enwiki
+
+2021-04-26
+
+
+2020-07-08
+
+T257488
+
+Adding/editing descriptions should modify the local article, not Wikidata
+
+2021-04-26
+
+
+2020-07-13
+
+T257867
+
+Adding/editing descriptions should modify the local article, not Wikidata — iOS task
+
+2021-04-26
+
+
+2020-08-04
+
+T259617
+
+Article description editing API — Overview of managing local descriptions
+
+Open
+
+
+2020-08-04
+
+T259622
+
+System Administrator disables Wikidata fallback for article descriptions — Live on 2020-10-13
+
+Open
+
+
+2020-08-25
+
+T261237
+
+Update terminology for "Article Descriptions" to match across feature — iOS app
+
+2021-04-26
+
+
+2020-09-03
+
+T261977
+
+Add tool tip for editing Wikidata descriptions in the iOS app
+
+2021-04-26
+
+
+2020-09-21
+
+T263493
+
+Reader gets appropriate article short description in search results — REST API — Live on 2020-10-13
+
+2020-10-19
+
+
+2021-08-18
+
+T289214
+
+Switch to OOUI TitleInputWidget for the link-inserter in WikiEditor — Live on 2021-10-14
+
+2021-11-08
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Short_descriptions&amp;oldid=1054900793"
+		Categories: Active WikiProjectsWikiProject Short descriptionsHidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		سنڌي
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 12 November 2021, at 17:42&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

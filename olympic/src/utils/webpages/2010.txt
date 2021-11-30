@@ -1,0 +1,577 @@
+
+
+
+
+Wikipedia talk:Project namespace - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia talk:Project namespace
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+This is the talk page for discussing improvements to the Project namespace page.
+
+
+
+
+
+
+Put new text under old text. Click here to start a new topic.
+Sign your posts by typing four tildes (~~~~).
+New to Wikipedia? Welcome! Learn to edit; get help.
+
+
+Assume good faith
+Be polite and avoid personal attacks
+Be welcoming to newcomers
+Seek dispute resolution if needed
+
+
+
+Archives: 1
+
+ 
+
+
+
+If you are new to editing Wikipedia, you are probably on the wrong page.  Do not ask general questions on this page.  Do not talk about articles on this page.
+
+This page is for discussing the Wikipedia page Wikipedia:Project namespace. To comment on an article, go back to that article's talk page. To find out how to ask questions and get answers, see Wikipedia:Questions.
+Text has been copied to or from this page; see the list below. The source pages now serve to provide attribution for the content in the destination pages and must not be deleted so long as the copies exist. For attribution and to access older versions of the copied text, please see the history links below. 
+Copied Wikipedia:Policies and guidelines (history) → Wikipedia:Project namespace
+Copied Wikipedia:Consensus (history) → Wikipedia:Project namespace
+Copied Wikipedia:Deletion policy (history) → Wikipedia:Project namespace
+Copied Wikipedia:Administration (history) → Wikipedia:Project namespace
+Contents
+
+1 Creation of a new category for consensus summaries
+
+1.1 Background
+1.2 Poll
+1.3 Discussion and workshopping
+
+1.3.1 Break
+
+
+
+
+2 Create my page
+3 Dorothy Walker Bush
+4 North Macedonia
+5 Historical
+6 Untitled
+7 Semi-protected edit request on 2 October 2019
+8 Wikipedia:
+9 contributor=editor=Wikipedian
+
+
+
+Creation of a new category for consensus summaries[edit]
+
+
+Should a new category be created for summaries of past consensus? If so, how should it be described and what should the template look like? Tamwin (talk) 00:46, 14 August 2018 (UTC)
+
+Background[edit]
+
+
+A discussion at Wikipedia talk:Identifying reliable sources seems to favor the creation of a new category under Information and discussions for summaries of past consensus. It was agreed there that this page is the appropriate forum for discussion. Credit for the proposal goes to Humanengr. Several pages appear to fit into the described category, including WP:RS/P, WP:EL/P, and possibly WP:PERENNIAL and WP:OUTCOMES. They may not fit neatly into an existing category (judging by the recent controversy about which one to put them in), and have their own common concerns, such as WP:CCC. Tamwin (talk) 03:49, 13 August 2018 (UTC)
+
+For further context, see Work permit’s summary here. Humanengr (talk) 12:56, 13 August 2018 (UTC)
+Some more context to distinguish this template from Information and Supplemental pages templates: 1) "[I]nformation pages should supplement or clarify technical or factual information about Wikipedia in an impartial way." (per this); 2) Supplemental pages: "The noun supplement does not mean 'an interpretation' nor just 'something added'. It means precisely 'something added, especially to make up for a deficiency', in this case a lack or gap in an official Wikipedia's policy or guideline. …" [added in consideration of Bsherr's comment below; see further discussion there] Humanengr (talk) 03:08, 12 September 2018 (UTC)
+Poll[edit]
+Support introduction of a new template, as nom. Neutral on adding a new section to this guideline. It's mildly helpful, to provide information, but the goal of not adding to bloat pretty much cancels that. If you made me decide one way or the other, I'd probably add it, but I don't feel comfortable !voting that way. Also, I was summoned here by bot. No, seriously. Tamwin (talk) 04:49, 15 August 2018 (UTC)
+Support new template and inclusion in guideline. The "This is a summary of existing consensuses" template is extremely clear. "Information and discussions" is the right section to place the template, but none of the existing subsections are appropriate. I support including this template in a new subsection named "Summary pages" or something similar. —&nbsp;Newslinger&nbsp;talk 15:37, 4 September 2018 (UTC)
+Support b/c as Newslinger wrote, the 'This is a summary of existing consensuses' template is extremely clear. Also thx to Moxy below re adding "to the information section a small mention of the template" and "proper links to the template". Humanengr (talk) 19:55, 7 September 2018 (UTC)
+Support As Wikipedia collects more conversations we need ways to group similar conversations and collectively summarize them. Here are some instances when I tried to list previous conversations to give context to new discussions -
+Wikipedia_talk:WikiProject_Universities/Archive_10#Lead_image_should_be_a_photo
+Wikipedia_talk:WikiProject_Medicine/Archive_97#Previous_discussion_of_medical_infoboxes
+Wikipedia_talk:Event_coordinator#History_of_this_userright_and_thanks
+When anyone makes lists of similar conversations even those lists can be lost. Creating templates and categories seems like the current best way to keep tract of these.  Blue Rasberry (talk) 14:14, 8 September 2018 (UTC)
+See this other thing I wrote - Wikipedia:Prices. It has a discussion list.  Blue Rasberry (talk) 13:14, 11 September 2018 (UTC)
+Oppose. I have not seen a compelling argument why an information page or supplement isn't or cannot be in and of itself a summary of existing consensus, so the idea of creating a new category is premature. I know there are differing opinions about the meaning of an information page or supplement in relation to an essay, but if there is concern about the boundaries of the existing categories, I think it would be better to get consensus on those existing categories first before adding new ones. --Bsherr (talk) 23:31, 10 September 2018 (UTC)
+Does my addition above help? Humanengr (talk) 03:13, 12 September 2018 (UTC)
+It sure is. Thanks for taking the time to set that out here. So, generally speaking, we are talking about pages that summarize consensus on a particular matter. Either that consensus is reflected in the existing guideline, or it isn't, and if it isn't, a supplement page is appropriate. No? --Bsherr (talk) 15:02, 12 September 2018 (UTC)
+Thx for prompting me to work it out further. How about this:
+Policy or guideline — "Wikipedia:Policies and guidelines are developed [~ ‘vetted’ in the bullets below] by the community to describe best practices, clarify principles, resolve conflicts, and otherwise further our goal of creating a free, reliable encyclopedia.”
+Supplemental page — "something added, especially to make up for a … lack or gap in a … policy or guideline"; not vetted by community.
+Consensus summaries — something added for a reason other than to make up for a lack or gap in a policy or guideline; not vetted by community.
+Iow: The distinction between a Supplemental Page and a Consensus summaries page is between something at a global policy/guideline level and at a context-dependent implementation level.
+Thoughts?
+Humanengr (talk) 16:27, 12 September 2018 (UTC)
+So that would be a rational classification in theory. But I think the important question is, why are supplemental pages defined as "especially to make up for a … lack or gap in a policy or guideline"? The implementation of your proposed classification assumes the answer is, to distinguish between pages that address a deficiency and those that do not. But I think the actual answer is that there is a consensus not to have pages subordinate to guidelines that do not actually address a deficiency. If you agree with that latter answer, then inquiry is where to classify (within the existing scheme) these pages in question or the information they contain (and I think it is doable within the existing scheme). If you disagree with that latter answer, then I think the right RfC is about expanding the meaning of a supplemental page, not adding a new template to the classification. So, to what extent to you agree with this? --Bsherr (talk) 16:49, 12 September 2018 (UTC)
+Re "there is a consensus not to have pages subordinate to guidelines that do not actually address a deficiency." Where is that documented?
+Re "expanding the meaning of a supplemental page", I note Template:Supplement#History speaks of "discussions about how to improve and explain policies and guidelines …". The pages under consideration here seem well outside that scope. They also seem well out of scope of pages  clearly circumscribed to "make up for a … lack or gap in a … policy or guideline". Humanengr (talk) 22:14, 12 September 2018 (UTC)
+I don't have a reference for saying the consensus is not to have pages subordinate to guidelines that do not actually address a deficiency; I haven't looked to see if there are past discussions. But let's say that's not the reason. What do you think the reason is? Differentiating between pages that do or do not address a deficiency? If so, why would that be useful?
+The crux of the issue is whether these pages can correctly be classified as supplements. I believe they can. But that discussion may be premature, since there is an RfC going on for one of them right now. But the argument is this: all of these pages do address a gap in a guideline. --Bsherr (talk) 23:03, 12 September 2018 (UTC)
+To address that framing, I'll leave aside the extent of vetting and restate as:
+A 'Policy/Guideline' provides a globally applicable principle.
+A 'Supplemental page' addresses a deficiency in globally applicable principle
+A 'Consensus of summaries' addresses details specific to each context of implementation, e.g., is &lt;x&gt; an RS? The last is not reasonably viewed as a gap/deficiency/or any such missing element in a globally applicable principle but rather a customization to a specific class or instance.
+Re: "The crux of the issue is whether these pages can correctly be classified as supplements. I believe they can.” Imo, expanding supplements is a slippery slope.
+Re: "But the argument is this: all of these pages do address a gap in a guideline.” No they don’t. See above: Details for specific classes or instances are not policy/guideline-level gaps. Humanengr (talk) 00:32, 13 September 2018 (UTC)
+Can you provide some clarification on the line between what you describe as a globally applicable principle and a context of implementation? I understand you are asserting WP:RS/P is the latter. What is WP:PERENNIAL? WP:OUTCOMES?
+If there is consensus, a specific example can be added to a guideline, right? Why is its absence not therefore a gap? --Bsherr (talk) 22:02, 14 September 2018 (UTC)
+Good qqs, thx. Will respond later this week. Humanengr (talk) 15:14, 16 September 2018 (UTC)
+
+I see now that your raising the issue of 'example' helps me better frame this, thx.
+So, starting with your para 2, I don't see examples as filling a gap so much as serving as exemplars of a class to help clarify a policy/guideline. Exemplars are not problematic as long as they are non-controversial.
+On that basis, I don't have a problem including non-controversial examples in WP:PERENNIAL and WP:OUTCOMES.
+But that is different than presenting a compendium of members of a class, as is the case for WP:RS/P. Make sense? Humanengr (talk) 04:24, 2 October 2018 (UTC)
+@Bsherr, [Responding more fully:] The same holds for WP:EL/P or any other such compendium.
+As policies/guidelines change more slowly than real-world entities, my view is we shouldn’t impose obstacles to recognizing those changes. Stamping compendia as ‘supplement’, in practice, imposes such a barrier.
+So re gap: I now see, thx to your questions, that my concern is limited to use of compendia to fill ‘gaps’. Elaboration of detail in policies/guidelines via supplements — including those with non-controversial examplars — is fine; compendia are more varied and dynamic and thereby unsuitable for policy/guideline or supplement. Humanengr (talk) 17:05, 8 October 2018 (UTC)
+I understand the distinction you are trying to make, but that distinction does not currently exist in the definition of a supplement. Instead, you're really just carving it out, which isn't necessarily problematic, I just think it's wasteful for such a small number of pages. (2?) But we'll know what the RfC result is for Perennial Sources shortly, and I think that could be helpful in deciding how to move forward. --Bsherr (talk) 18:45, 9 October 2018 (UTC)
+Does the labeling of Perennial Sources as a supplement change your approach here? --Bsherr (talk) 15:52, 17 October 2018 (UTC)
+Unfortunately, that RfC was introduced with a misleading premise in its reference to WP:EL/P as a model for use of the supplement template. AFAICS, there was no RfC or other discussion re adding the supplement template to EL/P and presenting that as a model biased the entire discussion re RS/P.* In my view, both pages should be reconsidered.
+If anything, these changes 1) evidence instruction creep and 2) point to a need for better provenance of principles, policies, guidelines to parallel our efforts here re application to external entities. Humanengr (talk) 05:09, 18 October 2018 (UTC)
+* The supplement template was added here without explanation; the editor who made that change doesn't remember the basis for the change. No one has responded to my query at EL/P talk. There had been an earlier failed RfC to promote EL/P to a guideline which ended w a mention of 'supplement' but there was no discussion or consensus specific to that afaics. Humanengr (talk) 20:02, 18 October 2018 (UTC)
+First it would be best to explain an RFC is not required to use the template .... as an RfC is simply one of many  methods used to determine community wishes, norms and principles, etc.. WP:CONACHIEVE.  Also I see it was added long ago.....before the current wording existed. Must also remember  the template is used 2 demonstrate its usage... not that it has broad consensus like a guideline. Still a template for an essay level page. --Moxy (talk) 21:56, 18 October 2018 (UTC)
+Thx, Moxy for noting that an RfC is not required and pointing to WP:CONACHIEVE. What I was concerned with can be framed in terms of that page's: "All edits should be explained (unless the reason for them is obvious) – either by clear edit summaries indicating the reason why the change was made, or by discussion on the associated talk page". For this change, there was no reason indicated or discussion. Humanengr (talk) 05:26, 19 October 2018 (UTC)
+Also … re ‘the template is used 2 demonstrate its usage”, afaics RS/P and EL/P are the only pages where a supplement is used to ‘demonstrate usage’. I see ‘supplements’ that ‘explain’ — in line with the "This is an explanatory supplement” wording — and that 'provide additional information about concepts’, but I don’t see any that ‘demonstrate’ … which to me means applying to ‘real-world’ (i.e., external-to-WP) entities. Does that help? Humanengr (talk) 05:39, 21 October 2018 (UTC)
+Discussion and workshopping[edit]
+
+
+I'm going to turn this into its own RFC to get more comments. Tamwin (talk) 00:46, 14 August 2018 (UTC)
+
+
+For discussion, bringing over this form as provided by Tamwin customized for WP:RS/P
+
+This is a summary list of discussions
+ It summarizes past discussions about  various web sites and their reliability. It is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutWP:RS/P
+
+
+Humanengr (talk) 20:14, 14 August 2018 (UTC)
+
+Comment — Echoing Work Permit's remark here, I'll offer that for pages that are summaries of prior discussions, the other options listed there don't "seem to fit".
+As for using {{Supplement}}, I don't see the purpose of any of the 4 candidate pages (WP:RS/P, WP:EL/P, WP:PERENNIAL, WP:OUTCOMES) as addressing a 'deficiency' in a policy or guideline. (See this extract from Template:Supplement#Current usage.)
+As for wording, maybe there's a way to fold in Sunrise's use of the term 'existing consensus' — something like "It summarizes past discussions and existing consensus about …".
+All 4 of the pages listed require customization:
+* WP:EL/P: …&nbsp;about various websites editors frequently discuss on Wikipedia.
+* WP:PERENNIAL: …&nbsp;about things that have been frequently proposed on Wikipedia and, to-date, rejected.
+* WP:OUTCOMES: … about how various types of articles, subjects, and issues have often been dealt with on AfD.
+WP:RS/P is the only one that links to specific discussions but all 4 cover a variety of cases — WP:EL/P and WP:PERENNIAL cover a variety of instances; WP:OUTCOMES, a variety of types. WP:PUS may be another candidate as it covers a variety of instances and types. All are reasonably considered 'lists' (small 'l'). Humanengr (talk) 00:09, 15 August 2018 (UTC)
+Reworking for generalization:
+For WP:RS/P
+This is a summary list re existing consensuses with links to discussions
+ It summarizes past discussions about  various web sites and their reliability. It is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutWP:RS/P
+WP:EL/P:
+This is a summary list re existing consensuses
+ It summarizes past discussions about various websites editors frequently discuss on Wikipedia. It is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutWP:EL/P
+WP:PERENNIAL:
+This is a summary list re existing consensuses
+ It summarizes past discussions about things that have been frequently proposed on Wikipedia and, to-date, rejected. It is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutWP:PERENNIAL
+WP:OUTCOMES:
+This is a summary list re existing consensuses
+ It summarizes past discussions about how various types of articles, subjects, and issues have often been dealt with on AfD. It is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutWP:OUTCOMES
+The ‘with links to discussions’ phrasing could be added to the latter 3 templates should such be added to the articles.
+WP:PUS doesn’t quite fit the above wrt ‘consensus’. (“It contains the advice or opinions of one or more Wikipedia contributors. … Some essays represent widespread norms; others only represent minority viewpoints.”)
+Humanengr (talk) 16:24, 15 August 2018 (UTC)
+My preferred generalization looks like this:
+This is a summary of existing consensuses
+ It summarizes past discussions about ABOUT. Please remember that consensus can change and each situation is context-dependent, although this page may be helpful to provide the reasoning used to settle issues in the past. It is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutSHORTCUT
+I'm not set on the WP:CCC wording, but that's generally how I'd do it. Tamwin (talk) 20:57, 15 August 2018 (UTC)
+To explain: Work Permit introduced the ‘list’ term remarking re WP:EL/P that "what this page really is: A summary list of previous discussions.” I added the “with links to discussions” to highlight the value of that feature (as others have noted). (I see it also comports with mention in WP:CCC re linking to prior discussion.) It would currently be used only for WP:EL/P. Thoughts? I’m happy enough with your version — just wanted to make sure those points were given due consideration as that might be a feature profitably applied elsewhere. Humanengr (talk) 23:42, 15 August 2018 (UTC)
+@Humanengr: Hmm. I can see your point, but that sounds wrong to me. Maybe the problem is that "summary" takes the place of "grocery" in the phrase "grocery list", but that's the place "consensus" takes as well. How about "list of consensus summaries"? Also, there's really no reason for the MOS link. Tamwin (talk) 03:44, 4 September 2018 (UTC)
+'List of existing consensuses'? so CCC is in the title. After seeing Newslinger's commentary in support proclaiming "'This is a summary of existing consensuses' template is extremely clear." I'll +1 that. Humanengr (talk) 04:50, 4 September 2018 (UTC)
+
+
+Found another candidate: Wikipedia:Historic debates.
+
+
+Also, @Tamwin and Newslinger: Would it help to have a table of candidate pages to which this might apply indicating what the page is about, current template, and notes on applicability of the new template, etc. -- maybe starting like
+
+
+
+Page
+Summarizes past discussions about
+Current template
+Notes
+
+
+Perennial sources
+
+Sources whose reliability and use on Wikipedia are frequently discussed
+
+Essay
+
+Has links to specific discussions
+
+
+Perennial websites
+
+Websites that editors frequently discuss on Wikipedia
+
+Supplemental page
+
+Evaluated as external links and as reliable sources
+
+
+Perennial proposals
+
+Frequently rejected proposals on Wikipedia
+
+Information page
+
+Links to applicable policies, guidelines, and discussions
+
+
+Common outcomes
+
+Typical outcomes for subjects commonly nominated for deletion
+
+Supplemental page
+
+See also Wikipedia:Articles for deletion/Common outcomes/Archive
+
+
+
+Maybe after that we could return to the issue of where it might best fit in the page 
+Information and discussions section. Thoughts? Humanengr (talk) 04:47, 6 September 2018 (UTC)
+
+Once and if this goes forward I will add to the information section a small metion of the template.  And add proper links to the template.--Moxy (talk) 04:57, 6 September 2018 (UTC)
+@Moxy, Thanks! Humanengr (talk) 19:45, 7 September 2018 (UTC)
+​I've filled out the table above, but I'm not aware of any applicable pages other than the four that Tamwin mentioned. —&nbsp;Newslinger&nbsp;talk 05:17, 7 September 2018 (UTC)
+Great, Newslinger. Re other pages —  Wikipedia:Historic debates? Humanengr (talk) 19:43, 7 September 2018 (UTC)
+​I'm not as confident about Wikipedia:Historic debates, since it describes "large-scale disputes" and doesn't claim to explain the current consensuses on these topics. The last edit to this page was 2015 (aside from a category edit in 2017), and I'm afraid this page isn't being maintained. This page is also much less popular than ones in the table, with just 99 pageviews in the last 30 days (compared to 2,626 for WP:RSP, 471 for WP:ELP, 1,612 for WP:PERENNIAL, and 1,530 for WP:OUTCOMES). —&nbsp;Newslinger&nbsp;talk 07:37, 8 September 2018 (UTC)
+
+
+@ Blue Rasberry , were you thinking there should be a related small template that could be placed mid-page, e.g., by a commenter on a talk page to announce such a list? Humanengr (talk) 04:23, 11 September 2018 (UTC)
+
+@Humanengr: I am not sure. I expect that consensus summaries will typically start on talk pages but I am not sure if they should stay there. I wish there were a workflow where summaries could start as casual conversations, then more detailed conversations, then something like a case book of the sort on Wikimedia Commons. commons:Commons:Copyright rules by subject matter is an example of short summaries which each began as longer talk page summaries. I like that these summaries are short and understandable. I less like that they do not like to previous conversations or the consensus discussion which elevated these to rules.  Blue Rasberry (talk) 12:48, 11 September 2018 (UTC)
+Break[edit]
+
+
+Following on from discussion above with Bsherr, it seems appropriate to use the template as proposed by Tamwin here for compilations of consensuses regarding external entities (e.g., sources, websites).
+
+
+Only two of the pages in the table above fall into this category: WP:RSP and WP:ELP; the other two candidates, WP:PERENNIAL and WP:OUTCOMES are not such compilations. 
+
+
+Also, the issue of how to promote, facilitate, … links to discussions can and probably should be addressed separately. Thoughts? Humanengr (talk) 05:40, 9 October 2018 (UTC)
+
+I think the template wording is problematic. "A summary of existing consensus" could very well be a definition of a guideline. If you are going to carve out this type of page, the template needs to better differentiate it. --Bsherr (talk) 21:23, 9 October 2018 (UTC)
+​The last line of the template explicitly states "It is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community." I think the wording is accurate. —&nbsp;Newslinger&nbsp;talk 09:58, 10 October 2018 (UTC)
+So the definition you're going with for this type of page is that it's a summary of consensus that is not a guideline or policy? --Bsherr (talk) 13:30, 10 October 2018 (UTC)
+You're right … I hadn't looked at the template recently. The basic idea is that the more specific we get, the further divorced we are conceptually from the principles intended to guide WP. At (or at least 'near') the extreme end of specificity, we have identifying specific entities typically (though not necessarily) by proper name.
+So with that, I'll propose a new version — call it v.4:
+This is a summary of existing consensuses about external entities
+ This particular summary concerns ABOUT. Please remember that consensus can change and each situation is context-dependent, although this page may be helpful to provide the reasoning used to settle issues in the past. It is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutSHORTCUT
+Humanengr (talk) 05:29, 15 October 2018 (UTC)
+Adding: As I see it, when one compiles such lists re external entities, that is not elaborating so much as applying principles, policies, guidelines. Humanengr (talk) 10:33, 17 October 2018 (UTC)
+Hi Humanengr. I think "external entities" is going to be fairly opaque for most people who encounter the template. They're likely going to see the template in the context of its appearance on an individual page, without an understanding of how the pages on which it appears are similar. Putting aside the issue of whether it is worthwhile distinguishing between this concept and a supplement, I'm not sure there is much explanatory value in a template that covers these few pages—especially with an opaque message like this—as opposed to writing an individual nutshell for each such page. (Beyond the form of the template, I'm also still concerned about the rationale for this template given, firstly, the very few number of pages that would be covered by this template and, secondly, the designation of RSP as a supplement following an RfC.) --Bsherr (talk) 04:26, 23 October 2018 (UTC)
+@Tamwin, Newslinger,  and Blue Rasberry: May I ask for your thoughts at this point? I still think it’s important to distinguish RS/P and EL/P consensuses of 'application' of policy/guideline to real world entities external to WP from a ‘supplement’ that 'makes up for a deficiency’ in a policy/guideline, even if it’s only those two pages and one was a recent RfC. Humanengr (talk) 05:38, 23 October 2018 (UTC)
+Hi Humanengr, ever since WP:RSP was designated an explanatory supplement, other editors appear to be taking the page more seriously instead of labeling it as "only an essay". WP:ELP has also been well-regarded for some time. If these are the only two pages that would be tagged with the new template, then I think {{supplement}} already has the intended effect. —&nbsp;Newslinger&nbsp;talk 10:51, 23 October 2018 (UTC)
+It looks like then we can close this out. Thank you all very much for thoughts and efforts here. Humanengr (talk) 16:53, 5 November 2018 (UTC)
+Create my page[edit]
+
+
+I'm an actor I have done much serial as an sctor. Create my account for all guys who search me Vijendra Bareth (talk) 04:57, 5 January 2019 (UTC)
+
+
+Please create my account I have done much serial more than 10 serial, I'm doing Master degree on acting, I trained by Balaji telifilms Mumbai , also I have done my engineering deegree from information technology..I did much thing so I request I want to create my my page on your wekipedia Vijendra Bareth (talk) 04:59, 5 January 2019 (UTC)
+
+You already have an account, it was created when you registered the name Vijendra Bareth. --Redrose64 🌹 (talk) 17:16, 5 January 2019 (UTC)
+
+
+Not understanding  Ian C Jordan (talk) 05:28, 18 September 2020 (UTC)
+
+Dorothy Walker Bush[edit]
+
+
+Why does Dorothy Walker Bush not have her own Wikipedia page?   Her son and grandson became 41st and 43rd Presidents of the United States of America. 
+Her brothers, George Herbert Walker Jr. and John M. Walker, both have their own Wikipedia page.
+MDM88 (talk) 17:46, 3 February 2019 (UTC)
+
+@MDM88: this is the talk page for discussing improvements to the page Wikipedia:Project namespace; suggestions for new articles belong at Wikipedia:Requested articles. Anyway, to save you some time, it's covered by WP:INVALIDBIO. --Redrose64 🌹 (talk) 23:39, 3 February 2019 (UTC)
+
+
+May be it have to be uploaded by the Grand children TAYEBWA PETER DELICK (talk) 01:37, 18 October 2019 (UTC)
+
+
+Why did you delete this page? Why do you think George Herbert Walker Bush‘s mother is not a notable person?
+
+
+She was the mother of the US president. The grandmother of the US president. The grandmother of the former Florida governor.  What are you trying to hide? MDM88 (talk) 19:27, 12 February 2020 (UTC)
+
+
+Why are you silencing information on Dorothy Walker? MDM88 (talk) 19:28, 12 February 2020 (UTC)
+
+North Macedonia[edit]
+
+
+Macedonia has been renamed to the republic of North Macedonia. No? Why doesn't Wikipedia change the name? Narethium (talk) 22:14, 6 February 2019 (UTC)
+
+if you go to the Articles talk page you'll see there's an ongoing discussion about when they should happen.--Moxy (talk) 23:20, 6 February 2019 (UTC)
+Historical[edit]
+
+
+The current Historical pages section has the sentence They are kept as a record of past Wikipedia processes which are outdated that have a noteworthy value in being maintained. I find this confusingly worded and needlessly vague. I changed the wording of this sentence to They are kept as a record of past Wikipedia processes to give context to historical discussions and to inform future discussions on similar topics. but was reverted by CASSIOPEIA. The intent was to clearly spell out why we maintain historical pages. The "noteworthy value" it seems is so that archived discussions don't lose their context and so that future discussions don't retread ground. I also find the double embedding which are outdated that have... confusing and at the least think some revision to that would be beneficial, like replacing "that" with "and": which are outdated and have.... What are peoples' thoughts on the proposed rewording? Wugapodes [thɑk] [ˈkan.ˌʧɹɪbz] 06:33, 27 June 2019 (UTC)
+
+Wugapodes and all Greetings. I reverted your edit on the ground that changes on wording needs consensus agreement. I have no opinion of the current or the proposed wording is used. Cheers. CASSIOPEIA(talk) 07:02, 27 June 2019 (UTC)
+@CASSIOPEIA: That's not a reason to revert a change to a policy page, per WP:PGBOLD, you should not remove any change solely on the grounds that there was no formal discussion indicating consensus for the change before it was made. Instead, you should give a substantive reason for challenging it. I would ask that you self revert and restore my addition unless you have a substantive reason to oppose it. Wugapodes [thɑk] [ˈkan.ˌʧɹɪbz] 20:46, 27 June 2019 (UTC)
+Wugapodes bold is one thing, but my understanding anything in WP page, wording needs to be consensus agreed before changing it as we the editors would refer it as the guidelines. You would ping the create of the page to respond to your comment.Cheers. CASSIOPEIA(talk) 02:24, 28 June 2019 (UTC)
+@CASSIOPEIA: your understanding is incorrect. Wikipedia:Policies and guidelines explicitly says directly editing these pages is permitted by Wikipedia's policies. Consensus can be built through editing, not just talk page discussions, which is why WP:PGBOLD says you should not revert changes simply because they were not discussed first. Reverting changes simply because they were not previously discussed interrupts the process of actually building consensus which is why Wikipedia:Policies and guidelines says not to do what you did. If you do not disagree with the substance of the edit, please self revert or I will restore my revision. Wugapodes [thɑk] [ˈkan.ˌʧɹɪbz] 03:25, 28 June 2019 (UTC)
+Wugapodes As I had mentioned, I have no openion of either way the text appears in the page. If changes is endorsed by editor, then all for it.Thank you. CASSIOPEIA(talk) 03:38, 28 June 2019 (UTC)
+Endorce change  this is better then what I wrote and have no problem with the change ..or any change that makes things more  clear.--Moxy 🍁 03:28, 28 June 2019 (UTC)
+Untitled[edit]
+
+
+Hi there
+I am trying to create a wiki page for my sister who is a professionial wrestler. Im not quite sure how to go about doing it properly is there anyway you can walk me through it or a tutorial. Thank you for your time. Lexygbh82 (talk) 15:41, 18 September 2019 (UTC)
+
+@Lexygbh82: This is a talk page for the Wikipedia:Project namespace page, not the place to request new articles. I would strongly recommend that you don't attempt to make a page for a close family member yourself; please see the conflict of interest guidelines. PohranicniStraze (talk) 16:14, 18 September 2019 (UTC)
+Semi-protected edit request on 2 October 2019[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+
+
+Please edit Old Pogue Bourbon site for distilling, bottling and distributing. Horses57 (talk) 20:55, 2 October 2019 (UTC)
+
+&nbsp;Not done: this is the talk page for discussing improvements to the page Wikipedia:Project namespace. Please make your request at the talk page for the article concerned. please provide reliable sources that support the change you want to be made. Sceptre (talk) 21:08, 2 October 2019 (UTC)
+@Sceptre: This is more of a {{subst:ESp|mis}} situation. --Redrose64 🌹 (talk) 22:05, 2 October 2019 (UTC)
+@Redrose64: Fair enough; following the anchor didn't let me see the page title! Sceptre (talk) 22:08, 2 October 2019 (UTC)
+Wikipedia:[edit]
+
+
+
+Suggest that this URL redirect here to Wikipedia:Project namespace, instead of this error of "Bad title".
+--BoldLuis (talk) 16:17, 3 May 2020 (UTC)
+
+contributor=editor=Wikipedian[edit]
+
+
+Moved to where it belongs: Wikipedia talk:Wikipedians#contributor=editor=Wikipedian. Lembit Staan (talk) 21:51, 12 September 2021 (UTC)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Project_namespace&amp;oldid=1057220474"
+		Hidden categories: Wikipedia pages using copied template without oldidWikipedia pages using copied template
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 26 November 2021, at 06:43&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

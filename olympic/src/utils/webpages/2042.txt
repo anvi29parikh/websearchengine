@@ -1,0 +1,342 @@
+
+
+
+
+Help:Archiving a source - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Help:Archiving a source
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutH:AAS
+
+
+On Wikipedia you can archive sources to prevent link rot. A comprehensive list of web archive sites can be found at WP:WEBARCHIVES (technical documentation) and List of Web archiving initiatives. Below are some of the most common. See also WP:Link rot for more detailed information.
+
+Contents
+
+1 Finding an archived source
+2 Internet Archive Wayback Machine
+3 Archive.is
+4 Perma.cc
+5 Conifer
+6 Ghostarchive.org
+7 WebCite
+8 See also
+
+
+
+Finding an archived source[edit]
+
+
+You can use time travel to find an archive.
+
+Internet Archive Wayback Machine[edit]
+Main page: Wikipedia:Using the Wayback Machine
+
+
+The Wayback Machine is a service which can be used to cite archived copies of web pages used by articles. This is useful if a web page has changed, moved, or disappeared; links to the original content can be retained. This process can be performed automatically, using the web interface for User:InternetArchiveBot.
+
+
+Editors are encouraged to add an archive link as a part of each citation, or at least submit the referenced URL for archiving, at the same time that each citation is created or updated. New URLs added to Wikipedia articles (but not other pages) are usually automatically archived by a bot.
+
+
+Visit the web form at https://web.archive.org, enter the original URL of the web page of interest in the "Wayback Machine" search box and then select BROWSE HISTORY. The next screen may:
+
+redirect to the latest archived copy,
+show a box near the bottom of the page with a link inviting the user to Save this url in the Wayback Machine,
+show a calendar listing the snapshot dates for all archived copies of that page, or
+show an error message explaining why the page cannot be archived.
+
+
+In short, this is the code that needs to be added to an existing {{cite web}} or similar template:
+
+&lt;ref&gt;{{cite ... &lt;!--EXISTING REFERENCE--&gt; |archive-url=https://web.archive.org/web/&lt;date&gt;/http://www.originalurl.com |archive-date=&lt;date&gt; |url-status=dead}}&lt;/ref&gt;
+
+
+
+
+
+
+Archive.is[edit]
+Main page: Wikipedia:Using Archive.is
+
+
+archive.today is an on-demand web archiving service at https://archive.today. A web archiving service allows Wikipedia editors to reduce link rot by preserving a copy of an online source that can be accessed if the original page is moved, changes, or disappears. Not all web pages can be archived using archive.today.
+
+
+archive.today can archive HTML web pages, style sheets, JavaScript, and digital images.
+
+
+Besides https://archive.today, the domain is also accessible through aliases – including https://archive.is, .li, .fo, .ph. .vn and .md (Full article...)
+
+Perma.cc[edit]
+Main page: Wikipedia:Using Perma.cc
+Conifer[edit]
+
+
+Conifer was previously called Webrecorder.
+
+Main page: Wikipedia:Using Webrecorder
+Ghostarchive.org[edit]
+Main page: Wikipedia:Using Ghostarchive
+
+
+Ghostarchive.org uses the Webrecorder technology and is thus able to save dynamic content such as YouTube videos, JavaScript etc.. it is a general purpose archive service on demand with no login or usage cap requirements. 
+
+
+Usage instructions:
+
+For the moment, it's recommended to add a {{cbignore}} following the citation template using ghostarchive.org to keep IABot from removing it, which it might do automatically until IABot has been programmed to recognize it.
+The site has default URL shortening eg. https://ghostarchive.org/archive/fwAS7 .. this is disallowed on Wikipedia per RfCs and policy to prevent abuse.  Use the long form URL instead. The long URL can be found by checking another URL first:
+For regular web pages:
+https://ghostarchive.org/longurl/o9UcZ -&gt; https://ghostarchive.org/archive/20210728022510/https://rms-support-letter.github.io/
+For video pages eg.YouTube:
+http://ghostarchive.org/vlongurl/UhCiGY75wVw -&gt; https://ghostarchive.org/varchive/youtube/20100711020000/UhCiGY75wVw
+Thus it is a two step process: determine what the long URL is; add it to Wikipedia.
+To find the earliest and latest archive available use a timestamp of "1990" or "3000" eg.
+https://ghostarchive.org/archive/1990/https://rms-support-letter.github.io/will find the earliest archived copy of that webpage, while
+https://ghostarchive.org/archive/3000/https://rms-support-letter.github.io/will find the latest.
+Note: Do not use 1990 or 3000 in Wikipedia it should be the actual timestamp.
+WebCite[edit]
+As of July 14, 2019 this WebCite does not accept any new archive requests; historically archived pages can still be accessed but this service cannot be used to make any new archives.
+Main page: Wikipedia:Using WebCite
+See also[edit]
+Wikipedia:List of web archives on Wikipedia
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Archiving_a_source&amp;oldid=1047079905"
+		Categories: Wikipedia how-to
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربية한국어اردو
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 28 September 2021, at 22:12&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

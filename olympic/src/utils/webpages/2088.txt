@@ -1,0 +1,538 @@
+
+
+
+
+Wikipedia:Closing discussions - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Closing discussions
+	
+		From Wikipedia, the free encyclopedia
+		&nbsp;&nbsp;(Redirected from Wikipedia:Hatting)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		"WP:CLOSE" redirects here. For close paraphrasing, see Wikipedia:Close paraphrasing.
+Wikipedia information pageThis is an information page.
+It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.ShortcutsWP:CLOSEWP:CLDWP:DCL
+
+
+Consensus is Wikipedia's fundamental model for editorial decision-making. Policies and guidelines document communal consensus rather than creating it.  Consensus is typically reached as a natural and inherent product of the wiki-editing process; generally someone makes a change to a page content, and then everyone who reads the page has an opportunity to either leave the page as it is or change it.  Editors begin discussions to resolve disagreements that cannot be easily resolved through the normal wiki-editing process.  Many community discussions and decisions happen on project pages that are specifically designed for that purpose.  If discussions involve several individuals the discourse can become lengthy and the results hard to determine.  After a while, it is time to close the discussion so that the community can move on. 
+
+
+This page offers guidance on how and when discussions should be closed. There are no policies that directly dictate how to close a discussion.  These information documents the customary practices that have evolved at Wikipedia in the years since it was started.  These customs are grounded in the core principles of Wikipedia etiquette such as assuming good faith, creating consensus, and maintaining civility.
+
+Contents
+
+1 Which discussions need to be closed
+
+1.1 Closing vs archiving
+
+
+2 When to close discussions
+3 How to determine the outcome
+
+3.1 Consensus
+3.2 Policy
+
+
+4 Closure procedure
+
+4.1 Requesting a close
+4.2 Marking a closed discussion
+4.3 Writing a summary
+
+
+5 Challenging a closure
+
+5.1 Challenging a deletion
+5.2 Challenging a move
+5.3 Challenging other closures
+
+
+6 See also
+7 References
+
+
+
+Which discussions need to be closed[edit]
+
+
+Many informal discussions do not need closing.  Often, consensus is reached in the discussion and the outcome is obvious.  Disagreements in articles are often solved by further edits.  For example, two or more individuals may disagree about how a section of text in an article is written and start a discussion on the talk page.  An uninvolved party might come up with a creative solution that addresses the concerns raised in the discussion.  If it is a good solution, nothing needs to happen.  There will be nothing more that is said, and everyone moves on.  When this is the case, it often helps to leave a comment that the issue was resolved and perhaps link the edit that resolved the issue.  On some pages, such as Wikipedia:Administrators noticeboard, the {{resolved}} template is used to note that an issue has been resolved.  The template is added to the beginning of the section, with notes that indicate what action was taken.  This helps shorten the reading needed to scan the page. Similarly, the {{unresolved}} template may be used to indicate that a dispute about an important issue has not found its solution, inviting more people to weigh in their ideas and opinions.
+
+
+When a discussion involves many people and the outcome is not clear, it may be necessary to formally close the discussion.  This is always the case in discussions at Wikipedia:Articles for deletion (AfD), Wikipedia:Categories for discussion (CfD) and the other XfDs.  Observe however that intervening to close a discussion where this mode of resolution is not customary may prove to be incendiary instead of clarifying.  Here, adding the {{unresolved}} template may be a better option or informing all parties about the possibility of requesting mediation.
+
+
+It may be useful to close some Requests for comments; see that page for criteria to consider.  
+
+Closing vs archiving[edit]
+
+
+Closing discourages people from continuing to post comments, while leaving the discussion on the page, so that editors can read it.  This may be accomplished by placing templates such as {{archivetop}} and {{archivebottom}} or {{closed rfc top}} and {{closed rfc bottom}} around a discussion.  In addition to formal closes that analyze the consensus of a discussion, discussions may also be closed where someone, usually an administrator, decides that the discussion is irrelevant or disruptive.  This practice is used quite often on pages that attract heated dispute, although there are no rules in place governing its use, and there are times when closing a discussion can create even more strife than had existed before.
+
+
+Summarizing documents the outcome of the discussion (e.g., "The result was to keep the page").  Outside of the various deletion processes, most discussions are neither closed nor summarized.
+
+
+Archiving is when the discussion is moved into an archive area.  On high-traffic pages, such as the Wikipedia:Village pumps, this is usually done when no new comments have been added for a defined length of time.
+
+When to close discussions[edit]
+ShortcutWP:WHENCLOSE
+Not too soon or too late:  Some processes, especially deletion-oriented pages, have a specified minimum length, typically of 7 full days.  Other processes, especially Requests for Comments (RfCs), have typical lengths but no mandatory minimum.  It is unusual for anyone to request a formal closure by an uninvolved editor unless the discussion has been open for at least one week.[1] Similarly, if the discussion stopped, and editors have already assessed the consensus and moved on with their work, then there may be no need to formally close the discussion unless the process (e.g., Wikipedia:Articles for deletion) requires formal closure for other reasons.
+When the discussion is stable:  The more contentious the subject, the longer this may take.  Two signs of achieving this state are the same editors repeating themselves, and the rate of other editors joining the conversation is slowing.
+When further contributions are unlikely to be helpful:  If additional comments, even weeks or months later, might be helpful, then don't close the conversation.  Most conversations do not need to be closed.  On the other hand, when further responses are likely to result in little more than wasting everyone's time by repeating the same widely held view, then it should be closed sooner rather than later.  In between, wait to see whether enough information and analysis has been presented to make the outcome (including an outcome that editors do not agree) clear.
+How to determine the outcome[edit]
+Main page: Wikipedia:Advice on closing discussions
+Consensus[edit]
+See also: Wikipedia:Consensus
+
+
+Many closures are based upon consensus.  Consensus can be most easily defined as agreement. The closing editor or administrator will determine if consensus exists, and if so, what it is.  To do this, the closer must read the arguments presented.  
+
+
+The desired standard is rough consensus, not perfect consensus.  Please also note that closers are expected and required to exercise their judgment to ensure the decision complies with the spirit of Wikipedia policy and with the project goal.  A good closer will transparently explain how the decision was reached.[2]
+
+
+
+
+ShortcutsWP:NHCWP:DISCARD
+
+
+Consensus is not determined by counting heads, but neither is it determined by the closer's own views about what is the most appropriate policy. The closer is there to judge the consensus of the community, after discarding irrelevant arguments: those that flatly contradict established policy, those based on personal opinion only, those that are logically fallacious, and those that show no understanding of the matter of issue.[3] If the discussion shows that some people think one policy is controlling, and some another, the closer is expected to close by judging which view has the predominant number of responsible Wikipedians supporting it, not personally select which is the better policy. The closer is not expected to decide the issue, just to judge the result of the debate, and is expected to know policy sufficiently to know what arguments are to be excluded as irrelevant. If the consensus of reasonable arguments is opposite to the closer's view, they are expected to decide according to the consensus. The closer is not to be a judge of the issue, but rather of the argument.
+
+Policy[edit]
+
+
+Many closures are also based upon Wikipedia policy.  As noted above, arguments that contradict policy are discounted.  
+
+
+Wikipedia policy, which requires that articles and information be verifiable, avoid being original research, not violate copyright, and be written from a neutral point of view is not negotiable, and cannot be superseded by any other guidelines or by editors' consensus. A closer must determine whether any article violates policy, and where it is very unlikely that an article on the topic can exist without breaching policy, it must be respected above individual opinions.[3]
+
+Closure procedure[edit]
+See also: Wikipedia:Deletion process
+
+
+Most discussions don't need closure at all, but when they do, any uninvolved editor may close most of them – not just admins.[4]  Generally, if you want to request closure by an uninvolved administrator, it's expected that the discussion will have already been open at least a week, and that the subject is particularly contentious or the outcome is unclear. 
+
+Requesting a close[edit]
+
+
+If consensus remains unclear, if the issue is a contentious one, or if there are wiki-wide implications, a request for a neutral and uninvolved editor to formally close a discussion may be made at Wikipedia:Administrators' noticeboard/Requests for closure. Please ensure that any request there seeking a close is neutrally worded, and do not use that board to continue the discussion in question.
+
+Marking a closed discussion[edit]
+
+
+
+Closing a discussion means putting a box around it for the purpose of discouraging further contributions to that discussion.  Please do not close a discussion if you believe that further contributions (rather than starting a fresh discussion on the same subject) would be appropriate.
+
+
+To close a discussion, use the {{archive top}} and {{archive bottom}} templates (although some particular types of discussion, such as those which concern whether to delete or rename a page, have their own specialized templates).  For example:
+
+{{archive top}}
+Discussion text...
+{{archive bottom}}
+
+
+The closed discussion will then look like this:
+
+
+
+The following discussion is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+The discussion above is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+
+
+
+The closed discussion can also be collapsed to save space. This is achieved by using the templates {{hidden archive top}} and {{hidden archive bottom}}. Because of the short name of the first of those templates – {{hat}} – performing such a closure is referred to as hatting.
+
+Writing a summary[edit]
+
+
+Sometimes, it is helpful for an editor to provide a summary statement of the outcome, if any, when closing the discussion.  This optional statement may include both points of consensus and points that are not yet resolved.
+
+{{Archive top 
+|result = I've decided my idea needs some work.  Thanks to everyone for the advice.  ~~~~
+|status = withdrawn}}
+{{lorem ipsum}}
+{{Archive bottom}}
+
+
+
+which will look like this:
+
+
+WITHDRAWN
+
+
+
+I've decided my idea needs some work.  Thanks to everyone for the advice.  User:Example (talk)  17:24, 15 August 2018 (UTC)
+
+
+
+
+The following discussion is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+The discussion above is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+
+ Challenging a closure[edit]
+ShortcutWP:CLOSECHALLENGE 
+
+
+All discussion closures are subject to review. Usually, reviews are initiated because someone disputes the outcome stated by the closing editor (e.g., a summary statement that some editors find confusing or incorrect), rather than the decision to discourage further discussion.
+
+
+Depending on the type of discussion, a review will take place at one of several review boards, and distinct criteria are used for each board. In general, deletions are discussed at WP:Deletion review, moves are discussed at WP:Move review, and other closures (including requests for comment[5]) are discussed at WP:AN. Specific instructions about each case are described in the subsections below. 
+
+
+Remember that most contentious discussions benefit from a formal closing statement, and that closers undertake to assess consensus to the best of their abilities.  Simply believing a closure is wrong, even if reasonable people would have closed it differently, is not usually sufficient for overturning the result.  Getting the result overturned is usually based on context or information left out of the discussion, or new information that would have altered the discussion outcome were it held again.
+
+Challenging a deletion[edit]
+
+
+For reviewing a closure of a deletion discussion, the Deletion review process is used.
+
+
+
+
+Deletion review may be used:
+
+if someone believes the closer of a deletion discussion interpreted the consensus incorrectly;
+if a speedy deletion was done outside of the criteria or is otherwise disputed;
+if significant new information has come to light since a deletion that would justify recreating the deleted page;
+if a page has been wrongly deleted with no way to tell what exactly was deleted; or
+if there were substantial procedural errors in the deletion discussion or speedy deletion.
+
+
+Deletion review should not be used:
+
+because of a disagreement with the deletion discussion's outcome that does not involve the closer's judgment (a page may be renominated after a reasonable timeframe);
+(This point formerly required first consulting the deleting admin if possible. As per this discussion an editor is not required to consult the closer  of a deletion discussion (or the deleting admin for a speedy deletion) before starting a deletion review. However doing so is good practice, and can often save time and effort for all concerned. Notifying the closer is required.)
+to point out other pages that have or have not been deleted (as each page is different and stands or falls on its own merits);
+to challenge an article's deletion via the proposed deletion process, or to have the history of a deleted page restored behind a new, improved version of the page, called a history-only undeletion (please go to Wikipedia:Requests for undeletion for these);
+to repeat arguments already made in the deletion discussion;
+to argue technicalities (such as a deletion discussion being closed ten minutes early);
+to request that previously deleted content be used on other pages (please go to Wikipedia:Requests for undeletion for these requests);
+to attack other editors, cast aspersions, or make accusations of bias (such requests may be speedily closed); or
+for uncontroversial undeletions, such as undeleting a very old article where substantial new sources have subsequently arisen. Use WP:REFUND instead.
+
+
+Copyright violating, libelous, or otherwise prohibited content will not be restored. 
+
+
+Challenging a move[edit]
+
+
+For reviewing a closure of a page move discussions, the Move review process is used.
+
+
+
+
+Move review may be used:
+
+if an editor believes the closer did not follow the spirit and intent of WP:RMCI in closing this requested move.
+if the closer was not made aware of significant additional information not discussed in the RM, and the RM should be reopened and relisted.
+
+Challenging other closures[edit]
+See also: WP:FORUMSHOP
+
+
+For other procedures, whether formal RfCs or less formal ones such as merging or splitting, contact the editor who performed the closure and try to resolve the issue through discussion. If you are unable to resolve the issue through discussion with the closer, you may request review at the Administrators' Noticeboard. Before requesting review, understand that review should not be used as an opportunity to re-argue the underlying dispute, and is only intended for use when there is a problem with the close itself.
+
+
+
+
+Closures will often be changed by the closing editor without a closure review:
+
+if significant additional information or context was left out of the discussion and the closer was not aware of it.
+if the discussion was undertaken under modified procedural rules that the closer was not aware of.
+if an early closure is followed by multiple editors asking that it be reopened for further discussion, or a single editor has brought forth a compelling new perspective to the already closed discussion.
+
+
+Closures will rarely be changed by the closing editor, but can be challenged in a closure review:
+
+if you believe the closure was not a reasonable summation of the discussion
+if the closing editor may have become inextricably involved through previous experience in the conflict area.
+
+
+Closures will rarely be changed by either the closing editor or a closure review:
+
+if the poll was close or even favored an outcome opposite the closure, if the closure was made on the basis of policy. Policies and guidelines are usually followed in the absence of a compelling reason otherwise, or an overwhelming consensus otherwise, and can only be changed by amending the policy itself.
+if the complaint is that the closer is not an admin.[6]
+
+
+
+After discussing the matter with the closing editor, you may request review at the Administrators' noticeboard. Create a new section by clicking on the "new section" tab. Include a link to the closed discussion, a link to the discussion with the closing editor, links to any previous discussions pertinent to the discussion, and a neutral explanation of the rationale for review of the closure. For example, open a discussion at the Administrators' noticeboard (AN) that begins with "This is a request to review the close at [[(name and link to close)]] to determine whether the closer interpreted the consensus incorrectly. I discussed this with the closer [[Here]]." followed by a concrete description of how you believe the close was an inappropriate or unreasonable distillation of the discussion. You are more likely to succeed in your AN request if you focus on 1. "underlying policy/guideline" and 2. "strength of argument". (See WP:ROUGH CONSENSUS) For example, continue your AN request opening with something like, "The issue the closer was to decide was (describe issue). In closing, they applied policy X. I believe that policy Y should have been taken more into account / policy X not ever intended to apply to issues such as this."
+
+
+Users who try to subvert consensus by appealing to other venues than WP:AN should be aware of WP:FORUMSHOP.
+
+See also[edit]
+Wikipedia:Administrators' noticeboard/Closure review archive – a self-reported index of past AN reviews of closed discussion
+Wikipedia:Dashboard, for ongoing discussions and current requests
+Wikipedia:Guide to deletion
+Wikipedia:Just drop it
+Wikipedia:Non-admin closure
+Wikipedia:Not now
+Wikipedia:Snowball clause
+Wikipedia:Voting – pages on the role of voting in and out of Wikipedia
+References[edit]
+
+
+^ Some common causes for rapid closure include: 
+The discussion was withdrawn by the person who started it.
+Stopping discussions that are happening in multiple places or otherwise in the wrong place. (example).
+Stopping disruptive or misguided discussions (example).
+
+^ Wikipedia:Guide to deletion#Closure
+
+^ a b Wikipedia:Deletion guidelines for administrators#Rough consensus
+
+^ In uncontentious circumstances, even an involved editor may close a discussion.  For example, if you propose something, and it's obvious to you that nobody agrees with you, then you can close the discussion, even though you're obviously an "involved" editor.
+
+^ See this discussion
+
+^ A request for comment discussed how to appeal closures and whether an administrator can summarily overturn a non-administrator's closure. The consensus was that closures should not be reverted solely because the closer was not an administrator.
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Closing_discussions&amp;oldid=1030446962#HATTING"
+		Categories: Wikipedia information pagesWikipedia discussionHidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		РусскийУкраїнська中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 25 June 2021, at 23:57&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

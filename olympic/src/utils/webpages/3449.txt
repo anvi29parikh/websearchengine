@@ -1,0 +1,331 @@
+
+
+
+
+Tags - Wiktionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	Help
+	
+	Tags
+	
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+This page lists the tags that the software may mark an edit with, and their meaning.
+
+Tag nameAppearance on change listsFull description of meaningSourceActive?Tagged changesmobile editMobile editEdit made from mobile (web or app)Defined by the softwareYes589,561 changes
+mobile web editMobile web editEdit made from mobile web siteDefined by the softwareYes586,399 changes
+WT:NORMWT:NORM
+
+This page violates one of the rules in WT:NORM that govern the formatting of wikitext in entries.
+
+
+Note that this tag does not necessarily mean that an edit introduced a violation; rather, it more often means that the page already violated the rule.
+
+
+See Special:AbuseFilter/103 for the conditions that trigger this tag.
+Defined by the softwareNo324,999 changes
+visualeditor-wikitext2017 source editEdit made using the 2017 wikitext editorDefined by the softwareYes230,976 changes
+advanced mobile editAdvanced mobile editEdit made by user with Advanced modeDefined by the softwareYes161,657 changes
+new-L2new-L2This edit adds a new language header to the page, such as "==French==".Defined by the softwareYes115,012 changes
+mw-rollbackRollbackEdits that roll back previous edits using the rollback linkDefined by the softwareYes103,373 changes
+no-documentationno-documentationThis template page doesn't have a {{documentation}} transclusion.Defined by the softwareYes89,455 changes
+mw-revertedRevertedEdits that were later reverted by a different editDefined by the softwareYes64,017 changes
+mw-undoUndoEdits that undo previous edits using the undo linkDefined by the softwareYes40,931 changes
+no-L2-L3no-L2-L3No header for language, or none for part of speech. See WT:EL.Defined by the softwareYes40,553 changes
+visualeditorVisual editEdit made using the visual editorDefined by the softwareYes37,695 changes
+added linkadded linkAdded link to an external website, ie, one other than a sister project like Wikipedia, Wikicommons, or a Wiktionary in a language other than English.Defined by the softwareYes30,132 changes
+no head tempno head tempThe entry lacks a "headword-line template" (e.g. {{en-noun}} or {{head}}) immediately below a part-of-speech header.Defined by the softwareYes27,743 changes
+mw-manual-revertManual revertEdits that manually restore the page to an exact previous stateDefined by the softwareYes26,333 changes
+mw-new-redirectNew redirectEdits that create a new redirect or change a page to a redirectDefined by the softwareYes24,109 changes
+discussiontools-added-comment(hidden)A talk page comment was added in this editDefined by the softwareYes13,660 changes
+fewer-L2sfewer-L2sThis edit removes one or more language section headers, such as "==French==".Defined by the softwareYes13,274 changes
+bad-ledebad-ledeThis edit to an existing page caused the beginning of it to be formatted incorrectly. See WT:EL.Defined by the softwareYes12,662 changes
+etyletylAddition of the deprecated {{etyl}} templateDefined by the softwareYes8,997 changes
+new-user-pagenew-user-pageA new user editing his or her own user page.Defined by the softwareYes8,385 changes
+mw-removed-redirectRemoved redirectEdits that change an existing redirect to a non-redirectDefined by the softwareYes7,144 changes
+no-L3No L3No header for part of speech (or Etymology, Pronunciation, or others [See WT:ELE]) (eg, "===Adverb===", "===Alternative spellings===")No longer in useNo6,939 changes
+mw-replaceReplacedEdits that remove more than 90% of the content of a pageDefined by the softwareYes6,366 changes
+ref-no-referencesref-no-referencesThis page now has a &lt;ref&gt; tag but no &lt;references/&gt; tag.Defined by the softwareYes4,894 changes
+removal-of-deletion-or-rfv-templateremoval-of-deletion-or-rfv-templateRemoval of a template supposed to be removed only after completion of voting process. See WT:RFV, WT:RFD.Defined by the softwareYes4,523 changes
+redirectredirectThis edit makes the page into a redirection page.Defined by the softwareYes3,502 changes
+mw-changed-redirect-targetRedirect target changedEdits that change the target of a redirectDefined by the softwareYes3,465 changes
+discussiontools(hidden)Edit made using DiscussionToolsDefined by the softwareYes2,730 changes
+bad-iwbad-iwThis edit adds an interwiki link to a page with a different title. This is usually a mistake: interwiki links should point to the identical word on another wiki, and not to its translation into another language.Defined by the softwareYes2,652 changes
+new-IWnew-IWThis edit adds a new interwiki link to the page, a task that is now usually relegated to a bot.Defined by the softwareYes2,477 changes
+OAuth CID: 429PAWS [1.2]PAWS (Pywikibot: A Web Shell) allows users to run Pywikibot (and other python code) online via a Jupyterhub instance, at https://tools.wmflabs.org/paws. OAuth integration allows people to edit / run automated processes without having to expose their passwords. This will make the consumer_secret and consumer_id public, until https://phabricator.wikimedia.org/T120469 is fixed. I have talked to Chris Steipp about this and it is ok for the short term.Defined by the softwareNo2,369 changes
+discussiontools-sourceSourceDiscussionTools was in source modeDefined by the softwareYes2,361 changes
+massmessage-deliveryMassMessage deliveryMessage delivery using Extension:MassMessageDefined by the softwareYes2,220 changes
+discussiontools-replyReplyUser replied to a comment with DiscussionToolsDefined by the softwareYes2,156 changes
+mw-blankBlankingEdits that blank a pageDefined by the softwareYes2,128 changes
+-th-thDefined by the softwareYes2,074 changes
+discussiontools-source-enhanced(hidden)DiscussionTools was in enhanced source mode with the toolbarDefined by the softwareYes1,970 changes
+visualeditor-switchedVisual edit: SwitchedUser started to edit using the visual editor, then changed to the wikitext editor.Defined by the softwareYes1,486 changes
+wpwpNo longer in useNo1,306 changes
+triple-bracestriple-bracesThis edit left the page with a run of three consecutive curly braces, i.e. {{{ or }}}Defined by the softwareYes1,260 changes
+pagetitle-is-usernamepagetitle-is-usernameThe title of the page is the same as the username of the user making the edit. It might therefore be self-promotion.Defined by the softwareYes898 changes
+Removed Descendants headerRemoved Descendants headerDefined by the softwareYes835 changes
+mobile app editMobile app editEdits made from mobile appsDefined by the softwareYes804 changes
+bad character in headerbad character in headerDefined by the softwareYes749 changes
+bad-wordbad-wordThis edit adds profanity to the page and is therefore likely to be vandalism.Defined by the softwareYes720 changes
+discussiontools-newtopicNew topicUser added a new topic to the page with DiscussionToolsDefined by the softwareYes574 changes
+OAuth CID: 1352SWViewer [1.3]App to monitor the recent changes of a wiki's in real-time. For more details, see https://meta.wikimedia.org/wiki/SWViewerDefined by the softwareNo542 changes
+android app editAndroid app editEdits made from mobile app for AndroidDefined by the softwareYes471 changes
+abbr-headersabbr-headersThis edit adds Abbreviation or similar headers to the page; these should ideally be replaced with the appropriate part of speech, such as Noun.Defined by the softwareYes383 changes
+OAuth CID: 1841PAWS [2.1]PAWS (PAWS: A Web Shell) allows users to run Pywikibot (and other Python / R / bash code) online without needing an ssh login. The OAuth integration allows them to do so without having to expose their passwords.Defined by the softwareYes383 changes
+discussiontools-visualVisualDiscussionTools was in visual modeDefined by the softwareYes369 changes
+Unbalanced template tagging filter.Unbalanced template tagging filter.This edit leaves the page with a &lt;noinclude&gt; or &lt;includeonly&gt; tag that is not properly closed with a corresponding &lt;/noinclude&gt; or &lt;/includeonly&gt; tag.Defined by the softwareYes366 changes
+added-content-liaradded-content-liarSee abuse filter 77.Defined by the softwareYes319 changes
+also-known-asalso-known-asDefined by the softwareYes270 changes
+OAuth CID: 1805SWViewer [1.4]App to monitor the recent changes of a wiki's in real-time. For more details, see https://meta.wikimedia.org/wiki/SWViewerDefined by the softwareYes241 changes
+NewNumNewNumDefined by the softwareYes240 changes
+-sh-shThis edit removed a reference to the Serbo-Croatian language from the page.Defined by the softwareYes227 changes
+phobiaphobiaThis edit may represent the addition of an unattestable word ending in -phobia or -philia.Defined by the softwareYes221 changes
+rfdefrfdefDefined by the softwareYes206 changes
+fixed-typo-liarfixed-typo-liarDefined by the softwareYes179 changes
+PaMPaMThis edit shows patterns of editing characteristic of the blocked user User:Pass a Method.Defined by the softwareNo96 changes
+new user moving pagesnew user moving pagesThe page is being moved by a user who has not yet made many edits to the wiki.Defined by the softwareYes82 changes
+bad-wgpingbad-wgpingUnsubstituted usage of {{wgping}}Defined by the softwareYes67 changes
+abusefilter-condition-limitcondition limit reachedEdits or other events that couldn't be checked by all active abuse filters (help).Defined by the softwareYes65 changes
+LadinLadinThis edit changes a language reference from Ladin to Latin.Defined by the softwareYes64 changes
+creativecreative113Defined by the softwareNo54 changes
+WTNoDWTNoDNo longer in useNo52 changes
+Arabic Presentation FormsArabic Presentation FormsEdits that add letters known as Arabic Presentation Forms-A and -B. Regular Arabic letters in this group should be used instead.Defined by the softwareYes42 changes
+inflected-form-ofinflected-form-ofDefined by the softwareYes22 changes
+bad English titlebad English titleDefined by the softwareYes20 changes
+remove-LDLremove-LDLRemoval of {{LDL}} usagesDefined by the softwareYes19 changes
+uncapitalized-headeruncapitalized-headerAddition of an uncapitalized header in the main or Reconstruction namespacesNo longer in useNo18 changes
+JSkyJSkyNo longer in useNo14 changes
+pagetitle-is-contentpagetitle-is-contentThe page's contents are identical to its title.Defined by the softwareYes12 changes
+MassUndoVMassUndoVfilter 112Defined by the softwareNo10 changes
+x3x3Defined by the softwareYes9 changes
+mw-contentmodelchangecontent model changeEdits that change the content model of a pageDefined by the softwareYes8 changes
+Added linkAdded linkThis edit adds a hyperlink pointing to a non-wiki location, which might represent spam.No longer in useNo7 changes
+non-Latin headernon-Latin headerNo longer in useNo5 changes
+w2kw2kNo longer in useNo4 changes
+undeletionundeletionNo longer in useNo3 changes
+unfilled-templateunfilled-templateDefined by the softwareYes1 change
+strange-charactersstrange-charactersThe edit contains a certain sequence of unusual text characters that generally indicate spam.Defined by the softwareNo1 change
+english-with-arabic-headwordenglish-with-arabic-headwordDefined by the softwareNo1 change
+linked-lang-headerlinked-lang-headerNo longer in useNo1 change
+OAuth CID: 76LCA Tools [1.5]Tool to allow LCA (Especially CA) team to process certain time heavy tasks (such as takedowns) from a central location.Defined by the softwareYes1 change
+mw-server-side-uploadServer-side uploadMedia files that were uploaded via a maintenance scriptDefined by the softwareYes0 changes
+mw-add-media(hidden)Edits that add mediaDefined by the softwareNo0 changes
+mw-remove-media(hidden)Edits that remove mediaDefined by the softwareNo0 changes
+centralnoticeCentral NoticeEdit created via the CentralNotice Admin UIDefined by the softwareYes0 changes
+centralnotice translationCentral Notice TranslationEdit of CentralNotice content created via the Translate extensionDefined by the softwareYes0 changes
+visualeditor-needcheckVisual edit: CheckEdit made using the visual editor where the system detected the wikitext possibly having unintended changes.Defined by the softwareYes0 changes
+ios app editiOS app editEdits made from mobile app for iOSDefined by the softwareYes0 changes
+fileimporter-remoteModified by FileImporterEdits made by the FileImporter extension after successfully importing a file from this wiki.Defined by the softwareYes0 changes
+-vija-vijaDefined by the softwareYes0 changes
+BadUKJaBadUKJaDefined by the softwareYes0 changes
+RURUDefined by the softwareYes0 changes
+BadASLBadASLDefined by the softwareYes0 changes
+noxxnoxxDefined by the softwareYes0 changes
+bogus redirbogus redirDefined by the softwareYes0 changes
+trreq-langtrreq-langDefined by the softwareYes0 changes
+ANV?ANV?Defined by the softwareYes0 changes
+NmCatNoEnNmCatNoEnDefined by the softwareYes0 changes
+wotdwotdDefined by the softwareNo0 changes
+disambiguator-link-addedDisambiguation linksEdits that add links to disambiguation pagesDefined by the softwareYes0 changes
+discussiontools-editEdited commentUser edited an existing comment with DiscussionToolsDefined by the softwareYes0 changes
+
+Retrieved from "https://en.wiktionary.org/wiki/Special:Tags"
+		
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Special page
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main PageCommunity portalPreferencesRequested entriesRecent changesRandom entryHelpGlossaryDonationsContact us
+		
+	
+
+
+	
+	
+		
+		Tools
+	
+	
+		
+		Upload fileSpecial pagesPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About&nbsp;Wiktionary
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

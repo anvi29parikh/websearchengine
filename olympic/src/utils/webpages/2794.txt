@@ -1,0 +1,279 @@
+
+
+
+
+Revision history of "symbology" - Wiktionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	Help
+	
+	Revision history of "symbology"
+	
+		
+		View logs for this page (view abuse log)
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Filter revisionsExpandCollapseTo date:Tag filter:
+
+
+Show revisions
+
+
+
+External tools: Page statistics
+
+
+
+
+Diff selection: Mark the radio buttons of the revisions to compare and hit enter or the button at the bottom.
+
+Legend: (cur) = difference with latest revision, (prev) = difference with preceding revision, m = minor edit.
+
+
+
+
+
+
+
+curprev 05:20, 21 September 2020‎ WingerBot talk contribs‎ m  758 bytes −12‎   convert {{en-noun}} to new form with smarter default plural algorithm undo
+curprev 01:49, 15 October 2019‎ WingerBot talk contribs‎ m  770 bytes −10‎   move lang= to 1= in {{IPA}} (2) undo
+curprev 02:44, 6 July 2019‎ NadandoBot talk contribs‎ m  780 bytes +1‎   Lang section formatting (wrong order, missing dividers, category placement) undo
+curprev 18:10, 14 May 2019‎ Surjection talk contribs‎  779 bytes +31‎   t+fi:symbologia (Assisted) undo
+curprev 21:06, 14 March 2019‎ WingerBot talk contribs‎ m  748 bytes −5‎   move lang= to 1= in {{suffix}} undo
+curprev 02:49, 26 August 2018‎ Rukhabot talk contribs‎ m  753 bytes +1‎   updating {{t}}/{{t+}} undo
+curprev 15:45, 7 August 2018‎ Equinox talk contribs‎ m  752 bytes +2‎   ~ undo
+curprev 00:42, 17 May 2018‎ Amgine talk contribs‎ m  750 bytes +82‎   Reverted edits by 2001:44C8:418C:8F0A:1:1:BA4C:9503. If you think this rollback is in error, please leave a message on my talk page. undo Tag: Rollback
+curprev 00:37, 17 May 2018‎ 2001:44c8:418c:8f0a:1:1:ba4c:9503 talk‎  668 bytes −82‎   →‎Pronunciation: sukchai undo Tags: Mobile edit Mobile web edit
+curprev 13:58, 15 March 2018‎ Ungoliant MMDCCLXIV talk contribs‎ m  750 bytes −17‎   Reverted edits by Tabresha. If you think this rollback is in error, please leave a message on my talk page. Tag: Rollback
+curprev 05:21, 15 March 2018‎  (username removed)‎  767 bytes +17‎    (edit summary removed) Tags: Mobile edit Mobile web edit
+curprev 15:16, 26 May 2017‎ TheDaveBot talk contribs‎ m  750 bytes −86‎   Removing interwiki links (discussion). undo
+curprev 01:54, 6 April 2017‎ Erutuon talk contribs‎  836 bytes +39‎   →‎English:  glossary link, haplology category undo
+curprev 12:26, 14 January 2017‎ Rukhabot talk contribs‎ m  797 bytes +1‎   updating {{t}}/{{t+}} undo
+curprev 20:37, 23 July 2016‎ MewBot talk contribs‎ m  796 bytes −6‎   Renamed label &gt; lb undo
+curprev 16:24, 17 December 2015‎ MglovesfunBot talk contribs‎ m  802 bytes 0‎   →‎See also: bot: converting {{l/}} to regular {{l}} in the main namespace undo
+curprev 11:57, 17 December 2014‎ Rukhabot talk contribs‎ m  802 bytes +17‎   interwikis: +ku:symbology undo
+curprev 19:23, 25 May 2014‎ MewBot talk contribs‎ m  785 bytes +24‎   Added language code to templates undo
+curprev 06:43, 24 March 2014‎ Embryomystic talk contribs‎  761 bytes +2‎   →‎Noun undo
+curprev 05:19, 21 February 2014‎ DAVilla talk contribs‎  759 bytes +113‎   →‎Noun undo
+curprev 22:22, 8 October 2013‎ Rukhabot talk contribs‎ m  646 bytes −4‎   updating {{t}}/{{t+}}, including {{t-}} → {{t}} (see Wiktionary:Votes/2013-09/Translation-links to other Wiktionaries) undo
+curprev 12:14, 10 February 2013‎ Rukhabot talk contribs‎ m  650 bytes +17‎   interwikis: +ml:symbology undo
+curprev 04:09, 22 October 2012‎ Hippietrail talk contribs‎  633 bytes +21‎   →‎See also:  ++ undo
+curprev 04:06, 22 October 2012‎ Hippietrail talk contribs‎  612 bytes +39‎   see also undo
+curprev 12:07, 31 August 2012‎ Rukhabot talk contribs‎ m  573 bytes +4‎   updating {{t}}/{{t+}}/{{t-}}/{{tø}} undo
+curprev 06:14, 27 March 2012‎ Luckas-bot talk contribs‎ m  569 bytes +17‎   r2.7.1) (Robot: Adding io:symbology undo
+curprev 13:21, 17 February 2012‎ KassadBot talk contribs‎ m  552 bytes −2‎   trans unlink Catalan undo
+curprev 13:19, 17 February 2012‎ Mglovesfun talk contribs‎ m  554 bytes −14‎   Reverted edits by 116.197.5.149 (Talk); changed back to last version by Mglovesfun undo
+curprev 13:18, 17 February 2012‎ 116.197.5.149 talk‎  568 bytes +14‎   תうηG undo
+curprev 13:13, 17 February 2012‎ Mglovesfun talk contribs‎ m  554 bytes −14‎   Reverted edits by 116.197.4.149 (Talk); changed back to last version by Angr undo
+curprev 13:09, 17 February 2012‎ 116.197.4.149 talk‎  568 bytes +14‎   →‎English:  a undo
+curprev 08:49, 4 October 2011‎ Mahagaja talk contribs‎  554 bytes +249‎   →‎English:  expand undo
+curprev 22:29, 31 January 2011‎ Morkai5 talk contribs‎  305 bytes +34‎   t+es:simbología t-balance (Assisted) undo
+curprev 22:28, 31 January 2011‎ Morkai5 talk contribs‎  271 bytes +37‎   t+ca:simbologia t-balance (Assisted) undo
+curprev 22:21, 31 January 2011‎ TheDaveRoss talk contribs‎  234 bytes +17‎   tgloss:"study of symbols" (Assisted) undo
+curprev 02:35, 25 November 2010‎ Bequw talk contribs‎  217 bytes −50‎   →‎Translations:  don't link to appendix-only languages undo
+curprev 16:17, 28 September 2010‎ Sano talk contribs‎  267 bytes +49‎   t+lfn:simbolojia (Assisted) undo
+curprev 09:45, 10 April 2010‎ MglovesfunBot talk contribs‎ m  218 bytes +18‎   →‎Translations: bot: replacing {{top}} and {{mid}} undo
+curprev 12:16, 15 December 2009‎ Interwicket talk contribs‎ m  200 bytes +17‎   iwiki +zh:symbology undo
+curprev 00:02, 30 August 2009‎ Tbot talk contribs‎ m  183 bytes +3‎   added t for it undo
+curprev 17:12, 10 December 2007‎ SemperBlotto talk contribs‎  180 bytes +70‎   translation undo
+curprev 17:28, 3 October 2007‎ Interwicket talk contribs‎ m  110 bytes +18‎   iwiki +vi undo
+curprev 12:41, 18 August 2007‎ Krun talk contribs‎  92 bytes +92‎   New page: ==English==  ===Noun=== {{en-noun|-}}  # The study of symbols. # The use of symbols.
+
+
+
+Retrieved from "https://en.wiktionary.org/wiki/symbology"
+		
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		EntryDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditHistory
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main PageCommunity portalPreferencesRequested entriesRecent changesRandom entryHelpGlossaryDonationsContact us
+		
+	
+
+
+	
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesAtomUpload fileSpecial pagesPage information
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About&nbsp;Wiktionary
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

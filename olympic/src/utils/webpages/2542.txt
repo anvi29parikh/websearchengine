@@ -1,0 +1,531 @@
+
+
+
+
+Wikipedia:Wikipedia Signpost/Newsroom/Suggestions - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Wikipedia Signpost/Newsroom/Suggestions
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia:Wikipedia Signpost‎ | Newsroom
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Suggestions page for the Wikipedia Signpost's newsroom
+
+← NewsroomWP:POST/TIPSSuggestions
+
+
+
+
+
+
+
+ 
+The Signpost&nbsp;(talk)
+
+
+About
+Archives
+
+Subscribe
+
+
+Newsroom (talk)
+Coordination
+Submissions
+Suggestions
+
+
+Writing
+Content
+Formatting
+(cheatsheet)
+Resources
+Style
+
+
+Newslettersvte
+
+
+
+&nbsp;ArchivesIndex 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+31, 32
+
+Settings:
+Discussions are archived by Cluebot III when older than 60 days, or if marked with {{done}}
+
+
+
+
+
+
+
+
+This page is for suggesting news to be covered in the next Signpost. We are a newspaper that covers subjects of general interest for our audience of Wikipedia editors. If you'd like guidance on editing for new editors, please inquire at WP:Teahouse. More general questions may be addressed to WP:Help.
+
+
+
+
+
+
+
+
+Email a private tip to the EiC
+
+
+
+
+
+
+
+For general discussion, comments or questions regarding The Signpost, please see our feedback page. You can also write a piece yourself! See the submissions desk for details. Or send a news tip by email to our tipmail.
+
+Contents
+
+1 Fall of Afghanistan - 2021 Taliban offensive
+2 Query by DiplomatTesterMan (2021-09-07)
+3 WMF actions regarding users in China
+
+3.1 Break
+
+
+4 Russian Wiki Conference 2021 (15th)
+5 China vetoes WMF's bid to sit at WIPO – again
+6 Take the lead!
+7 Suggestion by Gråbergs Gråa Sång (2021-10-12)
+8 Fluxx?
+9 Krassotkin global ban
+10 Suggestion by Cabayi (2021-10-19)
+11 Suggestion by 4nn1l2 (2021-10-21)
+12 Suggestion by Cabayi (2021-10-31)
+13 A piece on the public domain in the US
+14 Suggestion by Chidgk1 (2021-11-14) Climate change misinformation podcast
+15 Idea for future article
+
+
+
+
+Fall of Afghanistan - 2021 Taliban offensive[edit]
+
+
+What about an entire issue devoted to the Wikipedia (all languages) coverage of the Fall of Afghanistan - 2021 Taliban offensive? — Maile  (talk) 22:26, 22 August 2021 (UTC)
+
+@Maile66: Almost certainly too late now, but feel free to get something in by tomorrow! On the odd chance I could do it - what should I look for? 1.8 million page views, 339 editors (some concentration in the top few) 1,562 edits, nobody banned yet that I could see, no news coverage of our news coverage yet. So what makes the story? Smallbones(smalltalk) 03:16, 28 August 2021 (UTC)
+@Smallbones: A humanitarian crisis in the woks. Well ... going by page views, Wikipedia readers don't seem to deal with this with the same obsession as the nightly news. 2021 Taliban offensive and Withdrawal of United States troops from Afghanistan (2020–2021) are surprisingly low in views. Turn on the news in the US, and you'd think nothing else was happening in the world. That, and the latest sex or murder scandals.  On a historical perspective, it's similar to the Fall of Saigon.  But ... maybe not. — Maile  (talk) 11:27, 28 August 2021 (UTC)
+@Maile66: it's not that the overall story is unimportant. It's mostly about time pressure - we need to have a deadline to coordinate everything here. It's also about why our article is important beyond the general situaton - something like the hook on a DYK. Perhaps the difference in international coverage might be the hook? But if you want to write the story, you might discover the thrill of writing on a deadline! Maybe for a future article you might look at what were the big international stories in the press/TV over the last few years (how to measure this?) and compare it to Wiki pageviews. Smallbones(smalltalk) 12:12, 28 August 2021 (UTC)
+I know this may some digging, but I found it interesting how editors changed the flag of Afghanistan from the Islamic Republic of Afghanistan to the Taliban Islamic Emirate of Afghanistan on some other language Wikipedias, for example the Arab Wikipedia equivalent of Template:Diplomatic missions of Afghanistan along with its associated pages show the Taliban flag ar:قالب:سفارات أفغانستان. I will see if I can find some discussions anywhere. ~ Shushugah&nbsp;(he/him&nbsp;•&nbsp;talk) 11:58, 30 August 2021 (UTC)
+Query by DiplomatTesterMan (2021-09-07)[edit]
+
+
+I have a rough write-up of an article for the "Humour" section. It is around 250 words just now. It is related to current events in a particular country from which a superpower and allies have just pulled out, and it combines this event with a fictional Wikipedia world that has been affected by all this. I would request someone from the editorial team to read it once before I place it as an submission. Who could I email it to? DTM (talk) 14:40, 7 September 2021 (UTC)
+
+Hi DTM!
+Please email it to me. I'd like it a bit longer, say 500 words minimum. It is a tough subject - a lot of people won't see anything humorous about Afganistan right now.  But if you can make it work, it will likely be great!  Smallbones(smalltalk) 03:01, 8 September 2021 (UTC)
+Thanks. Mailed. DTM (talk) 10:08, 9 September 2021 (UTC)
+WMF actions regarding users in China[edit]
+
+
+Several users in mainland China were desysopped and/or globally banned by WMF: m:Office actions/September 2021 statement Rschen7754 18:22, 13 September 2021 (UTC)
+
+See Wikipedia:Wikipedia Signpost/2021-07-25/Special report for a prior report.--GZWDer (talk) 16:18, 14 September 2021 (UTC)
+Yes, we will cover this in as much detail as possible, though I still only know of 2 of the banned. I'd really like to hear from Chinese editors on both sides. If anybody has anything confidential to include on this story that I can otherwise verify please email me directly. Smallbones(smalltalk) 17:18, 14 September 2021 (UTC)
+See zh:维基百科:互助客栈/其他#WG在qq群威胁其他wiki编辑诉诸法律案&nbsp;: 8 people globally banned, 12 desysopped. SYSS Mouse (talk) 17:50, 14 September 2021 (UTC)
+Also [1]. --Rschen7754 18:11, 14 September 2021 (UTC)
+As per this post, the 8 globally locked accounts are: 城市酸儒文人挖坑, 蟲蟲飛, 玄客, Walter Grassroot, ArthurLau1997, 尤里的1994, 遊魂 and Techyan. These 12 accounts have their admin/bureaucrat rights from all WMF wikis (not just zh.wp) stripped: Alexander Misel (former CheckUser), Stang, Nbfreeh, Manchiu, 瑞麗江的河水, Hamish, DreamLiner, Lanwi1 (former CheckUser), 霧島聖, Outlookxp, 夢蝶葬花 (also losing zh Wikivoyage and zh Wikiversity admin rights) and WAN233 (also losing classical Chinese wiki admin rights). As early as March 2018, WMF revoked all zh.wp local CheckUser rights due to security concerns,[2] which was why Alexander Misel and Lanwi1 (plus others) lost their CU rights en-masse. OhanaUnitedTalk page 22:19, 14 September 2021 (UTC)
+Striking off 玄客 since it was a mis-identification by the WMF office. OhanaUnitedTalk page 21:34, 18 September 2021 (UTC)
+Current at zh wikipedia: that a proposal to derecognize WMC and to remove all links to WMC from the wiki is in process. And all RfA in zh wiki is suspended for 3 weeks from the bureaucrats. SYSS Mouse (talk) 13:48, 15 September 2021 (UTC)
+Thanks, readers, for bringing this up. There is a placeholder item at the News and notes feature for the next issue. If you would like to contribute, please contact us at the WP:Newsroom or as he said, contact the Editor in Chief privately. ☆ Bri (talk) 13:55, 15 September 2021 (UTC)
+Thanks to all. I'm almost sure this will be in Special report (though thr Maryana Iskander story might possibly end up there. There is an open letter to read at [3]. Smallbones(smalltalk) 14:18, 15 September 2021 (UTC)
+all, it seems that this global ban is also related to an incident in 2017. SYSS Mouse (talk) 14:43, 15 September 2021 (UTC)
+For the 2017 incident, see m:Requests_for_comment/Ongoing_issues_at_Chinese_Wikipedia/Previous_discussion.--GZWDer (talk) 16:40, 15 September 2021 (UTC)
+Break[edit]
+
+
+There's a duplicate thread about this at Wikipedia talk:Wikipedia Signpost/Newsroom#WMF bans and desysops around "infiltration concerns" with Wikimedians of Mainland China.  — SMcCandlish ☏ ¢ 😼  16:53, 16 September 2021 (UTC)
+
+FWIW, the stuff is currently being worked on in Wikipedia:Wikipedia_Signpost/Next_issue/News_and_notes and Wikipedia:Wikipedia_Signpost/Next_issue/In_the_media. --Artoria2e5 🌉 12:15, 18 September 2021 (UTC)
+
+
+Let's just use this page to link to sources:
+
+external
+BBC's 1st story
+BBC's Tech Tent podcast 1:23=9:30, 3 parts, general description, Maryana Iskander appointment with her comments on China, BBC commentary  Smallbones(smalltalk) 14:59, 17 September 2021 (UTC)
+Global Times (CCP)
+Boxun, surprisingly good —A2
+Internal
+zh:维基百科:互助客栈/其他#WG在qq群威胁其他wiki编辑诉诸法律案
+Links at top of m:Talk:Office_actions/September_2021_statement: the zhwp list of users is definitely useful, as is PhiLiP's (allegedly biased :Q) stuff. There's a bit of contention about 蟲蟲飛 (CCF) being in the globally-locked 7, who is not mainland Chinese (nor WMC) but has gotten into socking allegations before.
+And of course, earlier Signpost reports. We have Techyan's apologia (and the linked HK interview &amp; BBC report) and the more recent special report. --Artoria2e5 🌉 12:23, 18 September 2021 (UTC)
+We can use the Newsroom talkpage for questions like "Who can help write this up?"
+Smallbones(smalltalk) 20:57, 16 September 2021 (UTC)
+Russian Wiki Conference 2021 (15th)[edit]
+
+
+Annual Russian Wiki Conference 2021 (15th) is about to begin on Saturday. There are English language materials (by link) and some worldwide guests (remotely). Worth at least mentioning in News or some summary (ends on Sunday). --ssr (talk) 15:11, 21 September 2021 (UTC)
+
+Good to see you back. It looks like the conference will be over before we publish.  Perhaps the links to the videos might help - but only to a few people if they are all in Russian. Smallbones(smalltalk) 00:52, 22 September 2021 (UTC)
+I think I can try to gather all the information that may be useful in English for a brief summary in English so there is a little piece for reading in News to be published on 26th. A brief overall explanation based on conference program. Is it OK if I edit directly News and notes? --ssr (talk) 07:16, 22 September 2021 (UTC)
+In the meantime one of the Conference participants and the founder of usergroup m:NWR-Hist Niko Bulykin is making another attempt to receive a grant from WMF while WMF is keeping (for unclear reasons) to withhold grants from Russian users while both people at WMF (by their numerous words) and Russians keep being agreed that Russian wikipedians deserve money from WMF. In the past WMF was gladly giving grants to Russians but at some time stopped. More at m:Grants:Project/Rapid/UG NWR-Hist/Aerial photography equipment. --ssr (talk) 16:30, 21 September 2021 (UTC)
+Is it legal for a Russian to receive money from a foreign non-profit? Smallbones(smalltalk) 00:52, 22 September 2021 (UTC)
+@Smallbones: Is the WMF registered as a foreign agent? Psiĥedelisto (talk • contribs) please always ping! 01:08, 22 September 2021 (UTC)
+Is legal. Discussed many times, in Russian language at Facebook most recently here with newly-elected Board member Vicki Doronina aka @Victoria:. There is also a brief explanation of this at the top of grant request. I am not directly involved, let's ask directly @Drbug:, WMRU director, @Ctac:, WMRU deputy director, @Красный:, the grant requester. They have ultimate knowledge. --ssr (talk) 05:57, 22 September 2021 (UTC)
+It's most likely legal, except for a persons or legal entities involved into internal Russia's political activity. According to a Russian Federal Law № 272-ФЗ статья 2.1 часть 1 "Political activity does not include activities in the field of science, culture, art, health care, prevention and protection of citizens' health, social services, social support and protection of citizens, protection of motherhood and childhood, social support for disabled people, promotion of a healthy lifestyle, physical culture and sports, protection of flora and fauna, charitable activities". Red wanna talk? 07:19, 22 September 2021 (UTC)
+The drone grant was approved, for the fist time in many years in Russia. --ssr (talk) 11:21, 18 October 2021 (UTC)
+1st day of Wiki Conference over, Youtube link https://www.youtube.com/watch?v=x9NnGIXlvnI mostly in Russian but French and English speakers were present (e. g. User:Denny and w:fr:Utilisateur:Poslovitch). --ssr (talk) 05:22, 26 September 2021 (UTC)
+2nd day https://www.youtube.com/watch?v=KAhid1f-auE (feat. Dārija language speaker User:Csisc and English speaker User:Bukky658 from Nigeria) --ssr (talk) 11:53, 26 September 2021 (UTC)
+And right now User:Pigsonthewing joins us from England! He speaks English. You can understand what he says and watch right now (or the record later). --ssr (talk) 13:05, 26 September 2021 (UTC)
+Andy Mabbet's presentation @Pigsonthewing: presentation IN ENGLISH https://www.youtube.com/watch?v=KAhid1f-auE?t=17396 --ssr (talk) 00:50, 27 September 2021 (UTC)
+China vetoes WMF's bid to sit at WIPO – again[edit]
+
+
+China vetoed WMF's observer bid again over "misinformation" and "violation of One China". A short paragraph on news&amp;notes or in the media will do as nothing is new. See WMF news post. Previous report at Wikipedia:Wikipedia_Signpost/2020-09-27/In_the_media should be linked. –Artoria2e5 🌉 09:10, 9 October 2021 (UTC)
+
+
+Bullet point added to news and notes. Not much to write about really. --Artoria2e5 🌉 05:24, 14 October 2021 (UTC)
+
+Take the lead![edit]
+
+
+Right folks, we're running this competition again after 5 long years - see Wikipedia:Take the lead! Cas Liber (talk · contribs) 12:36, 11 October 2021 (UTC)
+
+Suggestion by Gråbergs Gråa Sång (2021-10-12)[edit]
+
+
+The Dark Arts by Wiki Creators LLC could be worth an in-the-media (sort of) mention. Gråbergs Gråa Sång (talk) 09:26, 12 October 2021 (UTC)
+
+
+Discussion at Wikipedia:Conflict_of_interest/Noticeboard#Wiki_Creators_LLC. Gråbergs Gråa Sång (talk) 14:59, 12 October 2021 (UTC)
+
+
+A step-by-step guide for using Wikipedia for research communication was an interesting read. Gråbergs Gråa Sång (talk) 11:53, 24 October 2021 (UTC)
+
+Fluxx?[edit]
+
+
+(I'm not actually certain whether this just happened now or not.) It appears that the WMF is moving its grants system away from Meta and onto a closed-off platform called "Fluxx". A mention of it was posted to the guide for the "Wikimedia Community Fund" (see the PDF at the bottom, also mentioned in other parts). The system cannot be viewed by those without accounts in the Fluxx system. (I haven't seen this announced anywhere, and I might be misunderstanding some of this.) Might be worth looking into and covering. --Yair rand (talk) 21:23, 12 October 2021 (UTC)
+
+Krassotkin global ban[edit]
+
+
+The Signpost should write about... Krassotkin global ban by T&amp;S of WMF. Absurd decision portraying WMF as a totalitary structure contradicting their own goals. Very obscure story that has big resonance. I hope Signpost crew are able to locate suitable locations to explore—there are many of these sparkled in several places. I can randomly point to: w:ru:Участник:Kaganer/Переписка с Trust &amp; Safety (in English). Campaigns are underway. --ssr (talk) 08:36, 15 October 2021 (UTC)
+
+Echoes of WP:FRAMBAN? T&amp;S bypassing (undermining) the local Arbcom rather than working with them? Cabayi (talk) 12:21, 15 October 2021 (UTC)
+More complicated. Many technical issues are involved: Krassotkin is operator of crucial bots and caused WMF servers to crash 2 times (but no API was violated, it's a server-side trouble). But yes, definitely, "Framgate" has many of the resemblance. --ssr (talk) 12:36, 15 October 2021 (UTC)
+The only Krassotkin's fault was the uploading of articles into the Russian Wikinews that overloaded the servers of the Wikipedia and of the other Wikimedia's projects. Instead of solving the technical problem, which has been known since 2012, the council of Wikipedia's sages decided to ban Krasotkin just because it is cheaper than solving the technical problem. This fact shows that the WMFOffice is not interested in the improvement and development of the Wikimedia's technical part, and this is very bad and sad. They prefer to spend money on themselves, rather than on improving the Wikimedia's software. Andrey177 (talk) 20:23, 15 October 2021 (UTC)
+Ppl who don’t listen and instead make personal attacks towards developers (volunteers or employees) have no place on these projects in my opinion. I wouldn’t accept those ppl at my workplace, I don’t see why anyone here or at WMF should. —TheDJ (talk • contribs) 21:57, 15 October 2021 (UTC)
+And if ppl want radical software changes, they can fork, start their own website and run their own servers and get intimidated by their own users if they like that so much. —TheDJ (talk • contribs) 22:07, 15 October 2021 (UTC)
+If there were no technical problems, then there would have been no personal attacks. WMFoffice have banned Krassotkin, but did not solve the technical problem. I do not care about Krassotkin, but I care about unresolved technical problems. Andrey177 (talk) 14:27, 19 October 2021 (UTC)
+Uploading articles was not Krassotkin's fault because he always obeyed all technical demands and did everything according to APIs and licences. He was also OTRS agent who did much of the very important OTRS work (WMF also harmed OTRS in this way). The main cause of main trouble was anonymous "test" edit in a very large meta-category that caused server-side calculations of many thousands of items included in the category. ANONYMOUS EDIT crashed the servers, NOT Krassotkin. WP:PERFORMANCE says a Wikipedia user should not ever care about servers. WMF banned a person for a fault of another unrelated anonymous person (among other troubled actions). That's why I called WMF "a totalitary structure contradicting their own goals". --ssr (talk) 06:23, 24 October 2021 (UTC)
+Most of this argument has been rebutted already, see T287362#7241776, T287362#7242156. That said, I do think this merits a mention/short blurb in The Signpost. Legoktm (talk) 22:44, 25 October 2021 (UTC)
+There are a series of Phabricator threads, such as phab:T287380. Regardless of what was rebutted, Krassotkin never violated any API or license, he was always acting according to consensus. Outer complaints to T&amp;S made WMF ban him, not actual server events. If a couple of people wouldn't file complaints to T&amp;S, pure server events would not lead him/WMF to ban. Main trouble is in server's DPL, not Krassotkin who never violated API. After server crash, DPL was finally disabled. That was enough to solve server troubles. No need to ban. --ssr (talk) 04:25, 26 October 2021 (UTC)
+
+
+Then what could be the source of the complaints about "intimidation, harassment"? -Indy beetle (talk) 21:19, 15 October 2021 (UTC)
+
+It was his mistake that he corrected briefly and apologized. Not technically related to general issues with servers. Lasted for short time, was deleted soon. But as result of ban of his bots, Russian Wikinews lost main functions and is very hard to handle now. --ssr (talk) 11:13, 16 October 2021 (UTC)
+Suggestion by Cabayi (2021-10-19)[edit]
+
+
+New podcast interviewing Wikipedians - https://podcasts.apple.com/th/podcast/dot-com-the-wikipedia-story/id1589936008 
+https://play.acast.com/s/dot-com/wikipedia-ep1-dontbitethenewbies - Cabayi (talk) 15:21, 19 October 2021 (UTC)
+
+
+The usernames I caught in listening to it were 
+Ser Amantio di Nicolao, 
+Rosiestep, 
+Giraffedata &amp; his brother, "Louder" (?), 
+Another Believer, 
+Sandiooses, &amp; 
+Laurie Bird Macdevitt (?) + husband - Cabayi (talk) 17:57, 19 October 2021 (UTC)
+
+Adding LoriLee and Dominic. GorillaWarfare, Larry Sanger, and I were mentioned but didn't appear in this episode. --Rosiestep (talk) 19:18, 19 October 2021 (UTC)
+Giraffedata's brother is laodah.  Bryan Henderson (giraffedata) (talk) 00:54, 20 October 2021 (UTC)
+Thanks all - I've already got something barely started at Wikipedia:Wikipedia Signpost/Next issue/In the media, getting all the usernames straight was a problem, but it looks like I've got them now. What strikes me most is that this is a 6 part series (#1 is 47 minutes). Rosiestep I thought I briefly heard your voice in the intro, will you be in a future segment?  Anybody who's been mentioned want to comment on the show, what's it like to be interviewed for a podcast, etc. Just leave a 1-2 sentence comment here or send it to me via email. @LoriLee and Dominic: we've done a wedding announcement before on The Signpost, but it seems a bit late now - can we say something about the kid being a "Wikipedia baby"? Smallbones(smalltalk)
+Good catch, Smallbones. Yes, there's a tiny clip of my voice in Episode 1, but I'll be part of a future episode (don't know which one). --Rosiestep (talk) 18:46, 20 October 2021 (UTC)
+
+
+Just FYI, a second episode is now available as well. ---Another Believer (Talk) 15:26, 29 October 2021 (UTC)
+
+
+Episode 4 ("Hoax") became available on November 9:
+
+https://play.acast.com/s/dot-com/wikipedia-ep4-hoax
+https://podcasts.apple.com/gb/podcast/wikipedia-ep-4-hoax/id1589936008?i=1000541185263
+
+
+---Another Believer (Talk) 14:39, 9 November 2021 (UTC)
+
+Suggestion by 4nn1l2 (2021-10-21)[edit]
+
+
+The Signpost should write about IP ban experiment on fawiki for a 6-month period started from today: phab:T291018 and phab:T292781 4nn1l2 (talk) 05:08, 21 October 2021 (UTC)
+
+@4nn1l2: Thanks. May I ask for the cause of the change?  Smallbones(smalltalk) 02:27, 23 October 2021 (UTC)
+@Smallbones: Obviously the community thought that the cost of letting IPs edit is significantly greater than its benefit. Here is a link to the original proposal: fa:ویکی‌پدیا:نظرخواهی/تغییر روش ویرایش کاربران گمنام#پیشنهاد چهارم: ممنوعیت موقت ویرایش کاربران گمنام. Some users made some statistical review according to which 1/3 of all IP edits get reverted and about 78% of IP edits are construed as nonconstructive: fa:ویکی‌پدیا:نظرخواهی/تغییر روش ویرایش کاربران گمنام#بررسی آماری I can't comment on the validity of these statistics. I myself am suspicious.
+While I originally opposed stricter proposals to completely ban IP edits, I finally supported a temporary experiment after I heard about the WMF report on the Portuguese Wikipedia: m:IP Editing: Privacy Enhancement and Abuse Mitigation/Impact report for Login Required Experiment on Portuguese Wikipedia. The Wikimedia Foundation wanted to investigate more and fawiki seized the opportunity: m:Talk:IP Editing: Privacy Enhancement and Abuse Mitigation/Login Required Experiment#Farsi Wikipedia. 4nn1l2 (talk) 11:20, 24 October 2021 (UTC)
+Thanks! Smallbones(smalltalk) 14:12, 24 October 2021 (UTC)
+Suggestion by Cabayi (2021-10-31)[edit]
+
+
+More coverage of Wikipedia's China problems on the BBC - https://www.bbc.co.uk/news/technology-59081611 - Cabayi (talk) 10:47, 31 October 2021 (UTC)
+
+A piece on the public domain in the US[edit]
+
+
+CNN did an interesting article on the public domain and copyright here. -Indy beetle (talk) 15:09, 7 November 2021 (UTC)
+
+Also, see Wikipedia:Administrators' noticeboard/Incidents#Philip Cross and his topic ban. Apparently some staff from The Grayzone are attempting to canvas people on Twitter to influence an ANI discussion. -Indy beetle (talk) 01:32, 10 November 2021 (UTC)
+Suggestion by Chidgk1 (2021-11-14) Climate change misinformation podcast[edit]
+
+
+The Signpost should write about "The Denial Files" https://www.bbc.co.uk/programmes/w3ct2yqn - I think this will be the episode covering Wikipedia  Chidgk1 (talk) 06:27, 14 November 2021 (UTC)
+
+Due out Saturday, Nov. 20. Will probably be in "In the media". Ping me if I forget!  Smallbones(smalltalk) 03:42, 15 November 2021 (UTC)
+They've expanded it into an article too - https://www.bbc.co.uk/news/technology-59325128 - ping Smallbones. Cabayi (talk) 18:37, 20 November 2021 (UTC)
+Idea for future article[edit]
+
+
+Hello, I am a member of the WP:DISCORD, and we have a neat project called WP:TEAMB. It's where we get vital articles that are assessed as stub or start up to a B-class! Every week we vote on a new article, and get the rest of the week to finish it up before voting again. ferret, discord server operator, runs the project, but the members are the ones who edit and improve the articles. --JackFromWisconsin (talk | contribs) 15:00, 24 November 2021 (UTC)
+
+@JackFromWisconsin: Would you like to write it for next month? A couple sidelights
+I love the ORES scores - this might be a place to see how the ORES scores changed over time
+I tried participating in Vital articles years ago and it was a useful exercise for a while. But ultimately it seems like the most commonly used inclusion criteria come down to "I really like this topic!"
+I'm always a bit skeptical about projects to help run Wikipedia that depend on off-Wiki technology and communication as does Discord (don't worry, I'm skeptical about everything) Maybe you or @Nosebagbear: might address this issue in the vital article's context.  Thanks. Smallbones(smalltalk) 14:34, 26 November 2021 (UTC)
+While I'm happy to talk generally about the use of Discord and Wikipedia's interlink, I'm not involved in TeamB - though I do pay attention to its successes and topic choices. @Ferret:, if he has a little spare time, would be better qualified than I Nosebagbear (talk) 14:44, 26 November 2021 (UTC)
+Very roughly, it's not so much that it relies on off-wiki techn/communication, as it is that editors who happened to be using Discord wanted a semi-organized "work together" structure. During an article's run, there is of course chatter about the topic in the server, usually of the nature of "is this source good?", "should we switch out the photo?" and so forth. @Sdkb: might also want to comment on this topic, and the general idea behind WP:AFI as well. Perhaps a combined topic around efforts to improve individual articles as a community event/drive? As far as Team-B-Vital, a quick note that it is less about Vital articles (in the sense of picking and curating them) as it is we chose Vital as a way to scope the effort and limit the pool of articles to choose from. Though there is of course value in ensuring Vital articles are high quality. -- ferret (talk) 15:09, 26 November 2021 (UTC)
+Comment:  Of the people I know "in real life," they also express great enthusiasm with Discord because it's an effective and immediate way to communicate with others. Maybe it merits a separate article. - kosboot (talk) 15:41, 26 November 2021 (UTC)
+It sounds like there are two articles in here waiting to be written 1) about the Discord Wikipedia Channel (say in Community view) and 2) about the Discord-vital project. I'll suggest that all the Discorders get together and decide what should be in each one and who will write them, probably 2 different authors. Aim for one in December and one in January. If you wait for me to find a neutral writer - the chances are about 50-50 that there will be one article in the next 6 months. Smallbones(smalltalk) 21:45, 26 November 2021 (UTC)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Newsroom/Suggestions&amp;oldid=1057317019"
+		Categories: Wikipedia Signpost newsroomHidden categories: Project pages with short descriptionArchive boxes with unusual parameters
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		Português中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 26 November 2021, at 21:45&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,658 @@
+
+
+
+
+Template talk:Noticeboard links - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Template talk:Noticeboard links
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+This is the talk page for discussing improvements to the Noticeboard links template.
+
+
+
+
+
+
+Put new text under old text. Click here to start a new topic.
+Sign your posts by typing four tildes (~~~~).
+New to Wikipedia? Welcome! Learn to edit; get help.
+
+
+Assume good faith
+Be polite and avoid personal attacks
+Be welcoming to newcomers
+Seek dispute resolution if needed
+
+
+
+Archives: 1
+
+ 
+
+
+
+Contents
+
+1 Edit abuse?
+2 Editprotected request
+3 Add External links/Noticeboard
+4 Request for edit to fix AR link
+5 Backlogs?
+6 Unprotect, please
+7 Add a link to the Pending changes noticeboard?
+8 Structure of template
+9 WTF
+10 More links!
+11 Skip to bottom
+12 WQA may close
+13 Draft of a revised template (menu)
+14 Changing template
+15 Template-protected edit request on 28 June 2014
+16 Template-protected edit request on 6 July 2014
+17 Template revamp
+18 Edit warring noticeboard
+19 Template-protected edit request on 30 October 2014
+20 Suggestion
+21 Template-protected edit request on 18 March 2015
+22 Organization
+23 Why?
+24 Trim some links?
+25 WP:CENT
+
+
+
+Edit abuse?[edit]
+
+The following discussion is an archived discussion of a requested move. Please do not modify it. Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. 
+
+
+The result of the move request was moved to Template:Noticeboard links. –Juliancolton&nbsp;|&nbsp;Talk 00:21, 6 September 2009 (UTC)
+
+
+
+
+Template:Editabuselinks →&nbsp;? — I'm not sure what to call this template, but considering that it includes links to generic help boards such as "requests for feedback", I think that a more inclusive name is in order. @harej 18:31, 28 August 2009 (UTC)
+
+Comment — Maybe Helpandassistlinks? 『 ɠu¹ɖяy 』 ¤ • ¢ 22:17, 28 August 2009 (UTC)
+Shouldn't this be done through WP:TFD, in the same way that cats are maintained through WP:CFD? anyway, what about {{Dispute resolution navbox}}? (goes along with {{Dispute resolution}})? It's kind of wordy, but...
+— V = I * R (talk to Ω) 12:07, 29 August 2009 (UTC)
+WP:TFD explicitly says that templates should go through the regular requested-move process. @harej 17:17, 29 August 2009 (UTC)
+Ah, I see that now... well, uh, yea I'll stick with recommending {{Dispute resolution navbox}}.
+— V = I * R (talk to Ω) 02:11, 30 August 2009 (UTC)
+
+
+Since very few of these things are about dispute resolution, how about "Template:Noticeboard links"? @harej 02:13, 30 August 2009 (UTC)
+
+Sounds good to me.
+— V = I * R (talk to Ω) 02:25, 30 August 2009 (UTC)
+Fine with me also. 『 ɠu¹ɖяy 』 ¤ • ¢ 09:38, 30 August 2009 (UTC)
+Far more logical name than the current one. Jafeluv (talk) 20:18, 30 August 2009 (UTC)
+But Noticeboard links are only one section of the navbox, the entire thing deals with dispute resolution. I think {{Dispute resolution links}} is good. -- œ™ 17:56, 5 September 2009 (UTC)
+How much of it deals with dispute resolution? I'm not sure what you're referring to. @harej 21:00, 5 September 2009 (UTC)
+I don't mind if this gets renamed, but I'm at a loss to see how the name of the template is terribly important. Protonk (talk) 21:55, 5 September 2009 (UTC)
+Template names should be descriptive of what they are. @harej 22:04, 5 September 2009 (UTC)
+The above discussion is preserved as an archive of a requested move.  Please do not modify it. Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.
+Editprotected request[edit]
+
+
+{{editprotected}}
+
+
+I'd like to replace the link: [[Wikipedia:User Page Design Center/Help and collaboration/Help Requests|User page help]]
+
+
+with the updated: [[Wikipedia:User page design center/Help and collaboration/Help requests|User page help]]
+
+
+to bypass the redirect. Thanks. -- œ™ 18:03, 5 September 2009 (UTC)
+
+
+PS. the "Arbitration: Requests / Enforcement" links have also been moved to different titles.
+
+ Done Thank you. - Rjd0060 (talk) 21:59, 5 September 2009 (UTC)
+Add External links/Noticeboard[edit]
+
+
+I suggest linking the new Wikipedia:External links/Noticeboard in the Content section. (Noticeboard has been discussed/approved at WT:EL). Thanks. -- Quiddity (talk) 17:38, 8 September 2009 (UTC)
+
+I second this request. Would help to popularize the new board. ThemFromSpace 22:31, 9 September 2009 (UTC)
+I agree as well. UncleDouggie (talk) 08:21, 10 September 2009 (UTC)
+Yup. agree. --Hu12 (talk) 15:42, 10 September 2009 (UTC)
+
+
+ Added --Hu12 (talk) 13:22, 11 September 2009 (UTC)
+
+Request for edit to fix AR link[edit]
+
+
+{{editprotected}}
+As part of the  total revamp of the old Abuse Report system we have moved and renamed the project to Wikipedia:Abuse response. As part of the last stage of the rename the main page was recently moved. While there is a redirect from the old Wikipedia:Abuse report main page we are trying to change all the links we can. Since this high visibility template links to the abuse response system we were wondering if you could make the following change:
+
+
+Replace:  [[Wikipedia:Abuse reports|ISP reporting]]   
+
+
+With:  [[Wikipedia:Abuse response|ISP reporting]] 
+
+
+If for some reason you are hesitant to do this edit please feel free to contact me or any of the other contacts listed on Wikipedia:Abuse response.Jamesofur (talk) 08:05, 9 September 2009 (UTC)
+
+&nbsp;Done ≈&nbsp;Chamal&nbsp;talk ¤ 09:32, 9 September 2009 (UTC)
+Backlogs?[edit]
+
+
+I saw a thread at WP:ANI that had a suggestion to have an indicator on this template for backlogs. Is this feasible? N/A0 00:50, 4 June 2010 (UTC)
+
+Sounds like a job for a bot, although I wonder if the transclusion process would mean that the template updates on other pages immediately or later. If it's the latter, then it wouldn't help a great deal. I'd also be interested in bandwidth implications - AIV can go into and out of backlog several times an hour all day; that could mean a bot flagging and unflagging the AIV entry maybe 30+ times a day, with the transclusions all having to change as well. ⇦REDVƎRS⇨ 06:56, 4 June 2010 (UTC)
+Unprotect, please[edit]
+
+
+{{sudo}}
+I don't see any reason to have this be fully protected. Thanks. --MZMcBride (talk) 19:17, 13 June 2010 (UTC)
+
+Well it's fairly heavily transcluded, but I have reduced the protection as requested. —&nbsp;Martin (MSGJ&nbsp;·&nbsp;talk) 21:00, 13 June 2010 (UTC)
+Add a link to the Pending changes noticeboard?[edit]
+
+
+Perhaps during the pending changes trial a link to the noticeboard for issues might be a good idea?.  Wikipedia:Pending changes/Noticeboard.  --Rocksanddirt (talk) 17:46, 12 July 2010 (UTC)
+
+Structure of template[edit]
+
+
+User issues are placed third from the top, when they are in fact, the primary reason this site exists.  This template needs to be redesigned for functionality and sorted appropriately. Viriditas (talk) 09:32, 23 March 2011 (UTC)
+
+Still no response or action taken since my initial posting in 2011.  The readability of the links in terms of locating and finding relevant information is less than zero.  It needs to be changed. Viriditas (talk) 03:11, 11 July 2014 (UTC)
+WTF[edit]
+
+
+Seriously, can people stop messing around with the layout of this? Every day I come here and someone has moved everything around again. It's annoying and makes it difficult to find the links I'm looking for. - Burpelson AFB ✈ 17:37, 20 May 2011 (UTC)
+
+More links![edit]
+
+
+What about adding WP:NFCR? It's missing from the copyright related links. Ocaasi t | c 01:14, 5 July 2011 (UTC)
+
+Skip to bottom[edit]
+
+
+Why does this template now transclude "Skip to bottom"? It messes up my UP layout so I'm removing this template from it.  — Preceding unsigned comment added by Targaryen (talk • contribs) 19:48, 20 May 2012 (UTC) 
+
+WQA may close[edit]
+
+
+There is a proposal at the Village Pump to close the Wikiquette page.  The consensus appears to be moving in favor of closing, but the discussion is still on-going.  If it were closed, this project page would need to be modified to remove WQA and perhaps replace it with  something (perhaps a link to Dispute Resolution process or Third Opinion because the latter may take on much of the workload).   Please comment at the Village Pump discussion (not here, so the talk is colocated) if you have any thoughts. --Noleander (talk) 13:49, 28 August 2012 (UTC)
+
+Draft of a revised template (menu)[edit]
+
+
+I've posted, at Template talk:Noticeboard links/Draft, a suggested revision. The aim is to get two reactions - (1) "It doesn't look all that much different", and (2) "I didn't realize we had a noticeboard/venue for that or that."
+
+
+Suggestions (feel free to do directly to the draft) are welcome, of course. Here's what changed:
+
+In general: when there are multiple items associated with a particular type of link (for example, Village pump), the actual links are smaller and within a set of parentheses
+"Requests for closure" has been moved out of "Administrator", and is now a separate item (similar to how "Edit warring", another noticeboard, is handled). It is titled "Closure" (similar to other noticeboards, where "Request for" is not shown in the menu)/
+"Media copyright" is now in the second group ("Content"), rather than the first ("General"), and has been grouped with a similar item, "Copyright problems", in a new topic, "Copyrights".
+"Abuse response" has been retitled "reporting (with the "Abuse" topic) for clarity.
+The link to the main Arbitration Committee noticeboard has been retitled to make it clearer that only the Committee can post there; this is not a noticeboard for general posting by any editor.
+"Sanctions" is now "Article sanctions"; "Restrictions" is now "Editor restrictions"; the two are now not tied to each other. They have been moved to different places in the group, based on alphabetization.
+The "Help" link to Wikipedia:Questions has been removed; that page is not a noticeboard, it's a directory - the only one in the entire template. The topic has been retitled "Questions", following the name of the (no-longer-linked-to) directory page.
+"Resource Exchange" is now "Resource requests" ("Resource" isn't clear enough to stand on its own)
+
+
+Group 4 has been sorted so that the Help- (Question-) related links are not at the end of the group.
+
+
+-- John Broughton   (♫♫) 03:15, 28 May 2013 (UTC)
+
+Looks very nice! I've moved the draft page to Template:Noticeboard links/sandbox, the usual location for template drafts. (The {{documentation}} and {{edit protected}} templates are set up expecting template drafts to be put there, which gives us a number of Handy Links that I quite like.) The one thing I don't agree with is the decreased size of the text in brackets - I think this makes it harder to read, and most of these links are ones that editors are likely to want to click on, so I don't see too much reason to make them less prominent than the other text. Other than that, I think it's a definite improvement. I've also created a test cases page for people who want to see the draft and the main template at the same time. — Mr. Stradivarius ♪ talk ♪ 10:48, 31 May 2013 (UTC)
+Great proposal/draft, and I agree with Mr. Stradivarius' suggestion to remove the decreased sizing. I've done this to the sandbox version. I support this update. –Quiddity (talk) 18:55, 31 May 2013 (UTC)
+Quick addendum: The only (Bracketed) group that currently has a wikilink as part of the name, is Village pump. We could remove the wikilink from that, so that the black font more clearly indicates that a group (...) is following? –Quiddity (talk) 06:08, 2 June 2013 (UTC)
+@Quiddity: - I think that's a good suggestion; I'll make that. -- John Broughton   (♫♫) 03:36, 7 June 2013 (UTC)
+Support update as well--much clearer. Theopolisme (talk) 05:15, 2 June 2013 (UTC)
+I haven't seen any objections, so I've gone ahead and updated the template (with the normal-sized text). I've no objections if anyone else wants to tweak it later. — Mr. Stradivarius on tour ♪ talk ♪ 07:05, 3 June 2013 (UTC)
+@Mr. Stradivarius on tour: - Thanks for implementing the change! -- John Broughton   (♫♫) 03:36, 7 June 2013 (UTC)
+Changing template[edit]
+
+
+Right now, at Wikipedia:Administrators' noticeboard#Abuse response, there is a conversation on eliminating the Abuse listing on this template since that project appears to be inactive. Liz Read! Talk! 15:20, 8 November 2013 (UTC)
+
+Template-protected edit request on 28 June 2014[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+
+
+At the bottom of the template, it says that for users using Twinkle to file reports on other users, Twinkle will "automagically" handle the diffs for them. I believe that there is a typo, and so "automagically" should be changed to "automatically."
+LightandDark2000 (talk) 03:09, 28 June 2014 (UTC)
+
+ Not done: There is no such text in this template. On what page did you see the text "Twinkle will automagically handle the diffs"? SiBr4 (talk) 08:42, 28 June 2014 (UTC)
+Found it – it's at Wikipedia:Administrators' noticeboard/Edit warring/Header, which is only semi-protected. The text was added by AzaToth here.
+BTW, it appears "automagically" is actually an existing word, though it's probably a typo in this case. SiBr4 (talk) 08:50, 28 June 2014 (UTC)
+Not a tyop →AzaToth 12:39, 28 June 2014 (UTC)
+Template-protected edit request on 6 July 2014[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+
+
+Currently the link for "paid editing" goes to Wikiproject Cooperation. I think that it is more useful for paid editors that it go to the link at the COI page, https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest#Paid_editing 
+Figureofnine (talk • contribs)  21:10, 6 July 2014 (UTC)
+
+ Not done: please establish a consensus for this alteration before using the {{edit template-protected}} template. I oppose this change until a wider community consensus is reached. — {{U|Technical 13}} (e • t • c) 01:08, 7 July 2014 (UTC)
+Template revamp[edit]
+
+
+Per the above Structure of template and a request at my talk page, I have created the following draft of the template:
+
+
+Direct link: Template:Noticeboard links/sandbox
+
+vteNoticeboardsWikipedia's centralized discussion, request, and help venues. For a listing of ongoing discussions and current requests, see the dashboard.General
+Administrators
+main
+incidents
+closure
+Bots
+Bureaucrats
+Education
+Interface admins
+Main Page errors
+Open proxies
+OTRS
+Oversight
+User permissions
+Articles and content
+Biographies of living persons
+Copyrights
+questions on media
+problems
+Dispute resolution
+External links
+Fringe theories
+Neutral point of view
+Original research
+Reliable sources
+Resource requests
+Spam
+blacklist
+whitelist
+ Scalable vector graphics
+Titleblacklist
+whitelist
+Translation
+Page handling
+History merges
+Mergers
+Splits
+Moves
+Protection
+Importation
+XfD
+Articles
+Redirects
+Categories
+Templates
+Files
+Miscellany
+Undeletion
+User conduct
+Conflict of interest
+Contributor copyright
+Edit warring and 3RR
+Sanctions
+Personal restrictions
+General sanctions
+Sockpuppets
+Usernames
+Vandalism
+Other
+Arbitration
+Committee noticeboard
+requests
+enforcement
+Questions
+Help desk
+Teahouse
+Reference desk
+New articles
+Village pump
+ideas
+policy
+proposals
+technical
+miscellaneous
+Requests for comment
+WikiProject proposals
+Edit filters
+requested
+ Category:Wikipedia noticeboards
+Skip to TOC
+Skip to bottom
+
+
+
+Please help to improve this template. Once it looks as good as it is going to get, someone should type 'Done!' at the bottom of this thread, and then, if there are no objections after a week, we can swap it in as the new version. Any objections to this plan? Anna Frodesiak (talk) 08:05, 11 July 2014 (UTC)
+
+This was originally designed for admins.  It has grown since that time but has not had a major update reflecting this change.  The template does not invite the general community to participate. Viriditas (talk) 11:14, 11 July 2014 (UTC)
+I've histmerged Anna Frodesiak into Template:Noticeboard links/sandbox. Huon (talk) 16:35, 11 July 2014 (UTC)
+Thank you so much, my friend.&nbsp;:) Anna Frodesiak (talk) 20:30, 11 July 2014 (UTC)
+
+
+@Anna Frodesiak: The "Other" menu category is poorly named and contains noticeboard links that would be better placed elsewhere. Arbitration should not be something "other".  In that category, many  of the questions should be linked in the first menu (editor assistance, help desk, teahouse) general or not. The organization here is very poor.  New user menus are currently buried at the bottom.  This is ridiculous.  We need to imply in the design that there are new users, experienced users, and power users.  So there should be a three menu interface allowing the initial click to change the entire menu to the suggested user experience menu on top.  In other words, the destination board has one of the three color coded menus.  For example, a user clicks ANI.  At the board you get the power user interface.  But wait, a user clicks on editor assistance.  Then it changes to more of a new user menu.  So the first click on any menu will bring you to one of three interfaces.  So I'm proposing three different menus to cover all of the linked articles sorted by user expertise instead of one single template menu.  That's why the sort is so off. A new user clicking on the arbitration board should get a menu of power user links, not a link to editor assistance.  Of course, it's possible that those links are still accessible but grayed out, highlighting the current menu.  In that case, we could keep the current menu but change the color scheme depending on which noticeboard you were visiting.  Of course, this menu should interface with others universally, such as {{Help navigation}}. Viriditas (talk) 10:45, 17 July 2014 (UTC)
+
+Hi, Viriditas. I'm just starting to look into it now. Anna Frodesiak (talk) 23:19, 22 July 2014 (UTC)
+This may be a stupid question, but are you talking about this navbox linking to other navboxes? Anna Frodesiak (talk) 23:22, 22 July 2014 (UTC)
+There's no such thing as a stupid question.  No, I'm not exactly talking about it linking to other navboxes, but rather having relevant links act as an intuitive menu interface.  New users looking for help aren't going to need links to admin-related boards, and admins aren't going to be looking for new user help pages, etc. I guess a good way to start is to address my concerns about the "Other" category up above. I don't think questions about editor assistance, help desk, new articles, new editors, and the Teahouse are "Other" nor should they buried at the bottom of a template.  At the very least, these topics fall under the category of general assistance, and should be listed at the very top. Unless of course we want to continue alienating our editorial base and preaching to the choir.  At some point, the sound of our own voices will become an echo chamber.  Again, this problem arises because the noticeboards were originally designed for power users (aka admins).  We need to start designing this site for the general user, and that begins here. Viriditas (talk) 02:54, 24 July 2014 (UTC)
+Edit warring noticeboard[edit]
+
+
+The main noticeboard listings under Help lists the edit warring noticeboard along with AN and AN/I. Should this be added? Kindzmarauli (talk) 20:02, 6 August 2014 (UTC)
+
+Hello? Kindzmarauli (talk) 16:43, 29 August 2014 (UTC)
+@Kindzmarauli: I think the edit warring noticeboard is already in the template under "User conduct". Protonk (talk) 17:14, 29 August 2014 (UTC)
+Oh there it is. Nevermind LOL Kindzmarauli (talk) 18:47, 29 August 2014 (UTC)
+Template-protected edit request on 30 October 2014[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+
+
+Add following brief Code at the top of the template source code =&gt; 
+
+
+| basestyle = text-align: center; 
+
+
+Reason: to "center" group titles - seems more regular and better than present (default?) right-justify unevenness to group titles.
+
+
+Thanks in any case of course - and - Enjoy!&nbsp;:) Drbogdan (talk) 22:24, 30 October 2014 (UTC)
+
+
+Drbogdan (talk) 22:24, 30 October 2014 (UTC)
+
+ Not done. This is the default style for navboxes. Why should this one be any different? -- [[User:Edokter]] {{talk}} 22:26, 30 October 2014 (UTC)
+@Edokter - Thank you *very much* for your comments - no problem whatsoever - however, "centering" group titles seems more regular and better than present unevenness in group titles - in any case - Enjoy!&nbsp;:) Drbogdan (talk) 22:32, 30 October 2014 (UTC)
+Suggestion[edit]
+
+
+How about adding Wikipedia:Requests for permissions to the navbox? Seems to follow criteria for inclusion. --Mrjulesd&nbsp;(talk) 11:36, 12 December 2014 (UTC)
+
+&nbsp;Done — xaosflux Talk 16:24, 12 December 2014 (UTC)
+Thanks. ----Mrjulesd&nbsp;(talk) 18:27, 12 December 2014 (UTC)
+Template-protected edit request on 18 March 2015[edit]
+This edit request has been answered. Set the |answered= or |ans= parameter to no to reactivate your request.
+
+
+Add a link to WP:REPAIR.
+
+
+[[Wikipedia:Cut-and-paste-move repair holding pen|History merges]] (immediately after Moves) By the way, why should this page be protected? SD0001 (talk) 13:40, 18 March 2015 (UTC)
+
+ Done I agree about the protection as well, so I left a message on Xaosflux's talk page. Semi-protection should be enough for our purposes here, I think. — Mr.&nbsp;Stradivarius ♪&nbsp;talk&nbsp;♪ 10:57, 19 March 2015 (UTC)
+&nbsp;Done Reduced edit protection to autoconfirmed. — xaosflux Talk 15:58, 19 March 2015 (UTC)
+Organization[edit]
+
+
+The categories that the noticeboards are put into seem rather arbitrary in some circumstances... especially with regards to the "General" vs. the "Other" category, as well as other examples in the general/other category that should probably be in the page handling and/or the user conduct sections. Does anybody have any ideas for a more coherent organization that actually makes sense? Kharkiv07 (T) 13:17, 10 November 2015 (UTC)
+
+Agreed, and I noticed this when adding EFN, I had basically no idea which category to put it in based on the current categorisation. It ended up little more than an educated guess so I'm supportive of reorganising. Sam Walton (talk) 14:03, 10 November 2015 (UTC)
+Why?[edit]
+
+
+Mlpearc would you like to explain why you reverted me here [1]&nbsp;? Just general c/e, nothing very controversial I thought. --Jules&nbsp;(Mrjulesd) 16:08, 2 November 2016 (UTC)
+
+@Mrjulesd: Yes, I feel the changes you made should be discussed and gain consensus first as stated in my edit summary. Mostly the link names you changed have been there for a long time so I feel consensus is warranted.  - Mlpearc (open channel) 16:15, 2 November 2016 (UTC)
+OK could you more specific about which changes you are opposed to? Maybe there can be a compromise we can come to. --Jules&nbsp;(Mrjulesd) 16:17, 2 November 2016 (UTC)
+@Mrjulesd: My concerns are irrelevant, It's the users who see, rely on and use this template on a daily basis want these changes, I'm not talking about link targets but for instance changing [[Wikipedia:Deletion process|XfD]] to [[Wikipedia:Deletion process|Deletion]] although in no way incorrect, but changes like this to a highly visible template and I think you should ask the users of this template if they want this type of change.  - Mlpearc (open channel) 16:27, 2 November 2016 (UTC)
+Mlpearc OK well the way consensus is meant to work is that well-reasoned arguments are made for and against changes to whatever. I feel that "I think you should ask the users of this template" is hardly a well reasoned argument. Were discussing it, you're unhappy, I'm asking why, and you're saying it should be discussed. In other words no progress is being made. --Jules&nbsp;(Mrjulesd) 17:20, 2 November 2016 (UTC)
+Mrjulesd Where's the fire&nbsp;? The template isn't going anywhere. I feel I've made my point, I'll wait for others' to voice. - Mlpearc (open channel) 20:56, 2 November 2016 (UTC)
+Mlpearc I take by your responses that you have no personal objections to the edit, but feel that others may not like change. Is this correct? --Jules&nbsp;(Mrjulesd) 21:50, 2 November 2016 (UTC)
+Trim some links?[edit]
+
+
+I think some links are not used very often and could be moved to a collapsed section (or removed entirely). In particular, WP:Sanctions, WP:EDR, and WP:GS aren't noticeboards and probably could be collapsed. WP:SVG help and WP:SPLICE don't get that many edits either. Thoughts? Enterprisey&nbsp;(talk!) 17:37, 23 September 2018 (UTC)
+
+These links seem appropriate for the template's purpose, and many have existed on it for quite some time. WP:EDR, WP:GS, WP:SVG help and WP:SPLICE seem best described as 'noticeboards' as they give notice and discuss changes. I see no point in removing any of them. --Jules&nbsp;(Mrjulesd) 20:07, 23 September 2018 (UTC)
+WP:CENT[edit]
+
+
+@Headbomb: Per WP:BIDI, constituents of navboxes are expected to have the navbox on the page. Do you have an opinion on that? --Bsherr (talk) 04:46, 23 January 2020 (UTC)
+
+@Bsherr: Guidelines are exactly that, guidelines. They aren't rules that must absolutely be obeyed regardless of every other consideration. This is why we have WP:IAR and also the general warning that "[Guidlines are] a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply." That said, if you want to add {{Noticeboard links}} at the bottom WP:CENT, be my guest.  Headbomb {t · c · p · b} 04:52, 23 January 2020 (UTC)
+Okay, and why should this be an exception to WP:BIDI? --Bsherr (talk) 04:56, 23 January 2020 (UTC)
+Because the navbox is better with the link than without.  Headbomb {t · c · p · b} 05:06, 23 January 2020 (UTC)
+No, that part I got from your earlier edit summary. I'm asking why you are asserting that the navbox shouldn't then be on WP:CENT, per WP:IAR. --Bsherr (talk) 05:17, 23 January 2020 (UTC)
+I'm not?  Headbomb {t · c · p · b} 05:33, 23 January 2020 (UTC)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template_talk:Noticeboard_links&amp;oldid=1054483197"
+		
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		TemplateTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 10 November 2021, at 08:25&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

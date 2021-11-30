@@ -1,0 +1,1332 @@
+
+
+
+
+Help:Interwiki linking - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Help:Interwiki linking
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikimedia help page
+For linking to an article on a different-language Wikipedia within an article, see Help:Interlanguage links.  For a list of Wikipedias in other languages with their language codes, see List of Wikipedias#Details table.  For a list of Wikimedia projects, see Wikimedia Foundation#Wikimedia projects and meta:Complete list of Wikimedia projects.
+This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutsWP:INTERWIKIWP:INTERWP:IWH:IW
+Linking and
+page manipulation
+Linking and diffs
+URLs
+Links
+Orphans
+Interlanguage links
+Interwiki linking
+Shortcuts
+External links
+External link icons
+Plainlinks
+Link color
+Colon trick
+Pipe trick
+Self links
+What links here
+Linksearch
+Manual of Style on linking
+Navigation templates
+Hatnotes
+Template index for links
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+
+Categorization
+Category
+Categorization guideline
+Classification
+Container category
+FAQ for categorization
+FAQ for categories
+Categories, lists, and navigation templates
+Categorization of people
+By year
+By ethnicity, gender, religion and sexuality
+Redirect categories
+User categories
+Overcategorization
+User categories
+Template index for categories
+
+Moving and redirecting
+How to move a page for beginners
+Redirects
+Moving a page
+Requested moves
+How to fix cut-and-paste moves
+Moving files to Commons
+Userfication
+Template index for moving
+Template index for redirects
+
+Merging
+Merging
+Proposed article mergers
+Requests for history merge
+Merge and delete?
+Merge what?
+Delete or merge?
+Template index for merging
+WikiProject Merge
+
+Splitting
+Splitting
+Template index for splitting
+
+Importing and copying
+How to import articles
+Requests for page importation
+Import
+Export
+Copying within Wikipedia
+
+Protecting
+Protection
+Protection policy
+High-risk templates
+Requests for page protection
+Rough guide to semi-protection
+
+Additional
+How to create a page
+Article creation
+Editing
+Deletion process
+vte
+
+
+By adding a prefix to another project, internal link style ("prefixed internal link style") can be used to link to a page of another project. A system of short-handed link labels is used to refer to different projects, in the context of interproject linking, as seen within the actual source text. For example, en: refers to the English Wikipedia. This is seen in [[en:Apple]], which produces a link to the English Wikipedia article "Apple". Interwiki links which link different language Wikipedias are known as Interlanguage links.
+
+
+This is called interwiki. For each project, an interwiki map (a list of target projects with their prefixes) is specified (example). These target projects need not use MediaWiki and need not even be a wiki.
+
+Contents
+
+1 Interwiki linking from and within Wikimedia
+
+1.1 Example
+1.2 Prefix codes for linking to Wikimedia sister projects
+1.3 Special versions of Wikipedia
+1.4 Linking to international chapters of Wikimedia
+
+
+2 Tips for using interproject and interlanguage links
+
+2.1 Hiding the visible prefix
+2.2 Doubling prefixes
+2.3 Examples of link combinations
+
+
+3 Technical
+
+3.1 Prefixes
+
+
+4 Interlanguage links
+5 Interlanguage interwiki links
+
+5.1 More examples
+
+
+6 Interwiki links versus external links
+7 Interwiki links to the same wiki versus internal links
+8 See also
+
+
+
+Interwiki linking from and within Wikimedia[edit]
+
+
+Within Wikimedia, for the purpose of interlanguage links (see below), the project families are Wikipedia, Wiktionary, Wikiquote, Wikibooks, Wikinews, Wikiversity, Wikisource and Wikivoyage. Thus, this applies for a link like en:, de:, etc., from a Wikipedia to another one, from a Wiktionary to another one, from a Wikiquote to another one, from a Wikibooks to another one, from a Wikinews to another one, from a Wikiversity to another one or from a Wikisource to another one.
+
+Example[edit]
+
+
+For example, to link from here to the "surfeit" article on Wiktionary, you would include the wikilink [[wikt:surfeit]] which would appear as wikt:surfeit or the wikilink [[wikt:surfeit|surfeit]] which would appear as surfeit.
+
+
+
+
+Prefix codes for linking to Wikimedia sister projects[edit]
+
+
+Unless a language code is added, the following interwiki prefix codes link to the Wikiprojects in English.
+
+
+Note that some links don't work as expected within the same project, e.g., meta:Test on Meta itself would mean m:Meta:Test, a different page. Outside of Wikimedia sister projects, only metawikipedia:Test might work for m:Test.
+
+
+
+Project
+
+Long form
+
+Shortcut
+
+Pagename template
+
+
+Wikipedia
+
+[[wikipedia:]]
+
+[[w:]]
+
+
+
+
+Wiktionary
+
+[[wiktionary:]]
+
+[[wikt:]]
+
+{{Wiktionary|Pagename}}
+
+
+Wikinews
+
+[[wikinews:]]
+
+[[n:]]
+
+{{Wikinews|Pagename}}
+
+
+Wikibooks
+
+[[wikibooks:]]
+
+[[b:]]
+
+{{Wikibooks|Pagename}}
+
+
+Wikiquote
+
+[[wikiquote:]]
+
+[[q:]]
+
+{{Wikiquote|Pagename}}
+
+
+Wikisource
+
+[[wikisource:]]
+
+[[s:]]
+
+{{Wikisource|Pagename}}
+
+
+Wikisource (common repository)
+
+[[oldwikisource:]]
+
+
+
+{{WikisourceWiki|Pagename}}
+
+
+Wikispecies
+
+[[wikispecies:]]
+
+[[species:]]
+
+{{Wikispecies|Pagename}}
+
+
+Wikiversity
+
+[[wikiversity:]]
+
+[[v:]]
+
+{{Wikiversity|Pagename}}
+
+
+Wikiversity Beta
+
+[[betawikiversity:]]
+
+
+
+
+
+
+Wikivoyage
+
+[[wikivoyage:]]
+
+[[voy:]]
+
+{{Wikivoyage|Pagename}}
+
+
+Wikipedia in another language (help)
+
+[[language code:wikipedia:]]
+
+[[language code:]], [[w:language code:]]
+
+
+
+
+Wikimedia Foundation Governance Wiki
+
+[[wikimedia:]][[foundation:]]
+
+[[wmf:]]
+
+
+
+
+Wikimedia Commons
+
+[[commons:]]
+
+[[c:]]
+
+{{Commons|Pagename}}
+
+
+Wikimedia Meta-Wiki
+
+[[metawiki:]]
+[[metawikimedia:]]
+[[metawikipedia:]]
+[[meta:]]
+
+[[m:]]
+
+{{Meta|Pagename}}
+
+
+Wikimedia Strategic Planning
+
+[[strategy:]]
+
+
+
+
+
+
+Simple English Wikipedia
+
+[[simple:]]
+
+
+
+
+
+
+Wikimedia Incubator
+
+[[incubator:]]
+
+
+
+{{Incubator|Pagename}}
+
+
+Wikispore
+
+[[wikispore:]]
+
+
+
+
+
+
+MediaWiki
+
+[[mediawikiwiki:]]
+
+[[mw:]]
+
+{{MediaWiki|Pagename}}
+
+
+Wikimedia Quality
+
+[[quality:]]
+
+
+
+
+
+
+Wikimedia OTRS (ticket with TicketID, ticket with TicketNumber)
+
+[[otrswiki:]][[otrs:000000]][[ticket:0000000000000000]]
+
+
+
+
+
+
+Phabricator (formerly Bugzilla and MediaZilla)
+
+[[phabricator:]][[bugzilla:]][[mediazilla:]]
+
+[[phab:]]
+
+{{Phab|Tasknumber}}
+
+
+Nostalgia
+
+[[nostalgia:]]
+
+[[nost:]]
+
+
+
+
+Test Wikipedia
+
+[[testwiki:]]
+
+
+
+
+
+
+WikiTech
+
+[[wikitech:]][[labsconsole:]]
+
+
+
+
+
+
+Wikidata
+
+[[wikidata:]]
+
+[[d:]]
+
+{{Wikidata property|​property&nbsp;id|topic}}
+
+
+Outreach Wiki
+
+[[outreach:]][[outreachwiki:]]
+
+
+
+
+
+
+Toolforge
+
+[[toolforge:]]
+
+
+
+
+
+
+Other current Wikimedia prefixes: betawikiversity:, dbdump:, download:, gerrit:, mail:, mailarchive:, otrs:, OTRSwiki:, outreach:, quality:, rev:, spcom:, sulutil:, svn:, ticket:, tools:, tswiki:, wm2016:, wm2017:, wmania:.See a complete list of current and old but still working prefixes for all Wikimedia wikis at the Special:SiteMatrix. See a complete list of all possible interwiki prefixes at Special:Interwiki.
+
+
+Some of the long forms do not work as expected within the same project; for example [[meta:]] does not work on Meta, while [[metawikipedia:]] does. This depends on the configuration of the wiki and where the names are stored (see also next paragraph). The shortcuts work everywhere. (That is the intention; currently (16-Jan-2007), it does not work on all projects.) The interwiki map on Meta lists many prefixes, among others, [[wikipedia:]] for the English Wikipedia, working from any Wiki supporting the Meta interwiki map, not only from MediaWiki wikis. Some prefixes work only with a page, for example: wikipediawikipedia: (fails) vs. wikipediawikipedia:Interwiki link (works). These prefixes are case insensitive.
+
+
+The shortcuts are just interwikis with different histories. Wikipedia, Wikiquote etc. point to the English versions and are also included in the standard MediaWiki interwiki table (IIRC); w, q, b, wikt etc. are used like interlanguage wikilinks to link to the sisterproject in the same language (so w:it:b: is equivalent to Wikibooks:it:).
+
+
+Non-Wikimedia interwiki codes have a limitation, that they can only be used through a link. For example, the entry for "John" on Wiktionary, a Wikimedia project, can be accessed by [[wikt:John]] or http://meta.wikimedia.org/wiki/wikt:John. However, the latter method does not work for non-Wikimedia wikis. For example, the main page on the Mozilla Wiki can be accessed via [[MozillaWiki:Main Page]], but http://meta.wikimedia.org/wiki/MozillaWiki:Main_Page results in an error. In these cases, Special:Search can be used (http://meta.wikimedia.org/wiki/Special:Search/MozillaWiki:Main_Page). You can see the Interwiki special page for a list of "forward" and "non-forward" prefixes.
+
+Special versions of Wikipedia[edit]
+
+
+Note that the section above includes two special versions of Wikipedia, nostalgia and test. Nostalgia is a static copy of Wikipedia, as it was in 2001, and can be linked to by using [[nost:]]. Test is a version of Wikipedia for edit and software testing and can be linked to by using [[testWiki:]].
+
+Linking to international chapters of Wikimedia[edit]
+
+
+Note that these shortcuts do not link to the versions of Wikipedia (or to other reader-focused, information-delivering projects such as Wiktionary) in languages other than English, but instead link to the localized equivalent of http://www.wikimedia.com (that is, modified for the local language, country or culture).
+
+
+
+International chapters of Wikimedia
+
+Shortcut
+
+
+Argentina
+
+[[wmar:]]
+
+
+Australia
+
+[[wmau:]]
+
+
+Bangladesh
+
+[[wmbd:]]
+
+
+Belgium
+
+[[wmbe:]]
+
+
+Canada
+
+[[wmca:]]
+
+
+Czech Republic
+
+[[wmcz:]]
+
+
+Germany
+
+[[wmde:]]
+
+
+Finland
+
+[[wmfi:]]
+
+
+Hong Kong
+
+[[wmhk:]]
+
+
+Hungary
+
+[[wmhu:]]
+
+
+India
+
+[[wmin:]]
+
+
+Indonesia
+
+[[wmid:]]
+
+
+Israel
+
+[[wmil:]]
+
+
+Italy
+
+[[wmit:]]
+
+
+Macedonia
+
+[[wmmk:]]
+
+
+Netherlands
+
+[[wmnl:]]
+
+
+Norway
+
+[[wmno:]]
+
+
+Poland
+
+[[wmpl:]]
+
+
+Russia
+
+[[wmru:]]
+
+
+Serbia
+
+[[wmrs:]]
+
+
+Spain
+
+[[wmes:]]
+
+
+Sweden
+
+[[wmse:]]
+
+
+Switzerland
+
+[[wmch:]]
+
+
+Turkish
+
+[[wmtr:]]
+
+
+Taiwan
+
+[[wmtw:]]
+
+
+Ukraine
+
+[[wmua:]]
+
+
+United Kingdom
+
+[[wmuk:]]
+
+Tips for using interproject and interlanguage links[edit]
+Hiding the visible prefix[edit]
+
+
+To suppress the first, visible prefix in the saved page, use the pipe trick: Add | at the end of the link, like this: [[s:test|]]. Upon saving your edits, it will be expanded to [[s:test|test]]. Note that this only works for the first prefix, so saving en:test, will automatically expand to [[s:en:test|en:test]], not to [[s:en:test|test]].
+
+Doubling prefixes[edit]
+Further information on foreign-language prefixes: §&nbsp;Interlanguage interwiki links
+Further information on the category prefix: Wikipedia:Tip of the day/August 23, 2008
+
+
+As demonstrated in the examples below, combining certain prefixes allow them to be combined, thus enabling direct page links that are not possible with a single prefix. For example, one can link a word in the English Wikipedia to a term in the German Wiktionary, or link to a category in the Commons.
+
+
+When using language codes, the order of the prefixes does not matter. Remember to put a colon in front of a link starting with a language prefix; however, the colon is optional if the link starts with the project code prefix and then has the language prefix. See the last two examples in the table below.
+
+
+When using the category prefix, the order of the prefixes does matter. The order must be [[project:category:category-name]]. Starting with a colon and the prefix category links to categories on this Wikipedia, creating a red link if the category doesn't exist. Without the colon but starting with the prefix category, nothing appears in the saved page.
+
+Examples of link combinations[edit]
+
+
+
+
+Wikitext
+
+Results
+
+
+[[:en:Main Page]]
+
+en:Main Page
+
+
+[[:de:Hauptseite]]
+
+de:Hauptseite
+
+
+[[commons:Main Page]]
+
+commons:Main Page
+
+
+[[commons:category:Wikimedia]]
+
+commons:category:Wikimedia
+
+
+[[wikibooks:Main Page|]]
+
+Main Page
+
+
+[[wikt:de:Rechner]]
+
+wikt:de:Rechner
+
+
+[[wikt:de:Rechner|de:Rechner]]
+
+de:Rechner
+
+
+[[wiktionary:de:Rechner|]]
+
+wiktionary:de:Rechner
+
+
+[[:wiktionary:de:Rechner|]]
+
+wiktionary:de:Rechner
+
+Technical[edit]
+See also: Wikipedia:Manual of Style/Self-references to avoid §&nbsp;Self-reference tools
+
+
+A project's own namespace prefix cannot be reused as code for an external project. However, the prefix used for a target project may coincide with the prefix for a project namespace, within that project. As a result, to link to a page in that namespace, use the same prefix twice.
+
+
+For portability across projects, one may want to select a link code that leads to the same target from all projects, for example: MetaWikipedia:wikibooks:Main Page. The "superfluous" "MetaWikipedia:" prevents "wikibooks:" being interpreted as namespace prefix, when the code is used at wikibooks itself, while at Meta the "MetaWikipedia:" is ignored (it is not a namespace prefix and even at Meta itself, it is recognized as code for Meta). The codes above work from all projects; however, the existence detection and the self-link feature do not work on interwiki links.
+
+Prefixes[edit]
+
+
+Interwiki links can use prefixes for the project and/or for the language. Without the prefix, links are local,
+for pages in the same project and the same language. If only a language is given, they go to a page in the same
+(or similar) project for the specified language:
+
+[[:fr:]] fr:
+[[:os:]] os:
+
+
+
+If only the project is specified, they typically go to the language of the source, see above. At most, two prefixes
+are needed for pages in any existing project and any supported language:
+
+[[s:de:Hauptseite]] s:de:Hauptseite
+[[b:en:Main page]]&nbsp; b:en:Main page
+
+
+
+In the case of more than one prefix, a page name has to be specified. For example, while w: and en: from Meta lead to the English Wikipedia's main page, a bare [[w:en:]] does not work: w:en:.
+
+
+If the language is different, specifying it before the project can also work:
+
+[[:de:q:Hauptseite]] de:q:Hauptseite
+[[:en:n:Main page]]&nbsp; en:n:Main page
+[[n:en:Main page]] &nbsp; n:en:Main page
+
+
+
+The second example doesn't work from English Wikipedia w:en: pages; a project prefix before the language is better.
+
+
+More than two prefixes are generally unnecessary; the following examples should work everywhere:
+
+[[m:Help:Help]] m:Help:Help
+[[w:Interwiki]] w:Interwiki
+
+
+
+Two prefixes can have unexpected effects; for example, from Meta, the following links end up on
+different pages:
+
+[[m:en:About]]&nbsp; m:en:About
+[[:en:m:About]] en:m:About
+[[m:About]] &nbsp; &nbsp; m:About
+
+
+
+In the first case Meta ignores the m:, because it is local and then, interprets
+en: as w:en:, the prefix for the English Wikipedia. In the second case, the leading en: goes to the English Wikipedia, where the following m: goes straight back to Meta. The second example doesn't work at all, from English Wikipedia w:en: pages, only the third example works everywhere.
+
+
+In other words, multiple prefixes are evaluated left to right by the relevant Wikimedia servers (project and language). For projects without different languages, like Meta (because Meta is
+multilingual by itself), language prefixes can be handled as shorthands for w: plus the specified language:
+
+[[:pl:2006]] &nbsp; pl:2006
+[[w:pl:2006]]&nbsp; w:pl:2006
+[[:pl:w:2006]] pl:w:2006
+
+
+
+From Meta, the first two links both arrive at the Polish 2006 page. The third arrives at the English Wikipedia, because that's how the server selected by :pl: interprets the second prefix w:.
+
+
+For a portable link on that server, it would be a bad idea to use w:, but :pl: does the trick. To test that effect from Meta, the following links should go to the same page:
+
+[[:ja:2006]] &nbsp;&nbsp; ja:2006
+[[:ja:ja:2006]] ja:ja:2006
+
+
+
+A universal interwiki link, that is, one that works no matter from which Wikimedia wiki, can be written [[m:project:language:page name]] (e.g. m:b:nl:Wiskunde); this routes the parsing of the links via Meta (bug 4285).
+
+Interlanguage links[edit]
+Main page: Help:Interlanguage links
+
+
+Interlanguage links are links from any page (most notably articles) in one Wikipedia language to one or more nearly equivalent or exactly equivalent pages in another Wikipedia language. 
+
+
+As of February 2013, the use of "local" links for interlanguage linking has been deprecated, with interlanguage link data being centralized on Wikidata, a structured knowledge base project. Pages with their interlanguage links on Wikidata display an "Edit links" button under the language list.
+
+
+The information below is deprecated, and kept for historical purposes. Prior to February 2013, interwiki links were generated using special link markup within articles, taking the form [[language code:Title]], where the language code is the two-letter code as per ISO 639-1. (See Complete list of language Wikipedias available: English language is "en", German is "de", etc.) So, for example, in the English language article on plankton, which is available on many other wikis, the interlanguage links might look like this:
+
+[[ar:عوالق]]
+[[de:Plankton]]
+[[eo:Planktono]]
+[[es:Plancton]]
+[[fr:Plancton]]
+[[nl:Plankton]]
+[[ja:プランクトン]]
+[[ko:플랑크톤]]
+[[pl:Plankton]]
+[[pt:Plâncton]]
+[[ru:Планктон]]
+[[simple:Plankton]]
+[[zh:浮游生物界]]
+
+
+These links do not show up in the article, but instead populate the "Languages" list on the sidebar. While they can be theoretically located anywhere in the article, they were typically placed near the bottom.
+
+Interlanguage interwiki links[edit]
+Further information: Help:Interwiki linking §&nbsp;Technical, Help:Interlanguage links, and Help:Interlanguage links §&nbsp;Inline links (links in the text of the article)
+
+
+Inline links to foreign-language Wikiprojects can be made by adding the language code as a prefix:
+
+To link to a Wikipedia article in a particular language inline (as opposed to the links in the sidebar), use [[:language code:Title]].
+To link to a page on a different project in a particular language, expand the above syntax with a code for the project from the table below in §&nbsp;Prefix codes for linking to projects, as in [[:project:language code:Title]] or [[:language code:project:Title]].
+For example, [[:s:de:Salz]] or [[:de:s:Salz]] will link to the Salz page on the German-language Wikisource as de.wikipedia.org/wiki/s:Salz, [[:wikt:fr:sel]] or [[:fr:wikt:sel]] to the sel page on the French-language Wiktionary as en.wiktionary.org/wiki/fr:sel, etc. See §&nbsp;Doubling prefixes for more tips and examples, plus information on doubling with the category prefix.
+
+
+For language codes, see list of Wikipedias. Remember to put a colon in front of a link starting with a language code prefix, or the saved edit will not show it at all; however, the colon is optional if the link starts with the project code prefix and then has the language code prefix.
+
+
+The interlanguage link feature works on Wikimedia Commons and Wikispecies, producing links to the Wikipedias. This is not reciprocal, a link from a Wikipedia to Commons or Wikispecies is an in-page link.
+
+More examples[edit]
+
+
+To link from en.Wikipedia to the Chinese language Wikisource page 天問, but without the misleading and distracting appearance of an external link:
+
+Type: [[s:zh:天問]] to get: s:zh:天問
+Or, using piping, type: [[s:zh:天問|天問]] or [[s:zh:天問|Heavenly Questions]] to get: 天問 or Heavenly Questions
+
+
+For an article that exists in German but not yet in English, use: {{interlanguage link|Gesellschaft Deutscher Naturforscher und Ärzte|de}} or {{ill|Gesellschaft Deutscher Naturforscher und Ärzte|de}} to get: Gesellschaft Deutscher Naturforscher und Ärzte&nbsp;[de]. Once the English article is written, the blue de link will disappear.
+
+Interwiki links versus external links[edit]
+
+
+Disadvantages of interwiki links:
+
+The wikitext is less portable across wikis, because wikis do not always have an interwiki prefix for the same sites and even if they do, the prefixes may differ.
+There is no feature to find interwiki links, while searching for an external link can be done with Special:Linksearch (if installed). This is because, while there is an external links table, there is no such thing for interwiki links. The interwiki table only stores the interwiki prefixes with their targets as function of the parameter, not the instances of the links. Using the general text search, to search for interwiki links, is more work for the server and therefore, it may be slow, not up-to-date or in busy hours, disabled. See also: Finding external links to a page.
+
+
+Comparison:
+
+[[imdbtitle:0389790|Bee Movie]] gives Bee Movie
+[https://www.imdb.com/title/tt0389790 Bee Movie] gives Bee Movie
+Linksearch works for the latter only
+
+
+The applicable CSS classes are "extiw" and "external text". The choice may be governed by this, either way, for uniformity or distinction. An interwiki link is easier to type by itself, but if one goes to the webpage anyways, before putting the link, copying the URL is very convenient. When a template is created, e.g. Template:IMDb title&nbsp;(backlinks edit), the template can be made, such that it uses an interwiki link and a parameter, like "tt0389790" or "0389790", or that it uses an external link and a parameter like one of those or the full url, if that is more convenient.
+
+Interwiki links to the same wiki versus internal links[edit]
+
+
+Disadvantages of interwiki links to the same wiki, compared to internal links:
+
+no existence detection
+"What links here" works for internal links only
+
+
+Advantages of interwiki links to the same wiki, compared to internal links:
+
+better portability across wikis, provided that the same prefix applies and is not equal to a namespace name
+See also[edit]
+
+
+
+This page is referenced in the Wikipedia Glossary.
+
+
+Wikipedia:Wikimedia sister projects, a guideline for using Wikipedia's sister projects
+m:Templates for linking to sister projects
+Templates for linking between the various Wikimedia sister projects
+{{Sister project links}}
+Wikipedia:Template index/Sister projects
+Category:Interwiki link templates
+Help:Interlanguage links, describes how to link between differing foreign language Wikipedias
+Help:Menu/Links, table of contents for help pages about links and references
+mw:Help:Interwiki linking, help page from MediaWiki
+Meta-Wiki content:
+m:Help:Interwiki linking
+m:Interwiki map, list of WMF and non-WMF mappings
+commons:Commons:First steps/Reuse, instructions on linking a file from Commons to Wikipedia
+Wikipedia:Help desk — to ask questions about using interwiki links in articles if you weren't able to find the information you need on this help page.
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Interwiki_linking&amp;oldid=1055392995"
+		Categories: Wikipedia how-toWikipedia glossary itemsWikipedia link helpWikipedia-related projectsWikipedia featuresWikipedia multilingual coordinationWikipedia linksHidden categories: Help pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMeta-WikiWikinewsWikiquoteWikiversityWiktionary
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AlemannischالعربيةتۆرکجهবাংলাCatalàČeštinaDanskDeutschEspañolفارسیFrançaisHornjoserbsceHrvatskiBahasa IndonesiaInterlinguaItalianoעבריתJawaМакедонскиമലയാളംBahasa MelayuNederlands日本語Norsk bokmålOccitanPolskiPortuguêsРусскийSimple EnglishسنڌيSlovenčinaSlovenščinaSvenskaТатарча/tatarçaไทยTürkçeУкраїнськаاردوTiếng Việtייִדיש中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 15 November 2021, at 16:37&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

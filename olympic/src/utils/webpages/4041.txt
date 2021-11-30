@@ -1,0 +1,672 @@
+
+
+
+
+Wikipedia:WikiProject Edit requests - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:WikiProject Edit requests
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This is a WikiProject, an area for focused collaboration among Wikipedians. New participants are welcome; please feel free to participate!
+
+Guide to WikiProjects
+Directory of WikiProjects  
+Contents
+
+1 Goals
+2 Scope
+3 Tasks
+4 Participants
+5 Categories
+6 Templates
+7 User scripts for responding to edit requests
+8 Resources
+
+8.1 Related WikiProjects
+
+
+
+
+
+ShortcutsWP:WREQWP:WPEDITREQ
+
+
+Welcome to WikiProject Edit requests. We aim to reform the process of edit requests and assist in the process of making edit requests, as well as responding to them. If you would like to help, please add yourself as a participant in the project, inquire on the talk page, and see the to-do list, below.
+
+Goals[edit]
+
+
+Currently, making edit requests is a technical process, something not ideal for new users, which are often the ones creating edit requests. Additionally, there is inconsistency in how edit requests are reviewed and under what circumstances an edit request should be declined. Our WikiProject aims to clear up these points of confusion and in general make the process of writing an edit request as easy as possible.
+
+Reform the process of edit requests
+Assist in making edit requests
+Assist in responding to edit requests
+Scope[edit]
+We cover anything related to edit requests on the English Language Wikipedia
+Tasks[edit]
+Notify others of WikiProject
+Come up with a concrete plan surrounding improvements/reform to edit requests
+Improve edit request wizard
+Come up with more concrete suggestions surrounding responding to edit requests
+Create examples of well-formed edit requests
+Replacement
+Existing article text
+Proposed article text
+Link to published, reliable source
+Brief discussion of motivation for change (e.g. error correction, updated information, better wording, etc.)
+New Material
+Location insertion point
+Proposed article text
+Link to published, reliable source
+Brief discussion of motivation for addition (e.g. missing relevant information)
+Participants[edit]
+As proposer, will join. Sdrqaz (talk) 01:59, 14 February 2021 (UTC)
+I will join. Z1720 (talk) 02:28, 14 February 2021 (UTC)
+I will join, as original supporter of this idea at the Village Pump. P,TO 19104  (talk) (contribs)  03:51, 14 February 2021 (UTC)
+I would join. Sam-2727 (talk) 05:02, 14 February 2021 (UTC)
+Count me in--S Philbrick(Talk) 15:48, 14 February 2021 (UTC)
+I would absolutely join. WWB (talk) 16:59, 14 February 2021 (UTC)
+I'm in! Mary Gaulke (talk) 03:00, 16 February 2021 (UTC)
+I've been answering edit requests for years, I'm in. ‑‑ElHef&nbsp;(Meep?) 13:54, 19 February 2021 (UTC)
+Inkian Jason (talk) 16:39, 19 February 2021 (UTC)
+I tend to skim through these every so often, so why not. RandomCanadian (talk / contribs)  00:13, 21 February 2021 (UTC)
+I sometimes reply to protected edit requests, and made reply userscripts. Terasail[✉] 17:47, 21 February 2021 (UTC)
+My belief is that there is a middle ground we can help stabilize. –xenotalk 13:42, 14 March 2021 (UTC)
+I Will try to get back into fulfilling requests. Sir Joseph (talk) 03:42, 15 March 2021 (UTC)
+I will join. 15 (talk) 12:57, 17 March 2021 (UTC)
+Sure. ‑‑Volteer1 (talk) 07:59, 29 March 2021 (UTC)
+Categories[edit]
+
+
+
+To display all subcategories click on the "►":
+
+
+ WikiProject Edit requests‎ (119 P)no subcategories
+
+Templates[edit]
+
+
+WikiProject Edit requests 
+&nbsp;
+
+
+
+
+
+
+This page is the within the scope of WikiProject Edit requests, a collaborative effort to improve Wikipedia's edit request process and reduce the number of edit requests in the edit request queue.Edit requestsWikipedia:WikiProject Edit requestsTemplate:WikiProject Edit requestsEdit requests articles
+
+&nbsp;
+
+
+User scripts for responding to edit requests[edit]
+User:Jackmcbarn/editProtectedHelper
+User:Terasail/COI Request Tool
+Resources[edit]
+Related WikiProjects[edit]
+Wikipedia:Help Project
+vteEdit requests (purge)Bot reports
+Interface (3)
+full (4)
+template (3)
+extended (6)
+semi (35)
+unprotected (COI and partially-blocked editors) (185)
+Categories
+Interface (1)
+full (4)
+template (3)
+extended (6)
+semi (36)
+unprotected (COI and partially-blocked editors) (185)
+
+vteWikipedia help pages
+Visit the Teahouse or the Help desk for an interactive Q &amp; A forum.
+
+FAQs&nbsp;(?)
+Reference desks&nbsp;(?)
+Noticeboards&nbsp;(?)
+Cheatsheet&nbsp;(?)
+ Directories&nbsp;(?)
+About Wikipedia&nbsp;(?)
+Administration
+Purpose
+Principles
+Policies and guidelines
+What Wikipedia is not
+Disclaimer&nbsp;(parental advice)
+Making requests
+Who writes Wikipedia?
+Help for readers&nbsp;(?)
+FAQ
+Books
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia&nbsp;(?)
+Advice for young editors
+Avoiding common mistakes
+Etiquette
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Your first article&nbsp;(article wizard)
+Getting started&nbsp;(?)
+Why create an account?
+Introductions by topic
+Graphics tutorials
+Picture tutorial
+IRC (live chat) tutorial
+VisualEditor user guide
+Dos and don'ts&nbsp;(?)
+Accessibility
+Biographies
+Biographies (living)
+Categorization
+Consensus
+Discussions
+Disambiguation
+Images
+Leads
+Links
+Lists
+References
+Tables
+Titles (of articles)
+How-to pages and
+information pages&nbsp;(?)
+Appealing blocks
+Article deletion
+Categories
+Citations/references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+Minor edit
+toolbar
+edit conflict
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking&nbsp;(link color)
+Logging in
+Merging
+Page name
+Renaming pages
+Redirect
+Passwords
+Email confirmation
+Reverting
+Simple vandalism cleanup
+Talk pages&nbsp;(archiving
+simple archiving)
+User contributions
+WP search protocol
+Coding&nbsp;(?)
+Wiki markup
+Barcharts
+Calculations
+Characters
+Columns
+Hidden text
+HTML
+Lists
+Magic words
+Music symbols
+Sections
+Sounds
+Tables
+Templates
+Transclusion
+URL
+Visual files
+Directories&nbsp;(?)
+Abbreviations
+Contents (Encyclopedia proper)
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Manual of Style 
+Policies
+Tasks
+Tips
+Tools
+ Missing Manual
+
+Ask for help on your talk page&nbsp;(?)
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+vte&nbsp;WikiProject Council&nbsp;WikiProject guides
+WikiProject Council
+Talk
+Guidelines/Intro
+WikiProjects
+Task forces
+Technical notes
+Assessment FAQ
+Work via WikiProjects
+&nbsp;Directories and summaries
+Directory
+Proposals
+Signpost
+Shortcuts
+Popular pages
+Database reports
+Watchers
+&nbsp;Culture and the arts
+Arts
+Music
+Performing
+Plastic
+Visual
+Broadcasting
+Crafts and hobbies
+Entertainment
+Games and toys
+Food and drink
+Internet culture
+Language and literature
+Biography
+Linguistics
+Media
+Philosophy and religion
+Sports
+&nbsp;Geographical
+Bodies of water
+Cities
+Countries
+Africa
+Americas
+Asia
+Europe
+Oceania
+Landforms
+Maps
+Parks, conservation areas and historical sites
+&nbsp;History and society
+History and society
+Business and economics
+Education
+Military and warfare
+Politics and government
+Transportation
+&nbsp;Science, technology
+and engineering
+Science
+Biology
+Chemistry
+Economics
+Geosciences
+Information science
+Mathematics
+Medicine
+Meteorology
+Physics
+Space
+Technology
+Time
+&nbsp;Wikipedia assistance
+and tasks
+Contents systems
+Maintenance
+Files
+Article improvement and grading
+Classroom projects
+WikiProjects
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Edit_requests&amp;oldid=1039613861"
+		Categories: Active WikiProjectsWikiProject Edit requests
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 19 August 2021, at 18:26&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

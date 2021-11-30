@@ -1,0 +1,346 @@
+
+
+
+
+Template:Draft - Meta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Template:Draft
+	
+		From Meta, a Wikimedia project coordination wiki
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Translate this pageOther languages:Afrikaans
+Bahasa Indonesia
+Bikol Central
+Cymraeg
+Deutsch
+English
+Esperanto
+Hausa
+Lëtzebuergesch
+Nederlands
+Nordfriisk
+Ripoarisch
+Tiếng Việt
+Türkçe
+asturianu
+bosanski
+català
+dansk
+español
+français
+galego
+italiano
+latviešu
+lietuvių
+magyar
+norsk bokmål
+occitan
+polski
+português
+português do Brasil
+română
+shqip
+suomi
+svenska
+čeština
+Ελληνικά
+беларуская (тарашкевіца)
+български
+македонски
+русский
+српски / srpski
+українська
+հայերեն
+ייִדיש
+עברית
+اردو
+العربية
+سنڌي
+فارسی
+مصرى
+کوردی
+भोजपुरी
+मराठी
+অসমীয়া
+বাংলা
+ಕನ್ನಡ
+മലയാളം
+ไทย
+中文
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+
+
+
+This page is currently a draft. More information pertaining to this may be available on the talk page.
+
+Translation admins:  Normally, drafts should not be marked for translation.Template documentation[view] [edit] [history] [purge]
+
+
+
+
+
+Usage
+In untranslated pages, use
+{{Draft}}
+If you want to force all translated draft pages to point to the same (multilingual) talk page, use&nbsp;:
+{{Draft | talk = Talk:pagename }}
+This avoids lots of red links being displayed in translated draft pages, pointing to talk pages followed by nobody.
+But if you want to link a draft page that has been (or will be) translated into multiple or many languages to the same default multilangual talk page, or only a few talk pages that have been created for specific languages, use&nbsp;:
+{{Draft | talk = Special:MyLanguage/Talk:pagename }}
+This will link to the specific talk subpages that exist for these languages, otherwise it will link to a default base page.
+The above documentation is transcluded from Template:Draft/doc. (edit | history)
+Editors can experiment in this template’s sandbox (create | mirror) and testcases (create) pages.
+ Subpages of this template.
+
+
+
+
+
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Template:Draft&amp;oldid=21408274"
+		Categories: DraftsTemplatesHidden category: Semi-protected templates
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		TemplateDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+		
+	
+
+
+	
+	
+		
+		Community
+	
+	
+		
+		Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+		
+	
+
+
+	
+		
+		Beyond the Web
+	
+	
+		
+		Meet WikimediansEventsMovement affiliatesDonate
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMediaWikiWikibooksWikidataWikiversity
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		العربيةবাংলা日本語മലയാളംShqipTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 30 April 2021, at 20:31.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About Meta
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

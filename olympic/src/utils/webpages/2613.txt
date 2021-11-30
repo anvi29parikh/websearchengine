@@ -1,0 +1,317 @@
+
+
+
+
+Bantuan:Laman yang dilindungi - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Bantuan:Laman yang dilindungi
+	
+		From mediawiki.org
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This page is a translated version of the page Help:Protected pages and the translation is 100% complete.Other languages:Bahasa Indonesia
+Deutsch
+English
+Tiếng Việt
+Türkçe
+català
+dansk
+español
+français
+italiano
+norsk bokmål
+polski
+português
+português do Brasil
+slovenčina
+čeština
+русский
+українська
+עברית
+فارسی
+پښتو
+अङ्गिका
+हिन्दी
+മലയാളം
+中文
+日本語
+한국어
+
+
+Catatan: Ketika Anda menyunting halaman ini, Anda setuju untuk melepas kontribusi Anda di bawah CC0. Lihat Halaman Bantuan Domain Publik untuk informasi selengkapnya. 
+
+Translate
+
+
+
+
+
+Laman yang dilindungi adalah suatu laman yang tidak dapat disunting dan/atau dipindahkan oleh pengguna biasa.
+Hanya pengguna dengan hak akses pengurus yang bisa menyunting atau memindahkan sebuah laman yang dilindungi.
+Begitu pula, hanya pengurus saja yang bisa melindungi suatu laman, atau membatalkan perlindungan pada suatu laman.
+
+
+Ada beberapa alasan mengapa suatu laman mungkin dilindungi:
+
+Di wiki publik, laman mungkin dilindungi karena telah berkali-kali menjadi target vandalisme atau dipindahkan ke judul yang buruk, atau laman tersebut dipercaya akan menghasilkan dampak yang sangat besar apabila divandalisme atau dipindahkan.
+Di wiki korporat, laman mungkin dilindungi apabila mengandung pernyataan yang telah disetujui oleh manajemen, dan kebijakan menyatakan bahwa pernyataan tersebut tidak bisa diubah tanpa melalui suatu proses penyetujuan.
+
+
+Perlindungan laman membatasi kolaborasi dalam konten wiki, dan sebaiknya dihindari jika bisa.
+
+
+Untuk informasi bagi pengurus lihat Bantuan:Melindungi dan membuka perlindungan halaman .
+
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Help:Protected_pages/id&amp;oldid=4591486"
+		Category: Help/id
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		HelpDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadTranslateView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 21 May 2021, at 23:40.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

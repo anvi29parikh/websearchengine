@@ -1,0 +1,389 @@
+
+
+
+
+Wikipedia:Administrator intervention against vandalism - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Administrator intervention against vandalism
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Noticeboard for persistent vandalism
+
+
+Administrator instructions
+
+
+vteNoticeboardsWikipedia's centralized discussion, request, and help venues. For a listing of ongoing discussions and current requests, see the dashboard.General
+Administrators
+main
+incidents
+Bots
+Bureaucrats
+Centralized discussion
+Closure requests
+Education
+Interface admins
+Main Page errors
+Open proxies
+VRT
+Oversight
+User permissions
+Articles and content
+Biographies of living persons
+Copyrights
+questions on media
+problems
+Dispute resolution
+External links
+Fringe theories
+Neutral point of view
+Original research
+Reliable sources
+Resource requests
+Spam
+blacklist
+whitelist
+Scalable vector graphics
+Titleblacklist
+Translation
+Page handling
+History merges
+Mergers
+Splits
+Moves
+Protection
+Importation
+XfD
+Articles
+Redirects
+Categories
+Templates
+Files
+Miscellany
+Undeletion
+User conduct
+Conflict of interest
+Contributor copyright
+Edit warring and 3RR
+Sanctions
+Personal restrictions
+General sanctions
+Discretionary sanctions
+Sockpuppets
+Usernames
+Vandalism
+Other
+Arbitration
+Committee noticeboard
+requests
+enforcement
+Edit filters
+requested
+false positives
+Questions
+Help desk
+Teahouse
+Reference desk
+New articles
+Requests for comment
+Village pump
+policy
+technical
+proposals
+idea lab
+WMF
+miscellaneous
+WikiProject proposals
+ Category:Wikipedia noticeboards
+Skip to bottom
+
+
+
+Administrator intervention against vandalism
+
+
+
+ShortcutWP:AIV
+
+
+This page is intended only for reports about active, obvious, and persistent vandals and spammers. Before posting here, please read the spam and vandalism pages, as well as the AIV guide. To submit a report, edit this page and follow the instructions at the top of the "User-reported" section. For other issues that require administrator intervention, file a request for administrator attention elsewhere.
+
+
+Important! Please remember the following:
+The edits of the reported user must be obvious vandalism or obvious spam.
+Except for egregious cases, the user must have been given enough warning(s) to stop their disruptive behavior.
+The warning(s) must have been given recently and there must be reasonable grounds to believe the user(s) will further disrupt the site in the immediate future.
+The appropriate vandal template below should be used if you decide that a report should be filed:
+To report a logged-in user or user account, use the following template: * {{vandal|Example user}} Your concise reason (e.g. vandalised past 4th warning). ~~~~
+To report an anonymous user or IP address, use the following template: * {{IPvandal|192.0.2.16}} Your concise reason (e.g. vandalised past 4th warning). ~~~~
+Requests for further sanctions against a blocked user (e.g., talk page, e-mail blocks) should be made at Wikipedia:Administrators' noticeboard/Incidents, as a bot automatically removes reports made here about accounts that are blocked.
+Reports of sockpuppetry should be made at Wikipedia:Sockpuppet investigations unless the connection between the accounts is obvious and disruption is recent and ongoing.
+This noticeboard can quickly grow and become backlogged. The guidelines above are in place to help administrators focus on the most urgent issues. Administrators typically act quickly when apprised of clear vandalism and disruption. Before notifying administrators at another forum about a backlog on this page, consider whether the remaining reports are actionable. Stale reports are automatically cleared by MDanielsBot after 4–8 hours with no action.
+
+ You can subscribe to a web feed of this page in either RSS or Atom format.
+
+
+
+
+This page was last updated at 20:24 on 29 November 2021 (UTC). Purge the cache of this page if it is out of date.
+
+
+
+
+
+
+
+
+
+
+
+
+Reports[edit]
+Bot-reported[edit]
+User-reported[edit]
+174.78.191.211&nbsp;(talk&nbsp;· contribs&nbsp;· deleted&nbsp;contribs&nbsp;· filter&nbsp;log&nbsp;· WHOIS&nbsp;· RDNS&nbsp;· RBLs&nbsp;· http&nbsp;· block&nbsp;user&nbsp;· block&nbsp;log) – Vandal only. - FlightTime (open channel) 20:23, 29 November 2021 (UTC)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrator_intervention_against_vandalism&amp;oldid=1057810250"
+		Categories: Wikipedia noticeboardsWikipedia vandalismHidden categories: Project pages with short descriptionPages that should not be manually archivedWikipedia move-protected project pagesNon-talk pages that are automatically signed
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMeta-WikiMultilingual WikisourceWikiquoteWikivoyageWiktionary
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		CatalàDeutschEspañolFrançais贛語HornjoserbsceBahasa IndonesiaItalianoKurdîLëtzebuergeschNederlandsनेपाली日本語NapulitanoNorsk bokmålOccitanPortuguêsРусскийScotsසිංහලSimple EnglishکوردیСрпски / srpskiSvenskaไทยTürkçeVènetoTiếng Việt文言粵語中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 29 November 2021, at 20:23&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,407 @@
+
+
+
+
+Wikipedia:External links/Perennial websites - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:External links/Perennial websites
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia:External links
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		List of websites that editors frequently discuss on Wikipedia
+This is an explanatory supplement to the Wikipedia:External links page. 
+ This page is intended to provide additional information about concepts in the page(s) it supplements. This page is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutsWP:ELPWP:EL/PWP:ELPEREN
+Common decisions
+and arguments
+Deletion (XfD)
+Arguments to avoid
+Common outcomes (AfD)
+Common outcomes (RfD)
+Common outcomes (TfD)
+Overcategorisation
+Perennial deletion review
+
+Adminship (RfA) and
+Bureaucratship (RfB)
+Arguments to avoid
+
+Arbitration (Arbcom)
+Guide to arbitration
+Principles
+
+Proposals and policy
+Perennial proposals
+vte
+
+
+This is a list of websites that editors frequently discuss on Wikipedia. Some of these are currently accepted, some are currently opposed, and some depend on the circumstances as consensus can change.
+
+
+Note that the standards for WP:External links and WP:Reliable sources are different, so that a web page might be acceptable as an external link, but not as a reliable source, or vice versa.
+
+
+Also note that this page does not prescribe any recommendations of what action to take if one encounters any of these sites linked within articles. This list is only an aid to ongoing discussion surrounding the use of these sites, final consensus is yet to be determined.
+
+Contents
+
+1 Social networking websites
+
+1.1 Facebook, Myspace, Instagram
+1.2 LinkedIn
+1.3 Twitter
+
+
+2 User-generated content
+
+2.1 Ancestry.com
+2.2 Discogs
+2.3 Find a Grave
+2.4 IMDb
+2.5 YouTube
+2.6 Petition sites
+
+
+3 Objectionable content
+
+3.1 WikiLeaks
+
+
+4 Companies
+
+4.1 Amazon
+4.2 eBay
+
+
+5 See also
+
+
+
+Social networking websites[edit]
+Facebook, Myspace, Instagram[edit]
+ShortcutsWP:FACEBOOKWP:INSTAGRAMWP:MYSPACE-ELWP:INSTAGRAM-EL
+"WP:FACEBOOK" redirects here. For the guideline that states Wikipedia is not a social networking site, see WP:NOTFACEBOOK.
+See also: Template:Facebook
+As an external link: N Generally no. Regular websites are strongly preferred, but exceptions are made for official links when the subject of the article has no other Web presence.
+As a reliable source: * Sometimes. The official page of a subject may be used as a self-published, primary source, but only if it can be authenticated as belonging to the subject. (See Wikipedia:Verifiability#Self-published sources.)
+Common issues: Wikipedia is not a directory of any subject's complete web presence, and links to social networking sites (other than official links) are discouraged (ELNO#10). Facebook is particularly discouraged as viewing the page sometimes requires registration (ELNO#6). Facebook, MySpace, and Instagram pages (other than official links) could be characterized as fansites (ELNO#11). Be wary of fakes.
+LinkedIn[edit]
+"WP:LINKEDIN" redirects here. For the guideline that states Wikipedia is not LinkedIn, see WP:NOTLINKEDIN.
+ShortcutWP:LINKEDIN
+As an external link: N Almost never.
+As a reliable source: * Sometimes. LinkedIn pages may be used as self-published, primary sources, but only if they can be authenticated as belonging to the subject. (See Wikipedia:Verifiability#Self-published sources.)
+Common issues: Wikipedia is not a directory of any subject's complete web presence, and links to social networking sites (other than official links) are discouraged (ELNO#10). Information (e.g., phone numbers) is not typically encyclopedic in nature. As a reliable source, LinkedIn is problematic in the same ways as MySpace, Facebook, etc. as self-published and unverifiable, unreliable content. External links to LinkedIn are also discouraged because seeing the content requires registration (ELNO#6).
+Twitter[edit]
+See also: Template:Twitter
+ShortcutWP:TWITTER-EL
+As an external link: N Generally no. Exceptions are made for official links when the subject of the article has no other Web presence; or is known for their Twitter activity.
+As a reliable source: * Sometimes. A specific tweet may be useful as a self-published, primary source. Twitter incorporates a "Verified Account" mechanism to identify accounts of celebrities and other notable people; this should be considered in judging the reliability of Twitter messages. An alternative for people known for their Twitter presence is to use reliable third-party sources for their Twitter handle. It can also help to listen to interviews with the article subject, especially podcasts, as subjects often "plug" their Twitter accounts at the beginning and/or end of such audio recordings.
+Common issues: Twitter feeds change with every post, so the desirable information you see today may be replaced by irrelevancies tomorrow. Tweets are easily deleted with no record; consider proactively manually archiving tweets. Wikipedia is not a directory of any subject's complete web presence, and links to social networking sites (other than official links) are discouraged (ELNO#10). Be wary of fake and parody accounts.
+User-generated content[edit]
+Ancestry.com[edit]
+See also: WP:RSP §&nbsp;Ancestry.com
+ShortcutWP:ANCESTRY.COM-EL
+As an external link: * Sometimes. Using Ancestry.com as an external link can possibly be acceptable because of sourced information that is not available elsewhere, such as unique images, keeping in mind the first statement at WP:ELNO: "...one should generally avoid providing external links to: Any site that does not provide a unique resource beyond what the article would contain if it became a featured article."
+As a reliable source: N Rarely. Information at Ancestry.com is often poorly-sourced content from pseudonymous/anonymous contributors.
+Common issues:
+The Ancestry.com website contains content which is user-submitted and therefore considered not to be reliable.  Official documents like marriage and census records are primary source documents which must be handled in accordance with WP:BLPPRIMARY, and should not be used when secondary sources exist.
+Ancestry.com often contains asserted biographical details such as date of birth, but using the website as a standalone source for stated facts in biographies (especially biographies of living persons) is not satisfactory if reliable sources for this biographical data are unavailable to otherwise verify the alleged facts. Extreme care should be used when attempting to use it as a source for any biography, especially WP:BLPs.
+Some editors think that if other published reliable sources cannot be found that verify asserted facts from Ancestry.com, then that information is—by definition—not important enough to include.
+Even though some of Ancestry.com is free, much of its content is only available behind various levels of paywalls—see ELNO#6.
+Discogs[edit]
+See also: WP:RSP §&nbsp;Discogs
+As an external link: * Sometimes, a link is acceptable because of a specific, unique feature or information that is not available elsewhere.
+As a reliable source: N Generally no.
+Common issues: Content on Discogs is user-generated and therefore not generally reliable.
+Find a Grave[edit]
+ShortcutWP:FINDAGRAVE-EL
+See also: WP:RSP §&nbsp;Find a Grave, and Template:Find a Grave
+As an external link: * Rarely. Sometimes, a link is acceptable because of a specific, unique feature or information that is not available elsewhere, such as valuable images of a grave.
+As a reliable source: N Almost never because it is user-generated content.  It should never be cited if it is a circular reference to Wikipedia (WP:FORK and WP:CIRCULAR).
+Common issues:
+Some editors consider it a type of fansite that is not written by a recognized expert (ELNO#11).
+Some pages contain copyright violations (WP:ELNEVER and WP:COPYLINK). Find a Grave requests that copyright violations be reported to info@findagrave.com with a link to the relevant page or image. Never link to copyright violations on Wikipedia.
+Some editors say it should generally be avoided as an External link because it does not provide a unique resource beyond what the article would contain if it became a featured article (ELNO#1).
+Some editors believe that if reliable published sources do not include the information that you have found only at Find a Grave (e.g., exact dates of birth or death), then that information is—by definition—not important enough to include.
+Find a Grave does not exercise editorial control, and the material added to the site by volunteers is not vetted (WP:QS).
+Find a Grave contains dates of birth, death and place of burial, material which is frequently not cited by other sources in an article (even though it is in theory available from other sources). Since it's not a reliable source, it should not be cited as a source, but having an external link allows others to find where information comes from. Such material is rarely controversial (WP:CHALLENGE).
+IMDb[edit]
+ShortcutWP:IMDB-EL
+See also: WP:RS/IMDB, WP:Citing IMDb, WP:RSP §&nbsp;IMDb, and WP:IMDb link templates
+As an external link: Y Generally yes, if the subject of the entire page is exactly the same as the subject of the IMDb page that you're linking.
+As a reliable source: N Almost never, though exceptions may be made for writing credits marked with "WGA" that are supplied directly by the Writers Guild of America (where applicable).
+Common issues: The IMDb website generally contains more information than the Wikipedia article, including information that cannot be integrated into the Wikipedia article due to amount of detail. However, content is user-submitted and therefore not generally reliable. (This includes biographies, which cannot be directly edited.)
+YouTube[edit]
+ShortcutWP:YOUTUBE-EL
+See also: WP:RSP §&nbsp;YouTube, and Template:YouTube
+As an external link: * Sometimes. Videos from "official channels", like the United States' Naval History &amp; Heritage Command, are more likely to be accepted than other links.
+As a reliable source: * Sometimes. If the source would normally be considered reliable (e.g., a segment from a well-known television news show, or an official video channel from a major publisher), then a copy of the source on YouTube is still considered reliable.
+Common issues:
+Videos must be carefully screened for copyright violations (WP:ELNEVER, WP:COPYLINK, WP:YT). The creator of the video must be verifiable as an official channel for the source. Do not link to copyright violations in citations, even if they reproduce information, such as news reports, that might otherwise be considered reliable.
+Many readers (especially users on restricted or metered bandwidth, or those behind restrictive corporate or educational firewalls) are unable to view videos.
+Videos often contain less information than alternative websites or the Wikipedia article itself (ELNO#1).
+Videos must be labeled with software requirements (Rich media).
+Editors enforce a particularly high standard for links to videos.
+YouTube's URL shortener domain youtu.be is blocked via the spam blacklist as are numerous other URL shorteners. Full YouTube links are permitted but if added by new users may be reverted by User:XLinkBot.
+General comment: Because the Commons and Metawiki have a 100MB limit on files some files are added to YouTube for use in Wikipedia that are gathered from United States government sources such as the National Archives by WikiProject FedFlix or other projects. These files can be used on Wikipedia articles if available.
+Petition sites[edit]
+As an external link: N No. Especially when the petition is still open.
+As a reference: * Sometimes. Generally, the only notable facts that a petition site is a reliable (albeit primary) source for is for its existence, the petition wording, the start and end dates, and for the final outcome after the petition is closed. A notable petition will usually be reported on by an independent source, which will have the final outcome and may also have analysis of the results and its impact. Information about petitions should generally not be included without independent, secondary references showing notability of the petition.
+Common issues: If no other sources exist defining notability, the information should not be linked, as it generally amounts to soapboxing and may result in BLP-type problems on pages about living people or active organisations.
+General comment: A large number of petition sites are blacklisted and can not be linked to.
+Objectionable content[edit]
+WikiLeaks[edit]
+See also: WP:RSP §&nbsp;WikiLeaks
+As an external link: * Maybe. If WikiLeaks contains information that is directly relevant to the specific subject of the article, then editors may choose to provide a link. For example, if a particular page on WikiLeaks is discussed extensively in the article (and sourced correctly to reliable sources that are ideally third-party and independent), then editors may include an external link to that page.
+As a reliable source: * Maybe. The documents on WikiLeaks are reliable primary sources for the fact that WikiLeaks contains or says certain things, but not necessarily for any claims that the documents' contents are true, correct, unfabricated, actually happened, etc.
+Common issues: Some editors allege that it is illegal (for anyone in the world; for Americans) to link to WikiLeaks or that it is immoral to link to WikiLeaks, because it will place people (soldiers, civilians, spies) in harm's way.
+Companies[edit]
+Amazon[edit]
+See also: WP:RSP §&nbsp;Amazon
+ShortcutWP:AMAZON
+As an external link: N Almost never.
+As a reliable source: * Sometimes. This website is usually used for past or upcoming media release dates. Certain media such as printed works may have an "official website" that only links to Amazon as the distributor. User submitted reviews on Amazon are not considered reliable, and should not be used.
+Common issues: Amazon has come up many times on WP:RSN (History link) where some editors have argued that adding the website is considered advertising.
+General comment: Amazon and other retailers commonly use placeholder release dates for upcoming products that are not officially announced elsewhere.
+eBay[edit]
+ShortcutWP:EBAY
+As an external link: N Almost never. Do not link to items for sale. Wikipedia isn't the place to promote whatever you are selling. Blog posts or similar pages might rarely be acceptable.
+As a reliable source: * Maybe. eBay has been used by reliable sources for historical auction records. Editors should use common sense here by making sure that the auction is noteworthy before adding the source.
+Common issues: Make sure you archive the source as links to eBay expire after a period of time.
+See also[edit]
+Wikipedia:Reliable sources/Perennial sources
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:External_links/Perennial_websites&amp;oldid=1056096197"
+		Categories: Wikipedia supplemental pagesWikipedia cultureWikipedia external linksWikipedia link helpHidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		Українська中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 19 November 2021, at 18:25&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

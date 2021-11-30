@@ -1,0 +1,475 @@
+
+
+
+
+Category:Redirects to help namespace - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	Help
+	
+	
+	Category:Redirects to help namespace
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+
+The pages in this category are redirects from pages outside the help namespace to pages inside the help namespace. To add a redirect to this category, place {{Rcat shell|{{R to help namespace}}}}  on the second new line (skip a line) after #REDIRECT&nbsp;[[Target page name]]. For more information follow the links. Never substitute redirect template(s), nor place them on soft redirects.
+See also the complete list of redirect templates and the redirect style guide.
+This is a maintenance category, used for maintenance of the Wikipedia project. It is not part of the encyclopedia and contains non-article pages, or groups articles by status rather than subject. Do not include this category in content categories. 
+This is a tracking category. It builds and maintains a list of pages primarily for the sake of the list itself. They are not part of the encyclopedia's categorization scheme.
+
+This category is hidden on its member pages—unless the corresponding user preference (appearance → show hidden categories) is set.
+These categories can be used to track, build and organize lists of pages needing "attention en masse" (for example, pages using deprecated syntax), or that may need to be edited at someone's earliest convenience.
+These categories also serve to aggregate members of several lists or sub-categories into a larger, more efficient list (discriminated by classifications).
+Pages tagged with {{R to help namespace}} are automatically sorted into this category.
+
+
+Pseudo-namespace redirects and cross-namespace redirects are helpful for creating shortcuts.  It is not necessary to replace redirected links with piped links.
+
+
+Contents 
+
+Top
+0–9
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+
+
+
+
+
+Pages in category "Redirects to help namespace"
+
+
+The following 200 pages are in this category, out of approximately 1,104 total. This list may not reflect recent changes (learn more).
+(previous page) (next page)&nbsp;
+Template:R to help namespace←
+Wikipedia:←+
+Wikipedia:+$
+Wikipedia:$$$0–9
+Wikipedia:1st
+Wikipedia:1ST
+Wikipedia:2FA
+Wikipedia:2FAPC
+Wikipedia:2FAPHONE
+Wikipedia:2FATABLET
+Wikipedia:409A
+Wikipedia:AATP
+Wikipedia:ACCESS2FA
+Wikipedia:ACCESSDATE
+Wikipedia:Advanced typesetting
+Wikipedia:AES
+Wikipedia:AGRL
+Wikipedia:ALPH
+Wikipedia:Anchor
+Wikipedia:ANCHOR
+Wikipedia:ANDROID
+Wikipedia:APP
+Wikipedia:ARCHIVE
+Wikipedia:Archiving a Talk Page
+Wikipedia:ARTICLECOUNT
+Wikipedia:Automatic edit summaries
+Wikipedia:AUTOSUMMB
+Wikipedia:Backlink
+Wikipedia:Backlinks
+Wikipedia:BASEPAGENAMEC
+Wikipedia:CAB
+Wikipedia:Canonicalisation
+Wikipedia:Canonicalization
+Wikipedia:Canonisation
+Wikipedia:Category namespace
+Wikipedia:CENTRALAUTH
+Wikipedia:CHEAT
+Wikipedia:Cheatsheet
+Wikipedia:Citation Style 1
+Wikipedia:Citation Style 2
+Wikipedia:Citation tools
+Wikipedia:CITELABEL
+Wikipedia:CITETOOL
+Wikipedia:COLON
+Wikipedia:COLONTRICK
+Wikipedia:Colours
+Wikipedia:CONTRIBS
+Wikipedia:CREATE
+Create a wikipedia page
+Create an article
+Create article
+Create pages
+Wikipedia:CREATEBOT
+Wikipedia:Creation and usage of media files
+Wikipedia:CS1
+Wikipedia talk:CS1
+Wikipedia:CS1PROBS
+Wikipedia:CS2
+Wikipedia:CSS
+Wikipedia:CSVAN
+Czech phonetic transcriptionD
+Wikipedia:DA
+Wikipedia:Debugging in lua
+Wikipedia:DEFAULTSORT
+DEFAULTSORT
+Wikipedia:Diff
+Wikipedia:DISABLE2FA
+Wikipedia:Dummy edit
+Dummy edit
+Wikipedia:Duplicate section name
+Wikipedia:Duplicate section names
+Wikipedia:Duplicative section name
+Wikipedia:Duplicative section names
+Wikipedia:DUPSECTIONNAME
+Wikipedia:DUPSECTIONNAMES
+Wikipedia:DUPSECTNAME
+Wikipedia:DUPSECTNAMES
+Wikipedia:Dutch Wikipedia language linksE
+Wikipedia:ECF
+Wikipedia:ECHO
+Wikipedia:EDC
+Wikipedia:Edit box
+Wikipedia:Edit conflict
+Wikipedia:Edit conflicts
+Wikipedia:Edit screen
+Wikipedia:Edit summary
+Wikipedia:Edit window
+Wikipedia:EDITB
+Wikipedia:EDITBEGIN
+Wikipedia:Editing help
+Wikipedia:Editing pages
+Editing Wikipedia
+Wikipedia:EDITSTART
+Wikipedia:Editsummaries
+Wikipedia:EDS
+Wikipedia:EDSUM
+Wikipedia:ENABLE2FA
+Wikipedia:ES
+Wikipedia:Esperanto language links
+Wikipedia:EXPLNOTEF
+Wikipedia:FIES
+Wikipedia:FILE
+Wikipedia:File link
+Wikipedia:File namespace
+Wikipedia:FIND
+Wikipedia:FIRST
+Wikipedia:FMERGE
+Wikipedia:FN
+Wikipedia:Footnotes
+Wikipedia:FOOTNOTES
+Wikipedia:Formula
+Wikipedia:FORMULA
+Wikipedia:Formulae
+Wikipedia:FORMULAE
+Wikipedia:Free link
+Wikipedia:Free Link
+Wikipedia:Free links
+Wikipedia:Free Links
+Wikipedia:French Wikipedia language linksG
+Wikipedia:Gallery tag
+Wikipedia:German Wikipedia language linksH
+Wikipedia:H
+H:
+H:?
+H:$
+H:$$$
+H:2FA
+H:2FAPC
+H:2FAPHONE
+H:2FATABLET
+H:A
+H:AAS
+H:ABOUT
+H:AC
+H:ACCESS2FA
+H:AES
+H:AGRL
+H:AL
+H:ALL
+H:ALPH
+H:AO
+H:AQGT
+H:AR
+H:ARC
+H:ATF
+H:B
+H:BC
+H:BCHART
+H:BK
+H:BLOCKED
+H:BOOLEAN
+H:BR
+H:BTM
+H:BUY
+H:Buying Wikipedia
+H:C
+H:CA
+H:CAL
+H:CAT
+H:CATS
+H:CE
+H:CE1
+H:CEERD
+H:CEGWR
+H:CEIR
+H:CELLG
+H:CEN
+H:CENAU
+H:CERDK
+H:CERGM
+H:CERIP
+H:CERIPG
+H:CERMK
+H:CERMP
+H:CERNBL
+H:CERNI
+H:CERNK
+H:CERNKY
+H:CERNT
+H:CERNUK
+H:CERTMK
+H:CHARSTR
+H:Cheat
+H:CHEAT
+H:Cheatsheet
+H:CI
+H:CITE1
+H:CITE2
+H:CITEMERGE
+H:CITEMSG
+H:CL
+H:COL
+H:Color
+H:Colorblind
+H:COLS
+H:COMPIMG
+H:CON
+H:CONEX
+H:CONM
+H:CONU(previous page) (next page)
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Category:Redirects_to_help_namespace&amp;oldid=1039761059"
+		Hidden categories: Hidden categoriesWikipedia semi-protected categoriesAll redirect categoriesRedirect tracking categoriesCross-namespace redirectsRedirects to help pagesTemplate Category TOC via CatAutoTOC on category with 901–1200 pagesCatAutoTOC generates standard Category TOC
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		CategoryTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		भोजपुरीفارسی
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 20 August 2021, at 15:45&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

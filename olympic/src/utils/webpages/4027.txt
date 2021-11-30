@@ -1,0 +1,654 @@
+
+
+
+
+Wikipedia:Expert retention - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Expert retention
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		"WP:QUIT" redirects here. For reasons for quitting Wikipedia, see Wikipedia:WikiProject Editor Retention/Discovered reasons given for leaving Wikipedia. For the general page about leaving Wikipedia, see Wikipedia:Retiring. For the "rage quit" essay, see Wikipedia:Rage quit.
+This is an essay.
+It contains the advice or opinions of one or more Wikipedia contributors. This page is not an encyclopedia article, nor is it one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community. Some essays represent widespread norms; others only represent minority viewpoints.ShortcutsWP:EXRWP:QUIT
+  How can we attract and retain experts in Wikipedia? If Albert Einstein were alive today, would he want to contribute?
+
+
+The issue of how to attract and retain expert editors, given the anarchic and often frustrating nature of Wikipedia, is one that many Wikipedians feel needs to be addressed. Based on the thousands of articles needing expert attention, there is clearly a need to encourage their participation and for the community to accommodate them.
+
+
+Some expert editors have withdrawn because of discontent with Wikipedia's policies and processes. No study has been undertaken to determine whether such a withdrawal has occurred in numbers significant enough to be problematic. Nevertheless, the perception alone may be sufficient to cause concern that material in Wikipedia is not written to a high standard of accuracy or completeness because of a lack of participation by subject matter experts.
+
+Contents
+
+1 Introduction
+
+1.1 What is an expert editor?
+1.2 Does Wikipedia value expertise?
+1.3 Aims of this article
+
+
+2 Stated reasons for discontent
+
+2.1 Edit creep
+2.2 Failure to recognise edit creep
+2.3 Cranks
+2.4 Lack of adherence to or understanding of scholarly values
+2.5 Vandalism
+2.6 Procedures
+2.7 A cumulatively dysfunctional system
+2.8 Discrimination against Living Inventors
+
+
+3 Proposed solutions to the problems
+
+3.1 Peer review system in Wikipedia
+3.2 End anonymous editing
+3.3 Three deadly rules
+3.4 Expand ArbCom to deal quickly with cranks
+3.5 Featured Articles as a cure for edit creep
+3.6 Ban tendentious editors
+3.7 The problem with banning editors
+3.8 Ban editors from both articles and talk pages
+3.9 Create a parallel series of Expert Editions
+3.10 Disallow ephemeral sources
+3.11 Improving the quality of debate in talk pages
+3.12 Project-based control
+3.13 Recognition
+3.14 A combination of approaches, to help WikiProject experts
+3.15 Reject Wikipedia:Ignore all credentials
+
+3.15.1 Verifying credentials
+
+
+3.16 Encourage experts to write supporting articles
+3.17 Ease up on conflict of interest rule
+3.18 Watch articles
+3.19 Not worry about it too much
+
+
+4 Links documenting "expert frustration"
+5 See also
+6 References
+7 External links
+
+
+
+Introduction[edit]
+What is an expert editor?[edit]
+
+
+For the purposes of this essay, an expert editor is a user with an advanced degree, such as a PhD, a professional degree, such as a Juris Doctor or equivalent professional expertise (e.g., a widely published novelist) who is contributing to Wikipedia in their field of expertise. Some editors may consider graduate students who are working on doctoral degrees to be functioning at a high level of expertise, though lower than a professor with a PhD.
+
+Does Wikipedia value expertise?[edit]
+
+
+(I am) perhaps anti-credentialist. To me the key thing is getting it right. And if a person's really smart and they're doing fantastic work, I don't care if they're a high school kid or a Harvard professor...— Jimmy Wales[1]
+
+
+If by "Wikipedia" one means its values as expressed in policy, then it can be said that Wikipedia definitely does not value expertise. Attempts to establish a policy on credential verification have failed. There are competing essays that say credentials are irrelevant and that credentials matter. An attempt to push through a policy to ignore all credentials failed, though it received considerable support.
+
+
+The culture of Wikipedia has no single commonly held view, as is illustrated in the discussion pages of the above cited essays and proposals. However, the lack of consensus (and indeed doggedly opposed parties) results in a perceived lack of respect for expertise, a deference normally found elsewhere in society. Anti-expertise positions often are not acted against, so they are in effect encouraged. And as they are encouraged, they more than negate any positive regard for expertise, since the latter is only expressed, at present, in the consideration given by individual editors to those whom they recognize as experts.
+
+
+This article arose out of Wikipedia:Expert rebellion, in which discontent was spurred by situations in which amateurs promoted dubious or plainly wrong positions in spite of their utter lack of knowledge of the topic at hand. It appears that the original complainants have largely abandoned further efforts in this regard; some have left, and some have not, but in either case complaints are registered on many user pages.
+
+Aims of this article[edit]
+
+
+This article is an attempt at a community project to investigate this issue, and an investigation into what changes might be useful.
+
+Stated reasons for discontent[edit]
+
+
+Please only list here reasons that can be directly attributed to expert authors
+
+Edit creep[edit]
+According to User:Hillman "Articles reach a state of which WP can be proud, but then are gradually dismantled by careless edits, sometimes from well-intentioned registered users who are too hasty or inexperienced to take care not to shove in new material any old place, but rather to try to find some place where it fits neatly, or barring that, rewriting nearby paragraphs in order to correct any damage done to the previous flow of ideas."[2]
+Novice editors are typically insensitive "to the sometimes challenging high-level intellectual task of seeing how to fit material they wish to add into the existing structure and vision of a given article. In an unstructured wiki model, all too often, novice writers prove unable to maintain consistent paragraph structure, verb tense, terminology, and notation. Or even worse, they often do not appear to even be aware of such issues!".[2]
+" ... other irritants include those that feel the need to 'polish' otherwise stable articles with bad grammar and oversimplifications; editors for whom English is a second tongue but have no grasp of this language's idiom making a stand on what they perceive the meaning to be".[3]
+Failure to recognise edit creep[edit]
+There is a widely held belief in the WP community that there is no such problem. "Hillman talks of 'the naive expectation that Wikipedia articles tend to naturally improve monotonically, at least "on average'". [Franco] A dangerously naive WP myth holds that (apparently by some previously unknown law of nature) articles can only improve monotonically in quality."[2]
+Cranks[edit]
+
+
+These fall into two classes:
+
+The loners. "Some users pose a particularly insidious threat to the content value of the Wikipedia, because they are engaged in a persistent, determined, and often quite ingenious campaign to portray their highly idiosyncratic (and dubious) personal opinion as well-established mainstream scientific or historical fact.".[2] "By nature the classic crank is only interested in his own unique and bizarre vision (and cranks often abuse each other with extreme viciousness)". Hillman.[4]
+"A few months before I left I was treated to the spectacle of no less than six editors claiming PhDs trying to reason one of these idiots out of his notions of the existence of a ceramic gas, and thinking what waste of talent. In the end the crank had to be brought before ArbCom and was subsequently barred, but only after tying up mine and several other editors time for months. Undaunted, this individual has opened several sockpuppet accounts and continues to push his ideas on the same pages he was barred from. The fiction is that these people need to be educated in the ways of the 'pedia&nbsp;— the truth is that by in large they are beyond redemption because they are parasites, scofflaws or insane."[3]
+Crank groups. "There are fairly sizable subcultures which adhere strongly to various anti-scientific conspiracy theories (e.g. Free energy suppression) or anti-scientific political movements (e.g. Intelligent design) masquerading as "scholarship", and therefore many science/math articles at Wikipedia have been slanted in cranky ways by several editors working together." (Hillman,[4]). "The bad guys (the ideologues, hoaxers, linkspammers, crank physikers, undercover political "dirty tricks" operatives, and guerrilla marketeers, among others) are winning this struggle for control of the Wikipedia.".[2] "There is an oddball... who has edited in passages of bewildering incoherence... What is happening is precisely what I feared... the work is being bowdlerised and corrupted"[5]
+Lack of adherence to or understanding of scholarly values[edit]
+
+
+Hillman. "in order to make good judgements in content disputes regarding encyclopedia articles on scientific subjects, one must neccessarily adopt scholarly values. Unfortunately, the populist values of many prominent Wikipedians are generally antithetical to scholarly values, which is a huge part of the problem in attempting to deal with bad content in the scientific categories."[2] "There exists a class of editor so driven by ideological agendas that they simply will not recognize Wikipedia's Neutral Point of View Policy or seem to believe that it means that it guarantees uncritical place for their interpretations regardless of how flimsy the supporting facts or underlying logic might be. Worse, after an exhausting effort to bring these under control in a few months a fresh batch of POV pushers, unrelated to the first, show up to the same topics and the process must begin again from scratch."[3]
+
+
+"I am sorry to report that I begin to feel-after very few weeks of browsing and editing-the whole Wikipedia enterprise verges on the worthless... It's a pity, really-but there are just too many people with perverse agendas, who care little for clarity or objective truth.... I did try reversion,.. but it was promptly edited back again without explanation. The whole exercise then becomes pathetically childish, and I simply refuse to compromise myself any further. If people prefer ignorance, so be it. I do not want to give you the impression that I consider myself to be infallible; I am as capable of error as any other individual; but I always welcome reasoned challenges to any point I put forward. Apart from one or two people.. it is not forthcoming."[6]
+
+
+"There is, I think, a deep flaw in the philosophical grounding of the whole project, the assumption that 'truth' can somehow emerge through consensus. What emerges-depending on the topic- is a kind of mad Berkeleian world, where ideas struggle for dominance in complete disassociation from physical reality-I shout the loudest, therefore I am!."[7]
+
+
+The expert has to seriously wonder about being part of a project at all that highlights a Featured Articles like Wonderbra on the front page.[1]
+
+Um, but what if your particular area of expertise is women's clothing, or more specifically, women's undergarments. Seems like a perfectly reasonable candidate for a feature article.
+
+
+We are making an encyclopedia about everything. I am an expert about some aspects of chemistry. For everything else I look at or edit I am not an expert but just an ordinary editor, so I do not wonder about Wonderbra.
+
+Vandalism[edit]
+
+
+"the constant drizzle of schoolboy vandalism."[3]
+
+Procedures[edit]
+
+
+A comment when the Template:Tone tag had been placed on an article: "If you think it needs work then do it instead of adding puerile tags"[8]
+
+A cumulatively dysfunctional system[edit]
+
+
+
+
+Wikipedia's days are numbered, I fear, consumed by its own nonfeasance. Tribes of influential (= have the most free time on their hands) admins and editors have decided that WP policies say something other than what they actually say. They want to have loose reins to make WP their playground for their own particular agendas. People who follow strict and standardized interpretations of policies threaten that and must be stalked and rebuffed.
+
+
+
+
+The problem on WP is not so much the obvious trolls but the ones who make editing painful for other editors by repetitive questions, tendentious editing, private agendas hidden beneath yet lord of all arguments; immature teenagers and college students who view biographies of living persons as their private political platform rather than a task requiring the utmost responsibility and mature outlook, all in recognition that words can be like flames and real lives can and sometimes really are ruined or at least permanently altered; people who fill up talk pages with nonsense, who see the truth of contrary arguments yet refuse from selfishness to acknowledge them; who endlessly WP:Wikilawyering in order to pettifogg the most obvious points, and enforce not the policies but the policies as they privately interpret them through the grid of their own private agendas.
+
+
+
+
+Most people like me ended up at Missing Wikipedians much sooner, and many such people are enjoying the heck out of other, more responsible wikis, and some enjoying reading the jabs at places like Wikitruth. The price that has been paid and will continue to be paid until something changes is a Project in the guise of an encyclopedia that cannot even be cited by 1st graders, lest high schoolers. Welcome to your Wikipedia. I am done. CyberAnth 20:43, 14 February 2007 (UTC)
+
+
+Discrimination against Living Inventors[edit]
+
+
+Having had the misfortune to discover/invent Flow-Based Programming (FBP) about 50 years ago, I naturally wanted to share it with the world.  I am glad to say it is steadily gaining acceptance, and I am now seeing a plethora of "classical" FBP and FBP-like products, especially some recent ones incubated by Apache.  Unfortunately the WP article, originally written in 2006, cannot be kept up-to-date because back around 2016 someone decided that any changes to it were "self promotion".  I was also removed from the list of WP "notables", which I was nominated for a number of years ago, and I confess was a source of some pride (blush).  I could, I suppose, ask one of my colleagues to update the article, but wouldn't that be "sock-puppetry"?  Bottom line: the article is old, and getting older, indirectly impacting WP's overall credibility.
+
+
+I have run across similar things in the past, although not as extreme: one post by me that I had personal knowledge of, about my Sunday School teacher when I was in my late teens (he is a WP notable), was disallowed "because it wasn't documented" - I was taught by him, for heaven's sake! Another post was disallowed because it referenced a web site, not a dead trees article! Why is paper more credible? At a more general level, with these rules, how is WP going to be able to capture living knowledge? 
+
+
+These problems all seem to relate to the WP credibility issue, especially with respect to living informants, and, while I have defended WP to all comers in the past, these problems have left a bad taste in my mouth! So my question is whether WP has any interest in finding solutions to issues that I believe impact on WP's credibility. Jpaulm (talk) 18:36, 14 July 2020 (UTC)
+
+Proposed solutions to the problems[edit]
+
+
+Please suggest here solutions based directly upon the discussion of problems only&nbsp;— for concepts not drawn directly from detailed problems
+
+Peer review system in Wikipedia[edit]
+
+
+I believe that scholarly experts are needed because many pages with scientific content, at least in my field, need serious edits. However, my experience with posting a page on a scientific conference with links for students, post-docs, and senior scientists is rather discouraging. The main problem with specialty pages is notability of the subject, which is somewhat ill-defined if pages get immediately deleted. Usually, external sources on conferences or organizations are rare (with exception of the respective webpages, of course), but interest to gain knowledge once a page is created may be pretty significant. My suggestion is to introduce a peer-review system like the one existing for other scientific contributions (and actually existing for "classical" encyclopedias such as the Encyclopædia Britannica). Notify the editor of a problem, allow for a correction, but do not delete within 7 days (my article got deleted in less than one day).Ebieberich (talk) 07:08, 16 December 2010 (UTC)
+
+The main issue never really mentioned for obvious reasons is that dispute resolution on wiki happens on a personal rather than substantive/professional level. Just look at the any resolution board or such, and observe that ~100% of decisions are made on the basis of trite rule violations or other politics by so and so and almost never on the veracity of the content itself. While this might work for similarly trite topics such as American Idol where being right mostly doesn't matter, the same approach is obviously fallacious in any STEM related issue.
+This is result of the fact that most admins (or any editor with social power) simply don't have the background to grasp that there's such a thing as "objective reality", and are evidently more comfortable with people drama than arguing or otherwise working with facts. There's no fix for this sort of system incompetence, and as a whole wiki just falls back on the coincidental premise that technical topics are not contentious enough for the incompetent to get involved.  71.217.118.226 (talk)
+End anonymous editing[edit]
+For the definitive statement of this perennial suggestion, which has been suggested since 2003, see m:Anonymous users should not be allowed to edit articles; see also IPs are human too
+Anonymous editing should be eliminated if only to cut down on the vandalism level.
+Require positive (and difficult-to-forge) identification so that banned editors cannot come back under yet another sockpuppet account.
+Anonymous editing has served its purpose, no one can rationally argue that Wikipedia's policy of permitting anyone to edit is not well known, and thus needs to be promoted. The argument that most editors started off as anons is somewhat disingenuous as it assumes that these folks would not have opened an account had they not first contributed without one. There is simply no proof of this statement at all.
+Wary internet users aware of the hazards of being spammed to death or having their computers hacked when they identify themselves on a new website may initially dabble in Wikipedia as anonymous editors. When the overall experience is positive, and they come to understand the system, then they may come on board and obtain an identity. Being very quick to semi-protect frequently vandalized pages may be the better compromise solution. People new to wikipedia could thus understand the need to have something positive to contribute and "earn" their way in by making contributions to less-protected articles first.
+How about making the most contentious articles -- the ones that have been edited the most often -- more difficult to edit? How about requiring editors to have made X number of edits before editing an article that has been edited Y times? Proper levels of X and Y to be empirically determined. Right now, some articles are functioning merely as bulletin boards. Frex, the Muhammad article is reworked several times a day, by a never-ending flood of new editors, a great many of whom seem to me to be motivated by the opportunity to piss off actual live Muslims. If only editors with over 10,000 edits, say, could work on the article, it would stabilize rapidly. I don't think we'd be missing any great new information (I don't think any has been added in the last year!), we'd just lose all the attempts to capture the article for one POV. Editors would have to EARN the right to edit the contentious articles. Also, if we threw out the loons faster, we wouldn't have any loons upending the contentious articles. Zora 23:24, 8 October 2006 (UTC)
+I completely agree that anonymous editing should not be allowed. In my short time on Wikipedia, I have seen numerous anonymous edits bordering on sheer malicious vandalism. Randomly changing values/numbers on articles, adding the word "not" after does to change a positive into a negative, etc. I bet some of these exist just to add factual errors into otherwise-decent Wikipedia articles. Shrumster 20:19, 18 February 2007 (UTC)
+
+
+There is another possible solution which no one has apparently suggested so far. Namely, make multiple articles available on the same subject. This is what happens in peer-reviewed scholarly journals. Experts will typically write contrasting articles on the same subject, often drawing different conclusions, especially in "soft" subjects like history or the fine arts. Scholarship then consists of comparing these different articles and drawing conclusions about the overall validity of one argument as opposed to another. It's not obvious why Wikipedia must limit itself to one article about each subject. While it remains quite true that traditional encyclopedias would never consider such a solution, Wikipedia is not a traditional encyclopedia, and there is no obvious reason why Wikipedia need limit itself to modes of presentation based exclusively on the print models of traditional encyclopedias.
+
+
+Another possible solution would involve the revival of the medieval practice of glosses. A gloss in a medieval text involved commentary on the original text printed surrounding the original text. In some cases, medieval texts not only provided a gloss on the original author, but a gloss on the gloss.
+
+Three deadly rules[edit]
+There are three policies that experts do not encounter in their professional settings:
+Wikipedia:Ignore all rules
+Wikipedia:Consensus#Consensus can change (AKA "No binding decisions")
+Wikipedia:Arbitration policy/Past decisions stating that the ArbCom is not bound by precedent
+At the root of all of the above issues is Wikipedia’s corpus of policy. It is gaps in this area that create the conditions that permit cranks and the incompetent to operate freely and makes bringing them under control such an exhausting exercise. The issue with the rules here stems from the fact that they are all in tension with each other. The "No binding decisions" policy is an invitation for anarchy. Exacerbating this condition, ArbCom has as part of its policy that it will not be bound by precedent. As a consequence this internal tension cannot ever be eased by due process. The excuse that this is to avoid having to repeat a ruling that may have proved not to be workable, is ludicrous on its face; they are not the last level of appeal, that belongs to the Foundation and [Jimmy] Wales. If a precedent needs overturning it can be done there.
+A doctrine of open ended rules was appropriate in the beginning of the Project; it provided room for quick maneuver and adjustment during the initial phase and allowed for some flexibility as the project defined itself. However if it is to mature beyond its present state some solidification has to occur. Getting rid of those three 'anti-rules' would be a good start.
+Of course, if other "well-intentioned" rules that experts find anathema to their experience in their stable, collegial and productive environments become policy, then they also might be added to this list. Note that User:Larry Sanger/Origins of Wikipedia notes that one of the policies that Jimmy Wales encourages was "the decision not to ban trolls until after a protracted public discussion". Jimmy Wales, who in April 2006, publicly declared himself to be an "anticredentialist" (see Time 100 story), then stated at the Wikimania in August 2006 that Wikipedia is in need of more work on quality of articles (as opposed to quantity), and expert editors are amongst some of the most able members of the community for much of this quality improvement drive. But the reality is that Wikipedia/WikiMedia does not "die" if experts are lost, Wikipedia dies if it runs out of money and money and fundraising requires traffic volume. The question is, will Wales require volume first, volume last and volume everywhere in between? That is certainly the model of Wikia.
+In well-funded, prestigious institutions, credentialed cranks sometimes penetrate the environment deeply enough to cause disruption of the work of experts (both cranks and experts being somewhat loaded terms). What Wikipedia lacks is the means to certify experts and thereby give them elevated access to articles, perhaps with the ability to easily limit or possibly exclude exceptionally disruptive cranks based on articles (or perhaps category), lack of credentials and a history of adding information that is false or otherwise low-quality. The process is curently dominated not by issues of article quality but by social or "community" concerns that experts are not as motivated by.
+Expand ArbCom to deal quickly with cranks[edit]
+Cranks show themselves early on, not immediately perhaps, but sooner than most problem editors. One thing that works very well, albeit slowly, in dealing with problematic editors is ArbCom. Naturally as a court of last resort that is involved largely with serious charges of rule-breaking, cases that wind up there are complex and thus require careful and lengthy examination of the evidence. However all of the conflicts that wound up at ArbCom, started as content disputes that escalated. Looking back on many other cases that have gone to ArbCom it's apparent that this is the situation in for most of them, and in the overwhelming bulk of those there was an apparent violation of basic policy, like one of the five pillars, or what Wikipedia is not. Had evidence been presented then and there a ruling could have been made and it would have been over. Some of these were clear issues of NPOV violations, yet the bickering went on for months until it got to the point where behavior problems broke out and it was on these that it went to arbitration.
+The present system of dispute resolution is quite simply overwhelmed which results in disputes escalating far beyond the point where they need to be, thus becoming far more complex to sort out than they have to be. The solution is to create a much larger pool of arbitrators who would accept cases earlier in the conflict, and expand the purview of arbitration to include violations of basic policy.
+Featured Articles as a cure for edit creep[edit]
+An established process exists to nominate and approve an articles promotion to the status of ‘featured,’ also a similar process can be invoked to demote it. Featured should also automatically render the entry fully protected. At least until it falls back down to the lower level. Or alternatively semi-protection is another consideration.
+Talk pages would still be open, of course, and should it be felt that some error, or important new information need to be inserted, it could be discussed first and when consensus had been reached any administrator could unprotect the article to permit changes to be made and lock it up again after. Should the contents need a more detailed reworking then a nomination to have it demoted would pass through existing channels. Thus this doesn't mean an article is declared "finished," only that an extra layer of oversight is added to prevent unilateral changes without broad support.
+Editors would be encouraged by this policy to clean-up and nominate entries as they would know that there would be some stability obtained from their efforts. As it stands it’s just not worth the trouble as nothing is gained except exposing your work to more intense vandalism.
+Ban tendentious editors[edit]
+
+
+
+"To attract and retain the participation of experts, there would have
+ to be little patience for those who do not understand or agree with
+ Wikipedia's mission, or even for those pretentious mediocrities who
+ are not able to work with others constructively and recognize when
+ there are holes in their knowledge (collectively, probably the most
+ disruptive group of all). A less tolerant attitude toward disruption
+ would make the project more polite, welcoming, and indeed open to
+ the vast majority of intelligent, well-meaning people on the Internet." 
+                                            -- Larry Sanger[9]
+
+
+
+
+Users who persist in making unfounded or poorly-sourced edits, who continually attempt to include original research, who continually attempt to use Wikipedia to promote theories that are widely discredited or continuously attempt to insert unfounded personal beliefs should be blocked or banned from the project. The prevalence of popular misconceptions means that there is a never-ending stream of such editors. At present, 60 percent of Americans do not believe in evolution. Strict application of consensus and the three-revert rule could lead to blocking or banning of an editor for correcting claims that the Earth is less than 6,000 years old, that creationism represents a valid description of the fossil record, and so on. Observed reality is not determined by majority vote.
+
+
+Wikipedia is an encyclopedia that has ambitions to become a serious reference work. Readers ought be able to consult it with the expectation that they get information which, if not always the most well-researched or best-documented, at least does not fly in the face of established knowledge. Articles may be written by experts in the field, or by amateurs; as long as readers can be confident that the information presents the state of the field accurately, the sources does not matter.
+
+
+Some contributors, however, seek to exploit our openness in order to promote controversial or extreme positions, often attempting to present them as fact or as theories which have recognized merit among experts. Other editors stubbornly modify articles to represent their mistaken or distorted interpretation of their sources. Just as Wikipedia chooses to exclude spam and propaganda, we should also choose to exclude advocacy of crackpot theories. Many editors find themselves spending a considerable time repeatedly reverting the edits of users who persist in advocating theories for which there is no discernable support among experts in the field, only to be rewarded by being blocked for violation of the three-revert rule. Persistent attempts to include such material, after being informed that it is inappropriate, should be considered disruption of the encyclopedia and as such the same as vandalism. The logical question that extends from this is, how can it be done without giving experts a special role in Wikipedia?
+
+The problem with banning editors[edit]
+
+
+The problem with such an approach is of course the opposite happening, wherein editors attempting to correct an egregious error or blatantly POV article are labeled as "tendentious" and banned . Groups of determined editors typically "hijack" controversial or popular articles and stake out a POV based on an incorrect position that supports their point of view, defending through sheer numbers or sockpuppets against any opposing edits (see Wikipedia:Tag team). Such behavior is increasingly happening in Wikipedia in cases of "kingdom building" or WP:OWN. Examples of such ownership or "hijacking" behavior can be found in the Wikipedia articles of popular media stars or controversial politicians. Attempts to edit or provide some balance to such articles are usually met with hostile mass reverts of edits done in good faith. The banning of editors is an easily abusable mechanism.
+
+Ban editors from both articles and talk pages[edit]
+Banned editors should lose their rights to both sets of pages. They can continue to dupe unsuspecting new persons to the page, and continue to swamp up discussion. If they make truly good points, other editors will take up the slack.
+Create a parallel series of Expert Editions[edit]
+There are two competing priorities here.
+Cited experts should not have to compete with cranks and other forces of erosion such as edit creep and vandalism.
+The general public should be able to edit Wikipedia pages.
+Accordingly, Wikipedia shall have two versions of TechnicalPages, for example 1) Natural selection (expert edition) and 2) Natural selection (public edition) where Natural selection (public edition) would be governed as the Natural selection page is now and the Natural selection (expert edition) will be opened for edit only by those experts that Wikipedia as a community will elect based on citations to the experts' work in the publications available on PubMed. In this way, the reader can judge between the two versions "Expert" and "Public," and, given the Wikipedia community, the expert version will be expected to lead and anchor the other. But the work of vital experts will not be subject to the current forces of erosion. And the public will still be able to edit Wikipedia as they do now.
+
+
+There is considerable bureaucracy involved. Experts need to be verified. A sensible condition might be having a PhD in the subject area under consideration, a sufficient criterion would be having published at least two papers in reputable journals in the area (so as to encompass individuals who change subject after their PhD). Implied is that experts are only qualified to write about their given subject. This makes a software implementation marginally more complex. Basically, it amounts to "tagging" both people and articles in the flickr/technorati sense (and don't anybody quote me the Revelation here). It also requires some amount of disclosure on the part of applicants.
+
+
+A remaining concern is how to ensure that the articles are still written in a way suitable for laypeople to read. It's also possible that at least some "public" articles will expand at a greater rate than their "expert" equivalents, in which case, the expert version would not be leading the public one.
+
+
+Meanwhile, there is Citizendium, Scholarpedia, and Veropedia.
+
+Disallow ephemeral sources[edit]
+
+
+Currently, articles naturally deteriorate with time, because most articles contain online sources that eventually turn into dead links. Such sources should not be used, both because they are an easily accessible source of crackpot science, and because they undermine the quality of articles by eventually falling to dust. Encourage the use of archiving services for references, such as WebCite. These have been designed specifically to prevent linkrot in academic papers, a standard which Wikipedia articles should adhere to.
+
+Improving the quality of debate in talk pages[edit]
+
+
+An expert is someone who has studied for years to acquire expertise. To acquire expertise, it is necessary to read many books and to submit to the methodology of a field of study. To make sure that an expert get more influence on the contents of an article, i want to propose to promote the acquiring of all relevant literature on a subject and debate on this, before editing an article. The resulting version of an article after the debate can be immortalised in a template on the talk page of the article and on a special project page where the debates are organized. This project page will be hosting several unchangeable versions of articles and it will be an integral part of Wikipedia, without breaking any of the rules, while circumventing the bureaucratic system of Wikipedia.
+
+
+My suggestion on the procedure of a high-quality debate is:
+
+Picking an article.
+Searching for all relevant literature.
+Making sure that all participants of a debate have all the literature. A solution for people who live far away from a major library and can't get most of the literature is to make all literature (temporarily) available on the internet. This would violate copyright in most countries. - Samsara (talk • contribs) 10:13, 18 October 2006 (UTC). Another solution would be that participants get the literature from a major library in their neighbourhood.--Daanschr 10:29, 18 October 2006 (UTC)
+(Picking a chairman with the task to make sure that the debate is about the literature and not about something else. He could also make sure that the debate comes to an end.)
+The debate. The new version of the article will be constructed during the debate. Changes made by casual users to the old version of the article during the debate should be discussed as well. New participants of the debate will be asked to join our project and to read the literature during the debate. New titles can be added during the debate.
+Replacing the old version of the article with the new version.--Daanschr 18:38, 17 October 2006 (UTC)
+
+
+I will try another time to get started. For more information, see Wikipedia:WikiProject critical source examination.Daanschr (talk) 15:38, 20 November 2007 (UTC)
+
+Project-based control[edit]
+
+
+The Wikipedia projects could be used to limit crank/vandals problems. A verified expert could be nominated by administrators or whoever, to have locking and banning rights within a specific project; this expert could, in principle, also be able to nominate other experts to have similar right on sub-projects. This work best with the biological sciences: e.g.: you find that professor D., a most renowned Oxford biologist is a verified contributor of Wikipedia, and you put him in charge of Project Life on Earth; given absolute power over who edits all articles belonging to the project, he could then appoint Dr. C. as the overlord of the animal section, who could in turn appoint somebody else to rule over myriapods. All these could lock and ban only in the domains assigned to them. This sectorialisation would make it so that scientists without much editing ability wouldn't wreak havoc in other fields while still retaining full control of their own. It is a bit of a utopian solution, as it would require massive rewriting of the underlying Wikipedia software, but it could create vast areas of un-cranked content.
+
+Recognition[edit]
+
+
+Using {{expert-subject}} in a sparing, appropriate fashion might help.
+
+
+Assuming that there is a relationship between experts and Featured Articles:
+
+Wikipedia:100,000 feature-quality articles - unlikely goal for 2007, but maybe someday in our lifetimes?
+Wikipedia:List of Wikipedians by featured article nominations - others who function as experts of a sort, some of who have also quit
+Even in List of academic disciplines (which is linked to in the FA list), there are eight entries for hard science. The rest...how shall I put this? Do not require much math or have a lower density of prestige among its peer-reviewed journals.
+Wikipedia:Wikipedia is failing
+A combination of approaches, to help WikiProject experts[edit]
+
+
+Having read over all the suggestions on this page, and having acted as an expert editor for nearly a year now, I think there may be a way to combine a number of the approaches suggested here to minimize some of the sorts of post-editing that frustrates expert contributors like myself (contributing primarily in the context of Wikipedia:WikiProject Arthropods). Most of my contributions are not high-profile articles, and few are ever likely to be Featured Articles (most are, in fact, stubs), but it is pages like this where a lot of expert contributors are needed, because of the technical nature of the subject material, and it is too easy for well-meaning contributors to find outdated or incorrect authoritative resources and make changes that must be undone. In a nutshell, by combining some of the ideas in the sections above regarding "Featured Articles as a cure for edit creep"[2], "Project-based control"[3], and "Recognition"[4], I would suggest that perhaps what would help experts is (and this assumes that what I'm about to say is technically feasible) if articles which are part of a WikiProject are only freely editable by those who are registered participants in the project, while the associated talk pages remain open for non-project participants to make suggestions. What this might entail is changing the standard WikiProject template so it states right up front that users wishing to edit the article must register as a project participant, or else please refer to the talk page. In essence, the WikiProject flag at the top of a page would tell the reader that this is a special article (though not a "Featured Article"), and that there are special rules governing changes to its content. But, like many of the suggestions on this page, this is also fundamentally at odds with the underlying idea that any person, anywhere, can edit any article, any time. I don't see this underlying philosophy as likely to be changed any time soon, so I don't imagine any of the suggestions made in this discussion can ever come to pass; it might, however, come down to something akin to the "Expert Editions"[5] suggestion made above&nbsp;— two parallel pages with differing content, so a reader can choose whether to stick with the expert-only version. Dyanega 19:08, 8 February 2007 (UTC)
+
+Reject Wikipedia:Ignore all credentials[edit]
+
+
+A new policy Wikipedia:Ignore all credentials has been proposed in the wake of the Essjay controversy. This policy should be rejected. False credentials are not nearly the problem that they are being made out to be. Far more common are incidents in which people who are manifestly without any credentials act as if they were the peers of those who are (on the strength of their credentials) genuine experts. If all credentials can be ignored, then we are all experts, and we need not back down in any dispute with someone who may actually know more and understand better than we do. Wikipedia is contentious enough without that extra encouragement.
+
+
+See also Wikipedia:Credentials are irrelevant, a supporting essay which in some ways is worse than the proposal.
+
+Verifying credentials[edit]
+
+
+Some history may be in order here. Wikipedia:Ignore all credentials and other similar proposals arose in reaction to a positive proposal for verifying credentials. Rather than being merely negative, those concerned with expert retention may also want to contribute to developing a positive framework for credentialing within Wikipedia.
+
+Encourage experts to write supporting articles[edit]
+
+
+Experts can write and post citable supporting articles. Non-experts cannot. This can help drive an article over time towards a more correct position even if the expert is not prepared to enter the battle over a Wikipedia article directly. In some cases, experts might be approached by Wikipedia authors in order to supply such supporting articles.
+
+
+Whether it is wise to create a mechanism to protect some links from deletion I lack the experience to judge. I am not a Wikipedia author and I am afraid that a few weeks pottering has convinced me that writing and defending Wikipedia articles directly is not a sensible use of my free time. Writing some supporting articles in areas which are contentious and overlap my field of expertise might be. HonestGuv 20:41, 26 April 2007 (UTC)
+
+Ease up on conflict of interest rule[edit]
+
+
+A book published by a major university press, or by a long-reputable textbook company, should be citable by anyone in the world, and its author should not be the sole person barred from quoting it. Once you've gotten your research through an exhausting process of peer review and into a scholarly text used by the profession, an amateur should not be allowed to prevent you from making use of that information by facile charges of conflict of interest. Kylegann 14:27, 2 May 2007 (UTC)
+
+The guidelines do allow "experts" to cite their own scholarly publications at arms length, NPOV being adhered to, naturally. One problem is that not all the admins know this or sometimes chose to ignore it. I got into a spat with an admin over correcting some details of a bio of a controversial research scientist I know who did early work on MRI. This was all done according to the Wikipedia rules, naturally. I also made the horrendous mistake of revealing my true ID (I'm an MD, PhD researcher).
+Next I know, the admin is wandering thru Wikipedia deleting as many of my postings as he can, under the excuse that I have cited some of my own scientific work. I point out that under the rules this is perfectly OK, as long as the citation is at arms length. So he goes over and attempts to change the rules.
+Meanwhile, members of his "clique" are sending public messages to each other proposing to look very closely at my other postings. Apparently, to send a message. True, there is no "wikipedia cabal". But there are groups of people who cooperate in faking a "consensus"-- against the rules, naturally. The lesson is that you post on controversial subjects at your peril.
+Such behavior constitutes one of the reasons Wikipedia has such difficulty in retaining the various thankless "experts" that really make the thing work.Pproctor 15:55, 16 May 2007 (UTC)
+This matter had an interesting consequence. An Emmy-award-winning documentary film maker is doing a documentary on the history of MRI, of which I was an early wittness as a grad student. As a first step, he looked at the Wikipedia bio of the scientist. He read my input and the argument on the talk pages and interviewed me for the documentary. This shows two things--- people consult wikipedia for a lot of things and the "Real world" tends to trust expert editors over the contentious riff-raff.Pproctor 16:09, 16 May 2007 (UTC)
+A very common situation could be that two authors of books in the category that you describe with widely different views would get into a conflict with eachother. Are amateurs allowed to join in this conflict. Or, if an amateur finds books that oppose the views expressed in the book of an author who wants to help change an article. Would it be allowed to confront the author with these opposing views and be able for the amateur to help shape the article regardless of protests of the author?--Daanschr 07:06, 3 May 2007 (UTC)
+My view is that intellectual debate based on literature should be more prominent on Wikipedia, but not the singlehandedly autocratic enterpherence of a single author of a book.--Daanschr 07:08, 3 May 2007 (UTC)
+In any case, NPOV prohibits this kind of behavior-- BOTH points of view would have to be presented, if they meet NOR, etc, naturally. The real problem is not experts differing with each other, but meddling in technical articles by non-experts who do not understand the limitations of their knowledge.
+Watch articles[edit]
+
+
+Editors must realize that once an article is written that isn't the end of it. It can still be improved upon, updated etc., and yes, there will be people who either vandalize it or make it worse by trying to make it better. An editor who wants their work to remain in good condition needs to be prepared to watch the article as well, ensuring that quality does not deteriorate. Systematic watching of articles may be able to eliminate the so-called 'edit creep' problem. Furthermore, someone need not be a subject expert to maintain an article's quality. Experts should ensure that someone suitable is committed to watching an article if not themselves, which save them from having to maintain the article day to day after working on it. I believe an organized, WikiProject supported maintenance system is required to protect articles from this fate, which is admittedly a gargantuan task. Richard001 00:12, 6 October 2007 (UTC)
+
+Not worry about it too much[edit]
+
+
+I don't really see too much point in trying to convince "experts" to stay on Wikipedia. Amateurs can write very good articles based upon using the experts as sources. I think Wikipedia's articles are slightly biased toward the establishment and their mainstream at he moment (in large part because of the idea that all blogs aren't reliable sources). I would support easing up on verifiability and reliable sources and recognizing some of the larger and more respectable blogs from all viewpoints (particularly those which are notable) as being reliable. I believe it does severe harm to Wikipedia that we aren't following NPOV enough (and clearly, I think a lot of the problem the experts have has to do with their desire to eliminate opposing points of view to their "consensus"). Wikipedia has been far more successful than its competitors Conservapedia and Citizendium in large part because of the policies which the experts dislike. I personally have no problem with any expert interested in editing Wikipedia, as long as that expert wishes to respect policies such as NPOV. However, we don't want to turn Wikipedia into Citizendium for the sake of satisfying a few experts. We should instead work to promote NPOV by accepting certain blogs as "reliable." Life, Liberty, Property 06:37, 5 September 2007 (UTC)
+
+I think it is possible to advance expertise within Wikipedia, without having to cut down on participance. A way of doing that is by creating a database of unchangeble articles, created by experts. I dissagree with you about the lack of problems on Wikipedia. Experts turn their backs en masse on Wikipedia. The Dutch schools and universities try to limit the use of Wikipedia by students, and that is necessary in my view. You underestimate the importance of good factual information and analyses based on years of study.--Daanschr 08:04, 5 September 2007 (UTC)
+This comment is more suited for the talk page, in my opinion. Not that it matters too much, hardly anyone is working on this page. It is like a silent monument.--Daanschr 08:07, 5 September 2007 (UTC)
+Why would an expert spend time editing a Wikipedia article for minimal obvious benefit when they can dedicate time to preparing peer-reviewed, publishable articles? Face it folks, most expert involvement comes because an expert wanders by looking for phrasing that they might use for other purposes, sees something in Wikipedia that is particularly egregious, and repairs it. Most folks who claim to be experts in a topic on Wikipedia are really folks like Essjay who are using the claim to support their edits. But, and this is a big but, in spite of the lack of expert invovlement and the occasional risible article, Wikipedia has improved tremendously over the years&nbsp;— much of this progress comes from requiring references. It isn't broken&nbsp;— don't break it. Williamborg (Bill) 02:50, 5 October 2009 (UTC)
+well, there are a number of authentic experts here who seem to think otherwise. People come here looking for a phrase, perhaps, but then may stay on long-term.  DGG ( talk ) 23:54, 6 October 2009 (UTC)
+There are very good reasons for an expert to contribute to Wikipedia. First, Wikipedia articles are not even remotely similar to articles that are published under the peer-review process. The peer-review process is to advance the field, and publishes articles containing new findings based on the author's recent research. In astronomy, for example, a researcher might typically publish 2-4 peer-reviewed articles per year. A Wikipedia article does not cover an author's latest research (such a thing is prohibited in fact). A Wikipedia article covers material that is more established, that can be supported with third-party sources. A researcher who cares about communicating science to the public may well see Wikipedia as an avenue to do this, in a way that peer-reviewed articles can never be. Thus, Wikipedia does not at all compete with peer-reviewed articles. It competes with other ways of disseminating knowledge to the public, such as books, popular talks and blogs. Compared to these, Wikipedia has pros and cons. The main pro of Wikipedia is reach. The main con is that the efforts of the researcher will be rejected or even penalized by the Wikipedia community. Some researchers choose to contribute to Wikipedia, and others prefer to stick to public talks or other venues.  DanielCarrera ( talk ) 19 January 2013
+Links documenting "expert frustration"[edit]
+Main page: Wikipedia:Expert Retention/Conflicts involving expert editors
+
+
+Some links where contributions from (alleged) subject-matter experts, who consider their contributions to be authoritative, have been reverted or met with resistance by editors who may lack expertise in the subject matter (or in some cases, who may be pushing "crank" theories).
+
+Talk:Consciousness/Archive_2#Oh_Lord.... Consciousness is understood as a symbiosis (interaction) of Mind and Information.
+Controversy over Cantor. Cantor was wrong.
+Talk:Uranium trioxide/Archive 3#Thermodynamics One amateur holds out against a team of PhD's
+Talk:Albert Einstein/Archive 10#Reverted without comment Einstein argued that time is pseudo-directional.
+Talk:pseudoscience An editor holds out for the claim that chiropractic is used to cure homosexuality (hence proving that it is pseudoscientific) in the face of the bemusement of assorted chiropractors and others. When (eventually....) it is shown (by a letter from the equally bemused author) that the claimed reference does not mention chiropractic, he then claims as an alternative V RS, an article in a monthly Society newsletter not listed on ISI, written by a private sex counsellor with an MA in psychology. Nobody has seen the text because that issue is withheld from the Society online archives. He is still active, others have just left in disgust.
+Talk:History of the Internet/Archive 3#Pictures - An editor challenges an expert editor about the meaning/correctness of historical material that the expert scanned in from original hardcopies in his files.
+This edit at the Cow tipping article.
+See also[edit]
+Wikipedia:WikiProject Editor Retention
+Wikipedia:Expert editors
+Category:Articles needing expert attention:  There are many thousands of such pages, but only a few dozen experts in scattered knowledge domains.
+&nbsp;
+Anti-intellectualism
+Wikipedia:Anti-elitism
+Wikipedia:Astronomer vs Amateur, a parody of what we're talking about.
+Wikipedia:Competence is required
+Wikipedia:Expert rebellion
+Wikipedia:Randy in Boise, a class of incompetent editors particularly frustrating to experts
+Wikipedia:We aren't Citizendium
+Wikipedia:Wikipedia editing for research scientists
+User:Curtis Clark/Note to new editors from academia
+User:LinaMishima/Experts Problem
+User:Nikodemos/Asymmetric controversy discusses some of the social dynamic behind these controversies
+User:Raymond arritt/Expert withdrawal
+Wikiversity WikiJournal of Medicine – Academic peer-reviewed publication format for expert-reviewed Wikipedia articles
+Meatball:GoodBye – On departures and threatening to leave
+References[edit]
+
+
+^ Wikipedia: Jimmy Wales November 4, 2006
+
+^ a b c d e f User:Hillman/Wikipedia quality control
+
+^ a b c d User:DV8 2XL
+
+^ a b User talk:Hillman#Crank .28person.29 by User:Vonkje
+
+^ comment by Rcpaterson
+
+^ comment by Rcpaterson
+
+^ comment by Rcpaterson
+
+^ comment by Rcpaterson
+
+^ Sanger 2004, Kuro5hin.org
+
+
+Wikipedia:Quickpolls
+User:LinaMishima/Experts Problem
+Why Wikipedia Must Jettison Its Anti-Elitism by Larry Sanger
+External links[edit]
+Ten Simple Rules for Editing Wikipedia
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Expert_retention&amp;oldid=1050504278"
+		Categories: Wikipedia essays about experts and expertiseWikipedia editor retention
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 18 October 2021, at 07:04&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

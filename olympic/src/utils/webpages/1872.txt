@@ -1,0 +1,1443 @@
+
+
+
+
+Help:Link - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Help:Link
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikimedia help page
+
+
+
+
+"H:L" redirects here. For help with lists, see Help:List.
+This page is about how to mark up links. For a very basic tutorial, see Wikipedia:Tutorial/Wikipedia links. For various URLs of Wikipedia and other Wikimedia servers, see Help:URL.
+This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutsH:LH:LINK
+Linking and
+page manipulation
+Linking and diffs
+URLs
+Links
+Orphans
+Interlanguage links
+Interwiki linking
+Shortcuts
+External links
+External link icons
+Plainlinks
+Link color
+Colon trick
+Pipe trick
+Self links
+What links here
+Linksearch
+Manual of Style on linking
+Navigation templates
+Hatnotes
+Template index for links
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+
+Categorization
+Category
+Categorization guideline
+Classification
+Container category
+FAQ for categorization
+FAQ for categories
+Categories, lists, and navigation templates
+Categorization of people
+By year
+By ethnicity, gender, religion and sexuality
+Redirect categories
+User categories
+Overcategorization
+User categories
+Template index for categories
+
+Moving and redirecting
+How to move a page for beginners
+Redirects
+Moving a page
+Requested moves
+How to fix cut-and-paste moves
+Moving files to Commons
+Userfication
+Template index for moving
+Template index for redirects
+
+Merging
+Merging
+Proposed article mergers
+Requests for history merge
+Merge and delete?
+Merge what?
+Delete or merge?
+Template index for merging
+WikiProject Merge
+
+Splitting
+Splitting
+Template index for splitting
+
+Importing and copying
+How to import articles
+Requests for page importation
+Import
+Export
+Copying within Wikipedia
+
+Protecting
+Protection
+Protection policy
+High-risk templates
+Requests for page protection
+Rough guide to semi-protection
+
+Additional
+How to create a page
+Article creation
+Editing
+Deletion process
+vte
+Play media  A video screencast showing how to create wikilinks
+
+
+This page explains how to make the wikilink, interwiki link, or external web link (as hyperlinks) connections on Wikipedia, which gives readers one-click access to other Wikipedia pages, other Wikimedia projects, and external websites.
+
+
+A link has various (changeable) appearances on the "anchor" page, and the "target" page, which owns the "backlinks", and which can count the links to it with the WP:What links here tool.
+
+
+For a short list of some basic shortcuts, see Wikipedia:Cheatsheet.
+
+
+For guidelines on how links should be used in Wikipedia, see Wikipedia:Manual of Style/Linking.
+
+Contents
+
+1 Wikilinks (internal links)
+
+1.1 Inserting and deleting internal links
+
+
+2 Interwiki links
+3 External links
+
+3.1 http: and https:
+
+
+4 What is an "anchor"?
+5 Section linking (anchors)
+
+5.1 Specifics
+5.2 Duplicate section names
+5.3 Linking to part of a section
+
+
+6 Table row linking
+7 Piped link
+
+7.1 Using a redirect as alternative
+7.2 Automatic conversion of wikitext with the pipe trick
+7.3 Inverse pipe trick
+
+
+8 Subpage links
+9 Special pages links
+10 Changing link appearance
+11 Hover tooltips
+12 Disallowed characters
+
+12.1 Links containing URL query strings
+
+12.1.1 Templates
+12.1.2 Magic Words
+
+
+
+
+13 Link reports
+
+13.1 To a page
+13.2 To a section
+13.3 From a page
+
+
+14 Additional link-related functions
+15 Conversion to canonical form
+16 See also
+17 Notes and references
+
+
+
+Wikilinks (internal links)
+See also: Wikipedia:Manual of Style/Linking, Help:Wikitext §&nbsp;Wikilinks, and mw:Help:Links
+ShortcutH:WIKILINK
+
+
+A wikilink (or internal link) is a link from one page to another page within the English Wikipedia.
+
+
+Links are enclosed in doubled square brackets:
+
+[[1234]] is seen as "1234" in text and links to page "1234".
+
+
+Use a vertical bar "|" (the "pipe" symbol) to create a link and label it with a different name. Links of this kind are said to be "piped". The first term inside the brackets is the page you would be taken to (the link target), and anything after the vertical bar is what the link looks like on the original page (the link label). For example:
+
+[[a|b]] appears as "b" but links to page "a", thus: b
+
+
+See Help:Pipe trick for how to generate some common forms of piped links without typing text after the "|".
+
+
+Non-punctuation text immediately after the closing brackets of a wikilink becomes part of the label without changing the target.  This is useful for plurals and verb forms. For example:
+
+[[apple]]s generates apples, linking to apple, and is equivalent to but more convenient than [[apple|apples]].
+
+
+More complicated examples:
+
+[[a|b]]c gives bc, equivalent to [[a|bc]] .
+a[[b]] gives ab. There are no special rules for text preceding a wikilink.
+[[a]]:b gives a:b since the rule doesn't apply to punctuation. This does the right thing for possessives, like [[Washington]]'s .
+[[a]]''b'' gives ab. (Double apostrophes turn on and off italics.)
+[[a]]&lt;nowiki /&gt;b gives ab. The nowiki tag turns off the rule.
+[[a|b]]&lt;nowiki /&gt;c gives bc.
+
+
+The link target is case-sensitive except for the first character (so [[atom]] links to "Atom" but [[ATom]] does not). Less common ways in which link targets are reinterpreted are described below.
+
+
+If the target of a wikilink does not exist, it is displayed in red color and is called a "red link". Here is a red link example. If a red link is clicked, the user is taken to a blank page where it is possible to create a page using that red linked title. While on that blank page, other red links to this (non-existent) title can be detected using the "What links here" feature.
+
+
+If the target of a link is the same as the page on which it appears (a self-link), it is displayed in bold font, as with: Help:Link.
+
+
+When an edit is previewed before saving, if the target of a newly made link turns out to be a disambiguation page, such as the Peacemaker page, the link should be changed to one of the choices on that page unless the link is purposeful in a hatnote. If necessary, the new link can be piped, such as in [[Peacemaker (comics)|Peacemaker]], which appears as Peacemaker and links to the article about the fictional characters. Readers should not be directed to disambiguation pages unless there is no other option but to do so.
+
+
+Attempting to link normally to an image page, category page or interlanguage link will produce a different effect: this will respectively place the image on the page, add the page to the category, or create an interlanguage link at the edge of the page. To override this behavior, insert an initial colon ":", as in [[:File:Mediawiki.png]], [[:Category:Help]], [[:fr:Help:Link]].
+
+Inserting and deleting internal links
+
+
+Links are inserted and deleted when editing source simply by adding or removing pairs of square brackets enclosing text (plus handling piped links). There are some helpful tools:
+
+When using the WikEd source editor, selectable from Preferences &gt; Gadgets &gt; Editing, there is a "Wiki link" button (typically the first button on the bottom row). When editing, if some text is highlighted, clicking the Wiki link button will enclose it in double quotes, i.e., Wikilink it. If, however, some text is highlighted that includes one or more internal links—in many cases just a single internal link with its delimiting brackets—they will be removed instead. For a single link without pipe, the Wiki link button will toggle between linking and unlinking.
+When using the visual editor, selecting some text, then clicking the link icon above the text box (two links of a chain) will allow the link to be added, offering a selection of possible matches and the ability to pipe.
+Interwiki links
+See also: Help:Interwiki linking, meta:Help:Interwiki linking, and Help:Interlanguage links
+
+
+An interwiki link links to a page on another Wikimedia project website, such as Meta or another language Wikipedia. The target site must be on the interwiki map specified for the source wiki. These links have the same [[...]] syntax as wikilinks (see previously), but take a prefix ":x:" which specifies the target site.
+
+
+For example, [[m:Help:Link]] links to the "Help:Link" page on Meta, while [[:commons:Athens]] links to page "Athens" on Wikimedia Commons as: commons:Athens.
+
+
+Interwiki links can be piped, just as with wikilinks. Remember that an interlanguage link should be preceded by a colon if it is to be displayed, where it is inserted in the text, as an inline interlanguage link; otherwise it will be displayed in the list of interlanguage links at the side of the page (which is appropriate only if it is the most closely corresponding page in the other language Wikipedia). Thus (incorporating the pipe trick), [[:ja:Wikilink|]] would be used to link to Wikilink on Japanese Wikipedia. Example: ([[:ja:URL|]] links to URL on Japanese Wikipedia).
+
+
+Interwiki links (like external links) are displayed in a slightly paler blue than ordinary wikilinks. The MediaWiki page formatting does not detect whether these target pages exist, so they are never displayed in red.
+
+External links
+Further information: Wikipedia:External links
+
+
+External links use URLs to link directly to any web page.  External links are enclosed in single square brackets (rather than double brackets as with internal links), with the optional link text separated from the URL by a space (not a "|" as with internal links).  When rendered, external links are followed by an external link icon.  For example, 
+
+[http://www.example.org/&nbsp;link&nbsp;text]
+
+
+will be rendered as 
+
+link text.
+
+
+The URL must be specified in full, including the protocol: for example [http://...] or [https://...].  Short form URLs that are accepted in some other (non-wikimedia) contexts like [example.org/&nbsp;link&nbsp;text] or www.example.org/&nbsp;link&nbsp;text] are not accepted and will not result in a link being generated.  Instead, the link generating markup including the square brackets will be copied directly to the marked-up output, thus "[example.org/&nbsp;link&nbsp;text]" or "[www.example.org/&nbsp;link&nbsp;text]".
+
+
+When no link text is specified, external links appear numbered: [http://www.example.org/some-page][http://www.example.org/some-other-page] becomes [1][2].  Links with no square brackets display in their entirety: http://www.example.org/ displays as http://www.example.org/.
+
+
+For more detailed information on external linking practices, see Help:URL §&nbsp;Linking to URLs.  Also note that Special:LinkSearch can be used to find all pages linking to a given site.
+
+
+The external link syntax can also be used to link to particular pages within Wikipedia that are not accessible by wikilinks, such as page history, the edit view, an old version of a page, the diff between two versions, etc.  It can also be used to create a navigational image.
+
+
+To display an external link without the arrow icon, place the external link syntax between &lt;span class="plainlinks"&gt;...&lt;/span&gt; tags. For instance, &lt;span class="plainlinks"&gt;[https://en.wikipedia.org/w/index.php?title=Help:Link&amp;action=history this page's history]&lt;/span&gt; will be rendered as: this page's history. If you make frequent use of this, the CharInsert gadget (which can be activated under Preferences&nbsp;→ Gadgets&nbsp;→ Editing → CharInsert), has an option to insert this text in its "Wiki markup" mode.
+
+http: and https:
+
+
+In mid-2015, Wikipedia and all other Wikimedia sites were changed to use HTTPS to encrypt all traffic.  Accessing a URL like http://en.wikipedia.org/wiki/Help:Link will result in the webserver redirecting you to https://en.wikipedia.org/wiki/Help:Link.  Therefore, when making an external-style link to an internal page (that is, using single square brackets, or a bare URL), https should be specified to avoid the needless redirect, as in https://en.wikipedia.org/w/index.php?title=Help:Link&amp;action=history.
+
+
+In the past, when Wikipedia could be accessed via either HTTP or HTTPS, a protocol-relative URL could be used to make an external link (or external-style link to an internal page) which would use http: or https: depending on how the page the link appeared on was accessed, as in [//www.mediawiki.org/wiki/Help:Links].  However, as all Wikimedia sites now require HTTPS, this linking style is obsolete and should no longer be used.  http: or https: should be explicitly specified as appropriate for the target site (preferring https:, where available).
+
+What is an "anchor"?
+
+
+The word "anchor" has two opposing meanings:
+
+In the context of a link from an anchor to a target, it is the starting place.
+In the context of the template {{anchor}}, an "anchor" is a landing place for a link to jump to.
+
+
+The anchor template proceeds to automatically create some invisible coding from certain text in the "landing place", taking into account certain parameters in reference templates in general.
+ 
+So for developers the word "anchor" may refer  
+
+to the landing place in general,
+to the mostly invisible code, or
+to the text and parameters from which the code is created.
+Section linking (anchors)
+ShortcutWP:ANCHOR
+See also: Help:Section §&nbsp;Section linking, and Wikipedia:Manual of Style/Linking §&nbsp;Section links
+
+
+To link to a section or subsection in another page, append a # and the section name to the page name: 
+
+[[Page name#Section name|displayed text]]
+
+
+If linking in the same page, omit the page name and use a # and the section name: 
+
+[[#Section name|displayed text]]
+
+
+Omitting the page name is recommended when linking to a section in the same page because the link will work as expected when previewing changes or after moving the page.
+
+
+Note that Section names are entirely case sensitive, in contrast to article links, where the first letter is not case sensitive.
+
+
+Template
+
+
+To link to a section so that it is formatted with the section symbol instead (Page name §&nbsp;Section name rather than as Page name#Section name), use the template {{Section link}} (or {{slink}}):
+
+{{Section link|Page name|Section name}}
+
+
+When using the template, certain characters [ ] { | } require encoding when linking to a section:
+
+
+
+[
+]
+{
+|
+}
+
+
+.5B
+.5D
+.7B
+.7C
+.7D
+
+
+
+For example, the section "[Closed] Complaint" can be linked with [[#.5BClosed.5D Complaint]]. Links in the table of contents will automatically make this encoding, so the URL can be copied from there. However, that URL will also encode other characters which do not interfere with templates or wikicode, so the result may look ugly.
+
+
+For more information, see Help:Section. See also Wikipedia:Redirect §&nbsp;Targeted and untargeted redirects.
+
+Specifics
+
+
+When a link contains a section title (as in the examples above), the title actually points to an HTML anchor on the target page. In addition to anchors created automatically by section titles, there are times when it's advantageous to create an anchor on a smaller unit of text, such as a specific paragraph (see §&nbsp;Linking to part of a section below). This can be done using {{Anchor|anchor name}}, or alternatively, the HTML code &lt;span id="anchor name"&gt;...&lt;/span&gt; (see {{Anchor}} syntax). Anchors are also used when renaming a section, yet still allowing links to the old name to function, or similarly, allowing linking to a section using an abbreviation; see MOS:HEADINGS for more info. Links to anchors can also be added to external URLs and to interwiki links, again using the # syntax.
+
+
+Section links still work through page names that are redirects. For example, if Danzig redirects to Gdańsk, then Danzig#History will link to the "History" section of the article Gdańsk. It is also possible for the target of a redirect to be defined as a specific section or anchor of a page (these work only if JavaScript is enabled). Indeed, according to the Manual of Style, it may be preferable to define such redirects, and use them when linking to those sections/anchors, rather than linking using the [[Page name#Section or anchor name|displayed text]] or {{Section link|Page name|Section name}} syntax. This way, if the section or anchored text later becomes its own article, links via the redirect won't need to be rewritten.
+
+
+For example, Wikipedia:Section link redirects specifically to the section Help:Link#Section linking (anchors) on this page. A quirk of the way this works is that if one were to add a section name when using such a link, it would override the section specified by the redirect. So Wikipedia:Section link#Interwiki links would go to the "Interwiki links" section of this page. Such overriding of section redirects should be avoided.
+
+
+The {{Visible anchor}} template can be used to create an anchor associated with text that is highlighted when the anchor is linked to (example - click here).  The template's first parameter will be used as both the anchor and the display text (|text= can be used to provide different display text).
+
+Duplicate section names
+ShortcutWP:DUPSECTNAME
+
+
+If more than one section on a destination page has the same title, a link to the title is to the first section with that title. If the link should be to another section with the title or a title that differs only in capitalization (Example vs. EXAMPLE), append to the linked title _2, _3, and so on, without a space (or 2, 3, and so on with a space), counting from the top of the destination page and without regard to whether a section is a section or a subsection. For example, multiple sections titled "History" may be linked to as "History", "History_2" (or "History 2"), and so on.
+
+Linking to part of a section
+ShortcutWP:LINKPART
+See also: §&nbsp;Table row linking
+
+
+Anchors can also be used to link to any part of a section. For example, if you want to link to the fifth sentence of a section, you just place an anchor at the start of that sentence, and you can then link to that anchor in the same way as you would link to any other anchor. 
+
+
+However, just as with section names, duplicate anchor names only link to the first one. Since anchors aren't displayed you have a much greater freedom in picking unique anchors, such as by appending the current date and time to the anchor name (for example, by naming an anchor for section "ThisSection" like so: {{Anchor|ThisSection2014-09-22-18-05a1}}&nbsp;).
+
+
+Anchors can be placed anywhere, including at the start of a clause, and inside notes and citations, though it is advisable to test first in your sandbox before trying some exotic new kind of location for the first time. Also the anchor has to be placed after any indicators that are only recognized at the start of a line (such as == or ===, etc, for new section, * for new bullet point,&nbsp;: for indentation), as the anchor should still work, but the start-of-line indicator usually no longer will (and you may not always notice this, perhaps especially if you are in a hurry).
+
+
+There are a small number of special anchor names. See §&nbsp;Table row linking.
+
+Table row linking
+
+
+To create an anchor for a row of a table, see Help:Table §&nbsp;Section link or map link to a row anchor. However, [[#top]] and [[#toc]] are reserved names that link to the top of a page and the table of contents, respectively.
+
+Piped link
+See also: Help:Pipe trick
+
+
+A piped link is an internal link or interwiki link where the link target and link label are both specified. This is needed in the case that they are not equal, while also the link label is not equal to the link target with the last word extended: 
+
+[[cheese]] (label = target, no pipe needed)
+produces cheese, linked to the article Cheese.
+[[cheese]]s (label = target + extension ["s"], no pipe needed)
+produces cheeses, linked to the article Cheese.
+[[blue cheese|cheese]]  (label = part of target, pipe required)
+produces  cheese, linked to the article Blue cheese.
+[[cheese|blue cheese]]  (label = target + additional text ["blue"], pipe required)
+produces  blue cheese, linked to the article Cheese.
+[[cheese|that stuff]]  (label is completely different from target, pipe required)
+produces  that stuff, linked to the article Cheese.
+
+
+This allows linking a word or phrase within the text of a page rather than using "see also", even if the wording does not exactly correspond with the name of the target page. With a suitable browser and depending on the preferences set, one can still see the link target: when you point at the link, the name shows up in a hover tooltip and is also shown in the status bar.
+
+
+For instance:
+
+
+[[Train station|station]]
+
+will show: station
+
+
+This is useful where the word "station" is used in an article on trains; from the context, it would be clear that a train station is meant. The piped link is more convenient to the user than a link to station which might be a disambiguation page.
+
+
+The word piped refers to the use of the pipe character "|" used to separate the good description from the actual link. This character is named after another use of it; see Pipe (computing).
+
+
+There are various tricks to get the same result with less typing:
+
+Leave the part to the right empty – the "pipe trick"
+Leave the part to the left empty – the "inverse pipe trick"
+Just attach text to the link, as in "[[train]]s", see MOS:PIPE.
+Using a redirect as alternative
+
+
+An alternative to a piped link is simply using redirect pages. To create How to set up a coffee house, use [[How to set up a coffee house]] and make this a redirect to coffeehouse setup (note that, unlike previously, the tooltip that shows when you point at the link, if applicable for your browser, is simply the text already shown).
+
+
+This is convenient if the redirect is already there or will also be of use elsewhere; however, there are a few drawbacks:
+
+the tooltip does not show the page one will arrive at
+"Related changes" gives the changes in the redirect page not the redirect target
+the redirect message on the target page slightly clutters it
+
+
+Combining a piped link and a redirect, one can provide some information that is not the name of the page one links to in the hover tooltip, i.e. the following pipe to a redirect [[United Nations Organization|UNO]] will display a tooltip "United Nations Organization" when hovering over UNO, thereby explaining the abbreviation.
+
+Automatic conversion of wikitext with the pipe trick
+See also: Help:Pipe trick
+
+
+If in a piped link the part after the "|" is left empty, it is converted to an abbreviated form of the linked page, as follows:
+
+Any word before the first colon (:), as well as the colon itself, is removed. This word may or may not be a namespace prefix (such as "Help:") or an interwiki prefix (such as "commons:"). If the page name is preceded by a colon, "first" refers to "first after this".
+If there is text in parentheses at the end it will be removed.
+If there are no parentheses but there is a comma, the comma and everything after it are removed.
+The link will be in whatever case is used.
+
+
+Just like for the three or four tildes when signing on Talk pages and the use of subst, in a preview, the result already shows up in the preview itself, but the conversion in the edit box is not yet shown. Press "Show changes" to see the change in the wikitext.
+
+Category tag
+The sort key syntax of the category being like a piped link, the pipe trick also works for category tags, even though it is not useful there.
+Examples using colons
+[[Help:Template|]] is converted to [[Help:Template|Template]], which is rendered as Template.
+[[Music: My life|]] is converted to [[Music: My life| My life]], which is rendered as  My life – although "Music:" is not a namespace (therefore the space after the colon is not automatically removed), the shortcut works anyway.
+[[w:en:Pipe (computing)|]] is converted to [[w:en:Pipe (computing)|en:Pipe]], which is rendered as en:Pipe.
+Case examples
+[[pipe (computing)|]] is converted to [[pipe (computing)|pipe]] which is rendered as pipe.
+[[Pipe (computing)|]] is converted to [[Pipe (computing)|Pipe]] which is rendered as Pipe.
+Comma example
+[[commons:Boston, Massachusetts|]] is converted to [[commons:Boston, Massachusetts|Boston]], which is rendered as Boston.
+Other examples
+Parameters and variables:
+[[w:{{{1}}}|]] does not give [[w:{{{1}}}|{{{1}}}]].
+Calling the template with a value of parameter 1 gives a working link in the case of substitution only.
+[[w:en:{{FULLPAGENAME}}|]] does not give [[w:en:{{FULLPAGENAME}}|en:{{FULLPAGENAME}}]].
+[[m:{{FULLPAGENAME}}|]] does not give [[m:{{FULLPAGENAME}}|{{FULLPAGENAME}}]]
+* [[project:a (b)|]]
+* [[w:project:a (b)|]]
+* [[:de:project:a (b)|]]
+* [[wiktionary:project:a (b)|]]
+* [[wiktionary:de:project:a (b)|]]
+* [[wikibooks:project:a (b)|]]
+* [[wikiquote:project:a (b)|]]
+* [[wikisource:project:a (b)|]]
+* [[w:en:{{FULLPAGENAME}}|]]
+** [[w:en:{{FULLPAGENAME}}|en:{{FULLPAGENAME}}]]
+* [[m:{{FULLPAGENAME}}|]]
+** [[m:{{FULLPAGENAME}}|{{FULLPAGENAME}}]]
+
+
+
+These examples appear as:
+
+a
+project:a
+project:a
+project:a
+de:project:a
+project:a
+project:a
+project:a
+[[w:en:Help:Link|]]
+en:Help:Link
+[[m:Help:Link|]]
+Help:Link
+Inverse pipe trick
+
+
+On page "A (c)", [[|B]] is automatically converted to [[B (c)|B]].
+
+
+Similarly, on page "A, c", [[|B]] is automatically converted to [[B, c|B]].
+
+
+Further examples are here.
+
+Subpage links
+
+
+A wikilink needs a [[fullpagename]], and this is not optional
+except when it links to or from a subpage.
+A wikilink to its parent page is [[../]],
+and, although no page name is given, the fullpagename is rendered.
+On the parent a wikilink to a subpage can use [[/subpagename]] to render a subpagename instead.
+
+
+Although subpages are created in article space, 
+subpage linking does not fully function there.
+
+
+Subpage linking works as expected to link to any pages under a root parent page:
+
+section linking: [[../#section]]
+child-to-child subpage linking: [[../subpagename]]
+parent's parent [[../../]]
+including the [[../|pipe trick]]
+and including transclusions: {{../}}  and {{/subpagename}} 
+
+
+Consider that there are about 140 subpages of the Manual of style arranged in 97 branches, 35 of which have two subpages, and 5 of which have three subpages. Subpage links save typing. Say you're editing this closely related group of fullpagenames:
+
+Wikipedia:Manual of Style/Accessibility/Signatures
+Wikipedia:Manual of Style/Accessibility/Data tables tutorial
+Wikipedia:Manual of Style/Accessibility/Data tables tutorial/Internal guidelines
+
+
+
+On subpagename
+You type
+You get
+Links to
+
+
+Data tables tutorial
+[[../]]
+Wikipedia:Manual of Style/Accessibility
+Parent
+
+
+Internal​guidelines
+[[../../]]
+Wikipedia:Manual of Style/Accessibility
+Grandparent
+
+
+Accessibility
+[[/Signatures]]
+/Signatures
+Child
+
+
+Accessibility
+[[/Signatures/]]
+Signatures
+Child
+
+
+Data tables tutorial
+[[../Signatures]]
+Wikipedia:Manual of Style/Accessibility/Signatures
+Sibling
+
+
+Data tables tutorial
+[[../Signatures/]]
+Signatures
+Sibling
+
+
+Internal​guidelines
+[[../../Signatures]]
+Wikipedia:Manual of Style/Accessibility/Signatures
+Uncle
+
+
+Signatures
+[[../Data tables tutorial/Internal guidelines]]
+Wikipedia:Manual of Style/Accessibility/Data tables tutorial/Internal guidelines
+Nephew
+
+
+
+
+To see this page's array of subpage variables and markup four levels deep, see /one/two/three/four, and from there go to level two at one/two.
+
+
+Markup [[../]] addresses the basepagename, except when a pagename includes a / slash character (allowed), the basepagename/subpagename variables' characters are skewed. To see all this, and how adding an extra ../ construct fixes the resulting redlink, see /sub/page/name1/sub/page/name2/subpage level 3, and from there go to sub/page/name2.
+
+
+Note that the top of every subpage shows the navigation links to all parent subpagenames. From these you can easily gauge levels and linking constructs.
+
+
+For more information:
+
+See Wikipedia:Page name#Subpagename and basepagename.
+Create a subpage by using a red link.
+See m:Help:Link#Subpage feature.
+See examples at m:Link/a/b and m:Help:Link/a/b.
+Special pages links
+Main page: Help:Special page §&nbsp;Linking to or listing special pages
+
+
+To create a link to a special page:
+
+[[Special:PrefixIndex/HMS]] → Special:PrefixIndex/HMS
+
+
+Because the ampersand character (&amp;) is disallowed, it is not possible to create an ordinary link containing &amp;action=edit or &amp;redirect=no in the URL query string. In these cases, use templates or magic words, see #Links containing URL query strings.
+
+
+For example, you can use a template such as {{Plain link}} to encode a Wikimedia url link, such as one pointing to a special page with parameters.
+
+{{Plain link|url=//en.wikipedia.org/w/index.php?title=Special:Log&amp;logid=79269392|name=15:21, 8 December 2016}}
+
+
+gives
+
+15:21, 8 December 2016
+Changing link appearance
+
+
+The ways that various links are displayed in browsers, as described above, are the default display styles in the default skin. Users can change the way they see links:
+
+By selecting a different skin.
+By applying a user style using CSS.
+By changing the "Underline links" or "Format broken links like this" value on the Appearance tab of user preferences.
+By setting the "threshold for stub display" on the Appearance tab of user preferences. This causes links to pages in mainspace to be displayed in a distinctive fashion – dark red by default – if the wikitext of the target page has less than a specified number of bytes. (Any section markers in the link are ignored. Links to redirects are displayed in the normal style.)
+Hover tooltips
+
+
+In many browsers, holding the cursor over a link (mouseover) shows a hover tooltip containing the text of the link's HTML title attribute. MediaWiki – the software which runs Wikipedia – sets this to the target page name (without any section indication) if it's a wikilink, the page name with prefix if it's an interwiki link, and the link address (URL) if it's an external link. (This can be switched off in the user preferences.) The browser may also show similar information, including any section indication, in the status bar.
+
+
+For these effects a piped link is useful even if it is not followed; for example, for displaying the meaning of an acronym. It is possible to produce a hover tooltip without a link, using the {{H:title}} template.
+
+Disallowed characters
+
+
+A link whose target contains disallowed characters (see WP:Page name) will be displayed without markup, as in [[A{b}]].
+
+
+Conversions are automatically made to non-literal characters in wiki and interwiki links. For example, [[Help:Page%20name]] becomes Help:Page name. However, the opposite is true for external links; literal characters are converted into non-literal characters. For example, most browsers convert .../wiki/! to .../wiki/%21.
+
+
+Some characters in a web address link need to be represented as escape characters because they are reserved for Wikipedia edits. Examples include %5B for [, %5D for ], %3C for &lt;, %3E for &gt;, %7B for {, %7D for }, and %26 for &amp;. More can be found by reading about percent encoding. Numeric character references (e.g. &amp;#91; or &amp;#x5B;) should not be used in external links because the ampersand character (&amp;) has a special meaning in a URL.
+
+
+A code like %70 in a redirect disables it, although the link works from the redirect page. For a redirect that works, the redirect page shows the canonical form of the target, unlike its preview page, which renders the link in the usual way.
+
+
+
+
+Links containing URL query strings
+
+
+Because the ampersand character (&amp;) is disallowed, it is not possible to create an ordinary link containing &amp;action=edit or &amp;redirect=no in the URL query string. These kinds of links can be helpful in user pages. Also, a redirect page can have categories and you might wish to view or edit these in a single click.
+
+Templates
+
+
+You can use a template such as {{Plain link}} to encode a Wikimedia url link. Example:
+
+{{Plain link|url=//en.wikipedia.org/w/index.php?title=Special:Log&amp;logid=79269392|name=15:21, 8 December 2016}}
+
+
+gives
+
+15:21, 8 December 2016
+Magic Words
+
+
+The following syntax shows the use of the magic word fullurl as it would appear in a template constructed to append action=edit to the URL query string:
+
+[{{fullurl:{{{1}}}|action=edit}} {{{1}}}]
+
+
+
+Note that this will render as an external link rather than as an internal link and for this reason it might not appear in what-links-here queries associated with the target page.
+
+Link reports
+Further information: Help:What links here
+
+
+The navigable links to a page are wikilinks, redirects, and external-styled wikilinks.
+The {{orphan}} tag can be placed on pages with no incoming wikilinks.
+
+To a page
+
+
+Each link to a page is a link to a name.[1] No one report shows all links to the content.
+
+
+The What links here tool, on every page, 
+will report all wikilinks and all redirects to the content of that page.
+(You get the wikilinks to the redirects too.)
+The search parameter linksto will find wikilinks only.
+Both report (invisible) wikilinks placed by a transclusion through a {{template}}.
+The difference between them is that linksto reports a count of links to a page name,
+while WhatLinksHere reports a map of links to the page as content.[2]
+
+To a section
+
+
+The navigable links to a section of a page are wikilinks, redirects, and URL-styled wikilinks.
+The difference between a redirect and a wikilink is most pronounced where a redirect targets a section,
+when you cannot add your own #section&nbsp; to it
+even though it appears as [[page name]].
+A wikilink that links to a section and that appears as [[page name#section name]] 
+can link to that section through the canonical page name (the title on the page with the actual content) 
+or through the page name of any redirect to it, in which case the page name is the name of a redirect page.
+
+
+To find wikilinks to a section requires two or more reports.
+
+Show redirects only, an external tool available from the What&nbsp;links&nbsp;here page, reports redirects to the content of a section. (No matter which page name you give it, you get all the redirect page names.) Look past any "No anchor or section" group of redirects, and any "invalid" sections, to see if your particular section name is explicitly listed, because then the redirect pages under it can have incoming links that will then go to that section.[3] ("What Links Here" also has a "show redirects" report, but it doesn't specify if the redirect goes to any particular section.)
+Use "What Links Here" on any redirect pages found in the previous step.
+Use {{Links to}} to create a group of search links that will each report some links to a section. It can work with only one page name at a time. For each search link given, just change the page name in the query to each redirect in turn.
+
+
+The more redirects there are, the more reports there are to run.
+If there are no redirects involved, one report from "Links to" is enough.
+
+From a page
+
+
+To report links from a page, you just list all the wikilinks on that page.
+
+Wikipedia:Tools/Editing tools §&nbsp;Relink can count wikilinks from a copy of the wikitext on your local machine.
+Some text editors support the counting and highlighting of the [[...]] pattern occurrences.
+The Wikipedia web API accepts queries by URL.[4]
+
+
+One way to send a query to the API is by creating an external link (§&nbsp;External links).
+For example, using an external link very much like a search link, you can
+send the API a request to list the link properties of "wp:example".
+It should interpret it correctly as "Wikipedia:Example", pageid 25263910.
+
+What you type
+[//en.wikipedia.org/w/api.php?action=query&amp;prop=links&amp;pllimit=500&amp;titles=fullpagename your label]
+What you get when fullpagename is wp:example
+your label
+The report is in JSON format, as is usual for RESTful APIs.
+The pageid is available from Page information on every page.
+The titles parameter is plural. (It is designed to take multiple fullpagenames or pageid, delimited by the | pipe character.)
+The number of links returned by this query is limited to 500, per the URL you created. See mw:API:Query for how to safely get more. For example, Operating system has 510 wikilinks.
+
+
+To make a page register as a link to a page, but without actually showing the link,
+make a link to it, but label it with a space character using the pipe trick: [[pagename|&nbsp;]].
+
+Additional link-related functions
+
+
+For the effect that links have on date formatting, see Help:Date formatting and linking.
+
+
+Another link-dependent feature is related changes, which make it possible to view recent changes to all pages which are linked from the current page (or which are members of the category, if it is a category page).
+
+
+For information on how to link to pages from an image, see mw:Extension:ImageMap.
+
+
+Several templates have been created to make linking easier (although they are not usually used in article space). These include {{tl}} and {{tlx}} for linking to templates, and {{cl}} and {{lc}} for linking to categories. More can be found in Category:Internal link templates.
+
+Conversion to canonical form
+Further information: mw:Manual:Title.php §&nbsp;Canonical forms
+
+
+As described previously, if a link target begins with a lower case letter, it will be interpreted as if it began with the equivalent capital letter. If the target contains a namespace prefix, then the whole prefix and the first character after the colon are case-insensitive (so uSeR:jimbo Wales links to User:Jimbo Wales).
+
+
+In link targets, spaces and underscores (which are effectively equivalent) are ignored if they come at the start, at the end, or immediately before or after the colon following a namespace prefix. Consecutive spaces / underscores are treated as a single space. Hence _User_: Jimbo_ __ Wales__ links to User:Jimbo Wales.
+
+
+HTML character references and percent-encoded characters are replaced with their raw character. For example, [[d&amp;eacute;partement]] produces département, and [[%40]] produces @. Links which resolve to invalid page titles are displayed as unmarked-up wikitext.
+
+
+Titles indicated by wikilinks are displayed in canonical form (with correction of capitalization and excess spaces / underscores removed, as described previously) in the following places:
+
+In transclusion tags for non-existent pages: {{qwsazx}} gives Template:Qwsazx.
+In tooltips and in the status bar (if applicable for the browser) when the mouse cursor is moved over the link.
+On redirect pages.
+In the category box.
+
+
+The prefixes in interwiki links are treated similarly to namespace prefixes: they are insensitive to case and to spaces before and after the colon. However the first character after the colon is not automatically capitalized (whether it is interpreted as a capital depends on the configuration of the target wiki).
+
+See also
+Find link tool: a simple tool that lets you search for articles to consider adding links to.
+Clean linking
+MediaWiki help page on links
+Help:Link color: the color of a link shows the status of the corresponding target page.
+Help:Pipe trick: uses the pipe character ("|") to save typing the label of a piped link.
+Help:Permanent link: creating a permanent link to a page revision.
+Smart Linking tool: a tool for linking and previewing the linked article above the text box with the wiki code.
+Help:Self link: self links is a link to the page itself. A self-link to a page appears as bold text when the article is viewed.
+Wikipedia:Shortcut: a specialized type of redirect page that provides an abbreviated wikilink to a project page.
+Help:Colon trick: a trick when providing category, image or interwiki links.
+Wikipedia:Orphan §&nbsp;Step 2: Finding related articles
+User:Tony1/Build your linking skills, a tutorial on high-quality linking with practice questions
+Notes and references
+
+
+^  
+The aliases for the namespace part of the name are recognized in 
+wikilinks and in the parser functions that create URL style links – canonicalurl and fullurl.
+They are also recognized in the navigation box, and in Search,
+except for the insource parameter.
+
+^ 
+"What Links Here" does not report URL-style links to a page.
+
+^  Redirects that link to a section are part of a valiant effort to enable changing a section heading without breaking a link to the name. That effort also must ask editors who want to link to a section to always check the wikitext of the target section, and there find, read and understand the plan to link to a single redirect page instead. Then that redirect page links to the section. ("Invalid" redirects to a non-existing anchor or section occur when this is overlooked.) 
+
+^ 
+If you will use the API heavily or professionally you should follow its currently listed recommendations at API.
+(Use continue=, use formatversion2, use multiple pages at once, etc.)
+
+
+vteWikipedia help pages
+Visit the Teahouse or the Help desk for an interactive Q &amp; A forum.
+
+FAQs&nbsp;(?)
+Reference desks&nbsp;(?)
+Noticeboards&nbsp;(?)
+Cheatsheet&nbsp;(?)
+ Directories&nbsp;(?)
+About Wikipedia&nbsp;(?)
+Administration
+Purpose
+Principles
+Policies and guidelines
+What Wikipedia is not
+Disclaimer&nbsp;(parental advice)
+Making requests
+Who writes Wikipedia?
+Help for readers&nbsp;(?)
+FAQ
+Books
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia&nbsp;(?)
+Advice for young editors
+Avoiding common mistakes
+Etiquette
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Your first article&nbsp;(article wizard)
+Getting started&nbsp;(?)
+Why create an account?
+Introductions by topic
+Graphics tutorials
+Picture tutorial
+IRC (live chat) tutorial
+VisualEditor user guide
+Dos and don'ts&nbsp;(?)
+Accessibility
+Biographies
+Biographies (living)
+Categorization
+Consensus
+Discussions
+Disambiguation
+Images
+Leads
+Links
+Lists
+References
+Tables
+Titles (of articles)
+How-to pages and
+information pages&nbsp;(?)
+Appealing blocks
+Article deletion
+Categories
+Citations/references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+Minor edit
+toolbar
+edit conflict
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking&nbsp;(link color)
+Logging in
+Merging
+Page name
+Renaming pages
+Redirect
+Passwords
+Email confirmation
+Reverting
+Simple vandalism cleanup
+Talk pages&nbsp;(archiving
+simple archiving)
+User contributions
+WP search protocol
+Coding&nbsp;(?)
+Wiki markup
+Barcharts
+Calculations
+Characters
+Columns
+Hidden text
+HTML
+Lists
+Magic words
+Music symbols
+Sections
+Sounds
+Tables
+Templates
+Transclusion
+URL
+Visual files
+Directories&nbsp;(?)
+Abbreviations
+Contents (Encyclopedia proper)
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Manual of Style 
+Policies
+Tasks
+Tips
+Tools
+ Missing Manual
+
+Ask for help on your talk page&nbsp;(?)
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Link&amp;oldid=1050311464"
+		Categories: Wikipedia how-toWikipedia link helpWikipedia linksHidden categories: Help pages with short descriptionWikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMediaWikiMeta-WikiWikiquote
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		Alemannischالعربيةঅসমীয়াবাংলাभोजपुरीBoarischCatalàČeštinaCymraegDanskDeutschDolnoserbskiEsperantoEuskaraفارسیFrançais한국어हिन्दीHornjoserbsceÍslenskaItalianoעבריתLatviešuLëtzebuergeschLietuviųBahasa Melayuမြန်မာဘာသာNederlands日本語Norsk bokmålភាសាខ្មែរPolskiPortuguêsShqipසිංහලSimple EnglishSlovenčinaکوردیТатарча/tatarçaၽႃႇသႃႇတႆး తెలుగుไทยTürkçeTiếng Việtייִדיש中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 17 October 2021, at 02:41&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

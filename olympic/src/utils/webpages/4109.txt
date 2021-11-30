@@ -1,0 +1,255 @@
+
+
+
+
+Wikipedia:Administrator intervention against vandalism/Administrator instructions - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Administrator intervention against vandalism/Administrator instructions
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia:Administrator intervention against vandalism
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+Administrator instructions for Administrator intervention against vandalism:
+
+If users make an invalid report, consider letting them know using template {{subst:uw-aiv}}, or better yet, similar wording in plain English, if you have time.
+Be aware of any implications your block has for other people using a shared IP address and use "{{anonblock}}" or "{{schoolblock}}" as your reason for blocking when appropriate. WHOIS, Reverse DNS and the DNS Real-time Blacklist can be used to determine if an IP address is shared, dynamically allocated or has been compromised.
+IP addresses should not usually be blocked indefinitely.
+Check the user's contributions, deleted contributions, block log and warnings on the user's talk page carefully before taking any administrative action. All blocks should be made to prevent further damage to the project.
+See also
+{{aiv}} – Standard template for handling requests
+responseHelper – a user script that can expedite responding to reports
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrator_intervention_against_vandalism/Administrator_instructions&amp;oldid=736985971"
+		Categories: Administrator instructionsHidden categories: Wikipedia fully-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 31 August 2016, at 02:55&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

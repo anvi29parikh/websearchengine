@@ -1,0 +1,3800 @@
+
+
+
+
+Project:Support desk - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Project:Support desk
+	
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+			
+	
+		About this board
+	
+		
+	
+	Edit description
+
+Welcome to the MediaWiki Support desk, where you can ask MediaWiki questions!
+
+
+
+(Read this message in a different language)
+See also
+
+
+Other places to ask for help: 
+Chat rooms 
+#mediawiki connect (IRC channel on libera.chat)
+Wikimedia Chat (Mattermost)
+MediaWiki unofficial (Discord)
+Outreachy chat (Zulip)
+Hackathon chat - (Telegram @wmhack group)
+Email groups 
+StackOverflow (third-party)
+Unofficial MWUsers forum (third-party)
+
+Before you post
+Check the basic How does MediaWiki work?  guide.
+Check the FAQ  and Errors and symptoms .
+If your question is about a specific feature, check the relevant technical manual , end-user help  or extension  page and consider asking on its talk page .
+For issues about the mediawiki.org website, report to Village Pump instead.
+For trying out wiki editing, use the Sandbox instead.
+
+Post a new question
+To help us answer your questions, please indicate which versions you are using, as found on your wiki's Special:Version page:
+MediaWiki version
+PHP version
+Database type and version
+Please include the web address (URL) to your wiki if possible. It's often easier for us to identify the source of the problem if we can see the error directly.
+To start a new thread, click "Start a new topic".
+
+
+
+
+
+Support archives (2006-2015)
+
+
+
+
+ 
+ 
+
+
+	
+		
+		
+	
+		
+	  
+	  
+
+
+	    Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+	  
+	
+
+
+	
+	
+	
+
+
+
+	
+		
+			Start a new topic
+		
+
+		
+				
+					
+		
+
+						
+				
+			You are not logged in. To receive attribution with your name instead of your IP address, you can log in or create an account.
+
+	
+			
+			
+
+					
+					
+					
+				
+					
+	
+
+	
+				
+			
+		
+	    
+			InfoBoxes impossible to "install"...
+	    
+	20 comments •
+	
+	        
+						
+	17:37, 29 November 2021
+	1 hour ago
+
+
+	        
+	    
+	    20
+		
+		
+	
+
+	
+			
+			
+				Edit titleHistoryPermalinkSummarize
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+I've tried to install the infobox template forever but it won't work. I have tested another template from another wiki page and that don't work either. Both give the lua errors.
+
+
+
+For example: Lua error in package.lua at line 80: module 'Module:TNT' not found. Template:En-WP attribution notice (on the Template:infobox webpage)
+
+
+
+and: Lua error in Modul:TNT at line 158: Missing JsonConfig extension; Cannot load https://commons.wikimedia.org/wiki/Data:I18n/Documentation.tab.
+
+
+
+
+
+What is this and how am I suppose to solve this? One additional weird thing is that the other "info-box-type"-template from the other wiki does not "use" as much templates as my import according to the edit tab.
+
+
+
+One thing I've noticed is that my lua version is 5.1.4 when every other wiki's I stumble upon use 5.1.5. I tried to install lua 5.1.5 but it didn't change the number...
+
+
+
+
+
+Please help, I'm ripping my hair out...
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	14:14, 13 November 2021
+	16 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+					
+						
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+I think 5.1.4 vs 5.1.5 might be a windows vs linux thing.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	22:15, 13 November 2021
+	15 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+					
+						
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+https://gerrit.wikimedia.org/r/c/mediawiki/extensions/Scribunto/+/739050
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	03:35, 16 November 2021
+	13 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Even though Scribunto is updated and having the 5.1.5 engine of lua the Special:Version tab still says it's running lua 5.1.4!? Where does it grab that version??!!!
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	18:20, 13 November 2021
+	16 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Malyacko
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Please see "Post a new question" in the sidebar. Please describe how you "installed" something from... somewhere?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	19:32, 13 November 2021
+	16 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Ok, I've read it but I won't post link to it. Ask what you want to see and I shall send you a screenshot of it.
+
+
+
+
+
+OS: Windows Server 2012 Datacenter (64-bit)
+
+
+
+MediaWiki = 1.36.2
+
+
+
+PHP = 7.3.32 (cgi-fcgi)
+
+
+
+MySQL = 5.5.45
+
+
+
+ICU = 64.2
+
+
+
+Lua = 5.1.4
+
+
+
+
+
+When I install "something" from "somewhere" I go to their Special:Export page and specify a template for example Template:PlayerTemplate and I check the box for "Include templates" and "Save as file". I then upload it with the Special:Import page on my wiki.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	20:08, 13 November 2021
+	15 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+So first of all, if you want to use the TNT extension,you have to install Extension:JsonConfig and configure commons as a foreign data namespace. (Unfortunately the docs on doing that are a bit lackluster)
+
+
+
+
+
+Are you getting both of these errors still? Because they kind of contradict each other (one is saying module:TNT is missing, the other is saying its there but has an error).
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	22:20, 13 November 2021
+	15 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+I have installed Extension:JsonConfig. "Configure commons as a foreign data namespace.", don't understand that.
+
+
+
+No, I'm not right now it's only the Lua error in Modul:TNT at line 158: Missing JsonConfig extension; Cannot load ... that's the problem. (On the page for the Template:PlayerTemplate)
+
+
+
+The infobox page has an additional text: "Template:En-WP attribution notice".
+
+
+
+I get this red box when I go to the Module:TNT page. "fX01s0G" on imgur
+
+
+
+The Template:PlayerTemplate also has a error that says: Lua error in Module:WikidataIB at line 665: attempt to index field 'wikibase' (a nil value).
+
+
+
+The thing I said before that bothers me is that my importation of the template PlayerTemplate uses much more Templates than the one on the origin wiki...
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	22:52, 13 November 2021
+	15 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Malyacko
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Who is "their" in "their Special:Export page"? Where does "Configure commons as a foreign data namespace." come from / what displays that where? What "origin wiki"? How do you get to the conclusion in your last sentence (links)? Why is https://imgur.com/fX01s0G a 404 error? Why haven't you installed Wikibase if you'd like to use a module depending on it?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	12:27, 14 November 2021
+	15 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+					
+						
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Oh, wait. That link should've been https://imgur.com/a/fX01s0G
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited by Bawolff
+				
+					
+	03:11, 16 November 2021
+	13 days ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Their = The special:Export page on the page mentioned below.
+
+
+
+It comes from the comment above from Bawolff, I didn't understand what he meant.
+
+
+
+Origin wiki: 2b2t.miraheze.org
+
+
+
+This (ibb.co JktP5Bz)is a picture of "used templates" in the template "PlayerTemplate" from 2b2t wiki. And this (ibb.co HGcj6Gt) is from my importation of the template "PlayerTemplate" onto my wiki. N.B. Mall (Swedish) = Template (English), Modul (Swedish) = Module (English.
+
+
+
+Don't know, maybe because imgur is trash.
+
+
+
+I have installed Wikibase...
+
+
+
+The main problem right now seems to be the "Lua error in Module:TNT at line 158: Missing JsonConfig extension; Cannot load [link, cant post because of "linkspam"]." error that I seem to have on multiple templates.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	18:58, 14 November 2021
+	15 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Sorry for the spam. I fixed the Wikibase problem, it wasn't fully initialized. I still have the "Missing JsonConfig extension" problem though.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	19:25, 14 November 2021
+	15 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Follow example at: Extension:JsonConfig#Supporting_Wikimedia_templates
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	03:48, 16 November 2021
+	13 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+@Bawolff
+
+
+
+I pasted those line of codes into LocalSettings.php and now I get this error: "Lua error in Modul:TNT at line 166: Missing Commons dataset I18n/Module:TNT.tab.". Now when I try to go onto pages I get error 500 - Internal server error. Often I can just reload the page and it works but when I try to import xml files through the "Special:Import"-page I get the 500 error and can't go past it...
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	15:09, 16 November 2021
+	13 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+How to debug
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	16:20, 16 November 2021
+	13 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+(I can't "sub"-reply so that's why I'm tagging you instead.)
+
+
+
+@Bawolff
+
+
+
+It's an error from IIS, I don't think I can solve that with editing debugging settings in the mediawiki folder...
+
+
+
+Nevertheless, I've already applied the lines of code from the PHP errors part of the "How to debug"-page.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	23:03, 16 November 2021
+	12 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+webserver 500s are commonly (but not exclusively) caused by php errors. IIS should also have some sort of logfile somewhere.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	01:11, 17 November 2021
+	12 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+@Bawolff
+
+
+
+Yeah, yeah. I've looked in the logs but those doesn't say much more. They just say "500 0 0 5314" or "500 0 0 2991" in the end of the line of the error. I just say that the site seems to be more unstable when I apply the changes to the LocalSettings.php you told about.
+
+
+
+Whatever, that's not the main problem... I still can't understand the "Lua error in Module:TNT at line 166[...]".
+
+
+
+And I think there is something wrong with the navbar/styles.css that I suppose would be handling the infoboxes position on the page. The "PlayerTemplate" is the only infobox working and it's on the left side of the page...
+
+
+
+
+
+Why is it this difficult to just install a simple infobox?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	01:31, 20 November 2021
+	9 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		193.11.104.21
+					(talkcontribs)
+				
+		
+
+				
+					
+
+What should I do to fix the "Lua error in Module:TNT at line 166: Missing Commons dataser I18n/Module:TNT.tab"?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	15:58, 29 November 2021
+	3 hours ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Have you tried the instructions at Extension:JsonConfig#Supporting_Wikimedia_templates?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	17:37, 29 November 2021
+	1 hour ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+					Reply to "InfoBoxes impossible to "install"..."
+		
+		
+			
+		
+	    
+			Show modal or prompt to get password
+	    
+	2 comments •
+	
+	        
+						
+	05:27, 29 November 2021
+	14 hours ago
+
+
+	        
+	    
+	    2
+		
+		
+	
+
+	
+			
+			
+				Edit titleHistoryPermalinkSummarize
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		BarbaRuivaRK
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Hi! I implemented a login solution with PluggableAuth in which I get via get the username and a token generated by the system that made the login request. What I need is that when there is an attempt to login, the system checks if the user has administrative rights and asks for a password to be compared with the bank's.
+I have two problems:
+1: How do I display a modal with an input and a button or a prompt dialog to capture this password?
+2: How can I get the typed password and compare it with the bank because it is saved encrypted?
+
+
+
+EDIT: 
+
+
+
+It would be nice if you could change the $wgPluggableAuth_EnableLocalLogin variable to true dynamically in code
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	19:30, 25 November 2021
+	4 days ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Tanbirzx
+					(talkcontribs)
+				
+		
+
+				
+					
+
+@BarbaRuivaRK which wiki you are talking about??
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	05:27, 29 November 2021
+	14 hours ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+					Reply to "Show modal or prompt to get password"
+		
+		
+			
+		
+	    
+			Problem with Wikibase install
+	    
+	5 comments •
+	
+	        
+						
+	02:00, 29 November 2021
+	17 hours ago
+
+
+	        
+	    
+	    5
+		
+		
+	
+
+	
+			
+			
+				Edit titleHistoryPermalinkSummarize
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		BugDroid
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Hi
+
+
+
+
+
+I have followed the details on wikibase / installation. everything worked fine. but as soon as I add the lines to LocalSettings.php the wiki wont work anymore and gives me a http error 500. if I remove the lines, the pages works again.
+
+
+
+I have MediaWiki 1.37 and ParserFunctions, Scribunto and TemplateStyles installed
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	01:56, 28 November 2021
+	1 day ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Malyacko
+					(talkcontribs)
+				
+		
+
+				
+					
+
+What "details" where exactly? Which "the lines"?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	09:09, 28 November 2021
+	1 day ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		BugDroid
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Wikibase/Installation
+
+
+
+when I add the lines:
+
+
+
+wfLoadExtension( 'WikibaseRepository', "$IP/extensions/Wikibase/extension-repo.json" );
+require_once "$IP/extensions/Wikibase/repo/ExampleSettings.php";
+wfLoadExtension( 'WikibaseClient', "$IP/extensions/Wikibase/extension-client.json" );
+require_once "$IP/extensions/Wikibase/client/ExampleSettings.php";
+
+
+
+the wiki wont work anymore
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	14:50, 28 November 2021
+	1 day ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Malyacko
+					(talkcontribs)
+				
+		
+
+				
+					
+
+How did you set your content in the two ExampleSettings.php&nbsp;?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	17:51, 28 November 2021
+	1 day ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+You should also enable php error reporting; see How to debug
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	02:00, 29 November 2021
+	17 hours ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+					Reply to "Problem with Wikibase install"
+		
+		
+			
+		
+	    
+			Background image
+	    
+	6 comments •
+	
+	        
+						
+	01:59, 29 November 2021
+	17 hours ago
+
+
+	        
+	    
+	    6
+		
+		
+	
+
+	
+			
+			
+				Edit titleHistoryPermalinkSummarize
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Steakdu38
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Hello,
+
+
+
+I'd like to add a background image to my personal wiki page of a private wiki. If that's not possible, I'd like at least to be able to put the right side bar presenting me over the image. I have admin rights to edit whatever I want on the wiki but I have no idea on how to achieve that. Thanks.&nbsp;:)
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	02:06, 28 November 2021
+	1 day ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Fokebox
+					(talkcontribs)
+				
+		
+
+				
+					
+
+One of the ways how you can do it is add CSS at Mediawiki:Common.css indicating the image and page
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	14:29, 28 November 2021
+	1 day ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Steakdu38
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Could you be more precise on how I should edit Common.css and give me the code. I have absolutely no idea. Thank you for your help.&nbsp;:)
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	20:14, 28 November 2021
+	23 hours ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Malyacko
+					(talkcontribs)
+				
+		
+
+				
+					
+
+See Manual:CSS and use your web browser's developer tools to inspect.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	20:25, 28 November 2021
+	23 hours ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Steakdu38
+					(talkcontribs)
+				
+		
+
+				
+					
+
+I mean, I don't know how to put CSS for a specific page in Common.css
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	01:48, 29 November 2021
+	17 hours ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+The body tag will have a class with the page name.
+
+
+
+
+
+For example you might do
+
+
+
+
+.page-Main_Page #content { background: url(/foo/bar/someimage.png); }
+
+
+
+
+however, depending on your skin, you might need to target a different div then #content to place the actual background image on, im not sure. Also you need to make sure it has a high enough specificity to override any builtin rules.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	01:59, 29 November 2021
+	17 hours ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+					Reply to "Background image"
+		
+		
+			
+		
+	    
+			Unexpected conversion in a translated page
+	    
+	4 comments •
+	
+	        
+						
+	21:55, 28 November 2021
+	21 hours ago
+
+
+	        
+	    
+	    4
+		
+		
+	
+
+	
+			
+			
+				Edit titleHistoryPermalinkSummarize
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		SolidBlock
+					(talkcontribs)
+				
+		
+
+				
+					
+
+In a translatable page translated to /zh, with "variant=zh_cn", something that should not be converted has been conterted. For example, in the , the word "日本語" in Japanese should not be converted to "日本语".
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	05:13, 26 November 2021
+	3 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Malyacko
+					(talkcontribs)
+				
+		
+
+				
+					
+
+@SolidBlock Please read "Post a new question" in the sidebar. Thanks.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	13:22, 26 November 2021
+	3 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		SolidBlock
+					(talkcontribs)
+				
+		
+
+				
+					
+
+The wiki is this wiki, MediaWiki.
+Some URL links, for example, https://www.mediawiki.org/wiki/Help:Cite/zh?variant=zh-cn
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	17:02, 26 November 2021
+	3 days ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Malyacko
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Sounds like a potential bug. See How to report a bug.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	20:26, 28 November 2021
+	23 hours ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+					Reply to "Unexpected conversion in a translated page"
+		
+		
+			
+		
+	    
+			Issues connecting MySQL container and MediaWiki Container on Docker
+	    
+	7 comments •
+	
+	        
+						
+	19:18, 28 November 2021
+	1 day ago
+
+
+	        
+	    
+	    7
+		
+		
+	
+
+	
+			
+			
+				Edit titleHistoryPermalinkSummarize
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Squeak24
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Hi All
+
+
+
+I am tryingto install MediaWiki using Docker. I am using Windows, but want to use Docker so I have more scope of what I can do. Long term I want to create my own image so I can have Parsoid and GraphViz running on it.
+
+
+
+The issue I am getting is when I go onto the database page of the installation I get:
+
+
+
+Cannot access the database: php_network_getaddresses: getaddrinfo failed: Name or service not known (mysqlhost). 
+
+
+
+Check the host, username and password and try again.
+
+
+
+
+
+I have tried to create my own hostname for the MySQL running the line:
+
+
+
+docker run --name=mysql1 -–network=mysqlhost -d mysql/mysql-server
+
+
+
+But it comes up with the same error.
+
+
+
+To get the container for MediaWiki working I have used:
+
+
+
+docker run --name mediawiki -p 80:80 mediawiki
+
+
+
+It looks like they are both working, just not talking to each other.
+
+
+
+I have tried to link the MySQL up with MediaWiki as detailed on the MediaWiki Docker page using:
+
+
+
+docker run --name mediawiki --link wiki:mysql -d mediawiki
+
+
+
+
+
+But with that I get the error:
+
+
+
+
+
+C:\Users\User&gt;docker run --name mediawiki --link wiki:mysql -d mediawiki
+docker: Error response from daemon: Conflict. The container name "/mediawiki" is already in use by container  "eb03498d223748379186507fe6d58e1cb7f59f4f2de3e6e1ba863d5b8210bf3c". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+
+
+
+
+So I tried:
+
+
+
+docker run --name wiki --link wiki:mysql -d mediawiki
+
+
+
+
+
+But I get the error:
+
+
+
+
+C:\Users\User&gt;docker run --name wiki --link wiki:mysql -d mediawiki
+docker: Error response from daemon: could not get container for wiki: No such container: wiki.
+See 'docker run --help'.
+
+
+
+
+Not sure what I am doing wrong, any help is appreciated,
+
+
+
+
+
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	17:15, 6 December 2018
+	2 years ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Ciencia Al Poder
+					(talkcontribs)
+				
+		
+
+				
+					
+
+You use "docker run" to create a new container. Once you do that, you can't use the same name, unless you destroy that container. Try "docker rm mediawiki" to remove it and recreate it again.
+
+
+
+Once you have the container created, and stop it, you can start it again with "docker start mediawiki"
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	10:41, 7 December 2018
+	2 years ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Squeak24
+					(talkcontribs)
+				
+		
+
+				
+					
+
+I get that, I just can't seem to get the MediaWiki container to talk to the MySQL container. I found this which indicates the MySQL host is mysql in my case.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	13:49, 7 December 2018
+	2 years ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		199.58.99.202
+					(talkcontribs)
+				
+		
+
+				
+					
+
+This is an issue for me as well.  is there any resolution that has been found?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	22:48, 21 February 2019
+	2 years ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Ciencia Al Poder
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Have you tried searching google:docker+communication+between+containers?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	10:19, 22 February 2019
+	2 years ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Squeak24
+					(talkcontribs)
+				
+		
+
+				
+					
+
+I have, but other work commitments came up. I am hoping to have a site down in the next few weeks now things are getting quieter again. But this is still an issue I am facing.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	17:34, 26 February 2019
+	2 years ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		73.237.69.190
+					(talkcontribs)
+				
+		
+
+				
+					
+
+I had a similar issue.  When I used the database container name as the localhost, then I was able to complete the installation.  My container name was mariadb.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	19:18, 28 November 2021
+	1 day ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+					Reply to "Issues connecting MySQL container and MediaWiki Container on Docker"
+		
+		
+			
+		
+	    
+			Arabic numerals on Sindhi Wikipedia
+	    
+	6 comments •
+	
+	        
+						
+	16:27, 28 November 2021
+	1 day ago
+
+
+	        
+	    
+	    6
+		
+		
+	
+
+	
+			
+			
+				Edit titleHistoryPermalinkSummarize
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		JogiAsad
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Hi, I want to draw your attention towards a problem on Sindhi Wikipedia that Arabic numbers are showing on whole wiki, each page, each section is in arabic digits its hard to understand and digits are too small to comprehension, Persho-Arabic_Sindhi numbers are not widely used nowadays and its very hard to comprehended. on the behalf of Sindhi Wikipedia community and as an admin I request to change the arabic numbers with either perso-Sindhi numbers or to English digits. suppose ١٤٬٧٨٦ is arabic number (١٤٬٧٨٦ shows the current articles of sdwiki on special page). HERE IS THE CONSENSUS PAGE and VOTES FOr THIS CHANGE REQEUEST
+Reference: https://meta.wikimedia.org/wiki/Talk:Requesting_wiki_configuration_changes#Request_for_English_numbering_on_Sindhi_Wikipedia
+
+
+
+https://phabricator.wikimedia.org/T268203
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	23:06, 17 November 2021
+	11 days ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+					
+						
+				
+					
+	
+
+						
+					
+		Malyacko
+					(talkcontribs)
+				
+		
+
+				
+					
+
+@JogiAsad You already received an answer months ago in https://meta.wikimedia.org/wiki/Talk:Requesting_wiki_configuration_changes#Request_for_English_numbering_on_Sindhi_Wikipedia. Why was this reposted?
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	08:03, 18 November 2021
+	11 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Phabricator is the place to request this type of change. We at the support desk can't do anything about this. (Sorry. It sounds like there has been much back and forth on this topic which i imagine has been frustrating.)
+
+
+
+
+
+Also just a note - the term "arabic numerals" in english more commonly refers to 1234567890 then the arabic letter style numerals, so it can be a bit of a confusing term in english.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	01:33, 18 November 2021
+	11 days ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Bawolff
+					(talkcontribs)
+				
+		
+
+				
+					
+
+I've attempted to give this a little prod on phabricator, to hopefully move things forward.
+
+
+
+We (along with many other software projects) get translation data  from the CLDR project, so you could also try filing a bug with the CLDR project to change what they have marked as the correct way to write numerals in Sindhi - https://cldr.unicode.org/index/bug-reports
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	04:56, 18 November 2021
+	11 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		JogiAsad
+					(talkcontribs)
+				
+		
+
+				
+					
+
+CLDR project request seems complicated at the moment I'll try again to understand its process to request changes. However this problem of arabic-sindhi numberals on sdwiki is still problematic. screenshot https://ibb.co/mNyQ0c1
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	17:55, 18 November 2021
+	11 days ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		JogiAsad
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Reported bug on CLDR https://unicode-org.atlassian.net/browse/CLDR-15200
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	16:27, 28 November 2021
+	1 day ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+					Reply to "Arabic numerals on Sindhi Wikipedia"
+		
+		
+			
+		
+	    
+			Visual Editor not opening
+	    
+	One comment •
+	
+	        
+						
+	13:31, 27 November 2021
+	2 days ago
+
+
+	        
+	    
+	    1
+		
+		
+	
+
+	
+			
+			
+				Edit titleHistoryPermalinkSummarize
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Jak lenny
+					(talkcontribs)
+				
+		
+
+				
+					
+
+MW Version: 1.37.0
+
+
+
+If i want to edit a page via Visual Editor it dont open. 
+
+
+
+Im working with short url .htaccess and $wgScriptPath = "/w"; $wgArticlePath = "/wiki/$1";
+
+
+
+RewriteEngine On
+
+
+
+# main rewrite rule
+
+
+
+RewriteRule ^/?wiki(/.*)?$&nbsp;%{DOCUMENT_ROOT}/w/index.php [L]
+
+
+
+# Redirect / to Main Page
+
+
+
+RewriteRule ^/*$&nbsp;%{DOCUMENT_ROOT}/w/index.php [L]
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	09:32, 26 November 2021
+	3 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+					Reply to "Visual Editor not opening"
+		
+		
+			
+		
+	    
+			CIForms and error 500
+	    
+	4 comments •
+	
+	        
+						
+	13:27, 27 November 2021
+	2 days ago
+
+
+	        
+	    
+	    4
+		
+		
+	
+
+	
+			
+			
+				Edit titleHistoryPermalinkSummarize
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		2.135.65.24
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Good afternoon, I installed the CIForms add-on, found the code for embedding it into the site from the add-on documentation, the form appeared on the site. But when sending a letter, an error 500 occurs. Please help me - version of MediaWiki 1.36
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	04:25, 23 November 2021
+	6 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		Osnard
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Can you check for the actual error message? Maybe in the logs. Learn about how to enable debug logs here.
+Be aware that this extension has external library dependencies. You may need to run composer update within the extensions directory as part of the installation. See also Composer/For_extensions and Manual:External_libraries
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						Edited
+				
+					
+	09:37, 23 November 2021
+	6 days ago
+
+
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		2.135.64.47
+					(talkcontribs)
+				
+		
+
+				
+					
+
+You can check this page and try to send message in this form? - antispoofing.org (not advertising).
+
+
+
+And i'm enable debug in htaccess, and add "error_reporting( -1 );ini_set( 'display_errors', 1 );" in LocalSetting file, but there is nothing in the logs. 
+
+
+
+I think I am because of the shorten URL.
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	11:38, 26 November 2021
+	3 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		2.135.64.47
+					(talkcontribs)
+				
+		
+
+				
+					
+
+.org/Antispoofing_FAQ
+				
+					
+		
+				Reply
+		
+	
+		
+				
+						
+	11:39, 26 November 2021
+	3 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+					Reply to "CIForms and error 500"
+		
+		
+			
+		
+	    
+			 What the hell with the font?
+	    
+	3 comments •
+	
+	        
+						
+	22:12, 26 November 2021
+	2 days ago
+
+
+	        
+	    
+	    3
+		
+		
+	
+
+	
+			
+			
+				HistoryPermalink
+			
+			
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		DDPAT 2.0
+					(talkcontribs)
+				
+		
+
+				
+					
+
+
+Previously, this place had plain text, not bold. And suddenly, when simply updating the page, I (maybe everyone) updated the text to bold. You can revert back to the usual font, because it's not at all convenient to work with text (Content Translation tool).
+				
+					
+		
+		
+	
+		
+				
+						
+	19:47, 26 November 2021
+	2 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		DDPAT 2.0
+					(talkcontribs)
+				
+		
+
+				
+					
+
+Here is a screenshot from translatewiki, where the text is plain.
+
+				
+					
+		
+		
+	
+		
+				
+						
+	19:53, 26 November 2021
+	2 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+						
+							
+				
+					
+	
+
+						
+					
+		DDPAT 2.0
+					(talkcontribs)
+				
+		
+
+				
+					
+
+And by the way, the top panel also disappeared. Watch the video link here about it (no link due to Wikimedia Foundation server problems).
+				
+					
+		
+		
+	
+		
+				
+						
+	20:49, 26 November 2021
+	2 days ago
+
+
+				
+		
+	
+	
+		
+		
+			Permalink
+		
+		
+	
+	
+
+
+		
+		
+	
+
+		
+		
+
+			
+				
+				
+		
+				
+		
+				 Load more
+			
+			
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/wiki/Project:Support_desk"
+		
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		MediaWiki.orgDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		View history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

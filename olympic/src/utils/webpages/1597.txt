@@ -1,0 +1,715 @@
+
+
+
+
+Điều khoản Sử dụng - Wikimedia Foundation Governance Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Điều khoản Sử dụng
+	
+		From the Wikimedia Foundation Governance Wiki
+		&lt; Terms of Use
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+ In other languages
+English &nbsp;· العربية&nbsp;· asturianu&nbsp;· беларуская (тарашкевіца)&nbsp;· български&nbsp;· বাংলা&nbsp;· català&nbsp;· čeština&nbsp;· Deutsch&nbsp;· Ελληνικά&nbsp;· English&nbsp;· español&nbsp;· suomi&nbsp;· français&nbsp;· galego&nbsp;· עברית&nbsp;· Bahasa Indonesia&nbsp;· italiano&nbsp;· 日本語&nbsp;· 한국어&nbsp;· македонски&nbsp;· മലയാളം&nbsp;· Nederlands&nbsp;· polski&nbsp;· português do Brasil&nbsp;· русский&nbsp;· ไทย&nbsp;· українська&nbsp;· Tiếng Việt
+
+
+
+
+
+
+
+
+Đây là một bản tóm lược về Điều khoản Sử dụng. Để xem đầy đủ các khoản mục, xin kéo chuột xuống hoặc nhấn vào đây.
+
+
+
+
+
+
+
+
+
+ Điều khoản Sử dụng
+
+
+
+
+
+
+Đây là bản tóm tắt dễ đọc của Điều khoản Sử dụng.
+Lời phủ nhận: Bản tóm tắt này không phải là một phần của Điều khoản Sử dụng và không phải là tài liệu pháp lý. Đây chỉ đơn giản là một tài liệu tham khảo bỏ túi giúp người đọc hiểu rõ các điều khoản đầy đủ. Hãy xem đây như một giao diện thân thiện cho ngôn ngữ pháp lý trong Điều khoản Sử dụng của chúng tôi.
+
+Một phần sứ mệnh của chúng tôi là:
+Giúp đỡ và Thu hút mọi người trên khắp thế giới cùng thu thập và phát triển những nội dung mang tính giáo dục và xuất bản nó theo một giấy phép tự do hoặc cống hiến vào phạm vi công cộng.
+Phổ biến nội dung này một cách hiệu quả và rộng khắp, hoàn toàn miễn phí.
+
+
+
+
+Bạn được tự do:
+
+Đọc và In các bài viết và phương tiện âm thanh/hình ảnh khác của chúng tôi miễn phí.
+Chia sẻ và Sử dụng lại các bài viết và phương tiện âm thanh/hình ảnh khác của chúng tôi theo các giấy phép tự do và mở.
+Đóng góp và Sửa đổi tại các trang hoặc Dự án của chúng tôi.
+
+
+
+
+Với những điều kiện sau:
+
+Có trách nhiệm — Bạn tự chịu trách nhiệm với sửa đổi của mình (vì chúng tôi chỉ lưu giữ nội dung của bạn mà thôi)
+Văn minh — Bạn ủng hộ một môi trường văn minh và không được quấy rối những người dùng khác
+Có hành vi Hợp pháp — Bạn không được vi phạm luật bản quyền hoặc các luật pháp khác.
+Không gây hại — Bạn không được xâm hại cơ sở hạ tầng kỹ thuật của chúng tôi
+Điều khoản Sử dụng và Quy định — Bạn phải tuân theo Điều khoản Sử dụng ở dưới và các quy định của từng trang mà bạn ghé thăm và từng cộng đồng mà bạn tham gia.
+
+
+
+
+Và luôn ghi nhớ rằng:
+
+Bạn cấp phép tự do cho những đóng góp của mình — nói chung bạn phải cấp phép những đóng góp và sửa đổi của mình vào các trang hoặc Dự án của chúng tôi theo một giấy phép tự do và mở (trừ khi đóng góp của bạn thuộc về phạm vi công cộng).
+Không phải lời khuyên của chuyên gia — nội dung các bài viết và dự án khác chỉ có mục đích cung cấp thông tin và không phải là lời khuyên của chuyên gia. 
+
+
+
+
+
+
+
+
+
+
+Điều khoản Sử dụng của Chúng tôi
+
+
+Hãy mường tượng đến một thế giới mà trong đó mỗi con người có thể tự do chia sẻ khối kiến thức chung của nhân loại. Đó là cam kết của chúng tôi. – Tuyên bố Tầm nhìn của Chúng tôi
+
+
+Chào mừng bạn đến Wikimedia! Wikimedia Foundation, Inc. (từ đây gọi là “chúng tôi”), là một tổ chức từ thiện phi lợi nhuận có sứ mệnh giúp đỡ và thu hút mọi người trên khắp thế giới cùng thu thập và phát triển nội dung có giấy phép tự do hoặc thuộc về phạm vi công cộng, và để phổ biến nó một cách hiệu quả và rộng khắp, hoàn toàn miễn phí.
+
+
+Để hỗ trợ cho cộng đồng sôi động của chúng tôi, chúng tôi cung cấp cơ sở hạ tầng thiết yếu và một nền tảng tổ chức cho sự phát triển của các Dự án wiki đa ngôn ngữ cùng các phiên bản (như giải thích tại đây) và các nỗ lực khác nhằm phục vụ cho mục tiêu này. Chúng tôi cố gắng tạo ra và lưu giữ những nội dung mang tính giáo dục và thông tin của các Dự án để luôn sẵn có trên internet một cách miễn phí, vĩnh viễn.
+
+
+Chúng tôi chào mừng bạn (từ đây gọi là “bạn” hay “người dùng”) với vai trò là một độc giả, biên tập viên, tác giả, hoặc người đóng góp vào các Dự án Wikimedia, và chúng tôi khuyến khích bạn tham gia vào cộng đồng Wikimedia. Tuy nhiên, trước khi tham gia, chúng tôi yêu cầu bạn vui lòng đọc và đồng ý với các Điều khoản Sử dụng sau đây (“Điều khoản Sử dụng”).
+
+Tổng quan
+
+
+Các Điều khoản Sử dụng này đề cập đến những dịch vụ công cộng của chúng tôi tại Wikimedia Foundation, mối quan hệ giữa chúng tôi và bạn với vai trò người dùng, cùng những quyền và nghĩa vụ của cả hai bên. Chúng tôi muốn bạn biết rằng chúng tôi đang lưu giữ một lượng khổng lồ các nội dung mang tính giáo dục và thông tin, tất cả đều do những người dùng như bạn đóng góp và tạo ra. Nói chung chúng tôi không đóng góp, giám sát, hay xóa nội dung (với ngoại lệ hiếm hoi là những quy định như Điều khoản Sử dụng này hoặc tuân theo quy định pháp lý trong các thông báo của Đạo luật Bản quyền Thiên niên kỷ số - DMCA). Điều này có nghĩa là quyền điều khiển biên tập hoàn toàn nằm trong tay bạn và những người dùng khác, những người tạo ra và quản lý nội dung. Chúng tôi chỉ làm việc lưu giữ nội dung này mà thôi.
+
+
+Cộng đồng – mạng lưới những người dùng liên tục xây dựng và sử dụng các trang hoặc các Dự án khác nhau – là phương tiện chủ yếu mà nhờ đó chúng tôi mới đạt được mục tiêu của sứ mệnh. Cộng đồng đóng góp và giúp quản lý các trang của chúng tôi. Cộng đồng thực hiện các chức năng tối quan trọng là tạo ra và thực thi các quy định cho các Phiên bản Dự án cụ thể (như các phiên bản ngôn ngữ khác nhau của Dự án Wikipedia hoặc phiên bản đa ngôn ngữ Wikimedia Commons).
+
+
+Bạn được hoan nghênh tham gia để trở thành người đóng góp, biên tập viên, hoặc tác giả, nhưng bạn cần phải tuân theo các quy định được dùng để điều chỉnh từng Phiên bản Dự án độc lập. Dự án lớn nhất trong các Dự án của chúng tôi là Wikipedia, nhưng chúng tôi còn lưu giữ những Dự án khác nữa, từng Dự án lại có mục tiêu và phương pháp làm việc khác nhau. Mỗi Phiên bản Dự án có một nhóm người đóng góp, biên tập viên hoặc tác giả làm việc cùng nhau để tạo ra và quản lý nội dung tại các Phiên bản Dự án đó. Bạn được hoan nghênh tham gia vào những nhóm này và cộng tác với họ để cải tiến các Dự án này. Vì chúng tôi cam kết là mọi người phải có khả năng truy cập vào các nội dung một cách tự do, chúng tôi đòi hỏi tất cả nội dung mà bạn đóng góp phải được cấp phép theo giấy phép tự do hoặc cống hiến vào phạm vi công cộng.
+
+
+Xin vui lòng ghi nhớ rằng bạn phải chịu mọi trách nhiệm pháp lý đối với tất cả các đóng góp, sửa đổi, và tái sử dụng nội dung Wikimedia theo luật pháp Hoa Kỳ và các luật pháp hiện hành (có thể bao gồm cả luật pháp nơi bạn đang sinh sống hoặc nơi bạn xem hoặc chỉnh sửa nội dung). Điều này có nghĩa là sự cẩn trọng của bạn khi đăng tải nội dung là rất quan trọng. Dưới quan điểm về trách nhiệm này, chúng tôi có một số quy định về những gì bạn không được đăng tải, phần lớn trong số này là để bảo vệ cho chính bạn hoặc bảo vệ những người dùng khác giống như bạn. Xin vui lòng ghi nhớ rằng nội dung mà chúng tôi lưu giữ chỉ dùng cho mục đích cung cấp thông tin tổng quát, vì vậy nếu bạn cần lời khuyên của chuyên gia cho một câu hỏi nào đó (như các vấn đề y tế, pháp lý, hoặc tài chính), bạn nên tìm sự giúp đỡ từ một chuyên gia được cấp phép hoặc đủ tiêu chuẩn. Chúng tôi cũng có một số điểm chú ý và lời phủ nhận quan trọng, vì vậy xin hãy đọc toàn bộ bản Điều khoản Sử dụng này.
+
+
+Chúng tôi muốn làm rõ rằng, các tổ chức khác, như chi hội Wikimedia tại địa phương và các hiệp hội khác, dù cùng chia sẻ một mục tiêu, nhưng hoàn toàn độc lập và tách rời về mặt luật pháp đối với Wikimedia Foundation và không có bất cứ trách nhiệm nào đối với việc điều hành website hoặc nội dung của nó.
+
+Contents
+
+1 Điều khoản Sử dụng của Chúng tôi
+2 Tổng quan
+3 1.  Dịch vụ của chúng tôi
+4 2. Quy định Quyền riêng tư
+5 3. Nội dung mà chúng tôi lưu giữ
+6 4. Tránh làm một số hành động
+7 5. Bảo vệ Mật khẩu
+8 6. Thương hiệu
+9 7. Cấp phép cho Nội dung
+10 8. Tuân thủ DMCA
+11 9. Các Website và Tài nguyên của Bên thứ ba
+12 10. Quản lý Website
+13 11. Nghị quyết và Chính sách Dự án
+14 12. Ngưng sử dụng
+15 13. Tranh chấp và Quyền tài phán
+16 14. Lời phủ nhận
+17 15. Giới hạn Trách nhiệm pháp lý
+18 16. Sửa đổi Điều khoản Sử dụng
+19 17. Các Điều khoản khác
+20 Cảm ơn!
+
+
+
+
+
+
+
+1.  Dịch vụ của chúng tôi
+
+
+Wikimedia Foundation toàn tâm toàn ý khích lệ sự gia tăng, phát triển và phân phối nội dung đa ngôn ngữ tự do, và lưu giữ toàn bộ nội dung của các Dự án nền tảng wiki cho công chúng hoàn toàn không thu phí. Vai trò của chúng tôi là lưu giữ một vài trong số những Dự án tham khảo do cộng đồng đóng góp lớn nhất trên thế giới, danh sách các Dự án này có tại đây. Tuy vậy, chúng tôi chỉ đóng vai trò là một dịch vụ lưu giữ, bảo trì cơ sở hạ tầng và nền tảng tổ chức nhằm cho phép người dùng của chúng tôi xây dựng các Dự án Wikimedia bằng cách tự họ đóng góp và sửa đổi nội dung. Vì vai trò của chúng tôi chỉ có vậy, có một vài điều bạn nên ghi nhớ khi xem xét mối quan hệ giữa chúng tôi với bạn, với Dự án, và những người dùng khác:
+
+Chúng tôi không đóng vai trò biên tập viên: Vì các Dự án Wikimedia được cộng tác sửa đổi, tất cả những nội dung mà chúng tôi lưu giữ đều được những người dùng như bạn cung cấp, và chúng tôi không đóng vai trò biên tập viên. Điều này có nghĩa là thông thường chúng tôi không giám sát hoặc sửa đổi nội dung của các website Dự án, và chúng tôi không chịu trách nhiệm về những nội dung này. Tương tự, chúng tôi không tỏ thái độ ủng hộ bất kỳ ý kiến nào được biểu lộ thông qua dịch vụ của chúng tôi, và chúng tôi không đại diện hoặc đảm bảo tính chân thực, chính xác, hoặc tin cậy của bất kỳ nội dung cộng đồng nào được gửi lên. Thay vào đó, chúng tôi chỉ đơn giản cung cấp sự truy cập vào nội dung mà những người dùng như bạn đã đóng góp và sửa đổi.
+Bạn phải tự chịu trách nhiệm cho hành động của mình: Bạn phải tự chịu trách nhiệm pháp lý cho những sửa đổi và đóng góp của bạn trên các Dự án Wikimedia, vì vậy để bảo vệ chính mình bạn nên cực kỳ cẩn trọng và tránh đóng góp bất cứ nội dung nào có thể dẫn đến trách nhiệm hình sự hoặc dân sự theo luật pháp hiện hành. Nói một cách rõ hơn, luật hiện hành bao gồm tối thiểu là luật pháp của Hợp chúng quốc Hoa Kỳ. Tuy có thể chúng tôi không đồng ý với những hành động như vậy, chúng tôi cảnh báo những biên tập viên và người đóng góp rằng các cơ quan chức năng có thể tìm cách áp dụng luật của nước khác vào bạn, bao gồm cả các luật địa phương nơi bạn sống hoặc nơi bạn xem hoặc thực hiện sửa đổi nội dung. WMF nói chung không thể bảo vệ, đảm bảo, miễn nhiễm hoặc bồi thường cho bạn.
+
+
+
+
+2. Quy định Quyền riêng tư
+
+
+Chúng tôi yêu cầu bạn xem lại các điều khoản trong Quy định Quyền riêng tư của chúng tôi, để giúp bạn nhận biết cách chúng tôi thu thập và sử dụng thông tin của bạn. Vì dịch vụ của chúng tôi được mọi người ở khắp nơi trên thế giới sử dụng, các thông tin cá nhân mà chúng tôi thu thập có thể được lưu giữ và xử lý tại Hoa Kỳ hoặc bất kỳ quốc gia nào khác mà chúng tôi hoặc cơ quan thừa hành của chúng tôi đang vận hành máy móc. Với việc sử dụng dịch vụ của chúng tôi, bạn đã đồng ý chuyển những thông tin này ra ngoài quốc gia của bạn.
+
+
+
+
+3. Nội dung mà chúng tôi lưu giữ
+Bạn có thể tìm thấy những tài liệu gây khó chịu hoặc có lỗi sai: Vì chúng tôi cung cấp nội dung rất đa dạng do người dùng của chúng tôi tạo ra hoặc thu thập, bạn có thể gặp phải những tài liệu mà bạn sẽ cảm thấy nó mang tính xúc phạm, có lỗi sai, gây hiểu nhầm, sai tên gọi, hoặc gây khó chịu theo bất cứ cách nào khác. Do đó chúng tôi yêu cầu bạn phải đánh giá một cách phổ quát và hợp lý khi sử dụng dịch vụ của chúng tôi.
+Nội dung của chúng tôi chỉ có mục đích cung cấp thông tin tổng quát: Mặc dù chúng tôi lưu giữ rất nhiều thông tin liên quan đến những chủ đề chuyên môn, trong đó có các vấn đề về y tế, pháp lý, hoặc tài chính, những nội dung này được trình bày chỉ với mục đích cung cấp thông tin tổng quát. Bạn không nên xem nó là lời khuyên của chuyên gia. Xin hãy tìm kiếm lời khuyên mang tính chất chuyên môn độc lập từ những người đã được cấp phép hành nghề hoặc đủ chuyên môn trong lĩnh vực đó thay vì hành động theo bất kỳ thông tin, ý kiến, hoặc lời khuyên nào có trong một trong những website Dự án.
+
+
+
+
+4. Tránh làm một số hành động
+
+
+Các Dự án được Wikimedia Foundation lưu giữ chỉ tồn tại nhờ vào cộng đồng người dùng tích cực như bạn. Họ đã cộng tác cùng nhau để viết, sửa chữa và giám sát nội dung. Chúng tôi vui mừng chào đón sự tham gia của bạn vào cộng đồng này. Chúng tôi khuyến khích bạn thể hiện sự văn minh và lịch sự khi tương tác với những người khác trong cộng đồng, hành động với tâm thức trong sáng, và thực hiện sửa đổi và đóng góp với mục tiêu thực hiện sứ mệnh của Dự án dùng chung.
+
+
+Một số hành động cụ thể, dù là hợp pháp hay bất hợp pháp, có thể gây phương hại đến người dùng khác và vi phạm quy định của chúng tôi, và các hành động khác cũng khiến bạn phải chịu trách nhiệm liên đới. Do đó, để bảo vệ cho chính mình và cho những người dùng khác, bạn không được tham gia vào các hoạt động kiểu như vậy trên website của chúng tôi. Những hành động đó bao gồm:
+
+Quấy rối và Lạm dụng Người khác
+Tham gia vào việc quấy rối, đe dọa, làm phiền nhiễu, gửi thư hàng loạt, hoặc phá hoại; và
+Thực hiện gửi thư lan truyền, thư rác, hoặc thư quảng cáo đến người dùng khác.
+Vi phạm Quyền riêng tư của Người khác
+Vi phạm quyền riêng tư của người khác chiểu theo luật pháp Hoa Kỳ hoặc các luật pháp hiện hành khác (có thể bao gồm cả luật pháp nơi bạn đang sinh sống hoặc nơi bạn xem hoặc chỉnh sửa nội dung);
+Mồi chài thông tin danh tính cá nhân để phục vụ cho mục đích quấy rối, lợi dụng, vi phạm sự riêng tư, hoặc bất kỳ mục đích quảng cáo hay thương mại nào khác không được sự chấp thuận công khai của Wikimedia Foundation; và
+Mồi chài thông tin danh tính cá nhân từ bất kỳ ai dưới 18 tuổi cho mục đích phi pháp hoặc vi phạm bất kỳ một luật pháp hiện hành nào liên quan đến sức khỏe hoặc lợi ích của trẻ vị thành niên.
+Tham gia vào các Tuyên bố sai sự thật, Giả danh, hoặc Giả mạo
+Cố tình đăng tải hoặc đăng tải một cách có ý thức những nội dung có tính phỉ báng hoặc làm xúc phạm danh dự;
+Có ý đồ lừa đảo, đăng tải những nội dung sai sự thật hoặc không chính xác;
+Cố gắng giả mạo người dùng hoặc cá nhân khác, miêu tả sai tư cách của bạn là một cá nhân hoặc cá thể nào đó, hoặc sử dụng tên người dùng của người dùng khác với mục đích giả mạo; và
+Tham gia vào sự lừa đảo.
+Vi phạm Quyền thương mại
+Vi phạm bản quyền, thương hiệu, bằng sáng chế, hoặc các quyền thương mại khác theo luật pháp hiện hành.
+Lạm dụng Dịch vụ của Chúng tôi Phục vụ cho Mục đích Phi pháp
+Đăng tải nội dung khiêu dâm trẻ em hoặc bất kỳ nội dung nào khác vi phạm luật pháp hiện hành liên quan đến nội dung khiêu dâm trẻ em;
+Đăng tải hoặc buôn bán các tài liệu khiêu dâm có tính bất hợp pháp theo luật pháp hiện hành; và
+Sử dụng dịch vụ theo cách không phù hợp với luật pháp hiện hành.
+Lạm dụng Tính năng gây ra Hư hỏng hoặc Bất hợp pháp
+Đăng tải hoặc phát tán những nội dung có chứa vi-rút máy tính, phần mềm phá hoại, sâu máy tính, ngựa Trojan, mã độc, hoặc thiết bị khác có thể gây hại cho hạ tầng kỹ thuật hoặc hệ thống của chúng tôi hoặc của thành viên của chúng tôi;
+Sử dụng việc truy cập trang một cách tự vận hành nhưng mang tính chất lạm dụng hoặc phá hoại dịch vụ và chưa được cộng đồng Wikimedia cho phép;
+Phá hoại dịch vụ bằng cách đặt nội dung quá tải trên website Dự án hoặc mạng lưới hoặc máy chủ được kết nối tới website Dự án;
+Phá hoại dịch vụ bằng cách tạo ra liên lạc tràn ngập đến các website Dự án mà không vì mục đích sử dụng website Dự án một cách chính đáng;
+Cố tình truy cập, can thiệp, hoặc sử dụng bất kỳ khu vực phi công cộng nào trong hệ thống máy tính của chúng tôi mà chưa được phép; và
+Thăm dò, phân tích, hoặc kiểm tra những điểm yếu trong hệ thống kỹ thuật hoặc mạng lưới trừ khi tất cả các điều kiện sau được thỏa mãn:
+những hành động như vậy không lạm dụng quá đáng hoặc cản trở hoạt động của hệ thống kỹ thuật hoặc mạng lưới của chúng tôi;
+những hành động như vậy không vì mục đích cá nhân (ngoại trừ để ghi công cho việc làm của bạn);
+bạn báo cáo lại tất cả các điểm yếu đến lập trình viên MediaWiki (hoặc tự sửa chữa nó); và
+bạn không thực hiện hành động như vậy với mục đích hiểm độc hoặc phá hoại.
+
+
+
+
+Khoản đóng góp được trả thù lao nhưng bị giấu kín
+Điều khoản Sử dụng cấm tham gia vào các hoạt động lừa đảo, bao gồm những giải trình sai lệch về các bên có liên quan, mạo danh và gian lận. Như một phần của nghĩa vụ, bạn phải công bố người chủ của bạn, khách hàng và bất kỳ mối liên quan đến những khoản đóng góp mà qua đó bạn được nhận, hoặc hứa hẹn được nhận, thù lao. Bạn phải công bố điều đó bằng ít nhất một trong các cách sau đây:
+một tuyên bố trên trang thành viên của bạn,
+một tuyên bố trên trang thảo luận kèm theo bất kỳ khoản đóng góp nào được trả thù lao, hoặc
+một tuyên bố trong tóm lược sửa đổi kèm theo bất kỳ khoản đóng góp nào được trả thù lao.
+Luật pháp hiện hành, hoặc các quy định và hướng dẫn của cộng đồng và Quỹ chẳng hạn như giải quyết những xung đột lợi ích, có thể có những giới hạn khác về những khoản đóng góp được trả thù lao hoặc yêu cầu công bố nhiều thông tin chi tiết hơn.
+Một cộng đồng Dự án Wikimedia có thể áp dụng một chính sách công bố thông tin đóng góp được trả thù lao thay thế chính sách này. Nếu một Dự án thông qua một chính sách công bố thông tin thay thế, bạn có thể thực hiện theo chính sách đó thay vì các yêu cầu trong khoản mục này khi đóng góp vào dự án đó. Một chính sách về các khoản đóng góp được trả thù lao thay thế sẽ chỉ có thể thay cho các yêu cầu này nếu chính sách đó đã được chấp nhận bởi cộng đồng Dự án có liên quan và được liệt kê trong trang chính sách công bố thông tin thay thế.
+Để biết thêm thông tin, xin vui lòng đọc trang hỏi đáp về việc công bố thông tin đóng góp được trả thù lao.
+
+
+Chúng tôi bảo toàn quyền thực thi các biện pháp cưỡng chế cần thiết tuân theo các điều khoản trên.
+
+
+
+
+5. Bảo vệ Mật khẩu
+
+
+Bạn chịu trách nhiệm bảo quản mật khẩu của mình và không bao giờ được tiết lộ nó cho bên thứ ba.
+
+
+
+
+6. Thương hiệu
+
+
+Mặc dù bạn khá tự do trong việc sử dụng lại các nội dung trên các website Dự án, việc chúng tôi bảo vệ quyền thương hiệu của mình là một việc rất quan trọng nhằm bảo vệ người dùng của chúng tôi khỏi bị mạo danh, lừa đảo. Vì vậy, chúng tôi yêu cầu bạn vui lòng tôn trọng thương hiệu của chúng tôi. Tất cả những thương hiệu Wikimedia Foundation thuộc về Wikimedia Foundation, và việc sử dụng tên thương mại, thương hiệu, dấu hiệu nhận biết dịch vụ, biểu trưng, hoặc tên miền phải phù hợp với những Điều khoản Sử dụng này và phù hợp với Chính sách Thương hiệu của chúng tôi.
+
+
+
+
+7. Cấp phép cho Nội dung
+
+
+Để phát triển nguồn kiến thức tự do và văn hóa tự do, tất cả thành viên đóng góp vào các Dự án bắt buộc phải trao cho công chúng những quyền hạn rộng rãi để tái phân phối và tái sử dụng các đóng góp của họ một cách tự do, miễn là việc sử dụng phải được ghi công một cách thích hợp và bất kỳ tác phẩm phái sinh nào cũng phải được trao quyền tự do tái sử dụng và tái phân phối y như vậy. Để giữ được mục tiêu cung cấp thông tin miễn phí đến lượng độc giả lớn nhất có thể, chúng tôi yêu cầu như sau, khi cần thiết, rằng tất cả những nội dung được gửi lên phải được cấp phép sao cho nó có thể được sử dụng một cách tự do bởi bất cứ ai mong muốn được truy cập vào.
+
+
+Bạn phải đồng ý với các yêu cầu cấp phép sau:
+
+
+Nội dung văn bản do bạn giữ bản quyền Khi bạn gửi lên văn bản do bạn giữ bản quyền, bạn đồng ý cấp phép nó theo:
+Giấy phép Creative Commons Ghi công–Chia sẻ tương tự phiên bản 3.0 Chưa chuyển đổi (“CC BY-SA”), và
+Giấy phép Tài liệu Tự do GNU (“GFDL”) (không cố định phiên bản, không có phần bất biến, văn bản bìa trước, hoặc văn bản bìa sau).
+
+
+(Những người tái sử dụng có thể làm theo một trong hai giấy phép hoặc cả hai.)
+
+
+Ngoại lệ duy nhất là khi Phiên bản Dự án hoặc tính năng đòi hỏi một giấy phép khác. Trong trường hợp đó, bạn đồng ý cấp phép cho bất kỳ văn bản nào do bạn đóng góp theo giấy phép cụ thể đó. Ví dụ, tại thời điểm xuất bản phiên bản Điều khoản Sử dụng này, Wikinews phiên bản tiếng Anh bắt buộc tất cả nội dung văn bản phải được cấp phép theo Giấy phép Creative Commons Ghi công phiên bản 2.5 Tổng quát (CC BY 2.5) và không đòi hỏi phải cấp phép kép với GFDL.
+
+
+Xin chú ý rằng những giấy phép này có cho phép sử dụng các đóng góp của bạn với mục đích thương mại, miễn là việc sử dụng đó tuân theo những điều khoản của giấy phép.
+
+Ghi công: Ghi công là một phần quan trọng của các giấy phép này. Chúng tôi xem việc này như một lời ghi nhận công lao đối với các tác giả như bạn. Khi bạn đóng góp nội dung văn bản, bạn đồng ý được ghi công theo một trong các cách sau:
+
+Thông qua một siêu liên kết (nếu được) hoặc URL đến bài viết mà bạn đã đóng góp (do mỗi bài viết đều có một trang lịch sử liệt kê tất cả các tác giả và người sửa chữa);
+Thông qua một siêu liên kết (nếu có thể) hoặc URL đến một bản sao trực tuyến thay thế khác, ổn định, có thể được tự do truy cập, tuân theo giấy phép, và có ghi tên các tác giả theo cách thức tương đương với việc ghi tên trên website Dự án; hoặc
+Thông qua một danh sách gồm tất cả các tác giả (nhưng xin chú ý là danh sách các tác giả có thể được tinh lọc để loại bỏ những đóng góp quá nhỏ hoặc không thích hợp).
+
+Nhập khẩu nội dung: Bạn có thể nhập khẩu nội dung mà bạn tìm thấy ở nơi khác hoặc bạn là đồng tác giả với những người khác, nhưng nếu làm vậy bạn phải đảm bảo rằng nó được phát hành phù hợp với những điều khoản tương thích với giấy phép CC BY-SA 3.0 (hoặc, như giải thích ở trên, một giấy phép khác khi được một Phiên bản Dự án hoặc tính năng đòi hỏi) ("CC BY-SA"). Nội dung được phát hành chỉ theo giấy phép GFDL sẽ không được chấp nhận.
+
+
+
+Bạn đồng ý rằng, nếu bạn nhập khẩu nội dung văn bản được phát hành theo một giấy phép CC BY-SA có đòi hỏi ghi công, bạn phải ghi lại tên một hoặc nhiều tác giả một cách hợp lý. Nếu tên tác giả thường được ghi qua lịch sử trang (như bản sao trong Wikimedia), việc ghi công trong tóm lược sửa đổi, và sẽ được ghi lại vào lịch sử trang, là đã thỏa đáng khi nhập khẩu văn bản. Yêu cầu ghi công đôi khi quá khó khăn trong một số tình huống cụ thể (bất kể là giấy phép gì), và sẽ có trường hợp cộng đồng Wikimedia quyết định rằng văn bản được nhập khẩu không thể sử dụng được vì lý do đó.
+Nội dung phương tiện phi văn bản: Nội dung phương tiện phi văn bản tại các Dự án được phát hành theo nhiều loại giấy phép khác nhau có hỗ trợ cho mục tiêu chung là cho phép việc tái sử dụng và tái phân phối không hạn chế. Khi bạn đóng góp nội dung phương tiện phi văn bản, bạn đồng ý tuân theo các đòi hỏi cho những kiểu giấy phép đó như mô tả trong Chính sách Cấp phép, và cũng phù hợp với các yêu cầu của từng Phiên bản Dự án hoặc tính năng cụ thể, nơi bạn đang đóng góp. Xem thêm Quy định Cấp phép Wikimedia Commons để biết thêm thông tin về việc đóng góp nội dung phương tiện phi văn bản của Dự án đó.
+
+Không thu hồi giấy phép: Trừ trường hợp phù hợp với giấy phép của bạn, bạn đồng ý rằng bạn sẽ không đơn phương thu hồi hoặc tìm cách làm mất đi hiệu lực của giấy phép mà bạn đã trao, theo các Điều khoản Sử dụng này, cho nội dung văn bản hoặc nội dung phương tiện phi văn bản đóng góp vào các Dự án hoặc tính năng Wikimedia, ngay cả khi bạn ngưng sử dụng dịch vụ.
+
+Nội dung phạm vi công cộng: Chúng tôi hoan nghênh những nội dung thuộc về phạm vi công cộng! Tuy nhiên bạn phải xác nhận tình trạng phạm vi công cộng của nội dung theo luật pháp Hợp chúng quốc Hoa Kỳ cũng như luật pháp của bất kỳ quốc gia nào khác như đòi hỏi của từng Phiên bản Dự án, điều này rất quan trọng. Khi bạn đóng góp nội dung thuộc về phạm vi công cộng, bạn đảm bảo rằng tài liệu thực sự đã thuộc về phạm vi công cộng, và bạn đồng ý gắn nhãn ghi chú tương xứng.
+
+Tái sử dụng: Bạn có thể tái sử dụng nội dung mà chúng tôi lưu trữ một cách tự do, ngoại trừ những nội dung được đóng góp theo "sử dụng hợp lý" hoặc những miễn trừ tương tự theo luật bản quyền. Việc tái sử dụng phải tuân thủ (các) giấy phép của nội dung đó.
+
+
+
+Khi bạn tái sử dụng hoặc tái phân phối một trang văn bản do cộng đồng Wikimedia phát triển, bạn đồng ý ghi công các tác giả theo một trong các cách sau:
+
+Thông qua một siêu liên kết (nếu được) hoặc URL đến bài viết mà bạn đã đóng góp (do mỗi bài viết đều có một trang lịch sử liệt kê tất cả các tác giả và người sửa chữa);
+Thông qua một siêu liên kết (nếu có thể) hoặc URL đến một bản sao trực tuyến thay thế khác, ổn định, có thể được tự do truy cập, tuân theo giấy phép, và có ghi tên các tác giả theo cách thức tương đương với việc ghi tên trên website Dự án; hoặc
+Thông qua một danh sách gồm tất cả các tác giả (nhưng xin chú ý là danh sách các tác giả có thể được tinh lọc để loại bỏ những đóng góp quá nhỏ hoặc không thích hợp).
+
+
+
+Nếu nội dung văn bản được nhập khẩu từ nguồn khác, rất có thể nội dung đó được cấp phép theo một giấy phép CC BY-SA tương thích nhưng không kèm GFDL (như mô tả trong “Nhập khẩu văn bản,” ở trên).  Trong trường hợp đó, bạn đồng ý tuân thủ giấy phép CC BY-SA tương thích và không có sự chọn lựa tái cấp phép theo GFDL. Để xác định giấy phép đang áp dụng vào nội dung mà bạn định tái sử dụng hoặc tái phân phối, bạn nên xem phía cuối trang, lịch sử trang, và trang thảo luận.
+
+
+Ngoài ra, xin ghi nhớ rằng văn bản bắt nguồn từ các nguồn bên ngoài rồi được nhập khẩu vào Dự án có thể được cấp theo một giấy phép có kèm theo một số yêu cầu ghi công bổ sung. Người dùng đồng ý chỉ rõ các yêu cầu ghi công bổ sung này. Tùy vào từng Dự án, các yêu cầu như vậy có thể xuất hiện, ví dụ như hiện biểu ngữ hoặc một dấu hiệu nào khác chỉ ra rằng một vài hoặc toàn bộ nội dung đã được xuất bản đầu tiên ở một nơi nào khác. Nếu có các dấu hiệu nhận diện xuất hiện, người tái sử dụng nên giữ nguyên chúng như vậy.
+
+Đối với nội dung phương tiên phi văn bản, bạn đồng ý tuân thủ theo bất kỳ loại giấy phép nào mà tác phẩm được cấp phép (có thể xem bằng cách nhấn vào tác phẩm và tìm đến phần giấy phép trên trang mô tả tác phẩm hoặc xem lại trang nguồn của tác phẩm). Khi tái sử dụng bất kỳ nội dung nào do chúng tôi lưu giữ, bạn đồng ý tuân theo các yêu cầu ghi công thích hợp được ghi trong một hoặc nhiều giấy phép nội dung.
+
+Sửa đổi hoặc bổ sung vào tài liệu mà bạn tái sử dụng: Khi thực hiện chỉnh sửa hoặc bổ sung vào nội dung văn bản do bạn lấy được từ website Dự án, bạn đồng ý cấp phép cho nội dung đã được chỉnh sửa hoặc bổ sung theo Giấy phép CC BY-SA 3.0 trở về sau (hoặc, như đã giải thích ở trên, một giấy phép khác khi đó là điều bắt buộc của từng Phiên bản Dự án cụ thể hoặc tính năng).
+
+
+
+Khi sửa đổi hoặc bổ sung vào nội dung phương tiện phi văn bản mà bạn lấy được từ website Dự án, bạn đồng ý cấp phép cho nội dung đã sửa đổi hoặc bổ sung đó theo bất kỳ giấy phép nào đã cấp phép trước đó cho tác phẩm.
+Với cả nội dung văn bản và phương tiện phi văn bản, bạn đồng ý chỉ rõ rằng tác phẩm gốc đã được chỉnh sửa. Nếu bạn đang tái sử dụng nội dung văn bản tại một wiki, cách phù hợp là bạn chỉ ra điều này trong lịch sử trang rằng bạn đã thực hiện thay đổi đối với văn bản được nhập vào. Với mỗi bản sao hoặc phiên bản đã chỉnh sửa do bạn phân phối, bạn đồng ý ghi kèm theo một thông báo cấp phép chỉ ra tác phẩm được phát hành theo giấy phép nào, cùng với một siêu liên kết hoặc URL đến toàn văn giấy phép hoặc một bản sao của giấy phép.
+
+
+
+
+8. Tuân thủ DMCA
+
+
+Wikimedia Foundation muốn đảm bảo rằng những nội dung do chúng tôi lưu giữ sẽ được các thành viên khác tái sử dụng mà không phải lo sợ trách nhiệm liên đới và không vi phạm quyền thương mại của người khác. Để có được sự công bằng cho người dùng của chúng tôi, cũng như cho những người đã tạo ra và giữ bản quyền, chính sách của chúng tôi là sẽ phản ứng với các thông báo khẳng định có sự vi phạm bản quyền theo đúng thủ tục của Đạo luật Bản quyền Thiên niên kỷ Số (DMCA). Theo DMCA, chúng tôi, trong những tình huống chính đáng, sẽ ngưng quyền sử dụng của người dùng và người sở hữu tài khoản trong hệ thống và mạng lưới của chúng tôi nếu những người đó liên tục vi phạm bản quyền.
+
+
+Tuy nhiên, chúng tôi cũng nhận thấy không phải thông báo vi phạm bản quyền nào cũng đúng hoặc có ý tốt. Trong trường hợp đó, chúng tôi chân thành khuyến khích người dùng tiến hành phản thông báo khi họ tin một cách thích đáng rằng một yêu cầu gỡ bỏ DMCA là không đúng hoặc không chính đáng. Để biết thêm thông tin về những gì sẽ làm nếu bạn tin rằng cảnh báo DMCA đã bị gửi sai, có thể bạn sẽ muốn tham khảo website Chilling Effects.
+
+
+Nếu bạn là chủ sở hữu của nội dung bị sử dụng không thích hợp trong một trong các Dự án mà chưa được sự cho phép của bạn, bạn có thể yêu cầu gỡ bỏ nội dung đó theo quy trình DMCA. Để thực hiện yêu cầu, xin vui lòng gửi email cho chúng tôi tại legalwikimedia.org, hoặc gửi thư bưu điện đến đại diện của chúng tôi theo địa chỉ này.
+
+
+Hoặc một cách khác, bạn có thể gửi yêu cầu đến cộng đồng của chúng tôi, họ thường xử lý các vấn đề bản quyền nhanh hơn và hiệu quả hơn là cách thực hiện theo DMCA. Trong trường hợp đó, bạn có thể đăng một thông báo giải thích lo ngại về bản quyền của bạn. Để xem danh sách chưa đầy đủ và không chính thức các quy trình phù hợp cho các Phiên bản Dự án khác nhau, xem tại đây. Trước khi gửi yêu cầu DMCA, bạn cũng có thể lựa chọn gửi email đến cộng đồng tại infowikimedia.org.
+
+
+
+
+9. Các Website và Tài nguyên của Bên thứ ba
+
+
+Bạn là người chịu trách nhiệm duy nhất về việc sử dụng các website hoặc tài nguyên của bên thứ ba. Mặc dù Dự án có chứa liên kết đến website và tài nguyên của bên thứ ba, chúng tôi không chứng thực và không chịu trách nhiệm hoặc có nghĩa vụ pháp lý liên quan đến sự tồn tại sẵn có, tính chính xác, hoặc các nội dung, sản phẩm, hoặc dịch vụ liên quan (bao gồm, nhưng chưa đầy đủ, mọi loại vi-rút hoặc các tính năng thiếu hụt khác), cũng như không có bổn phận phải giám sát các nội dung của bên thứ ba như vậy.
+
+
+
+
+10. Quản lý Website
+
+
+Cộng đồng đóng vai trò chính trong việc tạo ra và thực hiện quy định ứng với các Phiên bản Dự án khác nhau. Tại Wikimedia Foundation, chúng tôi hiếm khi can thiệp vào các quyết định của cộng đồng về quy định và việc thực thi quy định. Trong trường hợp bất thường, có thể sẽ có nhu cầu, hoặc cộng đồng có thể yêu cầu chúng tôi, để giải quyết một người dùng đặc biệt có vấn đề với lý do làm phiền nhiễu Dự án đáng kể hoặc có hành vi gây nguy hại. Trong trường hợp như vậy, chúng tôi bảo lưu quyền, nhưng không có bổn phận phải:
+
+Điều tra việc sử dụng dịch vụ của bạn (a) để xác định xem có xảy ra sự vi phạm Điều khoản Sử dụng này, quy định Dự án, hoặc các luật pháp hoặc chính sách hiện hành nào không, hoặc (b) để tuân thủ theo các luật pháp hiện hành, quy trình pháp lý, hoặc yêu cầu của chính phủ;
+Khám phá, ngăn chặn, hoặc bằng cách nào khác giải quyết các vấn đề giả mạo, an ninh, hoặc kỹ thuật hoặc phản hồi lại yêu cầu hỗ trợ của người dùng;
+Từ chối, ngưng kích hoạt, hoặc hạn chế sự truy cập vào đóng góp của bất kỳ thành viên nào vi phạm các Điều khoản Sử dụng này;
+Ban lệnh cấm chỉ một thành viên không cho phép sửa đổi hoặc đóng góp hoặc cấm tài khoản hoặc quyền truy cập của thành viên vì hành động vi phạm các Điều khoản Sử dụng này, bao gồm cả việc lặp lại vi phạm bản quyền;
+Có hành động pháp lý chống lại những người dùng vi phạm các Điều khoản Sử dụng này (bao gồm cả việc báo cho các cơ quan thực thi luật pháp); và
+Bằng cách khác, quản lý các website Dự án theo mục đích gốc là hỗ trợ việc vận hành đúng đắn và bảo vệ các quyền, tài sản, và sự an toàn của chúng tôi và người dùng, người cấp phép, đối tác của chúng tôi, và công chúng.
+
+
+Vì lợi ích của các người dùng của chúng tôi và của các Dự án, trong trường hợp xấu nhất khi một cá nhân nào đó phải bị khóa tài khoản hoặc quyền truy cập theo quy định này, anh/chị ta sẽ bị ngăn cấm tạo hoặc sử dụng tài khoản khác hoặc truy cập vào cùng Dự án, trừ khi chúng tôi có sự cho phép công khai. Để không giới hạn quyền của cộng đồng, bản thân Wikimedia Foundation sẽ không cấm chỉ người dùng không cho sửa đổi hoặc đóng góp hoặc khóa tài khoản hoặc quyền truy cập của người dùng chỉ vì những lời chỉ trích mang tính đóng góp không dẫn đến các hành động nào vi phạm các Điều khoản Sử dụng này hoặc các quy định của cộng đồng.
+
+
+Cộng đồng và thành viên của Wikimedia có thể thực hiện những hành động khi được quy định của cộng đồng của Quỹ áp dụng cho mỗi Phiên bản Dự án cho phép, bao gồm, nhưng không chỉ giới hạn ở việc cảnh báo, điều tra, khóa, hoặc cấm chỉ những người dùng vi phạm các quy định đó. Bạn đồng ý tuân theo những quyết định cuối cùng của các cơ quan giải quyết tranh chấp do cộng đồng hình thành cho từng Phiên bản Dự án cụ thể (như hội đồng trọng tài); các quyết định này có thể có những tiền lệ được thiết lập bởi quy định của từng Phiên bản Dự án cụ thể.
+
+
+Các thành viên có vấn đề đặc biệt nếu tài khoản hoặc quyền truy cập đã bị khóa ở nhiều Phiên bản Dự án có thể sẽ bị cấm chỉ trên toàn bộ các Phiên bản Dự án, theo Quy định Cấm chỉ Toàn hệ thống. Ngược lại với nghị quyết của Hội đồng Quản trị hoặc các Điều khoản Sử dụng này, các quy định do cộng đồng tạo ra, có thể áp dụng cho một hoặc nhiều Phiên bản Dự án (như Quy định Cấm chỉ Toàn hệ thống), có thể được các cộng đồng tương ứng điều chỉnh theo quy trình của từng cộng đồng.
+
+
+Việc khóa một tài khoản hoặc không cho truy cập hoặc cấm chỉ người dùng theo điều khoản này sẽ tuân theo Khoản 12 của các Điều khoản Sử dụng này.
+
+
+
+
+11. Nghị quyết và Chính sách Dự án
+
+
+Hội đồng Quản trị Wikimedia Foundation thường xuyên ban hành các quy định chính thức. Một số quy định là bắt buộc cho một Dự án hoặc một Phiên bản Dự án cụ thể, và, khi có ban hành, bạn phải đồng ý tuân thủ chúng.
+
+
+
+
+12. Ngưng sử dụng
+
+
+Tuy chúng tôi hy vọng rằng bạn sẽ ở lại và tiếp tục đóng góp cho các Dự án, bạn có thể ngưng dịch vụ của chúng tôi vào bất cứ lúc nào. Trong một số tình huống (chúng tôi hy vọng sẽ không xảy ra) bản thân chúng tôi hoặc cộng đồng Wikimedia hoặc các thành viên (như đã mô tả trong Khoản 10) cần phải tiến hành ngưng một phần hoặc toàn bộ dịch vụ, ngưng các Điều khoản Sử dụng này, khóa tài khoản hoặc quyền truy cập, hoặc cấm tư cách thành viên của bạn. Nếu tài khoản hoặc quyền truy cập của bạn bị khóa hoặc bị ngưng sử dụng vì bất cứ lý do gì, bạn vẫn có thể truy cập được vào các trang công cộng nhưng chỉ có với một mục đích duy nhất là đọc các nội dung có sẵn công cộng trên các Dự án. Tuy vậy, trong những tình huống đó, bạn có thể sẽ không truy cập được tài khoản hoặc thiết lập của bạn. Chúng tôi bảo lưu quyền đình chỉ hoặc kết thúc dịch vụ vào bất cứ lúc nào, có hoặc không cần có lý do, và có hoặc không cần có thông báo trước. Thậm chí sau khi việc sử dụng và tham gia của bạn bị cấm, khóa hoặc đình chỉ, các Điều khoản Sử dụng này vẫn còn hiệu lực ở một số điều khoản tương ứng, trong đó có các Khoản 1, 3, 4, 6, 7, 9-15, và 17.
+
+
+
+
+
+
+13. Tranh chấp và Quyền tài phán
+
+
+Được tô sáng để nhấn mạnh
+
+
+Chúng tôi hy vọng sẽ không có bất đồng nghiêm trọng nào xảy ra liên quan đến bạn, nhưng, nếu có tranh chấp xảy ra, chúng tôi khuyến khích bạn tìm kiếm giải pháp thông qua quy trình hoặc cơ chế giải quyết tranh chấp do các Dự án hoặc Phiên bản Dự án và Wikimedia Foundation cung cấp. Nếu bạn muốn tiến hành hành động pháp lý chống lại chúng tôi, bạn phải đồng ý chỉ được đệ đơn và giải quyết vấn đề này trong một tòa án cấp tiểu bang hoặc cấp liên bang có trụ sở đặt tại Quận San Francisco, California. Bạn cũng đồng ý rằng luật pháp của Tiểu bang California và, khi phải sử dụng, luật pháp Hợp chúng quốc Hoa Kỳ sẽ điều chỉnh những Điều khoản Sử dụng này, cũng như bất kỳ một hành động pháp lý nào xảy đến giữa bạn và chúng tôi (không tham chiếu đến sự mâu thuẫn về nguyên tắc pháp lý). Bạn đồng ý nộp lệ quyền tài phán cá nhân của, và đồng ý rằng nơi diễn rằng là hoàn toàn nằm trong, các tòa án đặt tại Quận San Francisco, California, trong bất kỳ một hành động pháp lý hoặc kiện tụng nào liên quan đến chúng tôi hoặc các Điều khoản Sử dụng này.
+
+
+Để đảm bảo rằng tranh chấp được giải quyết ổn thỏa ngay sau khi phát sinh, bạn đồng ý rằng bất kể đạo luật hoặc luật trái ngược nào, bất kỳ khiếu nại hoặc tác nhân gây ra hành động nào mà bạn có thể đã phát sinh hoặc có liên quan tới việc sử dụng các dịch vụ của chúng tôi hoặc liên quan tới các Điều khoản Sử dụng này sẽ được đệ trình trong luật giới hạn hiện hành hoặc, nếu sớm hơn, là một (1) năm sau khi các dữ kiện thích hợp là cơ sở bồi thường hoặc tác nhân gây ra hành động được phát hiện ra với sự cẩn trọng hợp lí (nếu không sẽ vĩnh viễn không còn ý nghĩa).
+
+
+
+
+14. Lời phủ nhận
+
+
+Được tô sáng để nhấn mạnh
+
+
+Tại Wikimedia Foundation, chúng tôi nỗ lực tối đa để cung cấp nội dung mang tính giáo dục và thông tin cho lượng độc giả rộng rãi, nhưng bạn là người duy nhất phải chấp nhận mọi nguy cơ khi bạn sử dụng dịch vụ của chúng tôi. Chúng tôi cung cấp những dịch vụ này theo nguyên tắc "vốn có" và "sẵn có", và chúng tôi tuyệt đối phủ nhận tất cả mọi bảo đảm mang tính phiếm chỉ hoặc ngụ ý ở bất cứ hình thức nào, bao gồm nhưng không chỉ giới hạn ở việc bảo đảm tính thương mại, phù hợp cho một mục đích cụ thể, và không vi phạm quyền nào. Chúng tôi không đảm bảo rằng các dịch vụ của chúng sẽ thỏa mãn yêu cầu của bạn, an toàn, an ninh, không ngắt quãng, đúng lúc, chính xác, hay không có lỗi nào, hay thông tin của bạn sẽ được an toàn.
+
+
+Chúng tôi không chịu trách nhiệm về nội dung, dữ liệu, hoặc hành động của các bên thứ ba, và bạn miễn trừ chúng tôi, những người lãnh đạo, quan chức, nhân viên, và cơ quan của chúng tôi, khỏi bất cứ các cáo buộc và hư hỏng nào, dù hữu ý hay vô ý, xuất hiện từ hoặc theo bất cứ cách nào có liên hệ với đòi hỏi của bạn chống lại các bên thứ ba đó. Không có bất kỳ lời khuyên hoặc thông tin nào, dù qua phát ngôn hoặc văn bản, mà bạn có được từ chúng tôi hoặc thông qua hoặc xuất phát từ dịch vụ của chúng tôi lại tạo ra một sự đảm bảo không được đề cập đến trong các Điều khoản Sử dụng này.
+
+
+Bạn phải tự cân nhắc và chịu mọi nguy cơ khi tải về hoặc bằng cách nào khác lấy được bất cứ tài liệu nào thông qua việc sử dụng dịch vụ của chúng tôi, và bạn sẽ là người chịu trách nhiệm duy nhất khi hệ thống máy tính của bạn bị phá hoại hoặc dữ liệu của bạn bị mất mát do tải về tài liệu đó. Bạn đồng ý rằng chúng tôi không có nghĩa vụ hoặc trách nhiệm pháp lý nào trong việc xóa bỏ, hoặc không thể lưu trữ hay truyền tải, bất kỳ nội dung hoặc liên lạc nào do dịch vụ duy trì. Chúng tôi bảo lưu quyền thiết lập giới hạn cho việc sử dụng và lưu trữ theo cách chúng tôi mong muốn vào bất cứ thời điểm nào mà có thể có hoặc không có thông báo trước.
+
+
+Một số tiểu bang hoặc quyền tài phán không cho phép các kiểu phủ nhận trong phần này, do đó từng phần hoặc toàn bộ lời phủ nhận có thể không áp dụng được cho bạn tùy vào quy định của luật pháp.
+
+
+
+
+15. Giới hạn Trách nhiệm pháp lý
+
+
+Được tô sáng để nhấn mạnh
+
+Wikimedia Foundation sẽ không chịu trách nhiệm với bạn hoặc bất kỳ bên nào khác về bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên, thiệt hại đặc biệt, thiệt hại là hậu quả của hành vi hoặc điều nào đó, hay thiệt hại mang tính làm gương, chịu trách nhiệm nhưng không giới hạn đối với những thiệt hại do mất mát lợi nhuận, ủy thác tín kinh doanh, quyền hoa lợi, dữ liệu hoặc những mất mát không xác thực khác, bất kể chúng tôi đã thông báo về khả năng thiệt hại đó hay chưa. Trách nhiệm pháp lý của chúng tôi sẽ không vượt quá con số 1000 đô la Mỹ cho bất kỳ trường hợp nào. Trong trường hợp mà luật áp dụng không cho phép đưa ra hạn chế hay loại trừ đối với trách nhiệm pháp lý hay thiệt hại - dù đó là thiệt hại ngẫu nhiên hay là thiệt hại do một hậu quả tất yếu, khi đó, những hạn chế hoặc loại trừ trên có thể không áp dụng đối với bạn, mặc dù trách nhiệm của chúng tôi sẽ được hạn chế đến mức tối đa mà quy định của luật pháp áp dụng cho phép.
+
+
+
+
+16. Sửa đổi Điều khoản Sử dụng
+
+
+Chúng tôi luôn xem ý kiến của cộng đồng Wikimedia là yếu tố sống còn đối với sự phát triển và duy trì của các Dự án, và tương tự như vậy, ý kiến của cộng đồng cũng là yếu tố sống còn cho Điều khoản Sử dụng này nhằm phục vụ người dùng của chúng tôi một cách chính đáng. Ngoài ra, một hợp đồng công bằng cũng là điều rất cần thiết. Vì vậy, chúng tôi sẽ gửi các Điều khoản Sử dụng này, cũng như bất kỳ sửa đổi đáng kể nào trong tương lai của các Điều khoản Sử dụng này, cho cộng đồng để lấy ý kiến tối thiểu ba mươi (30) ngày trước khi kết thúc giai đoạn lấy ý kiến​​. Nếu lại có một đề xuất sửa đổi lớn nữa, chúng tôi sẽ cho thêm 30 ngày lấy ý kiến kể từ ngày cho đăng bản dịch của phiên bản sửa đổi trong ít nhất ba ngôn ngữ (chọn theo ý của chúng tôi). Cộng đồng sẽ được khuyến khích dịch bản sửa đổi được đề xuất sang các ngôn ngữ khác thích hợp. Đối với các thay đổi về lý do pháp lý hoặc hành chính, sửa chữa một câu không chính xác, hoặc thay đổi để đáp lại ý kiến ​​cộng đồng, chúng tôi sẽ đưa ra thông báo ít nhất ba (3) ngày.
+
+
+Do việc điều chỉnh các Điều khoản Sử dụng này có thể cần phải diễn ra thường xuyên, chúng tôi sẽ thông báo rõ những điều chỉnh là gì và cho các bạn cơ hội thảo luận thông qua các website Dự án, và một thông báo trên WikimediaAnnounce-L. Tuy nhiên, chúng tôi đề nghị bạn hãy định kỳ xem lại phiên bản cập nhật của các Điều khoản Sử dụng. Việc bạn tiếp tục sử dụng các dịch vụ của chúng tôi sau khi Điều khoản Sử dụng mới chính thức có hiệu lực sau thời gian thông báo và xem xét đồng nghĩa với việc bạn chấp nhận các Điều khoản Sử dụng trên. Nhằm bảo vệ Wikimedia Foundation và những người dùng khác như bạn, nếu bạn không đồng ý với Điều khoản Sử dụng của chúng tôi, bạn không thể sử dụng dịch vụ của chúng tôi.
+
+
+
+
+17. Các Điều khoản khác
+
+
+Những Điều khoản Sử dụng này không tạo ra việc làm, chi nhánh, quan hệ đối tác hoặc mối quan hệ liên doanh giữa bạn và chúng tôi, Wikimedia Foundation. Nếu bạn chưa ký kết thỏa thuận riêng biệt nào với chúng tôi thì những Điều khoản Sử dụng này là toàn bộ thỏa thuận giữa bạn và chúng tôi. Nếu có bất kỳ cuộc xung đột giữa các Điều khoản Sử dụng và một thỏa thuận bằng văn bản ký kết giữa bạn và chúng tôi, thỏa thuận ký kết sẽ làm chủ xung đột này.
+
+
+Bạn đồng ý rằng chúng tôi có thể cung cấp cho bạn các thông báo, bao gồm thông báo liên quan đến những thay đổi Điều khoản Sử dụng, thông qua hình thức gửi email, thư bưu chính, hoặc các bài đăng trên các website Dự án.
+
+
+Nếu trong tình huống nào đó, chúng tôi không áp dụng hoặc thi hành một điều khoản trong các Điều khoản Sử dụng này, điều đó không có nghĩa là một sự từ bỏ điều khoản đó.
+
+
+Bạn hiểu rằng, trừ khi có thỏa thuận khác bằng văn bản của chúng tôi, bạn không có hy vọng được bồi thường cho bất kỳ hoạt động, đóng góp, hoặc ý tưởng mà bạn cung cấp cho chúng tôi, cho cộng đồng, hoặc các Dự án Wikimedia hoặc các Phiên bản Dự án.
+
+
+Bất kể điều khoản nào trái với các Điều khoản Sử dụng này, chúng tôi (Wikimedia Foundation) và bạn đồng ý không sửa đổi các điều khoản và các yêu cầu thích hợp của bất kỳ giấy phép tự do nào được sử dụng ở các Dự án hoặc Phiên bản Dự án khi các giấy phép tự do này được Điều khoản Sử dụng cho phép.
+
+
+Những Điều khoản Sử dụng này được viết bằng tiếng Anh (Mỹ). Tuy chúng tôi hy vọng các bản dịch của Điều khoản Sử dụng là chính xác, trong trường hợp có bất kỳ sự khác biệt về ý nghĩa giữa bản gốc tiếng Anh và bản dịch, bản gốc tiếng Anh sẽ được ưu tiên.
+
+
+Nếu như bất cứ điều khoản hoặc một phần điều khoản của Điều khoản Sử dụng này bị phát hiện là không hợp pháp, vô hiệu, hoặc không thể thi hành được, thì điều khoản hoặc phần điều khoản đó có thể bị loại bỏ khỏi Điều khoản Sử dụng và sẽ được được thi hành một cách tối đa theo giới hạn cho phép và đồng thời các điều khoản khác trong Điều khoản Sử dụng vẫn sẽ có đầy đủ hiệu lực.
+
+Cảm ơn!
+
+
+Chúng tôi rất cảm kích thời gian mà bạn bỏ ra để đọc những Điều khoản Sử dụng này, và chúng tôi rất vinh hạnh nhận được sự đóng góp nhiệt tình của các bạn trong các Dự án và sử dụng dịch vụ của chúng tôi. Thông qua những đóng góp của mình, bạn đang giúp chúng tôi xây dựng một điều gì đó lớn lao – không đơn thuần chỉ là một bộ sưu tập các Dự án tham khảo được phối hợp để giúp cung cấp giáo dục và thông tin đến hàng triệu người không có khả năng tiếp xúc với những nguồn kiến thức này, mà nó còn là một cộng đồng của những người có đồng chí hướng, trí tuệ, sống động và tất cả đều vì một mục đích thật cao quý.
+
+
+
+
+Bản Điều khoản Sử dụng có hiệu lực từ ngày 16 tháng 6 năm 2014. Phiên bản trước đó nằm tại:
+
+Terms of Use (2012–2014): có hiệu lực từ ngày 24 tháng 5 năm 2012 đến ngày 16 tháng 6 năm 2014
+Terms of Use (2009): có hiệu lực từ năm 2009 đến ngày 24 tháng 5 năm 2012.
+
+
+Trong trường hợp có bất kỳ sự khác biệt về ý nghĩa giữa bản gốc tiếng Anh và bản dịch, bản gốc tiếng Anh sẽ được ưu tiên.
+
+
+
+
+
+
+
+
+
+Retrieved from "https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/vi&amp;oldid=106656"
+		Categories: Terms of UseTiếng Việt
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		PageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadFeedbackView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		About Wikimedia
+	
+	
+		
+		HomeOfficial websiteContact usWikimedia NewsMovement blogQuestions for Wikimedia?
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		DonateVolunteeringWikipedia Store
+		
+	
+
+
+	
+		
+		Corporate
+	
+	
+		
+		BylawsValuesPoliciesResolutionsBoard meetingsAnnual ReportFinancial reports and Form 990Fundraising reportsMovement affiliates
+		
+	
+
+
+	
+		
+		Wiki
+	
+	
+		
+		Give feedbackRecent changes
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+
+
+
+
+	
+	 This page was last edited on 21 August 2016, at 13:20.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About Wikimedia Foundation Governance Wiki
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

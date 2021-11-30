@@ -1,0 +1,376 @@
+
+
+
+
+Wikipedia:Describing points of view - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Describing points of view
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Not to be confused with Wikipedia:NOTOPINION.
+This is an explanatory supplement to the Wikipedia:Neutral point of view and Wikipedia:What Wikipedia is not § Opinion pieces policies. 
+ This page is intended to provide additional information about concepts in the page(s) it supplements. This page is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutWP:OPINION
+
+
+At Wikipedia, points of view (POVs) – cognitive perspectives – are often essential to articles which treat controversial subjects. Wikipedia's official "Neutral Point of View" (NPOV) policy does not mean that all the POVs of all the Wikipedia editors have to be represented. Rather, the article should represent the POVs of the main scholars and specialists who have produced reliable sources on the issue.
+
+
+In Thought du Jour Harold Geneen has stated:[1]
+
+
+
+The reliability of the person giving you the facts is as important as the facts themselves. Keep in mind that facts are seldom facts, but what people think are facts, heavily tinged with assumptions.
+
+
+Hard facts are really rare. What we most commonly encounter are opinions from people (POVs). Inherently, because of this, most articles on Wikipedia are full of POVs. An article which clearly, accurately, and fairly describes all the major, verifiable points of view will – by definition – be in accordance with Wikipedia's NPOV policy.
+
+
+Each POV should be clearly labeled and described, so readers know:
+
+Who advocates the point of view
+What their arguments are (supporting evidence, reasoning, etc.)
+Contents
+
+1 Biased writing
+2 Local bias
+3 Assuming the "obvious"
+4 English language
+5 Other points
+6 Other areas where POV comes into play
+7 Pseudonyms
+8 See also
+9 Footnotes
+
+
+
+Biased writing[edit]
+
+
+A Wikipedian contributor might be unaware that their writing is biased, if they harbor (possibly not fully aware of it) assumptions about the popular opinion of one's area, country, culture, language, ethnicity, etc. Generally, this comes out in one of several ways:
+
+Writing from your local perspective on non-local pages
+Excessive assumption of local readership when writing about a topic specific to your locality
+And, of course, opinion and bias
+
+
+Of course any article can be "unbalanced" because contributors have more knowledge of, or are more interested in, particular aspects of a subject than in other aspects. This is not "wrong", but making such an article more balanced is encouraged. For example, suppose there is an article about highways that is mostly about the US. A German who encounters this should not complain about Americocentrism, but alter the article to approach the subject from a wider perspective: what can be said about highways in general, that applies worldwide? Begin the article with this, and then discuss the specific variations in different countries.
+
+
+All articles are (ideally) completely dominated by a sane, adult human perspective. That does not count as bias. It would be just plain silly to protest that an article about bone cancer is biased because it is only told from the patient/doctor perspective and we are not told what bone cancer has to say on the subject. Cancer cells do not have thoughts, so any attempt to include their perspective would only be inventive. Such perspectives are sometimes allowed. If a credible expert has tried to explain, say, human–cat relationship from a cat perspective, a summary of this might make a good addition to an article about domestic cats. Likewise, it might be interesting to read how severe schizophrenics view people without mental health problems in an article about severe health problems. However, you cannot demand that such an addition is necessary for NPOV.
+
+Local bias[edit]
+
+
+The English language Wikipedia is almost inherently biased towards readers and speakers of English. English is the de facto primary language in the United Kingdom, the United States of America, Canada and other nations, and will naturally attract disproportionately more English Wikipedia editors from those nations than they represent in the world population. Additionally, English is widely accepted as a second language and a lingua franca across the globe. All of this reinforces the need for English Wikipedia articles to be written for a diverse and international audience.
+
+
+Some simple mistakes due to local bias:
+
+Using the names of seasons to date a particular event, e.g. the album was released in Spring 2001. Seasons happen at different times in the Northern and Southern Hemispheres; spring in Canada is autumn in Australia. However, in many contexts (Gregorian calendar, Julian calendar, etc.), the year starts at the same time worldwide, so this particular bias can be remedied by using terms such as "early 2001", "mid-2001", "late 2001", etc.
+Terms such as overseas, abroad, in this country, or nationwide where no nation is clearly implied. However, certain terms such as "offshore" may be understood in a legal context to reference any jurisdiction which is separate from a citizenship, place of incorporation or other primary jurisdiction; this usage is particularly common in taxation and financial regulation.
+References to national or local laws without mentioning the appropriate jurisdiction. In articles not directly pertaining to the United States, for instance, terms such as "unconstitutional" or "Miranda rights" are likely to be misunderstood or simply irrelevant.
+References to local customs, such as holidays, that assume the reader shares an understanding of the reference. Independence Day in the United States (July 4) and Bastille Day in France (14 July) are not widely celebrated outside those nations and some historically associated areas. If in doubt, use the exact date.
+Changing articles en masse from one dialect of English to another, where the subject is not specific to a locality. For instance, if an article on philosophy is already written with British spellings such as centre, changing them to American spellings such as center is unnecessary; or vice versa. Such changes, especially when done en masse, are a blatant violation of the Manual of Style's guideline which encourages editors to retain the established variety of English. This behavior may be considered disruptive or even politically motivated.
+However, that guideline does allow individual articles to switch varieties if it is determined that: the article subject has strong ties to a certain Anglophone nation; the article subject is or was known to use a certain variety of English, or; a consensus has been formed in favor of changing the established variety of English in an article to a different one.
+Assuming the "obvious"[edit]
+
+
+Something else that you need to watch out for are "obvious" facts which are not necessarily obvious to people from other areas. Examples include the level of support a political movement has or does not have (and particularly referring to "major parties" in a nation without linking an explanation of which parties these are – which may not be obvious to foreign readers), the names of the movements, demographic facts, geographic facts.
+
+English language[edit]
+ShortcutWP:EPOV
+
+
+Also, be careful to avoid an English-speaking Point of View. Although country-specific and similar POVs are often easy to spot, this can be harder to spot.
+
+
+While there is a strong argument to simply present history and politics in English the way they have always been presented in that language, there's a much stronger argument for sticking to a neutral point of view, and avoiding reports of long-standing English cultural assumptions as fact. For one thing, there are many people in Ireland, Australia, Canada, New Zealand, Caribbean nations such as the Cayman Islands, etc. who speak English as a first language, who do not share these. In South America, the EU, Russia, India, China, etc. many people learn English very early, often simultaneously with another tongue. It is simply wrong to believe that everyone reading an article in English will understand UK or US cultural assumptions or find it non-controversial to make certain statements or use certain terms:
+
+Vocabulary – Simple English articles are available for those learning, or with poor mastery of, English. In the main English Wikipedia, there is still a need to avoid professional jargon and to keep language as simple and direct as the accurate treatment of the subject permits. Unusual or unfamiliar usages need to be briefly disambiguated; sometimes a single modifier suffices: "The scientist Marie Curie...".
+Names or dates of conflicts used in English-speaking sources sometimes poorly match those used in some other culture; it's critical to get the dates right for the context, and include as many alternative terms as necessary. The extent of this obviously depends on the context of the article. For example, "George VI was King of Britain during World War II (1939–1945)" but "Stalin was head of the Soviet Union during the Great Patriotic War (World War II) from 1941 to 1945".[2]
+Assuming that the term "British" includes the peoples of former British Colonies.
+Accounts of conflicts and their outcomes, providing the interpretation of the side most English-speaking nations supported.
+Statements that a territory was "discovered" or "settled" when in fact it was visited or colonized. It is better to write "Balboa was the first European to see the Pacific Ocean" than "Balboa discovered the Pacific Ocean".
+Other points[edit]
+
+
+Other key points to watch for when adapting material from country-specific sources:
+
+Spelling: see Wikipedia:Manual of Style for current recommendations on English spelling.
+Names of conflicts used in your locality (the US, UK, etc.) may not be the same as those on the list of wars, and may reflect a local viewpoint.
+Avoid biased comments about other countries. This rule, of course, applies in all directions.
+Units of measure – Use the units that are most appropriate to the context and, where appropriate, place an alternative form in parenthesis right after the units (for example, an article on a mountain in the United States should have its elevation given in feet with the approximate number of meters given right after). However, always use the measured form first and leave the converted form in parentheses (otherwise you are introducing error in the numbers!). The converted form should also not have more significant figures than the measured form (this gives a false impression of precision).
+Other areas where POV comes into play[edit]
+
+
+In addition to language and geographic issues, it is important to avoid other types of assumptions or biases about people. Some examples of biases to avoid are:
+
+Heteronormativity, namely assuming all people are heterosexual. Examples include assuming that any sexual activity carries a pregnancy risk, assuming that a child lives with their biological father and mother, or assuming that dating involves people of different genders.
+Referring to people with disabilities using marginalizing terms, such as referring to people as "patients" when not specifically describing the routine of a hospital.
+Writing about people solely from the perspective of someone who perceives those people as a "problem". For instance, Wikipedia articles about mental conditions such as autism or social conditions such as homelessness should not be written from the perspective of those who want such people to go away.
+Referring to people's lives or actions in terms of the problems or opinions of those who disapprove of them. When writing something such as "the park has had a lot of problems with the homeless", consider that these "homeless" are people and would not want to be described this way. An improvement might be something such as "struggling to manage the conflicting interests of their constituents, park officials changed certain rules after renovation, e.g. closing the park to overnight camping".
+
+
+A good rule of thumb in avoiding POV is to never refer to someone in a way you would not want to see used to refer to yourself or a loved one.
+
+Pseudonyms[edit]
+Main page: Wikipedia:Avoid weasel words
+
+
+In articles about works of art, games, TV series and other subjects without estimable values, Wiki editors will often try to pass on POV opinions by writing under a pseudonym, e.g., "some fans think the New York Yankees are the greatest baseball team ever". Unless you can provide a survey, a review or any similar type of source for your praise, it does not belong in a Wikipedia article. The correct way to phrase the sentence would be: "The Yankees are Major League Baseball's most successful franchise with 27 World Series championships".
+
+See also[edit]
+Wikipedia:Be neutral in form
+Wikipedia:Content forking
+Wikipedia:Controversial articles
+Wikipedia:Don't teach the controversy (that phrase doesn't mean what you think it means)
+Wikipedia:How to put up a straight pole by pushing it at an angle
+Wikipedia:List of controversial issues
+Wikipedia:Neutral point of view/FAQ
+Wikipedia:Neutrality of sources
+Wikipedia:NPOV dispute
+Wikipedia:Pages needing attention
+Wikipedia:POV and OR from editors, sources, and fields (essay)
+Wikipedia:Systemic bias
+Footnotes[edit]
+
+
+^ Harold Geneen in his "Thought du Jour", cited by Michael Kesterton in The Globe and Mail on February 20, 2006, at page A14 in the Section of Social Studies, subsection A daily miscellany of information.
+
+^ Since most readers will be more familiar with the term 'World War II' than 'Great Patriotic War' it is probably better to explain the usage, even in articles about the Soviet Union.
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Describing_points_of_view&amp;oldid=1057380556"
+		Categories: Wikipedia supplemental pagesWikipedia essays about neutrality
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 27 November 2021, at 07:57&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

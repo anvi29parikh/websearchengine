@@ -1,0 +1,479 @@
+
+
+
+
+Bantuan:Konten - Meta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Bantuan:Konten
+	
+		From Meta, a Wikimedia project coordination wiki
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This page is a translated version of the page Help:Contents and the translation is 100% complete.Other languages:Bahasa Indonesia
+Basa Banyumasan
+British English
+Deutsch
+English
+Esperanto
+Lëtzebuergesch
+Nederlands
+Scots
+Sunda
+Taqbaylit
+Tiếng Việt
+Türkçe
+Zazaki
+català
+dansk
+español
+euskara
+français
+hrvatski
+interlingua
+italiano
+lietuvių
+magyar
+norsk bokmål
+occitan
+polski
+português
+português do Brasil
+română
+suomi
+svenska
+čeština
+ślůnski
+Ελληνικά
+беларуская (тарашкевіца)
+български
+русский
+српски / srpski
+тоҷикӣ
+удмурт
+українська
+қазақша
+հայերեն
+עברית
+ئۇيغۇرچە
+اردو
+العربية
+روچ کپتین بلوچی
+سنڌي
+अङ्गिका
+नेपाली
+संस्कृतम्
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+தமிழ்
+తెలుగు
+മലയാളം
+සිංහල
+ไทย
+ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+中文
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
++/-
+MediaWiki Handbook: Contents, Readers, Editors, Moderators, System admins, Researchers
+
+
+Halaman bantuan ini berisi daftar panduan dan berkas bantuan per topik untuk perangkat lunak MediaWiki yang dikompilasi di halaman utama meta.wikimedia.org . Sudah semakin dipindahkan ke situs web www.mediawiki.org. Meta-Wiki sebelumnya adalah tempat dimana dokumen-dokumen dikelola dan juga tempat dimana proposal dibahas sebelum MediaWiki dibuat. Saat ini, masih ada konten yang belum dipindahkan ataupun dimodifikasi.
+
+
+Halaman bantuan ini hanya untuk perangkat lunak wiki MediaWiki. Banyak wiki yang ditenagai oleh MediaWiki masih memiliki pranala bantuan yang mengarah ke halaman ini. Jika Anda sampai ke sini dari wiki yang berdasar perangkat lunak lain atau Anda mencari bantuan yang tidak terkait dengan perangkat lunak MediaWiki, kami tidak akan bisa membantu Anda. 
+
+Contents
+
+1 Pengantar
+2 Bagian buku pegangan
+
+2.1 Untuk pembaca
+2.2 Untuk penyunting
+2.3 Untuk moderator
+2.4 Untuk pengurus sistem
+2.5 Untuk pengembang
+
+
+3 Apendiks
+4 Lihat pula
+
+
+
+Pengantar
+Pengantar
+Ringkasan
+
+
+MediaWiki adalah perangkat lunak mesin wiki bebas yang dilisensikan di bawah Lisensi Publik Umum GNU. MediaWiki digunakan oleh banyak situs web, termasuk yang satu ini.
+
+Bagian buku pegangan
+
+
+Halaman-halaman bantuan berikut diurutkan berdasarkan jenis penggunanya, untuk pembaca ataupun penyunting. Halaman bantuan untuk moderator, administrator sistem dan pengembang sekarang tersedia di bagian spesifik masing-masing. 
+
+Untuk pembaca
+
+Membaca
+Tombol Lanjut
+Pencarian
+Kata-kata yang diabaikan ketika mencari
+Ruang nama
+Nama halaman
+Bagian
+Pranala balik
+Pengalihan
+Kategori
+Halaman gambar
+Halaman istimewa
+Versi cetak
+
+Melacak perubahan
+Perubahan terbaru (ditingkatkan)
+Perubahan terkait
+Memantau halaman
+Riwayat halaman
+Halaman diff
+Ringkasan suntingan
+Kontribusi pengguna
+Suntingan kecil
+Suntingan terpatroli
+
+Akun
+Masuk log
+Preferensi
+Gaya pengguna
+Otentikasi dua faktor
+
+Lihat bagian ini saja
+
+Untuk penyunting
+
+Penyuntingan
+Membuat halaman baru
+Penyuntingan lanjutan
+Menyunting FAQ
+Bilah perkakas penyuntingan
+Mengganti nama (memindahkan) halaman
+Ekspor
+Impor
+Pintasan
+Konflik suntingan
+Ukuran halaman
+
+Perujukan
+Pranala
+URL
+Pranala pipa
+Pranala interwiki
+Catatan kaki (referensi, sitasi)
+
+Pemformatan
+Contoh teks wiki
+Lembar gaya berjenjang (CSS)
+Kartu referensi
+HTML dalam teks wiki
+Daftar
+Tabel
+Formula
+Pengurutan
+Warna
+Pengunggahan gambar dan berkas
+
+Memperbaiki kesalahan
+Menampilkan pratayang
+Uji coba
+Membalikkan suntingan
+
+Fungsi lanjutan
+Ekspansi
+Templat
+Templat lanjutan
+Variabel
+Fungsi parser
+Nilai baku parameter
+Pesan sistem
+Substitusi
+Larik
+Perhitungan
+Menanamkan halaman
+
+Lain-lain
+Karakter
+Halaman pembicaraan
+Tanda tangan
+Kotak pasir
+Masalah hukum untuk penyunting (hak cipta)
+
+Lihat bagian ini saja
+
+Untuk moderator
+
+
+Bagian buku pegangan yang ini sekarang tersedia di bagian Pengurus di situs web MediaWiki.org.
+
+Untuk pengurus sistem
+
+
+Bagian buku pegangan yang ini sekarang tersedia di bagian Admin sistem di situs web MediaWiki.org.
+
+Untuk pengembang
+
+
+Bagian buku pegangan yang ini sekarang tersedia di bagian pengembang di situs web MediaWiki.org.
+
+Apendiks
+Bantuan:Pranala ISBN
+Bantuan:Tombol pintas
+Metadata halaman
+Dukungan dan kontak (di wiki MediaWiki)
+Buku pegangan
+Panduan
+Kebijakan
+Kaki halaman
+Lihat pula
+Periksa kebijakan privasi, apabila ada, di situs yang Anda gunakan; untuk Wikimedia, lihatlah Privacy policy 
+Kamus Wikipedia
+Kategori:Bantuan (di Fandom)
+Kategori:Bantuan (di wiki MediaWiki)
+Pranala dari wiki MediaWiki ke ruang nama Bantuan di sini di Metahttp://www.mediawiki.org/wiki/Special:Linksearch/meta.wikimedia.org/wiki/Help: – tidak lengkap, memerlukan gaya pranala eksternal
+Pranala dari Wikipedia bahasa Indonesia ke ruang nama Bantuan di sini di Meta – tidak lengkap, memerlukan gaya pranala eksternal
+
+
+
+
+
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Help:Contents/id&amp;oldid=22359334"
+		Category: MediaWiki handbook/id
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadTranslateView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+		
+	
+
+
+	
+	
+		
+		Community
+	
+	
+		
+		Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+		
+	
+
+
+	
+		
+		Beyond the Web
+	
+	
+		
+		Meet WikimediansEventsMovement affiliatesDonate
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 20 November 2021, at 20:27.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About Meta
+	Disclaimers
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

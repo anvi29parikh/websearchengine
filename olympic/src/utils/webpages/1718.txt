@@ -1,0 +1,549 @@
+
+
+
+
+Wikipedia:What "Ignore all rules" means - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:What "Ignore all rules" means
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This is an explanatory supplement to the Wikipedia:Ignore all rules policy. 
+ This page is intended to provide additional information about concepts in the page(s) it supplements. This page is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.ShortcutsWP:WIARMWP:IAR?WP:IARMEANSThis page in a nutshell: Editing Wikipedia is all about making improvements, not following rules. However, WP:IAR should not be used as a reason to make unhelpful edits.
+
+
+“
+
+If a rule prevents you from improving or maintaining Wikipedia, ignore it.
+
+”
+
+
+— Wikipedia:Ignore all rules
+
+Contents
+
+1 What "Ignore all rules" means
+2 History
+3 What "Ignore all rules" does not mean
+4 Use common sense
+
+4.1 There is no common sense
+
+
+5 Diagram and flowchart
+6 See also
+7 References
+
+
+
+What "Ignore all rules" means
+
+
+Rules are mostly made to be broken and are too often for the lazy to hide behind.— Douglas MacArthur[1]
+
+
+Rules are for fools.— (As used by coaches/motivators)[2]
+
+
+By all means break the rules, and break them beautifully, deliberately and well. That is one of the ends for which they exist.— Robert Bringhurst[3]
+
+
+The code is more what you call "guidelines" than actual rules.— Captain Barbossa[4]
+
+
+The rules are only barriers to keep children from falling.— Madame de Staël[5]
+
+
+Give me the judgment of balanced minds in preference to laws every time. Codes and manuals create patterned behavior.  All patterned behavior tends to go unquestioned, gathering destructive momentum.— Darwi Odrade[6]
+
+
+Be a sinner and sin boldly[...]— Martin Luther[7]
+
+
+Rules are for the obedience of fools and the guidance of wise men.— Douglas Bader
+
+
+You do not need to read any rules before contributing to Wikipedia. If you do what seems sensible, it will usually be right, and if it's not right, don't worry. Even the worst mistakes are easy to correct: older versions of a page remain in the revision history and can be restored. If we disagree with your changes, we'll talk about it thoughtfully and politely, and we'll figure out what to do. So don't worry. Be bold, and enjoy helping to build this free encyclopedia.
+
+You are not required to learn the rules before contributing. Yes, we already said that, but it is worth repeating.
+Don't follow written instructions mindlessly, but rather, consider how the encyclopedia is improved or damaged by each edit (see also Use common sense, below).
+Rules derive their power to compel not from being written down on a page labeled "guideline" or "policy", but from being a reflection of the shared opinions and practices of many editors (see also Wikipedia:Consensus).
+Most rules are ultimately descriptive, not prescriptive; they describe existing current practice. They sometimes lag behind the practices they describe (see also Wikipedia:Product, process, policy).
+Wikilawyering doesn't work.  Loopholes and technicalities do not exist on the Wiki. Wikipedia is not a bureaucracy; nor moot court, nor nomic, nor Mao.
+The spirit of the rule trumps the letter of the rule.  The common purpose of building a free encyclopedia trumps both.  If this common purpose is better served by ignoring the letter of a particular rule, then that rule should be ignored (see also Wikipedia:The rules are principles).
+Following the rules is less important than using good judgment and being thoughtful and considerate, always bearing in mind that good judgment is not displayed only by those who agree with you (see also Wikipedia:Civility).
+History
+
+
+Ignore all rules is one of the oldest rules on Wikipedia, written by Larry Sanger in 2001. The original wording was a bit different from today's version. It said: "If rules make you nervous and depressed, and not desirous of participating in the wiki, then ignore them entirely and go about your business."
+
+
+Note that while ignoring all rules is all right, it is subtly but importantly different from deliberately breaking them. Meditate on that carefully before you actually apply this rule.
+
+What "Ignore all rules" does not mean
+ShortcutWP:NOTIAR
+
+
+Pedantry and mastery are opposite attitudes toward rules. To apply a rule to the letter, rigidly, unquestioningly, in cases where it fits and in cases where it does not fit, is pedantry... To apply a rule with natural ease, with judgment, noticing the cases where it fits, and without ever letting the words of the rule obscure the purpose of the action or the opportunities of the situation, is mastery.— George Pólya[8]
+
+
+A society which is based on the letter of the law and never reaches any higher is taking very scarce advantage of the high level of human possibilities.— Aleksandr Solzhenitsyn[9]
+  Sometimes you need to draw the limit
+
+Despite its name, "Ignore all rules" does not sabotage the other rules. Its purpose is to keep them from sabotaging what we're doing here: building a free encyclopedia. Rules have zero importance compared with that goal. If they aid that goal, good. If they interfere with it, they are instantly negated.
+"Ignore all rules" does not prevent the enforcement of certain policies. For example, you cannot violate Wikipedia:No legal threats without being blocked.
+"Ignore all rules" does not mean that every action is justifiable. It is not a carte blanche. Rule-breakers must justify how their actions improve the encyclopedia if challenged. Actually, everyone should be able to do that at all times. In cases of conflict, what counts as an improvement is decided by consensus.
+"Ignore all rules" does not stop you from pointing out a rule to someone who has broken it, but do consider that their judgement may have been correct, and that they almost certainly thought it was (see also Wikipedia:Assume good faith).
+"Ignore all rules" is not in itself a valid answer if someone asks you why you broke a rule.  Most of the rules are derived from a lot of thoughtful experience and exist for pretty good reasons; they should therefore only be broken for good reasons.
+"Ignore all rules" is not an exemption from accountability. You're still responsible for reasonably foreseeable effects of your actions on the encyclopedia and on other editors.
+"Ignore all rules" is not an invitation to use Wikipedia for purposes contrary to that of building a free encyclopedia (see also Wikipedia:About and Wikipedia:What Wikipedia is not).
+"Ignore all rules" does not mean there is necessarily an exception to every rule. A typical copyright violation, for instance, does not make for a better free encyclopedia.
+"Ignore all rules" is not a Get Out of Jail Free card. If you are blocked or sanctioned for a rule-breaking edit that does not improve the encyclopedia, then you may not use "Ignore all rules" as a reason to be unblocked or unsanctioned.
+
+
+
+
+Use common sense
+"WP:COMMON" redirects here. For other uses, see WP:COMMON (disambiguation).
+ShortcutsWP:UCSWP:COMMONWP:SENSEWP:COMMONSENSE
+
+
+Wikipedia has many policies or what many consider "rules". Instead of following every rule, it is acceptable to use common sense as you go about editing. Being too wrapped up in rules can cause loss of perspective, so there are times when it is better to ignore a rule. Even if a contribution "violates" the precise wording of a rule, it might still be a good contribution. Similarly, just because something is not forbidden in a written document, or is even explicitly permitted, doesn't mean it's a good idea in the given situation. Our goal is to improve Wikipedia so that it better informs readers.  Being able to articulate "common sense" reasons why a change helps the encyclopedia is good, and editors should not ignore those reasons because they don't reference a bunch of shortcut links to official policies.  The principle of the rules—to make Wikipedia and its sister projects thrive—is more important than the letter.  Editors must use their best judgment.
+
+
+Why isn't "use common sense" an official policy? It doesn't need to be; as a fundamental principle, it is above any policy.
+
+
+
+
+There is no common sense
+ShortcutWP:NOCOMMON
+
+
+Good sense is of all things in the world the most equally distributed, for everybody thinks he is so well supplied with it that even those most difficult to please in all other matters never desire more of it than they already possess.— René Descartes[10]
+
+
+When advancing a position or justifying an action, base your argument on existing agreements, community foundation issues, and the interests of the encyclopedia, not your own common sense. Exhorting another editor to "just use common sense" is likely to be taken as insulting, for good reasons. If in a particular case you feel that literally following a rule harms the encyclopedia, or that doing something which the rules technically allow degrades it, then instead of telling someone who disagrees to use common sense, just focus on explaining why ignoring the rules will improve Wikipedia in that instance.
+
+
+Be careful about citing this principle too aggressively. While it's  quite acceptable to explain your own actions by saying, "it seemed like common sense to me", you should be careful not to imply that other editors are lacking in common sense, which may be seen as uncivil. Wikipedians come from diverse ethnic, religious, political, cultural and ideological backgrounds and have vastly different perceptions. Other editors are likely to ascribe very different meanings and values to words and concepts than you, so try to state your arguments as fully as possible. Citing concrete policies and guidelines is likely to be more effective than simply citing "common sense" and leaving it at that.
+
+Diagram and flowchart
+
+
+
+Suppose you have an idea…
+
+Are you sure that your idea is a good one by common sense and that it improves the encyclopedia?
+No: DON'T DO IT
+Yes:
+Does it break the rules?
+No: DO IT
+Yes:
+Is that because the rules are wrong?
+No: Ignore the rules and DO IT
+Yes: Change the rules and DO IT
+See also
+Wikipedia:Be bold
+Wikipedia:Understanding IAR
+Wikipedia:Do not disrupt Wikipedia to illustrate a point
+Wikipedia:Exceptions should leave the rule intact
+Wikipedia:Taking the road less traveled
+Wikipedia:Reasonability Rule
+Wikipedia:Follow all rules
+Spirit of the law
+References
+
+
+^ Ganoe, William (1962). MacArthur Close-Up. p.&nbsp;137.
+
+^ Grayson, Dr. Randall. "Adaptability". Retrieved 7 September 2012.
+
+^  Bringhurst, Robert (2005). The Elements of Typographic Style (3.1&nbsp;ed.). Hartley &amp; Marks. p.&nbsp;10. ISBN&nbsp;0-88179-206-3.
+
+^ Fictional character, in the 2003 film Pirates of the Caribbean: The Curse of the Black Pearl
+
+^ Staël-Holstein, Ana Luisa Germana Necker, Baroness (1813). De l'Allemagne. Pt. 4, Ch. 9. Ces règles ne sont que des barrières pour empêcher les enfants de tomber.
+
+^ Herbert, Frank (1987). Chapterhouse: Dune. Ace Books. p.&nbsp;237. ISBN&nbsp;0-441-10267-0.
+
+^ Luther, Martin (1521). "Let Your Sins Be Strong: A Letter From Luther to Melanchthon Letter no. 99, 1 August 1521, From the Wartburg (Segment) Translated by Erika Bullmann Flores from: _Dr. Martin Luther's Saemmtliche Schriften_ Dr, Johannes Georg Walch, Ed. (St. Louis: Concordia Publishing House, N.D.), Vol. 15,cols. 2585-2590". Retrieved 18 June 2013.
+
+^  Pólya, George (1945). How to Solve It. Princeton Science Library. p.&nbsp;148. ISBN&nbsp;0-691-11966-X.
+
+^ "A World Split Apart". Harvard Class Day Exercises. 8 June 1978. Archived from the original on 8 June 2003.
+
+^  Descartes, René (1637). Le Discours de la Méthode. Part I, incipit. Le bon sens est la chose du monde la mieux partagée; car chacun pense en être si bien pourvu, que ceux même qui sont les plus difficiles à contenter en toute autre chose n'ont point coutume d'en désirer plus qu'ils en ont.
+
+
+vteWikipedia principles&nbsp;&nbsp;&nbsp;
+
+
+Five pillars
+Statement of our principles
+
+
+
+
+Jimbo's statement
+Historic principles
+
+
+
+
+Simplified ruleset
+Synopsis of our conventions
+
+
+
+
+Wikimedia principles
+Common to all projects
+(in Meta-Wiki)
+
+
+
+
+Principles
+Other essays on Wikipedia's principles
+
+
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:What_%22Ignore_all_rules%22_means&amp;oldid=1013553492"
+		Categories: Wikipedia supplemental pagesWikipedia essays explaining processesHidden categories: Wikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةঅসমীয়াবাংলাCatalàΕλληνικάEspañolفارسیGalegoગુજરાતી한국어HrvatskiBahasa IndonesiaItalianoKurdîМакедонскиNederlands日本語PolskiRomânăසිංහලSimple EnglishسنڌيSlovenščinaСрпски / srpskiSuomiSvenskaTürkçeاردوVènetoTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 22 March 2021, at 07:26&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

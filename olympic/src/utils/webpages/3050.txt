@@ -1,0 +1,685 @@
+
+
+
+
+Wikipedia:Noticeboards - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Noticeboards
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikipedia information pageThis is an information page.
+It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.ShortcutWP:PNB
+
+
+Noticeboards on Wikipedia are administration pages where editors can ask questions and request assistance from people who are familiar with the policies and guidelines covered by each individual board. They are to be used for specific problems that editors encounter in writing and maintaining Wikipedia articles. Posting a message to a noticeboard can also be an appropriate early step in resolving disputes on Wikipedia. Noticeboards are best used for simple and urgent matters. If an editor needs a more complex response, and is willing to wait for it, the WP:Requests for comment process may be more suitable.
+
+
+Noticeboards are not places to advocate for change to Wikipedia's existing policies. Instead, such suggestions should be taken directly to the talk page of the applicable policy or guideline. Noticeboards are also not good places to recruit more editors to work with you.  If you want to edit collaboratively, try posting a message at a relevant WP:WikiProject instead.
+
+
+If you need general help with creating and editing articles on Wikipedia, try Wikipedia:Questions. New editors may find the Wikipedia:Contributing to Wikipedia page a valuable resource. If you want feedback on an article that you have planned, or that you have recently made major changes to, try the Teahouse or help desk.
+
+
+If you have a question about an encyclopedic subject, leave a note for the Wikipedia:Reference desk.
+
+Contents
+
+1 Suggestions for success
+2 Responding to requests
+3 List of Wikipedia's noticeboards
+
+3.1 Incidents for administrator attention
+3.2 Bureaucrats, VRT, Arbitration
+3.3 Other administrator assistance
+3.4 Mergers, splits, and moves
+3.5 Content dispute resolution
+3.6 Copyright and spam
+3.7 User and article sanctions
+3.8 Other editor assistance and debates
+3.9 Other support
+
+
+4 See also
+
+
+
+Suggestions for success[edit]
+ShortcutWP:PNBSUCCESS 
+
+
+Posting a message at a noticeboard does not guarantee a response.  Editors are more likely to respond to straightforward questions from friendly, productive editors.  If you want to increase your odds of receiving a constructive response, try this:
+
+Messages should be concise.  Long diatribes or sprawling monologues are likely to be ignored or dismissed as "Too long, didn't read".  Provide links to the relevant articles and diffs.  Try to frame your issue as a specific, direct question:  "Can this source be used to support this statement?"  "Is this an acceptable external link for this article?"  "Do you think this editor's account should be blocked for vandalism?"  Some noticeboards have standardized formats for common requests; read and follow the directions to the best of your ability.
+Be civil. Sarcasm, slurs, and snide remarks should be avoided at all costs.  If you are dealing with a heated dispute or are very frustrated, make an effort to present your question with a calm, detached, professional demeanor.  See Wikipedia's pages on civility and personal attacks for additional advice.  If the editors that respond to you disagree with you, don't argue with them — but do, if necessary, correct any factual misunderstandings or request further clarification.
+Sign and date all contributions, by appending four tildes "~~~~" to the end of every message.  This simplifies page administration by allowing automatic archiving of older messages.
+Watch the page.  Editors responding to your message are most likely to reply at the noticeboard.
+Responding to requests[edit]
+
+
+Any editor familiar with the relevant policies, guidelines, or procedures is encouraged to respond to requests on noticeboards.  Responses that are direct, informed, concrete, and specific are particularly appreciated by editors that post questions.  Some questions benefit from responses by multiple editors.  Replies are generally given at the noticeboard; if you respond on another page, it may be helpful to leave a link to your response for the convenience of other editors at the noticeboard.
+
+List of Wikipedia's noticeboards[edit]
+ShortcutWP:PNBD
+See also: Category:Wikipedia noticeboards
+
+
+Select the noticeboard most closely connected to the question you have.  Avoid posting the same situation to more than one noticeboard at a time.  If an issue crosses boundaries, such as a WP:BLP issue involving vandalism, then choose one or the other, and if necessary, post a very brief message at the other board to point interested editors to the first noticeboard.
+
+Incidents for administrator attention[edit]
+Further information: Wikipedia:Requests for administrator attention
+Wikipedia:Administrators' noticeboard: coordinating and discussing tasks carried out by Wikipedia administrators.
+Wikipedia:Administrators' noticeboard/Incidents: for reporting incidents requiring urgent attention by administrators.
+Wikipedia:Administrators' noticeboard/Edit warring: for reporting edit warring and three-revert rule violations.
+Wikipedia:Administrator intervention against vandalism: for reporting vandalism requiring immediate administrator intervention.
+Bureaucrats, VRT, Arbitration[edit]
+Wikipedia:Bureaucrats' noticeboard: to assist Bureaucrats on project-related activities.
+Wikipedia:VRT noticeboard: Wikimedia's volunteer response team (VRT) handles copyright permissions, email inquiries from the public, reuse inquiries, article errors, and a wide range of non-public inquiries.
+Wikipedia:Arbitration Committee/Noticeboard: for announcements and statements made by the Arbitration Committee.
+Wikipedia talk:Arbitration Committee/Noticeboard: for discussing the aforementioned announcements and statements made by the Arbitration Committee.
+Wikipedia:Arbitration/Requests: request Arbcom cases, clarification and amendment.
+Wikipedia:Arbitration/Requests/Enforcement: request administrator enforcement of Arbcom decisions.
+Other administrator assistance[edit]
+Wikipedia:Closure requests: is for posting requests to have an uninvolved editor assess, summarize, and formally close a discussion on Wikipedia.
+Wikipedia:Requests for oversight: suppress edits that breach somebody's privacy, or defame somebody.
+Wikipedia:Requests for page protection: for requesting that a page, file or template be protected.
+Wikipedia:Sockpuppet investigations: for requesting for an investigation on whether two or more Wikipedia accounts are being abusively operated by the same person.
+Wikipedia:Requests for permissions: for requesting changes in user access levels
+Wikipedia:WikiProject on open proxies seeks to identify, verify and block open proxies and anonymity network exit nodes.
+Wikipedia:Usernames for administrator attention: for usernames that are such blatant and serious problems that they need to be immediately blocked.
+MediaWiki talk:Titleblacklist: title and user name blacklist requests.
+Mergers, splits, and moves[edit]
+Wikipedia:Proposed article mergers: lists proposals merge articles
+Wikipedia:Proposed article splits: lists proposals to split articles
+Wikipedia:Requested moves: for requesting the retitling (moving) of an article, template, or project page on Wikipedia (but not a category)
+Wikipedia:Requests for history merge: proposals for mergers of page edit-histories
+Wikipedia:Requests for page importation: requests that pages be imported with edit-history from other Wikimedia Foundation wikis to English Wikipedia
+Content dispute resolution[edit]
+Further information: Wikipedia:Dispute resolution §&nbsp;Resolving content disputes with outside help
+Wikipedia:Editor assistance/Requests: an informal method of requesting help from an experienced editor.
+Wikipedia:Requests for comment/All: an informal process for requesting outside input concerning disputes, policies, guidelines, article content, or user conduct.
+Wikipedia:Third opinion: Third opinion (3O) is a means to request an outside opinion in a content or sourcing disagreement between two editors.
+Wikipedia:Dispute resolution noticeboard: to help resolve general disputes between editors.
+Wikipedia:Biographies of living persons/Noticeboard: about maintaining Wikipedia's high standards for statements about living people in any kind of article.
+Wikipedia:Conflict of interest/Noticeboard: about WP:Conflicts of interest.
+Wikipedia:External links/Noticeboard: about selection and location of WP:External links (links not used to verify article content).
+Wikipedia:Fringe theories/Noticeboard: about WP:Fringe theories.
+Wikipedia:Neutral point of view/Noticeboard: about achieving and maintaining a neutral point of view in articles.
+Wikipedia:No original research/Noticeboard: about synthesis and other kinds of WP:Original research.
+Wikipedia:Reliable sources/Noticeboard: about identifying and correctly using reliable sources to verify article content
+Copyright and spam[edit]
+Further information: Wikipedia:Copyright assistance
+Wikipedia:Contributor copyright investigations: to identify users who have repeatedly introduced copyright violations.
+Wikipedia:Copyright problems: for listing and discussing possible copyright problems involving text on Wikipedia.
+Wikipedia:Media copyright questions: a place for help with image copyrights, tagging, non-free content, and related questions.
+Wikipedia:Files for discussion: for reviewing compliance with non-free content criteria for media.
+Wikipedia talk:WikiProject Spam: for reports of spam.
+MediaWiki talk:Spam-blacklist: spam blacklist requests.
+MediaWiki talk:Spam-whitelist: spam whitelist requests.
+User and article sanctions[edit]
+Wikipedia:General sanctions: sanctions for editing certain articles inappropriately.
+Wikipedia:Editing restrictions: restrictions on particular users' behavior.
+Wikipedia:Long-term abuse: summarises a limited number of long term abusers.
+Other editor assistance and debates[edit]
+Wikipedia:Teahouse: a friendly place to help new editors become accustomed to Wikipedia.
+Wikipedia:Help desk: for questions about how to use or edit Wikipedia.
+Wikipedia talk:Manual of Style: for questions about Wikipedia writing style (tone, spelling, punctuation, abbreviations, layout, images, linking, etc.)
+Wikipedia:Education noticeboard: discussions relating to student assignments and the Wikipedia Education Program.
+Wikipedia:WikiProject Articles for creation/Help desk: for questions about article submissions to Wikipedia.
+Wikipedia:WikiProject Resource Exchange/Resource Request: requests for sharing the vast resources available to Wikipedians.
+Wikipedia:Village pump: a set of pages is used to discuss the technical issues, policies and operations of Wikipedia.
+Wikipedia:Village pump (idea lab): to discuss ideas and solutions to issues before proposing them to the community.
+Wikipedia:Village pump (policy): to discuss existing and proposed policies.
+Wikipedia:Village pump (proposals): to discuss new proposals that are not policy-related.
+Wikipedia:Village pump (technical): to discuss technical issues.
+Wikipedia:Village pump (miscellaneous): for messages that do not fit into any of the other categories.
+Wikipedia:Discussions for discussion: for discussion closers to discuss their evaluation of consensus in preparation for closing specific discussions.
+Other support[edit]
+Wikipedia:Bot owners' noticeboard: a message board for coordinating and discussing bot-related issues on Wikipedia (also including other programs interacting with the MediaWiki software).
+Wikipedia:Edit filter noticeboard: for coordination and discussion of edit filter use and management.
+Wikipedia:Main Page/Errors: to report an error you have noticed on today's or tomorrow's Main Page.
+See also[edit]
+
+
+Help portal
+For ongoing discussions and current requests, see Wikipedia:Dashboard.
+Wikipedia:Village pump
+Wikipedia:Negotiation
+Wikipedia:Mediation
+Wikipedia:Requests
+Wikipedia:List of WikiProjects
+Wikipedia:Regional notice boards
+vteNoticeboardsWikipedia's centralized discussion, request, and help venues. For a listing of ongoing discussions and current requests, see the dashboard.General
+Administrators
+main
+incidents
+Bots
+Bureaucrats
+Centralized discussion
+Closure requests
+Education
+Interface admins
+Main Page errors
+Open proxies
+VRT
+Oversight
+User permissions
+Articles and content
+Biographies of living persons
+Copyrights
+questions on media
+problems
+Dispute resolution
+External links
+Fringe theories
+Neutral point of view
+Original research
+Reliable sources
+Resource requests
+Spam
+blacklist
+whitelist
+Scalable vector graphics
+Titleblacklist
+Translation
+Page handling
+History merges
+Mergers
+Splits
+Moves
+Protection
+Importation
+XfD
+Articles
+Redirects
+Categories
+Templates
+Files
+Miscellany
+Undeletion
+User conduct
+Conflict of interest
+Contributor copyright
+Edit warring and 3RR
+Sanctions
+Personal restrictions
+General sanctions
+Discretionary sanctions
+Sockpuppets
+Usernames
+Vandalism
+Other
+Arbitration
+Committee noticeboard
+requests
+enforcement
+Edit filters
+requested
+false positives
+Questions
+Help desk
+Teahouse
+Reference desk
+New articles
+Requests for comment
+Village pump
+policy
+technical
+proposals
+idea lab
+WMF
+miscellaneous
+WikiProject proposals
+ Category:Wikipedia noticeboards
+vteWikipedia directories and indexesAdministration
+pagesProtocols
+Policies
+Guidelines
+Manual of Style
+Assistance
+Help directory
+Menu
+FAQs
+Interactive help
+Reader's index
+Tips
+Styletips
+Tools
+The community
+Portal
+Discussions
+Noticeboards
+Essays
+Editor's index
+Departments
+Maintenance
+WikiProjects
+MediaWiki
+Wikicode
+HTML
+Templates
+Locutions
+Abbreviations
+Edit summaries
+Glossary
+Readers
+Shortcuts
+Encyclopedia
+ properTypes
+Overviews
+Outlines
+Lists
+Portals
+Glossaries
+Categories
+Indices
+Featured, good
+Featured articles
+Good articles
+Featured lists
+Featured pictures
+Featured topics
+Good topics
+Topics
+Current events
+Reference
+Culture
+Geography
+Health
+History
+Math
+Nature
+People
+Philosophy
+Religion
+Society
+Technology
+LOC, bios, times
+Academic disciplines
+Anniversaries
+Today
+Countries and territories
+Deaths this year
+Timelines
+Centuries
+Decades
+Indexes
+A–Z index
+Categories
+Dewey Decimal classes
+Library of Congress Classification
+Spoken articles
+
+vteWikipedia accounts and governanceUnregistered (IP) users
+Why create an account?
+Create an account
+Request an account
+IPs are human too
+IP addresses are not people
+IP hopper
+Registered users
+New account
+Logging in
+Reset passwords
+Username policy
+Changing username
+Usernames for administrator attention
+Unified login or SUL
+Alternate account
+Account security
+Password strength requirements
+User account security
+Personal security practices
+Two-factor authentication
+2FA for AWB
+Committed identity
+On privacy, confidentiality and discretion
+Compromised accounts
+Blocks, bans, sanctions,
+global actions
+Blocking policy
+FAQ
+Admins guide
+Tools
+Autoblock
+Appealing a block
+Guide to appealing blocks
+UTRS Unblock Ticket Request System
+Blocking IP addresses
+Range blocks
+IPv6
+Open proxies
+Banning policy
+ArbCom appeals
+Sanctions
+Personal sanctions
+General sanctions
+Discretionary sanctions and Log
+Essay
+Long-term abuse
+Standard offer
+Global actions
+Related to accounts
+Sockpuppetry
+Single-purpose account
+Sleeper account
+Vandalism-only account
+Wikibreak
+Enforcer
+Retiring
+Courtesy vanishing
+Clean start
+Quiet return
+User groups
+ and global user groups
+Requests for permissions
+Admin instructions
+Admin guide
+Account creator
+PERM
+(Auto) confirmed
+PERM
+Autopatrolled
+PERM
+AutoWikiBrowser
+PERM
+Bot
+Request
+Edit filter helper
+Request
+Event coordinator
+PERM
+Extended confirmed
+PERM
+File mover
+PERM
+IP block exempt
+Request
+Mass message sender
+PERM
+New page reviewer
+PERM
+Page mover
+PERM
+Pending changes reviewer
+PERM
+Rollback
+PERM
+Template editor
+PERM
+Global rights policy
+OTRS Volunteer Response Team
+Advanced user groups
+Administrator
+RfA
+Bureaucrat
+RfB
+CheckUser and Oversight
+Request
+Edit filter manager
+Request
+Interface administrator
+Request
+Founder
+Importer
+Researcher
+Committees and related
+Arbitration Committee
+Bot approvals group
+Functionaries
+Clerks
+SPI clerks
+ArbCom clerks
+Governance
+Administration
+FAQ
+Formal organization
+Editorial oversight and control
+Quality control
+Wikimedia Foundation
+Board
+Founder's seat
+Meta-Wiki
+Proposals
+WikiProjects
+Elections
+Policies and guidelines
+Petitions
+Noticeboards
+Consensus
+Dispute resolution
+Reforms
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Noticeboards&amp;oldid=1048564330"
+		Categories: Wikipedia information pagesWikipedia directoriesWikipedia noticeboardsHidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		العربيةभोजपुरीBahasa IndonesiaMagyarPortuguêsසිංහල中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 6 October 2021, at 17:59&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

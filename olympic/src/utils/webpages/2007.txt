@@ -1,0 +1,858 @@
+
+
+
+
+Help:User contributions - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Help:User contributions
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+This help page is a how-to guide.
+It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutsWP:CONTRIBSWP:UCP
+
+
+User contributions pages are automatically generated pages that list any change, deletion, or addition that an individual user has made in any namespace on the English Wikipedia.
+
+
+You can check your own contributions to refresh your memory about which pages you have worked on (and to easily access them again), and also to find out whether there have been any subsequent edits (see item 18 in the Using the page section below). This can be a useful, quick alternative to accessing your watchlist, particularly if your watchlist contains many pages. Other users' user contribution pages can also be accessed and are useful for seeing how other users have contributed. They can be used to track down vandalism, serial copyright violations, etc.
+
+Contents
+
+1 User contributions pages
+
+1.1 Accessing
+1.2 Using the page
+
+1.2.1 Parts of the page and their purposes
+1.2.2 What normally does not appear
+
+
+
+
+2 Other user contributions topics
+
+2.1 Adding your own contributions to Wikipedia
+2.2 Deletion
+2.3 Total edit count
+2.4 URLs and links
+2.5 First edit
+2.6 User styles
+2.7 Public access and privacy levels
+
+
+3 See also
+4 References
+5 External links
+
+
+
+User contributions pages
+Accessing
+Your own contributions page. To access your own user contributions page, click Contributions at the top of the page, or type in the Search box: Special:MyContributions.
+Another registered user's contributions page. To access the contributions of a logged-in user (named account), go to the user page (e.g., User:Example) and click on the User contributions link listed under the Tools menu on the left-hand side of the screen. This works even if the user page has not been created yet (i.e., an edit box displays).
+Contributions of an IP address. To access the contributions of an anonymous user (identified by IP address), use one of the following methods:
+Just like with a registered user, you can go to the user page (e.g. User:IP number) and click on the User contributions link listed under the Tools menu on the left-hand side of the screen.
+Click on the IP address where it appears on your watchlist, in Recent changes or in Page history.
+Put the IP address in the search box and press Go.
+If the user is currently blocked, a notice will be displayed at the very top of the contributions screen, like this example.
+
+
+Bear in mind that a public IP address may have been used by different users at different times. Equally, a given user may have used multiple IP addresses and/or usernames (which may well be illegitimate use of multiple accounts, or "sockpuppetry"). Where a user legitimately uses alternative accounts, the alternative accounts should be clearly identified by the user. In any case, each account or IP address will have its own contributions page.
+
+Using the page
+Parts of the page and their purposes
+
+
+Below is a labelled screenshot of a User contributions page and a numbered list discussing each labelled part, followed by a few things not shown in this example:
+
+
+
+The username or IP of the contributor, followed by links to various logs.
+This part of the search form allows you to search by username, IP address, or IP address range. An IP range search can use a CIDR range such as 10.0.0.0/8 or a wildcard asterisk, such as 10.11.12.* or 192.168.*. Searching with a wildcard requires you to be logged in and to have selected "Allow /16, /24 and /27 – /32 CIDR ranges on Special:Contributions forms (uses API), as well as wildcard prefix searches" under Gadgets in Special:Preferences.
+These controls allow you to search by namespace: for example, to see only contributions made to templates. The "Invert selection" checkbox displays contributions to namespaces other than the selected namespace. The "Associated namespace" checkbox displays edits to the selected namespace and its talk namespace: for example, the "Template" and "Template talk" pair of namespaces.
+The "Tag filter" restricts the display to show only those edits that have been tagged by an Edit filter. For example, "references removed" may be entered here.
+The "Only show edits that are latest revisions" checkbox will only display edits where no other change has yet been made to the page. The additional options "Only show edits that are page creations" and "Hide minor edits" are not included in the image. The English Wikipedia use ORES, which adds the option "Hide probably good edits", described at mw:ORES review tool.
+The year and month fields allow a quick jump when a user has made many contributions.
+Click the "Search" button to redisplay the list of edits after changing any of these selection controls.
+The list of edits, shown from newest to oldest. Each edit takes up one line which contains:
+The time and date of the edit, displayed in the user's preferred format. The display format, as well as the selected time zone offset, can be changed in the user's "Preferences" page at the top menu, in the "Date and time" section.
+(diff) takes you to a diff page showing the changes between that edit and the previous revision. The revision after the edit appears below the changes so you can see the result of the edit.
+(hist) takes you to the page history, so you can see all edits made to that page. This can be useful if someone has updated a page you have worked on, and you want to see their changes.
+The difference in size between this revision and the previous revision. A green number with a plus sign (+1,864) indicates that the edit added this number of bytes (roughly corresponding to characters) to the page, while a red number with a minus sign (-29) indicates removal. See more at Wikipedia:Added or removed characters.
+This is the current name of the page that was edited.
+This is the edit summary. It is the text the user wrote in the edit summary box (below the large edit box) describing the purpose of the edit.
+Edit summaries like this one begin with an arrow link and grey text, signifying that the user has only selected one section of the page to edit (named in the grey text). This text is automatically added when you select Edit for a section rather than an entire page.
+N indicates a new page.
+m indicates a minor edit.
+(current) signifies that the edit is the current revision. In other words, the page is as the user last saved it because no other user or bot has modified it. This can be used to monitor pages; if your last edit to the page does not display (current), then the page has been changed.
+If an editor has made more edits than will fit on one page, these links display the most recent edits (latest) and the oldest edits (earliest)
+Similarly, these links display the next or previous page of edits (newer [number] / older [number]).
+The blue numbers list the number of edits displayed on a page: 20, 50, 100, 250 or 500. The number you select will display as the [number] in the links to the previous or next pages: for example, (newer 100 / older 100). Views of up to 5000 edits per page are possible by modifying the number in the page's URL.
+This panel contains links to additional tools relating to a user's contributions (via MediaWiki:Sp-contributions-footer and MediaWiki:Sp-contributions-footer-anon).
+
+
+Not shown in this example: 
+
+
+
+
+
+
+
+
+Legend (help):
+
+r	Edit flagged by ORES
+
+N	New page
+
+m	Minor edit
+
+b	Bot edit
+
+D	Edit made at Wikidata
+
+(±123)	Page byte size change
+
+
+
+
+
+
+		Bold indicators in the head of some lines
+
+
+
+Some edits may be automatically tagged by the abuse filter: for example, (Tag: references removed). Any tags applied appear after the edit summary. They cannot be added or removed manually.
+These tags help editors find and review potentially problematic edits and fix them if needed. They do not prove that an edit is problematic, nor that modifications must be done to it.
+Over time, editors have developed shortcuts or abbreviations that are manually added to the edit summary text, sometimes added so often that they could be mistaken for automatically added tags, such as "rv" for "reverted". If you run into one you can't figure out, try seeing if it's on the Wikipedia:Glossary page. If not, try asking on the talk page for the user or article.
+A special case of such manually-added conventions is the dummy edit. When an editor saves a page and then realizes they made an important omission or error in the published edit summary, they can make a dummy edit: a change in the page that causes no visible effects, so that they can add further information about the first edit in that second edit's summary. They might indicate dummy edits by shortcut acronyms, such as WP:SUMMARYONLY or H:DUMMY.
+Administrators and other users with access rights to special tools may have additional options on contributions pages.
+What normally does not appear
+
+
+The following information normally does not appear on a user contributions page:
+
+Edits from a page that has been deleted afterwards (unless the page, including the revision concerned, has been subsequently restored by an administrator). If the revision concerned has been restored but not the previous one, then the fact that the user has edited the page is preserved, including the time and the edit summary, and the resulting revision, but not the change. An administrator can use Special:DeletedContributions to see revisions that have not been restored. However, applying a diff is not directly possible.
+Uploading of a new image with the same name as one that already exists, thus replacing it.
+The act of deleting or restoring (undeleting) a page if the user is an administrator. Use Special:Logs for this.
+Edits in other Wikimedia projects. To access this, click on the "Global: contributions" link at the bottom bar.
+Other user contributions topics
+Adding your own contributions to Wikipedia
+Main pages: Wikipedia:Tutorial and Wikipedia:New contributors' help page 
+
+
+You can build your own contributions list simply by editing existing pages (click the Edit tab on a page you're interested in contributing to) or creating new pages (for example via the Article Wizard). You must register an account and be logged in in order to create new pages, but you can contribute to existing pages to build a list under your device's IP address. 
+
+
+Note that if you have an account but edit a page while you're not logged in, that edit will be added to the contributions list of the IP address of the device you used to make that contribution.
+
+Deletion
+
+
+Users in general cannot request deletion of their contributions record. In some circumstances they may request deletion of an article they have created (by adding {{db-author}} to it) or a page they have created in their own user space (by adding {{db-userreq}} to the page). They may also be able to make use of the usual deletion processes. In some circumstances they may be able to change their username to dissociate themselves from their contributions while maintaining their access levels.
+
+
+In some limited circumstances individual contributions (that is, specific edits) may be removed from public view by administrators using Revision Deletion; such edits remain visible to administrators. In even more limited circumstances, edits may be suppressed, remaining visible only to the handful of users with the Oversight permission.
+
+Total edit count
+
+
+Your Preferences page's User profile tab shows the total number of edits you have made in its Basic information section. The number is based upon an edit count that is stored for each user, incremented each time the user makes an edit, but not decremented when a user's edit is deleted. Therefore, the count includes deleted edits. It does not include page moves from one title to another.
+
+
+To find another user's edit count (for named users only, not IP addresses), type the following URL into your browser's address bar, replacing "XXX" with the name of the user:
+
+https://en.wikipedia.org/w/api.php?action=query&amp;list=users&amp;ususers=XXX&amp;usprop=editcount
+
+
+You can see copious editing statistics for any user or IP address at:
+
+xtools:ec
+
+
+For named users, this is available from the "Edit count" link at the bottom of the user's contributions page.
+A similar tool which displays only the edit count is:
+
+xtools:sc
+
+
+These are among the tools at Toolforge. Some others of the tools there are also linked from the box at the bottom of a user's contributions page.
+
+
+For a summary of a user's activity on other language Wikipedias and other Wikimedia projects, type the following URL (replacing "XXX" with the name of the user):
+
+https://tools.wmflabs.org/quentinv57-tools/tools/sulinfo.php?username=XXX (not working, 2021-10-13)
+URLs and links
+
+
+A user contributions page's URL looks like this:
+//en.wikipedia.org/w/index.php?title=Special:Contributions&amp;target=XX or
+//en.wikipedia.org/wiki/Special:Contributions/XX
+(for this wiki)
+where XX is the user name or IP address.
+
+
+Change the domain name to view your contributions on that particular wiki (by language and project): ru.wikipedia.org, meta.wikimedia.org, etc.
+
+
+To internally link to a user contributions page you can also use this shorter form: Special:Contributions/XX.
+
+
+Interwiki links work as normal e.g. ru:Special:Contributions/XX.
+
+
+You can choose to view edits from only one namespace, using the drop-down namespace selection box. Also, each namespace has an associated number, and restricting to one namespace can be done by tweaking the long form contributions URL; for namespace number four, you could search XX's contributions through //en.wikipedia.org/w/index.php?title=Special:Contributions&amp;target=XX&amp;namespace=4.
+
+
+You can manually add &amp;offset=X to the URL, where X is a timestamp, to fetch contributions before a given time. This might be useful if you want to link to a particular set of contribution history.
+
+First edit
+
+
+When using the user contributions page to determine when a user started editing on a wiki, note that edits may have been made on another wiki, where later the page has been imported.
+
+
+Also, until ca. 2004 there was a bug, which has been fixed but not retroactively, as follows:
+
+
+
+If a moved page was moved back, the edit history of the page with the intermediate title shows the latest move only, with the corresponding user name, but with the date and time of the first move.
+
+
+Therefore, if the oldest entries in the user contributions list are moves, they most likely do not represent any activity of the user on the stated dates.
+
+User styles
+
+
+The page body has selector body.page-Special_Contributions, so we can, e.g., use the CSS body.page-Special_Contributions ul { list-style: decimal } to number the backlinks.
+
+Public access and privacy levels
+
+
+Remember that any user contributions page, including your own, can be viewed by anyone else. 
+
+
+Also, you cannot modify your edit summary, nor the revision diff it links to that records your modifications, once you click the Publish changes button (even if by accident). You can replace the current page with a newly modified version, but the older version and its edit summary will remain visible to anyone via such tools as the page's history and your own User contributions page. 
+
+
+These privacy levels are some of the reasons for the standard editing notice that begins, "By publishing changes, you agree to the Terms of Use..." See §&nbsp;Deletion for the rare exceptions.
+
+See also
+
+
+
+This page is referenced in the Wikipedia Glossary.
+
+
+Help:Page history
+Wikipedia:User analysis tools
+References
+
+
+External links
+Global account information (Wikimedia Meta-Wiki) – shows any user's edit counts on all Wikimedia wikis.
+Edit Counter – Analysis of user contributions (xtools.wmflabs.org) – shows a user's edit counts and many more statistics.
+WikiChecker – status and analysis of en.wikipedia; analyzes a user's edit history; analyzes an article's edit history.
+vteWikipedia help pages
+Visit the Teahouse or the Help desk for an interactive Q &amp; A forum.
+
+FAQs&nbsp;(?)
+Reference desks&nbsp;(?)
+Noticeboards&nbsp;(?)
+Cheatsheet&nbsp;(?)
+ Directories&nbsp;(?)
+About Wikipedia&nbsp;(?)
+Administration
+Purpose
+Principles
+Policies and guidelines
+What Wikipedia is not
+Disclaimer&nbsp;(parental advice)
+Making requests
+Who writes Wikipedia?
+Help for readers&nbsp;(?)
+FAQ
+Books
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia&nbsp;(?)
+Advice for young editors
+Avoiding common mistakes
+Etiquette
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Your first article&nbsp;(article wizard)
+Getting started&nbsp;(?)
+Why create an account?
+Introductions by topic
+Graphics tutorials
+Picture tutorial
+IRC (live chat) tutorial
+VisualEditor user guide
+Dos and don'ts&nbsp;(?)
+Accessibility
+Biographies
+Biographies (living)
+Categorization
+Consensus
+Discussions
+Disambiguation
+Images
+Leads
+Links
+Lists
+References
+Tables
+Titles (of articles)
+How-to pages and
+information pages&nbsp;(?)
+Appealing blocks
+Article deletion
+Categories
+Citations/references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+Minor edit
+toolbar
+edit conflict
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking&nbsp;(link color)
+Logging in
+Merging
+Page name
+Renaming pages
+Redirect
+Passwords
+Email confirmation
+Reverting
+Simple vandalism cleanup
+Talk pages&nbsp;(archiving
+simple archiving)
+User contributions
+WP search protocol
+Coding&nbsp;(?)
+Wiki markup
+Barcharts
+Calculations
+Characters
+Columns
+Hidden text
+HTML
+Lists
+Magic words
+Music symbols
+Sections
+Sounds
+Tables
+Templates
+Transclusion
+URL
+Visual files
+Directories&nbsp;(?)
+Abbreviations
+Contents (Encyclopedia proper)
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Manual of Style 
+Policies
+Tasks
+Tips
+Tools
+ Missing Manual
+
+Ask for help on your talk page&nbsp;(?)
+vteWikipedia technical helpGet personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.General
+technical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+User guide
+Special
+page-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+Fixing cut-and-paste moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sorting
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,
+videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+LaTeX symbols
+Rendering math
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates and
+Lua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Guide to Scribbling
+Data structure 
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+System message
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisation
+and tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AutoWikiBrowser
+Bots
+Creating
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+WPCleaner
+Inactive
+igloo
+STiki
+
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pages
+Further navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:User_contributions&amp;oldid=1057331335"
+		Categories: Wikipedia how-toWikipedia glossary itemsWikipedia editor helpWikipedia interface helpHidden categories: Wikipedia move-protected project pagesWikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Help pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		MediaWikiWiktionary
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		AlemannischالعربيةবাংলাCatalàDeutschΕλληνικάفارسیFrançais한국어HrvatskiBahasa IndonesiaItalianoעבריתJawaҚазақшаBahasa MelayuNederlands日本語Norsk bokmålPortuguêsRomânăРусскийکوردیСрпски / srpskiSvenskaไทยTürkçeУкраїнськаاردوייִדיש中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 26 November 2021, at 23:59&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

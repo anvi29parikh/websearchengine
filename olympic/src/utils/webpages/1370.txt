@@ -1,0 +1,324 @@
+
+
+
+
+Editing Visual editor - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Editing Visual editor
+	
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		 Page notice 
+ You are not logged in. Your IP address will be publicly visible if you make any edits. If you log in or create an account, your edits will be attributed to a username, among other benefits.
+
+
+
+ Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable. Any work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to certain terms and conditions.
+
+Anti-spam check.
+Do not fill this in!
+
+
+{{Short description|Type of text editor}}
+{{Multiple issues|
+{{Sources exist|date=February 2021}}
+{{Self reference|For the Wikipedia page about the VisualEditor feature, see [[Wikipedia:VisualEditor]], or to perform tests using Wikipedia's VisualEditor, go to the [[Wikipedia:Sandbox|Sandbox]] page and click "Edit page visually".}}
+{{Unreferenced|date=February 2019}}
+}}
+{{for|the article about the Wikimedia editor project|VisualEditor}}
+A '''visual editor''', or '''full-screen editor''' is [[computer software]] for editing [[ASCII|text files]] using a [[text user interface|textual]] or [[graphical user interface|graphical]] user interface which displays the content (text) in an easy to look at and good view; that is, it displays a portion of the opened file and updates it in [[wikt:real-time|real time]].  By definition, all visual editors require a re-fresh-able display device and all editors with a GUI are visual. Editors that are running through a [[Command-line_interface#Command-line_interpreter|command-line interpreter]], however, may or may not be.  
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://sciteco.sourceforge.net SciTECO web installation]
+
+{{tech-stub}}
+
+{{DEFAULTSORT:Visual Editor}}
+[[Category:Text editors|*]]
+
+[[de:Texteditor]]
+
+Edit summary (Briefly describe your changes)
+
+
+
+By publishing changes, you agree to the Terms of Use, and you irrevocably agree to release your contribution under the CC BY-SA 3.0 License and the GFDL. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.
+
+
+
+
+	Cancel
+	Editing help (opens in new window)
+
+
+
+
+
+
+
+
+Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · § &nbsp;  Cite your sources: &lt;ref&gt;&lt;/ref&gt; 
+
+
+
+
+
+{{}} &nbsp; {{{}}} &nbsp; | &nbsp; [] &nbsp; [[]] &nbsp; [[Category:]] &nbsp; #REDIRECT [[]] &nbsp; &amp;nbsp; &nbsp; &lt;s&gt;&lt;/s&gt; &nbsp; &lt;sup&gt;&lt;/sup&gt; &nbsp; &lt;sub&gt;&lt;/sub&gt; &nbsp; &lt;code&gt;&lt;/code&gt; &nbsp; &lt;pre&gt;&lt;/pre&gt; &nbsp; &lt;blockquote&gt;&lt;/blockquote&gt; &nbsp; &lt;ref&gt;&lt;/ref&gt; &lt;ref name="" /&gt; &nbsp; {{Reflist}} &nbsp; &lt;references /&gt; &nbsp; &lt;includeonly&gt;&lt;/includeonly&gt; &nbsp; &lt;noinclude&gt;&lt;/noinclude&gt; &nbsp; {{DEFAULTSORT:}} &nbsp; &lt;nowiki&gt;&lt;/nowiki&gt; &nbsp; &lt;!-- --&gt; &nbsp; &lt;span class="plainlinks"&gt;&lt;/span&gt; 
+
+
+
+
+
+
+Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶ &nbsp; # ∞ &nbsp; ‹› «» &nbsp; ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥ &nbsp; ♠ ♣ ♥ ♦ &nbsp; 𝄫 ♭ ♮ ♯ 𝄪 &nbsp; © ® ™
+
+Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ &nbsp; B b &nbsp; C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç &nbsp; D d Ď ď Đ đ Ḍ ḍ Ð ð &nbsp; E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə &nbsp; F f &nbsp; G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ &nbsp; H h Ĥ ĥ Ħ ħ Ḥ ḥ &nbsp; I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị &nbsp; J j Ĵ ĵ &nbsp; K k Ķ ķ &nbsp; L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ &nbsp; M m Ṃ ṃ &nbsp; N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ &nbsp; O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ &nbsp; Ɔ ɔ &nbsp; P p &nbsp; Q q &nbsp; R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ &nbsp; S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß &nbsp; T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ &nbsp; U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ &nbsp; V v &nbsp; W w Ŵ ŵ &nbsp; X x &nbsp; Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ &nbsp; Z z Ź ź Ż ż Ž ž &nbsp; ß Ð ð Þ þ Ŋ ŋ Ə ə 
+
+Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ &nbsp; Α α Β β Γ γ Δ δ &nbsp; Ε ε Ζ ζ Η η Θ θ &nbsp; Ι ι Κ κ Λ λ Μ μ &nbsp; Ν ν Ξ ξ Ο ο Π π &nbsp; Ρ ρ Σ σ ς Τ τ Υ υ &nbsp; Φ φ Χ χ Ψ ψ Ω ω &nbsp; {{Polytonic|}} 
+
+Cyrillic: А а Б б В в Г г &nbsp; Ґ ґ Ѓ ѓ Д д Ђ ђ &nbsp; Е е Ё ё Є є Ж ж &nbsp; З з Ѕ ѕ И и І і &nbsp; Ї ї Й й Ј ј К к &nbsp; Ќ ќ Л л Љ љ М м &nbsp; Н н Њ њ О о П п &nbsp; Р р С с Т т Ћ ћ &nbsp; У у Ў ў Ф ф Х х &nbsp; Ц ц Ч ч Џ џ Ш ш &nbsp; Щ щ Ъ ъ Ы ы Ь ь &nbsp; Э э Ю ю Я я &nbsp; ́ 
+
+IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ &nbsp; ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ &nbsp; ɱ ɳ ɲ ŋ ɴ &nbsp; ʋ ɹ ɻ ɰ &nbsp; ʙ ⱱ ʀ ɾ ɽ &nbsp; ɫ ɬ ɮ ɺ ɭ ʎ ʟ &nbsp; ɥ ʍ ɧ &nbsp; ʼ &nbsp; ɓ ɗ ʄ ɠ ʛ &nbsp; ʘ ǀ ǃ ǂ ǁ &nbsp; ɨ ʉ ɯ &nbsp; ɪ ʏ ʊ &nbsp; ø ɘ ɵ ɤ &nbsp; ə ɚ &nbsp; ɛ œ ɜ ɝ ɞ ʌ ɔ &nbsp; æ &nbsp; ɐ ɶ ɑ ɒ &nbsp; ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ &nbsp; ˈ ˌ ː ˑ ̪ &nbsp; {{IPA|}}
+
+
+
+
+Wikidata entities used in this page
+
+visual editor: Sitelink, Title, Description: en
+
+
+Pages transcluded onto the current version of this page (help):
+
+Template:Ambox (view source) (template editor protected)Template:Asbox (view source) (template editor protected)Template:Asbox/styles.css (view source) (template editor protected)Template:Find sources mainspace (view source) (template editor protected)Template:For (view source) (template editor protected)Template:Hatnote (view source) (template editor protected)Template:Main other (view source) (protected)Template:Multiple issues (view source) (template editor protected)Template:Pagetype (view source) (protected)Template:Reflist (view source) (protected)Template:Reflist/styles.css (view source) (protected)Template:SDcat (view source) (template editor protected)Template:Self reference (view source) (template editor protected)Template:Short description (view source) (template editor protected)Template:Sources exist (view source) (semi-protected)Template:Tech-stub (view source) (semi-protected)Template:Unreferenced (view source) (template editor protected)Module:Arguments (view source) (protected)Module:Asbox (view source) (template editor protected)Module:Buffer (view source) (template editor protected)Module:Category handler (view source) (protected)Module:Category handler/blacklist (view source) (protected)Module:Category handler/config (view source) (protected)Module:Category handler/data (view source) (protected)Module:Category handler/shared (view source) (protected)Module:Check for unknown parameters (view source) (template editor protected)Module:Find sources (view source) (extended confirmed protected)Module:Find sources/config (view source) (extended confirmed protected)Module:Find sources/links/google (view source) (extended confirmed protected)Module:Find sources/links/google books (view source) (extended confirmed protected)Module:Find sources/links/google news (view source) (extended confirmed protected)Module:Find sources/links/google newspapers (view source) (extended confirmed protected)Module:Find sources/links/google scholar (view source) (extended confirmed protected)Module:Find sources/links/jstor (view source) (extended confirmed protected)Module:Find sources/templates/Find sources mainspace (view source) (extended confirmed protected)Module:For (view source) (template editor protected)Module:Hatnote (view source) (template editor protected)Module:Hatnote/styles.css (view source) (template editor protected)Module:Hatnote list (view source) (template editor protected)Module:Message box (view source) (protected)Module:Message box/configuration (view source) (protected)Module:Namespace detect (view source) (protected)Module:Namespace detect/config (view source) (protected)Module:Namespace detect/data (view source) (protected)Module:Navbar (view source) (protected)Module:Navbar/configuration (view source) (protected)Module:Navbar/styles.css (view source) (protected)Module:No globals (view source) (protected)Module:Pagetype (view source) (protected)Module:Pagetype/config (view source) (protected)Module:SDcat (view source) (template editor protected)Module:String (view source) (protected)Module:Unsubst (view source) (protected)Module:Yesno (view source) (protected)
+
+This page is a member of 6 hidden categories (help)&nbsp;:
+
+Category:All articles lacking sources
+Category:All stub articles
+Category:Articles lacking sources from February 2019
+Category:Articles with multiple maintenance issues
+Category:Articles with short description
+Category:Short description matches Wikidata
+
+
+
+Retrieved from "https://en.wikipedia.org/wiki/Visual_editor"
+		
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		ArticleTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPage informationWikidata item
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

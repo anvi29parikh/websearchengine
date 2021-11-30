@@ -1,0 +1,346 @@
+
+
+
+
+Template:Noticeboard links - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Template:Noticeboard links
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		vteNoticeboardsWikipedia's centralized discussion, request, and help venues. For a listing of ongoing discussions and current requests, see the dashboard.General
+Administrators
+main
+incidents
+Bots
+Bureaucrats
+Centralized discussion
+Closure requests
+Education
+Interface admins
+Main Page errors
+Open proxies
+VRT
+Oversight
+User permissions
+Articles and content
+Biographies of living persons
+Copyrights
+questions on media
+problems
+Dispute resolution
+External links
+Fringe theories
+Neutral point of view
+Original research
+Reliable sources
+Resource requests
+Spam
+blacklist
+whitelist
+Scalable vector graphics
+Titleblacklist
+Translation
+Page handling
+History merges
+Mergers
+Splits
+Moves
+Protection
+Importation
+XfD
+Articles
+Redirects
+Categories
+Templates
+Files
+Miscellany
+Undeletion
+User conduct
+Conflict of interest
+Contributor copyright
+Edit warring and 3RR
+Sanctions
+Personal restrictions
+General sanctions
+Discretionary sanctions
+Sockpuppets
+Usernames
+Vandalism
+Other
+Arbitration
+Committee noticeboard
+requests
+enforcement
+Edit filters
+requested
+false positives
+Questions
+Help desk
+Teahouse
+Reference desk
+New articles
+Requests for comment
+Village pump
+policy
+technical
+proposals
+idea lab
+WMF
+miscellaneous
+WikiProject proposals
+ Category:Wikipedia noticeboards
+Skip to TOC
+Skip to bottom
+
+
+
+
+ Template documentation[view] [edit] [history] [purge]
+Optional parameters
+
+
+{{Noticeboard links |state=uncollapsed |nostb=yes}}
+
+state=collapsed defaults this template to a collapsed state;
+nostb=yes removes the floating "skip to TOC and skip to bottom" link.
+notoc=yes removes the floating "skip to TOC" link.
+
+
+The above documentation is transcluded from Template:Noticeboard links/doc. (edit | history)
+Editors can experiment in this template's sandbox (edit | diff) and testcases (edit) pages.
+Add categories to the /doc subpage. Subpages of this template.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Noticeboard_links&amp;oldid=1050858343"
+		Categories: Wikipedia administration templatesWikipedia dispute resolutionWikipedia noticeboardsHidden categories: Wikipedia semi-protected templates
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		TemplateTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		ÆngliscАварAzərbaycancaتۆرکجهবাংলাБашҡортсаБеларускаяЧӑвашлаЭрзяньفارسیBahasa IndonesiaMagyarНохчийнOʻzbekcha/ўзбекчаPortuguêsРусскийСаха тылаසිංහලТоҷикӣTürkçeУкраїнськаTiếng Việtייִדיש粵語中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 20 October 2021, at 09:08&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

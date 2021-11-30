@@ -1,0 +1,1588 @@
+
+
+
+
+User talk:Qwerfjkl/Archive 1 - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	User talk:Qwerfjkl/Archive 1
+	
+		From Wikipedia, the free encyclopedia
+		&lt; User talk:Qwerfjkl
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This is an archive of past discussions. Do not edit the contents of this page. If you wish to start a new discussion or revive an old one, please do so on the current talk page.
+
+
+
+Archive&nbsp;1
+
+Archive&nbsp;2
+
+Archive&nbsp;3
+
+→
+
+Archive&nbsp;5
+  
+Contents
+
+1 Fix a typo in one click
+2 Pointless edits?
+3 Spacing
+4 Reviewing Wikipedia:Articles for creation/Redirects and categories
+5 Template:R from ambiguous term
+6 Disambiguation link notification for April 25
+7 The Signpost: 25 April 2021
+8 Hello!
+9 Declined speedy
+10 Redirect request: Category:Video game cheating
+11 Articles you might like to edit, from SuggestBot
+12 A discovery of Witches
+13 Typo Team
+14 May 2021
+15 New message from Awesome Aasim
+16 Polder
+17 Thank you for the welcome!
+18 A barnstar for you!
+19 Draft:Moscow Center for Consciousness Studies
+20 Articles you might like to edit, from SuggestBot
+21 Wikipedia:Articles for creation/Redirects and categories
+22 You have still some work to do
+23 Elon Musk
+24 Category:Unofficial leaders has been nominated for deletion
+25 Category:Unofficial leaders has been nominated for deletion
+26 Scripts++ Newsletter – Issue 21
+27 Trouted
+28 Articles you might like to edit, from SuggestBot
+29 Rollback granted
+30  Malicious editing 
+31 CZTS
+32 A cupcake for you!
+33 Confusing edit at Metamorphic rock
+34 Edge cloud Requested redirect
+35 Request on 07:49:14, 9 June 2021 for assistance on AfC submission by Shanisun
+36 Administrators' newsletter – June 2021
+37 I love your userpage
+
+
+
+Fix a typo in one click
+
+
+Hi, I watch the Fix a typo in one click page and disagreed with some of your recent tags so I have redone them. In general if you are unsure it is best to leave the word for someone else to correct. A Google search of the word in question can confirm it is a real word, e.g. frum, ssam and exites. I was baffled by the article Seifert fiber space. TSventon (talk) 18:11, 6 April 2021 (UTC)
+
+@TSventon: Sorry, I was having some technical difficulties. My apologies for wasting your time. ―&nbsp;Qwerfjkl|✉&nbsp;&nbsp; 18:31, 6 April 2021 (UTC)
+No problem, I "corrected" frum to forum a few weeks ago. TSventon (talk) 21:29, 6 April 2021 (UTC)
+Pointless edits?
+
+
+Hello, what are your recent edits about? They don't seem to change anything. 𝟙𝟤𝟯𝟺𝐪𝑤𝒆𝓇𝟷𝟮𝟥𝟜𝓺𝔴𝕖𝖗𝟰 (𝗍𝗮𝘭𝙠) 09:47, 13 April 2021 (UTC)
+
+
+The former edit was an accident, and the latter changed  {{R to section}} to {{R to anchor}} . Apologies for making a few pointless edits. ―&nbsp;Qwerfjkl|✉&nbsp;&nbsp; 09:51, 13 April 2021 (UTC)
+
+Spacing
+
+
+Please respect &amp; maintain the empty line between the #REDIRECT ... line and {{Redirect category shell}} line when making such mass changes. Thanks. &nbsp;&nbsp;~&nbsp;Tom.Reding (talk ⋅dgaf)&nbsp; 19:23, 12 April 2021 (UTC)
+
+@Tom.Reding: Sorry!, I was using a script which did not enter that line (Sagittarius). I will try to manually add it in the future. &nbsp;Thanks ―&nbsp;Qwerfjkl|✉&nbsp;&nbsp; 19:52, 12 April 2021 (UTC)
+I don't think doing WP:Cosmetic edits like this manually is worth it either. You could try using one of the modified versions of the script though. 𝟙𝟤𝟯𝟺𝐪𝑤𝒆𝓇𝟷𝟮𝟥𝟜𝓺𝔴𝕖𝖗𝟰 (𝗍𝗮𝘭𝙠) 09:52, 13 April 2021 (UTC)
+@1234qwer1234qwer4: Unfortunately, the other versions of the script do not work for me. ―&nbsp;Qwerfjkl|✉&nbsp;&nbsp; 09:53, 13 April 2021 (UTC)
+I have managed to run Capricorn by using desktop mode, so will automatically add the line. ―&nbsp;Qwerfjkl|✉&nbsp;&nbsp; 20:47, 13 April 2021 (UTC)
+This is the correct format to use for future edits. Not worth correcting previous edits, as it would be a WP:Cosmetic edit. &nbsp;&nbsp;~&nbsp;Tom.Reding (talk ⋅dgaf)&nbsp; 13:16, 13 April 2021 (UTC)
+Reviewing Wikipedia:Articles for creation/Redirects and categories
+
+
+Hi, I see you have reviewed a redirect request, but you have not closed the submission.  Please see Wikipedia:Articles for creation/Redirects and categories/Reviewing instructions.  Alternatively, you can use User:Enterprisey/AFCRHS.js, which creates the redirect and closes the discussion for you when you have reviewed a submission. ~ Aseleste (t, e | c, l) 03:38, 17 April 2021 (UTC)
+
+Template:R from ambiguous term
+
+
+I don't know how these tools work, as I've never tried them, but in your semi-automated edits to redirects using sagittarius and Capricorn, {{R from ambiguous term}} would be an appropriate template to put on those redirect pages. – wbm1058 (talk) 21:50, 17 April 2021 (UTC)
+
+ Thank you, I was just using the wrong rcat. ―&nbsp;Qwerfjkl|✉&nbsp;&nbsp; 21:58, 17 April 2021 (UTC)
+Disambiguation link notification for April 25
+
+
+Hi. Thank you for your recent edits. An automated process has detected that when you recently edited Participatory development communication, you added links pointing to the disambiguation pages Planner and Implementer. Such links are usually incorrect, since a disambiguation page is merely a list of unrelated topics with similar titles. (Read the FAQ&nbsp;•  Join us at the DPL WikiProject.)
+
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these opt-out instructions. Thanks, DPL bot (talk) 06:00, 25 April 2021 (UTC)
+
+The Signpost: 25 April 2021
+ 
+From the editor: A change is gonna come
+Disinformation report: The Trump Organization's paid editors
+In the media: Fernando, governance, and rugby
+Opinion: The (Universal) Code of Conduct
+Op-Ed: A Little Fun Goes A Long Way
+Changing the world: The reach of protest images on Wikipedia
+Recent research: Quality of aquatic and anatomical articles
+Traffic report: The verdict is guilty, guilty, guilty
+News from Wiki Education: Encouraging professional physicists to engage in outreach on Wikipedia   * Read this Signpost in full * Single-page * Unsubscribe * MediaWiki message delivery (talk) 04:30, 26 April 2021 (UTC) 
+Hello!
+
+
+Thanks for thanking my edit! It means a lot to me. HiCooldude😎 (talk) 21:03, 29 April 2021 (UTC)
+
+Declined speedy
+
+
+Just as a note, I've removed your A7 tag on Madeleine de Choiseul. I don't tend to inform people when I do because it can seem patronizing to long-term users, but I noticed you were a newer user and felt you could do with a friendly note. 🙂 The subject of that article was a monarch, which is definitely a claim to notability, and in addition anyone who lived before or in the earliest days of the printing press and had their name written down is at least not an A7 case; she did live in its earlier decades, so more ambiguous than before (when it's a common position that anyone whose name was recorded is notable, full stop), but still far back enough in history that an A7 tag for the most clear-cut possible cases of non-notability should be held back from. You might want to read Wikipedia:Credible claim of significance, which is a helpful guide to when A7 does and doesn't apply, as well as Wikipedia:Common claims of significance or importance, which lists some cases an article doesn't count as A7, even if it wouldn't survive AfD. Vaticidalprophet 22:23, 2 May 2021 (UTC)
+
+Thank you for notifying me! ―&nbsp;Qwerfjkl|✉&nbsp;&nbsp; 19:45, 6 May 2021 (UTC)
+Redirect request: Category:Video game cheating
+
+
+You declined this request because "You are suggesting a category, not a redirect."  However, the person was requesting a category redirect (just a redirect from category namespace), not requesting a category.  (I'm not the person who asked for it; I just saw the request.)  74.98.192.38 (talk) 19:19, 6 May 2021 (UTC)
+
+Thank you, I just misread it and have now accepted that request. ―&nbsp;Qwerfjkl|✉&nbsp;&nbsp; 19:46, 6 May 2021 (UTC)
+Articles you might like to edit, from SuggestBot
+
+
+Note: All columns in this table are sortable, allowing you to rearrange the table so the articles most interesting to you are shown at the top.  All images have mouse-over popups with more information.  For more information about the columns and categories, please consult the documentation and please get in touch on SuggestBot's talk page with any questions you might have.
+
+
+
+
+Views/Day
+
+Quality
+
+Title
+
+Tagged with…
+
+
+32
+
+ 
+
+Informal romanizations of Cyrillic (talk)
+
+Add sources
+
+
+24
+
+ 
+
+Telugu Braille (talk)
+
+Add sources
+
+
+264
+
+ 
+
+Pinoy pop (talk)
+
+Add sources
+
+
+46
+
+ 
+
+Alay (talk)
+
+Add sources
+
+
+3,459
+
+ 
+
+Emoji (talk)
+
+Add sources
+
+
+31
+
+ 
+
+Husayn Fawzi Alnajjar (talk)
+
+Add sources
+
+
+4,284
+
+ 
+
+Descendants of the Sun (talk)
+
+Cleanup
+
+
+12
+
+ 
+
+Code page 949 (IBM) (talk)
+
+Cleanup
+
+
+12,138
+
+ 
+
+Microsoft Teams (talk)
+
+Cleanup
+
+
+52
+
+ 
+
+Martian language (talk)
+
+Expand
+
+
+458
+
+ 
+
+Dingbat (talk)
+
+Expand
+
+
+180
+
+ 
+
+Japanese mobile phone culture (talk)
+
+Expand
+
+
+21
+
+ 
+
+Miguxês (talk)
+
+Unencyclopaedic
+
+
+49
+
+ 
+
+Gyaru-moji (talk)
+
+Unencyclopaedic
+
+
+98
+
+ 
+
+Denglisch (talk)
+
+Unencyclopaedic
+
+
+98
+
+ 
+
+Microsoft Academic (talk)
+
+Merge
+
+
+156
+
+ 
+
+Asaf Jahi dynasty (talk)
+
+Merge
+
+
+414
+
+ 
+
+Messaging apps (talk)
+
+Merge
+
+
+10
+
+ 
+
+Peter Benjamin Graham (talk)
+
+Wikify
+
+
+857
+
+ 
+
+Phonetic transcription (talk)
+
+Wikify
+
+
+3
+
+ 
+
+Fawwaz Tuqan (talk)
+
+Wikify
+
+
+14
+
+ 
+
+VSFighting (talk)
+
+Orphan
+
+
+23
+
+ 
+
+Sulaiman Al-Taji Al-Farouqi (talk)
+
+Orphan
+
+
+3
+
+ 
+
+Ashurkhana Sayyid Jamshed Ali Khan (talk)
+
+Orphan
+
+
+8
+
+ 
+
+Kaoani (talk)
+
+Stub
+
+
+14
+
+ 
+
+Mac OS Romanian encoding (talk)
+
+Stub
+
+
+123
+
+ 
+
+Bini (group) (talk)
+
+Stub
+
+
+178
+
+ 
+
+Shrug (talk)
+
+Stub
+
+
+27
+
+ 
+
+Kara (name) (talk)
+
+Stub
+
+
+12
+
+ 
+
+Aliw Award (talk)
+
+Stub
+
+
+
+SuggestBot picks articles in a number of ways based on other articles you've edited, including straight text similarity, following wikilinks, and matching your editing patterns against those of other Wikipedians.  It tries to recommend only articles that other Wikipedians have marked as needing work.  We appreciate that you have signed up to receive suggestions regularly; your contributions make Wikipedia better — thanks for helping!
+
+
+If you have feedback on how to make SuggestBot better, please let us know on SuggestBot's talk page. -- SuggestBot (talk) 23:25, 6 May 2021 (UTC)
+
+A discovery of Witches
+
+
+Why did you find it necessary to revert to a ref that points at a "404" page when there's and perfectly good page in the original citation?--Georgia Army Vet Contribs Talk  21:34, 7 May 2021 (UTC)
+
+Feel free to undo my reversion if you disagree with it. ―&nbsp;Qwerfjkl|✉&nbsp;&nbsp; 09:14, 8 May 2021 (UTC)
+Typo Team
+
+
+Hi, I've come across a few pages where you edited some typos from Typo Team. While it's great and very helpful that you are fixing those, could you also delete those fixed entries/words from the list? That way everyone can see what still needs to be done&nbsp;:) Strickesel (talk) 10:16, 12 May 2021 (UTC)
+
+Which pages specifically did you mean? By typo team do you mean Wikipedia:Typo Team/moss? ―&nbsp;Qwerfjkl&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 15:22, 12 May 2021 (UTC)
+@Qwerfjkl: Ah, yes, I meant specifically Wikipedia:Typo Team/moss/M, the current page I saw you fixing things from. I could have been more specific, sorry&nbsp;:) Strickesel (talk) 15:36, 12 May 2021 (UTC)
+@Strickesel:I run AWB and JWB on all the pages listed, but cannot check whether or not all the errors have been caught, so I tend to leave them fo others to check. ―&nbsp;Qwerfjkl&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 16:12, 12 May 2021 (UTC)
+May 2021
+
+
+ Hello. Regarding the recent revert you made to List of home video companies: you may already know about them, but you might find Wikipedia:Template messages/User talk namespace useful. After a revert, these can be placed on the user's talk page to let them know you considered their edit inappropriate, and also direct new users towards the sandbox. They can also be used to give a stern warning to a vandal when they've been previously warned. Thank you. Hockeycatcat (talk) 10:37, 15 May 2021 (UTC)
+
+I am aware of the messages, and also have Twinkle and RedWarn to add these messages, I just forget occasionally. Thanks! ―&nbsp;Qwerfjkl&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 10:41, 15 May 2021 (UTC)
+New message from Awesome Aasim
+Hello, Qwerfjkl. You have new messages at  User talk:Awesome Aasim/editrequest.
+Message added 06:01, 16 May 2021 (UTC). You can remove this notice at any time&nbsp;by removing the {{Talkback}} or {{Tb}} template.
+
+
+Aasim (talk) 06:01, 16 May 2021 (UTC)
+
+Polder
+
+
+This edit was not constructive - the other IP was correct in their revert. lavender|(formerly HMSSolent)|lambast 04:29, 18 May 2021 (UTC)
+
+Sorry! ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 06:04, 18 May 2021 (UTC)
+Thank you for the welcome!
+
+
+Qwerfjkl,
+
+
+I was watching that game on TV when Pillar got hit in the face by that ball.  Scary for sure!  Anyways, thank you for the welcome!  I'll look forward to contributing more in the very near future!
+
+
+Wikieditorally (talk) 20:46, 18 May 2021 (UTC)
+
+A barnstar for you!
+
+
+
+
+The Special Barnstar
+
+
+You are doing a great job! Keep it up. ^_^ QuantumRealm (meow • pawtrack) 20:10, 19 May 2021 (UTC)
+
+Thanks! ...What for? ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 20:12, 19 May 2021 (UTC)
+For your contributions on Wikipedia!&nbsp;:) ^_^ QuantumRealm (meow • pawtrack) 20:38, 19 May 2021 (UTC)
+Draft:Moscow Center for Consciousness Studies
+
+
+Hello. Please take a look at this draft. This is an article about the philosophical center of the largest state university in Russia. 2A00:1FA1:127:1EFA:804B:AC36:C933:1054 (talk) 10:09, 20 May 2021 (UTC)
+
+Articles you might like to edit, from SuggestBot
+
+
+Note: All columns in this table are sortable, allowing you to rearrange the table so the articles most interesting to you are shown at the top.  All images have mouse-over popups with more information.  For more information about the columns and categories, please consult the documentation and please get in touch on SuggestBot's talk page with any questions you might have.
+
+
+
+
+Views/Day
+
+Quality
+
+Title
+
+Tagged with…
+
+
+5
+
+ 
+
+Arcy (talk)
+
+Add sources
+
+
+10
+
+ 
+
+The Black Corridor (talk)
+
+Add sources
+
+
+25,309
+
+ 
+
+Wiki (talk)
+
+Add sources
+
+
+27
+
+ 
+
+Quarters of nobility (talk)
+
+Add sources
+
+
+18
+
+ 
+
+Seize quartiers (talk)
+
+Add sources
+
+
+293
+
+ 
+
+Twenty:20 (film) (talk)
+
+Add sources
+
+
+132
+
+ 
+
+Digon (talk)
+
+Cleanup
+
+
+17
+
+ 
+
+TSS T/T Calshot (talk)
+
+Cleanup
+
+
+29
+
+ 
+
+King Edward VI School, Southampton (talk)
+
+Cleanup
+
+
+1,035
+
+ 
+
+Britannia (TV series) (talk)
+
+Expand
+
+
+95
+
+ 
+
+The Idolmaster KR (talk)
+
+Expand
+
+
+556
+
+ 
+
+The Collection (film) (talk)
+
+Expand
+
+
+18
+
+ 
+
+Sholing (talk)
+
+Unencyclopaedic
+
+
+52
+
+ 
+
+Malaysian pop (talk)
+
+Unencyclopaedic
+
+
+14
+
+ 
+
+Families Need Fathers (talk)
+
+Unencyclopaedic
+
+
+209
+
+ 
+
+Group marriage (talk)
+
+Merge
+
+
+1,234
+
+ 
+
+Hyperlink (talk)
+
+Merge
+
+
+80
+
+ 
+
+Peer-to-peer ridesharing (talk)
+
+Merge
+
+
+367
+
+ 
+
+Decagon (talk)
+
+Wikify
+
+
+408
+
+ 
+
+Eros (concept) (talk)
+
+Wikify
+
+
+4
+
+ 
+
+Dan Muller (talk)
+
+Wikify
+
+
+2
+
+ 
+
+Hodyon (talk)
+
+Orphan
+
+
+6
+
+ 
+
+European Fashion Council (talk)
+
+Orphan
+
+
+6
+
+ 
+
+Laura Busse (talk)
+
+Orphan
+
+
+25
+
+ 
+
+Varnam (1989 film) (talk)
+
+Stub
+
+
+6
+
+ 
+
+Australlus (talk)
+
+Stub
+
+
+272
+
+ 
+
+Jean-Claude Van Johnson (talk)
+
+Stub
+
+
+17
+
+ 
+
+No to capitulation! (talk)
+
+Stub
+
+
+15
+
+ 
+
+Rashtram (talk)
+
+Stub
+
+
+781
+
+ 
+
+International Day of Families (talk)
+
+Stub
+
+
+
+SuggestBot picks articles in a number of ways based on other articles you've edited, including straight text similarity, following wikilinks, and matching your editing patterns against those of other Wikipedians.  It tries to recommend only articles that other Wikipedians have marked as needing work.  We appreciate that you have signed up to receive suggestions regularly; your contributions make Wikipedia better — thanks for helping!
+
+
+If you have feedback on how to make SuggestBot better, please let us know on SuggestBot's talk page. -- SuggestBot (talk) 23:26, 20 May 2021 (UTC)
+
+Wikipedia:Articles for creation/Redirects and categories
+
+
+
+
+
+  A wee token of appreciation for all the work you do there. 92.24.246.11 (talk) 20:11, 21 May 2021 (UTC)
+Thanks! ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 21:23, 21 May 2021 (UTC)
+You have still some work to do
+
+
+These articles should be deleted too:
+
+Category:Women's futsal leagues
+Category:Top level women's futsal leagues in Europe
+Template:UEFA Women's Futsal leagues
+Taça Nacional Sénior de Futsal Feminino
+Campeonato Nacional Futsal (women)
+Futsal Eredivisie (women)
+Futsal Hoofdklasse (women)
+Malaysia Premier Futsal League (Women)
+Primera División Sala (women)
+Serie A Elite
+Serie A (women's futsal)
+Campeonato Nacional Futsal Feminino
+Russian Women's Futsal Super League
+Primera División Femenina de Futsal
+Ukrainian Women's Futsal Championship
+
+
+--Pihamies (talk) 10:36, 23 May 2021 (UTC)
+
+Is this on the right page, because I have no idea what you are referring to. This looks like admin work. ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 12:44, 23 May 2021 (UTC)
+Elon Musk
+
+
+At the Elon Musk article, I had requested only the removal of "energy physics" as a program to which Musk was accepted. It's evident and cited that he was accepted to materials science, so your removal of the whole sentence was immediately reverted. Can you please try again? 73.71.251.64 (talk) 15:29, 27 May 2021 (UTC)
+
+&nbsp;Done. Sorry for misreading your request. ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 20:25, 27 May 2021 (UTC)
+Category:Unofficial leaders has been nominated for deletion
+
+
+Category:Unofficial leaders has been nominated for deletion. A discussion is taking place to decide whether this proposal complies with the categorization guidelines. If you would like to participate in the discussion, you are invited to add your comments at the category's entry on the categories for discussion page. Thank you. ―&nbsp;Tartan357&nbsp;Talk 21:50, 28 May 2021 (UTC)
+Category:Unofficial leaders has been nominated for deletion
+
+
+Category:Unofficial leaders has been nominated for deletion. A discussion is taking place to decide whether this proposal complies with the categorization guidelines. If you would like to participate in the discussion, you are invited to add your comments at the category's entry on the categories for discussion page. Thank you. Marcocapelle (talk) 07:02, 30 May 2021 (UTC)
+Scripts++ Newsletter – Issue 21
+
+
+
+News and updates associated with user scripts from the past four months (February through May 2021).
+
+
+Hello everyone and welcome to the 21st issue of the Wikipedia Scripts++ Newsletter:
+
+
+
+
+
+
+
+
+ Scripts Submit your new/improved script here
+
+ New scripts
+Alexander Davronov's HistoryHelper helps to copy diff links from the history display of a page
+Aseleste's Purger makes it easier to purge or null edit a page
+Awesome Aasim:
+CatMan adds a category manager to simplify interactions for adding and removing the categories of a page
+redirectcreator allows for easy creation of multiple redirects
+Bop34's EasyDesc adds a link to the top navigation bar which allows you to add a short description without opening the edit menu
+BrandonXLF's NullEdit adds a portlet link to perform a null edit on a page
+Chlod:
+FoldArchives collapses archived talk page threads in order to reduce screen space
+GoToTitle converts the page title into an input field for navigating to other pages
+UserHighlighter adds highlighting to links to the userpages, talk pages, and contributions of administrators and other user groups as well as tooltips to indicate which groups a user is in
+GhostInTheMachine:
+NoEditSummary adds a warning if an edit will be saved without an edit summary
+SortWhatLinksHere sorts the links shows on Special:WhatLinksHere
+WatchlistTidy moves the "new updates found" timestamp block from the bottom of the filter block to the top of the filter area on the watchlist
+GorillaWarfare's curlies simplifies converting curly quotes to straight quotes while in the source editing mode
+Nardog:
+AutoSectionLink corrects the /* section link */ every time you hit "Show changes"
+AutoTestcases autofills "Preview page with this template/module" with the most relevant /testcases page that exists
+SortCentralAuthByEditCount sorts the list of local accounts on CentralAuth by edit count
+Novem Linguae:
+CiteHighlighter highlights 1800 sources green, yellow, or red depending on reliability.
+NPPLinks adds WP:BEFORE Google search links, copyvio check, duplicate article check, and other links to the left menu.
+Ritenerek's goce_nav adds a link to Wikipedia:WikiProject Guild of Copy Editors to the navigation menu
+Suffusion of Yellow:
+filterDiff: Adds a "Show changes" button to the filter editor.
+filterNotes: Parses filter notes as wikitext (so links are clickable), and signs and dates new comments for you.
+filterTest: Adds a "Test changes" button. Opens Special:AbuseFilter/test with what's currently in the edit form, not with what's saved in the database, so you don't have to copy-paste your changes.
+Terasail's COI Request Tool allows users to reply to, close or remove conflict of interest edit requests
+ Updated scripts
+Twinkle has a number of improvements, including that most watchlist defaults now make use of the new temporary watchlist feature.  Other changes include rollbacks treating consecutive IPv6 editors in the same /64 range as the same user, adding a preview for shared IP tagging, a preference for watching users after CSD notification, and for sysops, the ability to block the /64 and link to a WP:RfPP request, and new copyright blocks default to indefinite.
+Wikipedia:Shortdesc helper now v3.4.17, changes include minor fixes and preventing edits that don't change the description.
+BrandonXLF's CitationStyleMarker now recognizes WP:CSLSA and WP:CSVAN styles, in addition to WP:CS1 and WP:CS2
+Joeytje50's JWB now version 4.1.0, includes the ability to generate page lists from the search tool, major updates to the handling of regular expressions, the storing of user settings, the addition of upload protection, and an option to skip pages that belong to a specific category, among other changes. See User:Joeytje50/JWB/Changelog for a full list of recent changes.
+User:SD0001/deleted-metadata-link.js – updated to include a link to snippet of deleted content, instead of just metadata.
+ Miscellaneous
+Wikipedia:User scripts/List has been revamped to make it easier to find scripts suited for your needs. If you know of a cool script that is missing on the list, or a script on the list that is no longer working, please edit the list or let us know on the talk page.
+ Pending requests
+A request for a script to help admins posting "recent death" items to Template:In the news
+A request for a script to warn users about syntax and template errors
+...and many more, all available at Wikipedia:User scripts/Requests
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+My apologies for this long-overdue issue, and if I missed any scripts.
+Hopefully going forward we can go back to monthly releases - any help would be appreciated. Thanks, --DannyS712 (talk) 13:04, 2 June 2021 (UTC)
+
+
+
+About the newsletter
+Subscription options
+Discuss this issue
+
+
+Trouted
+
+
+
+
+
+Whack! 
+ 
+
+You've been whacked with a wet trout.Don't take this too seriously. Someone just wants to let you know you did something silly.
+
+
+
+You have been trouted for: YOUR REASON HERE 2401:4900:4463:D333:C4D7:4813:B91D:D13B (talk) 05:58, 3 June 2021 (UTC)
+Edited false information on Sejal Kumar page
+
+Articles you might like to edit, from SuggestBot
+
+
+Note: All columns in this table are sortable, allowing you to rearrange the table so the articles most interesting to you are shown at the top.  All images have mouse-over popups with more information.  For more information about the columns and categories, please consult the documentation and please get in touch on SuggestBot's talk page with any questions you might have.
+
+
+
+
+Views/Day
+
+Quality
+
+Title
+
+Tagged with…
+
+
+1,581
+
+ 
+
+Aam Aadmi Party (talk)
+
+Add sources
+
+
+29
+
+ 
+
+Cartoon Network: Block Party (talk)
+
+Add sources
+
+
+1,492
+
+ 
+
+Iván Duque Márquez (talk)
+
+Add sources
+
+
+8
+
+ 
+
+James Wootton (animator) (talk)
+
+Add sources
+
+
+636
+
+ 
+
+Ssshhhh...Koi Hai (talk)
+
+Add sources
+
+
+153
+
+ 
+
+Thames Valley Police (talk)
+
+Add sources
+
+
+2,240
+
+ 
+
+Mahira Khan (talk)
+
+Cleanup
+
+
+664
+
+ 
+
+Richard Allen Davis (talk)
+
+Cleanup
+
+
+741
+
+ 
+
+Bakugan Battle Brawlers (talk)
+
+Cleanup
+
+
+632
+
+ 
+
+University of Alabama (talk)
+
+Expand
+
+
+363
+
+ 
+
+Jawani Phir Nahi Ani 2 (talk)
+
+Expand
+
+
+55
+
+ 
+
+Surrey Police (talk)
+
+Expand
+
+
+44
+
+ 
+
+Signature dish (talk)
+
+Unencyclopaedic
+
+
+11
+
+ 
+
+Americans for Peace and Tolerance (talk)
+
+Unencyclopaedic
+
+
+6
+
+ 
+
+Project ALS (talk)
+
+Unencyclopaedic
+
+
+160
+
+ 
+
+Rupsi Airport (talk)
+
+Merge
+
+
+5
+
+ 
+
+Lyutika (talk)
+
+Merge
+
+
+29
+
+ 
+
+Hum Network (talk)
+
+Merge
+
+
+60
+
+ 
+
+Thomas Dick (scientist) (talk)
+
+Wikify
+
+
+2,262
+
+ 
+
+Joyner Lucas (talk)
+
+Wikify
+
+
+79
+
+ 
+
+Phoenix Police Department (talk)
+
+Wikify
+
+
+2
+
+ 
+
+Maury C. Goodman (talk)
+
+Orphan
+
+
+12
+
+ 
+
+Karabi Deka Hazarika (talk)
+
+Orphan
+
+
+24
+
+ 
+
+President T (talk)
+
+Orphan
+
+
+10
+
+ 
+
+Fizza Ali Meerza (talk)
+
+Stub
+
+
+45
+
+ 
+
+Cabbages and Kings (novel) (talk)
+
+Stub
+
+
+11
+
+ 
+
+Urmia Khanate (talk)
+
+Stub
+
+
+272
+
+ 
+
+Morbid: A True Crime Podcast (talk)
+
+Stub
+
+
+15
+
+ 
+
+Abdullahi Sheikh Ismail (talk)
+
+Stub
+
+
+29
+
+ 
+
+Ipomoea lobata (talk)
+
+Stub
+
+
+
+SuggestBot picks articles in a number of ways based on other articles you've edited, including straight text similarity, following wikilinks, and matching your editing patterns against those of other Wikipedians.  It tries to recommend only articles that other Wikipedians have marked as needing work.  We appreciate that you have signed up to receive suggestions regularly; your contributions make Wikipedia better — thanks for helping!
+
+
+If you have feedback on how to make SuggestBot better, please let us know on SuggestBot's talk page. -- SuggestBot (talk) 23:30, 3 June 2021 (UTC)
+
+Rollback granted
+
+
+
+Hi Qwerfjkl. After reviewing your request, I have temporarily enabled rollback on your account until {{{expiry}}}. Keep in mind these things when using rollback:
+
+Getting rollback is no more momentous than installing Twinkle.
+Rollback should be used to revert clear cases of vandalism only, and not good faith edits.
+Rollback should never be used to edit war.
+If abused, rollback rights can be revoked.
+Use common sense.
+
+
+If you no longer want rollback, contact me and I'll remove it. Also, for some more information on how to use rollback, see Wikipedia:Administrators' guide/Rollback (even though you're not an admin). I'm sure you'll do great with rollback, but feel free to leave me a message on my talk page if you run into trouble or have any questions about appropriate/inappropriate use of rollback. Thank you for helping to reduce vandalism. Happy editing! GirthSummit (blether) 10:18, 5 June 2021 (UTC)
+
+@Girth Summit What is the expiry date? ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 10:20, 5 June 2021 (UTC)
+Qwerfjkl, oops - sorry, forgot to change that. I didn't set an expiry date, it's indefinite (unless you misuse it, obviously). Cheers GirthSummit (blether) 10:23, 5 June 2021 (UTC)
+Thanks! ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 10:24, 5 June 2021 (UTC)
+ Malicious editing 
+
+
+ Please stop your disruptive editing. If you continue to spiteful messages, as you did more than once on my talk page, you may be blocked from editing. 76.160.6.50 (talk) 21:45, 5 June 2021 (UTC)
+
+CZTS
+
+
+This entry on David Mitzi is unneeded &amp; misleading. David Mitzi is only one of 7 researchers. Zero info on CZTS was removed. The same research paper is also cited above: "Device Characteristics of CZTSSe Thin-Film Solar Cells with 12.6% Efficiency" "Wei Wang, Mark T. Winkler , Oki Gunawan , Tayfun Gokmen, Teodor K. Todorov,Yu Zhu, and David B. Mitzi" The lead researcher is usually listed 1st in a research paper, Wei Wang. David Mitzi is listed dead last; IE, least contribution. This reads just like a resume. 71.218.243.31 (talk) 21:23, 6 June 2021 (UTC)
+
+If the article's statement "He is the most recognized scientist to hold several record efficiencies of CZTS solar cells including the latest achievement of a 12.6% cell for CZTSSe at IBM.[1]" is correctly sourced and true, then this does seem relevant, although perhaps not relevant enough to warrant its own section. Please discuss this on the talk page. ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 21:31, 6 June 2021 (UTC)
+You do not appear to have read what I have written. It is not correctly sourced, and very unlikely to be true. His only "source", is the research paper I mentioned:  "Device Characteristics of CZTS Se Thin-Film Solar Cells with 12.6% Efficiency" This is the work of 7 different researchers, of which he contributed the least. This research paper, does not list any additional information about him. Please re-read what I have written above. Please read the below abstract of the paper, and see for yourself.
+
+
+Device Characteristics of CZTSSe Thin-Film Solar Cells with 12.6% Efficiency
+Wei Wang, Mark T. Winkler, Oki Gunawan, Tayfun Gokmen, Teodor K. Todorov, Yu Zhu, David B. Mitzi
+First published: 27 November 2013
+https://doi.org/10.1002/aenm.201301465
+Citations: 2,006
+
+
+A 12.6% Cu2ZnSnSxSe4–x (CZTSSe) solar cell is presented with detailed device characteristics. Both short-circuit current density (Jsc) and open circuit voltage (Voc) increase in the 12.6% champion, relative to previous devices, due to better bulk CZTSSe quality and improved optical architecture. The reduction in Voc deficit shows opportunities to push CZTSSe solar cells to higher efficiency. 71.218.243.31 (talk) 21:47, 6 June 2021 (UTC)
+
+Fair enough. Sorry for rolling back your edit! ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 21:51, 6 June 2021 (UTC)
+
+
+
+References
+
+
+^ Cite error: The named reference Mitzi2013 was invoked but never defined (see the help page).
+
+
+
+A cupcake for you!
+
+
+
+
+Thanks for showing me the script for getting visual editor everywhere! —Tenryuu&nbsp;🐲&nbsp;(&nbsp;💬&nbsp;•&nbsp;📝&nbsp;) 20:33, 7 June 2021 (UTC)
+
+No problem! ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 20:38, 7 June 2021 (UTC)
+Confusing edit at Metamorphic rock
+
+
+Regarding [1], your edit-summary is about the compound word "stairsteps", but it looks like the only thing your edit did was re-order the hatnotes. DMacks (talk) 16:29, 8 June 2021 (UTC)
+
+@DMacks Sorry, I decided not to change to stairsteps, but did not update the AWB edit summary. ―&nbsp;Qwerfjkl&nbsp;|&nbsp;𝕋𝔸𝕃𝕂&nbsp;&nbsp;(please use {{reply to|Qwerfjkl}} on reply) 16:35, 8 June 2021 (UTC)
+Okay, no worries. I was just wondering if I was missing something, or you had a generally-misbehaving AWB recipe. DMacks (talk) 16:43, 8 June 2021 (UTC)
+Edge cloud Requested redirect
+
+
+If you carry out a Google search you will find plenty of references to it. The most recent is at [2]. Please now create the redirect. Thanks. 77.99.37.105 (talk) 19:59, 8 June 2021 (UTC)
+
+Request on 07:49:14, 9 June 2021 for assistance on AfC submission by Shanisun
+
+
+
+
+Shanisun&nbsp;(talk&nbsp;· contribs)
+
+Draft:Itamar Medical&nbsp;(edit | talk | history | links | watch | logs)
+
+
+
+
+Hello,
+I dont understand whats going on. now my draft is declined due to "not appear to be written in the formal tone expected of an encyclopedia article" when all along since it was approved the sources were the problem? how can this be and what excatly isnt written in the formal tone? can you explain please since i made sure its written good and a few editors already reviwed it and the pnly problem was the sources&nbsp;? --Shanisun (talk) 07:49, 9 June 2021 (UTC)
+Shanisun (talk) 07:49, 9 June 2021 (UTC)
+
+Administrators' newsletter – June 2021
+
+
+News and updates for administrators from the past month (May 2021).
+
+
+
+
+ Administrator changes
+
+ Ashleyyoursmile • Less Unless
+ Husond • MattWade • MJCdetroit • Carioca • Vague Rant • Kingboyk • Thunderboltz • Gwen Gale • AniMate • SlimVirgin (deceased)
+
+
+ Guideline and policy news
+
+Consensus was reached to deprecate Wikipedia:Editor assistance.
+Following a Request for Comment the Book namespace was deprecated.
+
+
+ Technical news
+
+Wikimedia previously used the IRC network Freenode. However, due to changes over who controlled the network with reports of a forceful takeover by several ex-staff members, the Wikimedia IRC Group Contacts decided to move to the new Libera Chat network. It has been reported that Wikimedia related channels on Freenode have been forcibly taken over if they pointed members to Libera. There is a migration guide and Wikimedia discussions about this.
+
+
+ Arbitration
+
+After a Clarification request, the Arbitration Committee modified Remedy 5 of the Antisemitism in Poland case. This means sourcing expectations are a discretionary sanction instead of being present on all articles. It also details using the talk page or the Reliable Sources Noticeboard to discuss disputed sources.
+
+
+Discuss this newsletter
+Subscribe
+Archive
+
+Sent by MediaWiki message delivery (talk) 14:46, 9 June 2021 (UTC)
+I love your userpage
+
+
+Hi, I love your user page, I might copy some things into mine. Thanks for having such a great userpage&nbsp;:) -- Justiyaya (talk) 15:49, 11 June 2021 (UTC)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=User_talk:Qwerfjkl/Archive_1&amp;oldid=1044066712"
+		
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		User pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUser contributionsUser logsView user groupsUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 13 September 2021, at 11:35&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

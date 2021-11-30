@@ -1,0 +1,626 @@
+
+
+
+
+Wikipedia:Template editor - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Wikipedia:Template editor
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Wikipedia user right
+
+
+
+
+For the visual template data editor, see WP:VisualEditor.  For the WikiProject, see WP:WikiProject Templates.  For requesting the creation of a template, see WP:Requested templates.
+"WP:TPE" redirects here. For talk page etiquette, see WP:Talk page guidelines.
+This page documents an English Wikipedia behavioral guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.ShortcutsWP:TPEWP:TEDWP:TPED
+This page in a nutshell: The template editor permission allows editors to make changes to templates and modules that are protected with template-protection.The right is granted to trusted, experienced users who have demonstrated a good understanding of working with templates.
+
+
+
+The template editor user right allows trusted coders to edit templates and modules that have been protected with the "protected template" protection level (usually due to a high transclusion count). It also allows those editors to edit editnotices for all pages, not just those in their own user and talk pages.[1]
+
+
+There are currently 190 template editors, which makes the total number of users with this permission 1,262 (the rest are administrators).
+
+Contents
+
+1 Use
+
+1.1 Have a strong password
+1.2 Wise template editing
+
+1.2.1 Other considerations
+
+
+1.3 When to seek discussion for template changes
+
+1.3.1 Changes that should be made ONLY after substantial discussion
+1.3.2 Changes that require at least some discussion, or at least several days passing with no one commenting on your proposal
+1.3.3 Changes that can usually be made unilaterally but that, depending on the circumstances, you may want to discuss first
+1.3.4 Changes that can almost always be made unilaterally
+
+
+
+
+2 Abuse
+
+2.1 Vandalism
+2.2 Editing disputes
+2.3 Dispute with a fellow template editor
+
+
+3 Requesting
+4 Guidelines for granting
+5 Criteria for revocation
+6 Template protection considerations
+7 Technical details
+8 See also
+9 Notes
+
+
+
+Use
+
+
+Editors are permitted to exercise this permission to perform maintenance, answer reasonable edit requests, and make any other simple and generally uncontroversial edits to templates, modules, and editnotices. They are also permitted to enact more complex or controversial edits after those edits are first made to a test sandbox, their technical reliability and their consensus among other informed editors having already been established.
+
+Have a strong password
+See also: Wikipedia:User account security
+
+
+If you have the template editor user right, please ensure you have a strong password and follow appropriate personal security practices. A compromised template editor account will be blocked and its privileges removed on grounds of site security. In the unlikely event that your account is compromised, notify an administrator immediately, so they can block your account and remove any sensitive privileges to prevent damage.
+
+Wise template editing
+
+
+
+
+
+The key to wisely editing templates is to thoroughly test your changes before implementing them. Each template has a default testcases subpage which should be used for this purpose. It is important to test whether your changes have introduced any errors or not, which can be easy to spot if test cases are well-set up.
+
+
+Remember that template-editorship, just like adminship, can never be allowed to become some sort of privileged position within debates among editors. Being a template editor puts you in a complicated position, because any edit you make is at once both a normal edit and a privileged action. Avoid making unilateral decisions if there is reason to think people might object. You can always propose the change on a template's talk page, and make the change if there are no objections after a few days. Use your discretion in determining how potentially controversial your change might be.
+
+
+Expect to be held accountable for all changes you make. Be receptive to any concerns or complaints that others raise.
+
+
+Repeated failure to adhere to these restrictions can result in revocation of permissions. If the failure is particularly egregious, any administrator reserves the right to remove your template-editing access summarily and without warning, even for a first offense.
+
+Other considerations
+
+
+Template editors should be aware of what kind of changes require gathering consensus beforehand and which don't. Remember to be civil when engaging in editing disputes.
+
+
+It is a plus for editors in general to be aware of the implications of changes to highly transcluded templates. In particular, many small changes to these templates in a short time may backlog the job queue, causing pages using the templates not to be re-updated quickly. (In some circumstances, pages may not be updated even a week after a change to a very highly transcluded template or module.)
+
+
+Note that template protection is not a guard against inexperienced editors trying their hands on templates per se, nor to guard against repeated changes, nor to shut out editors not acting on consensus. Vandalism or misinformation on a high-risk template would be visible on many pages that transclude them, which is considered the primary reason for preemptive template protection.
+
+When to seek discussion for template changes
+ShortcutWP:TPECON
+This is a rough guide, and is in no way an excuse for not using common sense.
+
+
+
+
+Changes that should be made ONLY after substantial discussion
+Any breaking changes, no matter how small. If it removes a parameter, or changes expected parameter behavior, do not do it without strong consensus, unless your reason for doing so is absolutely critical.
+Changes that significantly affect a template or module's visual appearance to the reader. "Hey, wouldn't it be cool if {{infobox}} were in shades of pink?"&nbsp;... Bring it up on the talk page first.
+
+
+
+
+Changes that require at least some discussion, or at least several days passing with no one commenting on your proposal
+The addition of new parameters, if they'll significantly change the template's usage or display. This includes adding numbered parameters as aliases for named parameters, adding additional numbered parameters to ones already in use, or adding any parameters that allow major, visually noticeable changes (e.g. a {{{color}}} parameter on {{infobox}}).
+Visual layout changes that are minor but still noticeable, e.g. swapping the order of a few parameters in an infobox, or slightly tweaking something's color.
+Per RFC consensus (2013), it's best to seek consensus before adding Wikidata functionality to a template or module. Discussions in 2016 and 2018 have found that using Wikidata in templates, particularly infoboxes, remains relatively contentious.
+
+
+
+
+Changes that can usually be made unilaterally but that, depending on the circumstances, you may want to discuss first
+The addition of new parameters that add minor functionality—for instance, an italic=yes or a noprint=yes.
+Edits that affect a template's appearance, but only slightly, such as the use of the nowrap class on a template that looks better on one line.
+
+
+
+
+Changes that can almost always be made unilaterally
+Fixes of obvious markup errors or typos.
+Changes that don't affect the result when the template is transcluded.
+Copy-edits of any sort. (Just be sure you're right!)
+Non-controversial changes to hidden tracking categories.
+Changes to CSS classes with no visible effect, or where the visible effect will be an unambiguous improvement (e.g. removing excess whitespace in a template's output in certain browsers).
+Replacement of deprecated code or templates used within a given template, provided said deprecation is based on a prior consensus. (If possible, provide a link to a page explaining the change that you are making, e.g. Special:LintErrors or a consensus discussion.)
+Abuse
+Vandalism
+
+
+If you use this right for anything even vaguely resembling vandalism, you will be blocked immediately. Wikipedia maintains an active policy of "shoot first, ask questions later" when it comes to anything involving widely transcluded templates. If you hold privileged access on any other projects, you may very well find your account locked by the stewards until you can prove you are in control of it. Even if it is all a misunderstanding, you may lose your template-editor privileges nonetheless if you are found to have behaved recklessly or erratically.
+
+
+The same goes for vandalism that doesn't involve this right. This is, fundamentally, an administrator-level right, and you are expected to behave with the accountability and behaviour that entails. Administrators have been desysopped for inappropriate behavior, even when that behavior didn't involve their tools, or never affected a single article. Considering that this right gives you some of the abilities that people are most afraid of falling into the hands of a rogue admin, you should not be making any untoward changes.
+
+Editing disputes
+ShortcutWP:TPEBOLD
+
+
+This right should never be used to gain an upper hand in editing disputes. You have a privilege that most people do not have. The normal BOLD, revert, discuss cycle does not apply because those without this right are unable to perform the "revert" step. Therefore, if your edit is or may be controversial (see the "When to seek discussion" criteria above), avoid making unilateral decisions, and instead propose the change on the template's talk page, and then make the change if there are no objections after a few days. Do not change the template to your preferred version when consensus has not been achieved yet to resolve the dispute.
+
+Dispute with a fellow template editor
+ShortcutWP:TPEDISPUTE
+
+
+A template editor should not revert the edit of their peer on a protected template without good cause, careful thought and (if possible) a prior brief discussion with the template editor whose action is challenged. It is the responsibility of the reverting template editor to demonstrate their revert is not out of sheer reflex. When a template editor's edit is reversed by a peer, the edit (or a similar one) must not be reinstated by the original or another template editor without clear discussion leading to a consensus decision.
+
+Requesting
+
+
+If you wish to request template editor rights for yourself, please see Wikipedia:Requests for permissions/Template editor. This right is also automatically part of the administrator tools package.
+
+Guidelines for granting
+ShortcutWP:TPEGRANT
+
+
+
+The template editor user right is granted by administrators. Administrators use their own discretionary assessment of an editor's template contribution value, technical expertise, as well as the following general guidelines:
+
+ The editor should be a registered Wikipedia user who has been editing for at least 1 year.
+ The editor should have made at least 1,000 overall edits.
+ The editor should have made at least 150 total edits to the Template and Module namespaces.
+ The editor should have no behavioral blocks (including partial blocks) or 3RR violations for a span of 6 months prior to applying.
+
+
+Additionally, an editor should have demonstrated a need for the right, as well as a familiarity with the care and responsibility required when dealing with high-risk template modification:
+
+
+  The editor should have worked on the sandbox version of at least three template-protected templates or modules.
+  The editor should have requested and had successfully enacted at least five significant edits to template-protected templates or modules.
+
+
+
+The above items are merely guidelines. An administrator may choose to substitute other proofs of an editor's competence in handling high-risk template responsibilities.
+
+Criteria for revocation
+ShortcutWP:TPEREVOKE
+
+
+
+The user right can be revoked at any time by an administrator without any process or prior notice in any of the following circumstances:
+
+The editor demonstrated a pattern of performing obviously controversial edits to protected templates without first determining consensus.
+The editor demonstrated a pattern of failing to exercise sufficient care when editing protected templates, resulting in serious errors appearing on pages.
+The editor used the permission to gain the upper hand in disputes.
+The editor performed any blatant vandalism.
+The editor has been inactive for 12 months.
+The editor failed to report to an administrator after noticing unauthorized use of their account or otherwise neglected account security practices.
+
+
+Additionally, the right may be removed immediately at the request of the editor.
+
+
+If your template editor right was revoked and you would like to appeal the decision, first communicate with the revoking administrator. If after such an exchange you still feel the matter is unresolved and requires outside input, or if the administrator is unresponsive, use Wikipedia:Administrators' noticeboard to appeal the decision.
+
+Template protection considerations
+
+
+Note: Some high-risk templates and modules are protected via full protection, as these templates and modules have become very stable and seen few, if any, necessary changes. Template editors cannot edit these pages, but any administrator may change the protection level for individual templates and modules on request. See the list of templates and modules currently under "protected template" protection.
+
+Technical details
+
+
+The template editor user right includes the following roles:[2]
+
+editcontentmodel, allowing the creation of mass message lists and other content model changes (see mw:Help:ChangeContentModel)
+oathauth-enable, allowing the enabling of two-factor authentication
+tboverride, allowing the overriding of the title blacklist, and therefore the editing of editnotices
+templateeditor, allowing the editing of template-protected pages
+See also
+Wikipedia:Requests for permissions/Template editor, for requesting the Template editor user right
+{{edit template-protected}}, for making edit requests to template-protected pages
+Category:Wikipedia template-protected edit requests, for viewing the current open template-protected edit requests
+User:AnomieBOT/TPERTable, a watchable and annotated view of the current open template-protected edit requests
+{{user wikipedia/template editor}}, a userbox template to indicate you have template editor permission
+{{User template editor since}} – a userbox to indicate having template editor permission with period of time
+{{template editor topicon}}, an icon for the top of your user page – adds a category to page automatically
+Wikipedia:Template editor/sandbox, primarily for testing {{PROTECTIONLEVEL}}-related template code
+Wikipedia:Requests for comment/Template editor user right, the original proposal that resulted in the creation of this user right
+RfC rejecting adding editinterface to this group.
+Notes
+
+
+^ From Wikipedia:Editnotice: "All users can create editnotices for their user and talk pages, but editnotices for other namespaces can be created and edited only by administrators, page movers and template editors."
+
+^ Copied from Wikipedia:User access levels §&nbsp;Table
+
+
+vteWikipedia accounts and governanceUnregistered (IP) users
+Why create an account?
+Create an account
+Request an account
+IPs are human too
+IP addresses are not people
+IP hopper
+Registered users
+New account
+Logging in
+Reset passwords
+Username policy
+Changing username
+Usernames for administrator attention
+Unified login or SUL
+Alternate account
+Account security
+Password strength requirements
+User account security
+Personal security practices
+Two-factor authentication
+2FA for AWB
+Committed identity
+On privacy, confidentiality and discretion
+Compromised accounts
+Blocks, bans, sanctions,
+global actions
+Blocking policy
+FAQ
+Admins guide
+Tools
+Autoblock
+Appealing a block
+Guide to appealing blocks
+UTRS Unblock Ticket Request System
+Blocking IP addresses
+Range blocks
+IPv6
+Open proxies
+Banning policy
+ArbCom appeals
+Sanctions
+Personal sanctions
+General sanctions
+Discretionary sanctions and Log
+Essay
+Long-term abuse
+Standard offer
+Global actions
+Related to accounts
+Sockpuppetry
+Single-purpose account
+Sleeper account
+Vandalism-only account
+Wikibreak
+Enforcer
+Retiring
+Courtesy vanishing
+Clean start
+Quiet return
+User groups
+ and global user groups
+Requests for permissions
+Admin instructions
+Admin guide
+Account creator
+PERM
+(Auto) confirmed
+PERM
+Autopatrolled
+PERM
+AutoWikiBrowser
+PERM
+Bot
+Request
+Edit filter helper
+Request
+Event coordinator
+PERM
+Extended confirmed
+PERM
+File mover
+PERM
+IP block exempt
+Request
+Mass message sender
+PERM
+New page reviewer
+PERM
+Page mover
+PERM
+Pending changes reviewer
+PERM
+Rollback
+PERM
+Template editor
+PERM
+Global rights policy
+OTRS Volunteer Response Team
+Advanced user groups
+Administrator
+RfA
+Bureaucrat
+RfB
+CheckUser and Oversight
+Request
+Edit filter manager
+Request
+Interface administrator
+Request
+Founder
+Importer
+Researcher
+Committees and related
+Arbitration Committee
+Bot approvals group
+Functionaries
+Clerks
+SPI clerks
+ArbCom clerks
+Governance
+Administration
+FAQ
+Formal organization
+Editorial oversight and control
+Quality control
+Wikimedia Foundation
+Board
+Founder's seat
+Meta-Wiki
+Proposals
+WikiProjects
+Elections
+Policies and guidelines
+Petitions
+Noticeboards
+Consensus
+Dispute resolution
+Reforms
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Template_editor&amp;oldid=1051687901"
+		Categories: Wikipedia behavioral guidelinesWikipedia user access levelsWikipedia procedural policiesHidden categories: Project pages with short descriptionWikipedia semi-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsWikivoyage
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		Češtinaفارسی한국어עבריתMagyarनेपालीRomânăРусскийУкраїнськаTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 25 October 2021, at 01:03&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,351 @@
+
+
+
+
+Bantuan:Log - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Bantuan:Log
+	
+		From mediawiki.org
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This page is a translated version of the page Help:Log and the translation is 100% complete.Other languages:Bahasa Indonesia
+English
+Nederlands
+dansk
+español
+italiano
+norsk bokmål
+polski
+português do Brasil
+svenska
+русский
+српски / srpski
+עברית
+العربية
+മലയാളം
+中文
+日本語
+한국어
+Cuplikan log penghapusan (tekan gambarnya untuk memperbesar).
+
+Log ini menampilkan empat jenis tindakan: penghapusan halaman, pengembalian halaman, penghapusan revisi halaman dan penghapusan kejadian log.
+
+Penghapusan log, serta beberapa log lainnya, memungkinkan Anda hanya melihat tindakan-tindakan tertentu saja (contohnya, pengembalian halaman saja). Anda bisa mengaturnya menggunakan pilihan penyaringan (yang ditampilkan di atas catatannya).
+
+
+Log atau catatan adalah daftar tindakan dengan tipe tertentu yang dihasilkan secara otomatis, menampilkan kapan tindakannya dilakukan, oleh pengguna siapa, dan terhadap halaman atau pengguna yang mana.
+
+
+Tindakan yang dicatat mencakup penghapusan dan pengembalian halaman, pemindahan (penggantian nama) halaman, pemblokiran dan pembukaan blokir pengguna, pelindungan dan pembukaan perlindungan pengguna, pembuatan akun pengguna, laporan filter penyalahgunaan, dan lain-lain.
+
+
+Log bisa mendaftarkan tindakan yang dilakukan oleh seorang pengguna (atau penyunting IP), tindakan yang dilakukan kepada seorang pengguna (atau penyunting IP), dan tindakan yang dilakukan kepada sebuah halaman wiki.
+
+Membaca log
+
+
+Untuk membaca log, pergilah ke Special:Log di wiki Anda. Dari sana Anda bisa menentukan tindakan mana yang Anda ingin lihat catatannya, dan saring berdasarkan parameter lainnya yang ditentukan, seperti tanggal dan waktu, pengguna dana halaman yang dipengaruhi. Anda juga bisa menyediakan sebuah parameter secara langsung, dalam bentuk Special:Log/block, yang menampilkan log pemblokiran. Parameter lain yang bisa digunakan dengan cara serupa adalah "delete", "rights", "protect", "upload", "patrol", dll.
+
+
+Pranala ke log tindakan yang berkaitan dengan suatu halaman bisa ditemukan di pranala "Lihat log halaman ini" di halaman riwayat segera setelah judulnya selesai.
+
+
+Pranala ke log tindakan yang dilakukan oleh seorang pengguna bisa ditemukan di sisi kiri ketika halaman pembicaraan pengguna atau halaman pengguna dibuka (tekan pranala "Log di bilah perkakas).
+Namun, ingatlah bahwa ini adalah tindakan yang dilakukan oleh pengguna itu; untuk tindakan yang memengaruhi seorang pengguna (misalnya diblokir), nama pengguna (diawali "User:") harus dimasukkan di isian "Target" di halaman log, bukan isian "Pengguna".
+(Konfigurasi ini bisa diakses secara langsung dari pranala "Lihat log halaman ini" di halaman riwayat dari halaman pengguna pengguna tersebut.)
+
+Menautkan ke log
+
+
+Pranala
+
+Format
+
+Contoh
+
+Rincian
+
+
+Tipe
+
+Special:Log/tipe
+
+Special:Log/tag
+
+Satu parameter (apabila merupakan tipe log yang valid).
+
+
+Pelaku
+
+Special:Log/pengguna
+
+Special:Log/Example
+
+Satu parameter (apabila bukan merupakan tipe log yang valid).
+
+
+Tipe dan pelaku
+
+Special:Log/tipe/pengguna
+
+Special:Log/tag/Example user
+
+Dua parameter, baik tipenya valid ataupun tidak.
+
+
+
+
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Help:Log/id&amp;oldid=4456986"
+		Category: Help/id
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		EnglishNot logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		HelpDiscussion
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadTranslateView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageGet MediaWikiGet extensionsTech blogContribute
+		
+	
+
+
+	
+	
+		
+		Support
+	
+	
+		
+		User helpFAQTechnical manualSupport deskCommunication
+		
+	
+
+
+	
+		
+		Development
+	
+	
+		
+		Bug trackerCode docsCode repositoryStatistics
+		
+	
+
+
+	
+		
+		MediaWiki.org
+	
+	
+		
+		Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Create a bookDownload as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		In other languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 13 March 2021, at 05:46.
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+	
+	Privacy policy
+	About MediaWiki.org
+	Disclaimers
+	Code of Conduct
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

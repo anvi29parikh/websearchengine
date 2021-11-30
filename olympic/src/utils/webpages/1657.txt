@@ -1,0 +1,1348 @@
+
+
+
+
+Wikipedia:Reliable sources/Noticeboard - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Reliable sources/Noticeboard
+	
+		From Wikipedia, the free encyclopedia
+		&lt; Wikipedia:Reliable sources
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Noticeboard  discussing whether particular sources are reliable in context
+vteNoticeboardsWikipedia's centralized discussion, request, and help venues. For a listing of ongoing discussions and current requests, see the dashboard.General
+Administrators
+main
+incidents
+Bots
+Bureaucrats
+Centralized discussion
+Closure requests
+Education
+Interface admins
+Main Page errors
+Open proxies
+VRT
+Oversight
+User permissions
+Articles and content
+Biographies of living persons
+Copyrights
+questions on media
+problems
+Dispute resolution
+External links
+Fringe theories
+Neutral point of view
+Original research
+Reliable sources
+Resource requests
+Spam
+blacklist
+whitelist
+Scalable vector graphics
+Titleblacklist
+Translation
+Page handling
+History merges
+Mergers
+Splits
+Moves
+Protection
+Importation
+XfD
+Articles
+Redirects
+Categories
+Templates
+Files
+Miscellany
+Undeletion
+User conduct
+Conflict of interest
+Contributor copyright
+Edit warring and 3RR
+Sanctions
+Personal restrictions
+General sanctions
+Discretionary sanctions
+Sockpuppets
+Usernames
+Vandalism
+Other
+Arbitration
+Committee noticeboard
+requests
+enforcement
+Edit filters
+requested
+false positives
+Questions
+Help desk
+Teahouse
+Reference desk
+New articles
+Requests for comment
+Village pump
+policy
+technical
+proposals
+idea lab
+WMF
+miscellaneous
+WikiProject proposals
+ Category:Wikipedia noticeboards
+Skip to TOC
+Skip to bottom
+
+
+
+
+
+Welcome to the reliable sources noticeboard. This page is for posting questions regarding whether particular sources are reliable in context.
+
+
+
+
+
+
+
+
+
+
+Before posting, please check the archives and list of perennial sources for prior discussions of the source.  If after reviewing, you feel a new post is warranted, please be sure to include the following information, if available:
+
+ShortcutsWP:RSNWP:RS/NWP:V/N
+
+
+
+Links to past discussion of the source on this board.
+Source.  The book or web page being used as the source. For a book, include the author, title, publisher, page number, etc. For an online source, please include links. For example: [http://www.website.com/webpage.html].
+Article. The Wikipedia article(s) in which the source is being used. For example: [[Article name]].
+
+Content. The exact statement(s) in the article that the source supports. Please supply a diff, or put the content inside block quotes. For example: &lt;blockquote&gt;text&lt;/blockquote&gt;. Many sources are reliable for statement "X," but unreliable for statement "Y".
+
+
+In some cases, it can also be appropriate to start a general discussion about the likelihood that statements from a particular source are reliable or unreliable. If the discussion takes the form of a request for comment, a common format for writing the RfC question can be found here. Please be sure to include examples of editing disputes that show why you are seeking comment on the source.
+
+
+
+
+
+While we attempt to offer a second opinion, and the consensus of several editors can generally be relied upon, answers are not official policy.
+
+
+Please focus your attention on the reliability of a source. This is not the place to discuss other issues, such as editor conduct. Please see dispute resolution for issues other than reliability.
+
+
+If you are looking for a copy of a specific source, please ask at the resource exchange board.
+
+
+Additional notes:
+
+
+
+The guideline that most directly relates to whether a given source is reliable is Wikipedia:Reliable sources.
+It has an explanatory supplement at Wikipedia:Reliable sources/Perennial sources, listing the outcomes of many consensus discussions at this noticeboard.
+The policy that most directly relates is: Verifiability.
+If your question is about whether material constitutes original research, please use the No original research notice board.
+If your question is about undue weight or other neutral point of view issues, please use the NPOV noticeboard.
+If an unreliable source is being over-used or spammed, consider the MediaWiki blacklist, where it can be added to the spam blacklist or a revert list for automated reversion of potential good-faith additions.
+Requests for comment for deprecation, or for blacklisting or classification as generally unreliable of sources that are widely used in articles, should be registered here using {{rfc|prop}}. As usual with RfCs, consensus is assessed based on the weight of policy-based argument.
+
+Sections older than 5 days archived by lowercase sigmabot III.
+Click here to purge this page
+(For help, see Wikipedia:Purge)
+
+
+
+Click here to start a new discussion
+
+
+
+
+
+
+
+List of archives
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+31, 32, 33, 34, 35, 36, 37, 38, 39, 40
+41, 42, 43, 44, 45, 46, 47, 48, 49, 50
+51, 52, 53, 54, 55, 56, 57, 58, 59, 60
+61, 62, 63, 64, 65, 66, 67, 68, 69, 70
+71, 72, 73, 74, 75, 76, 77, 78, 79, 80
+81, 82, 83, 84, 85, 86, 87, 88, 89, 90
+91, 92, 93, 94, 95, 96, 97, 98, 99, 100
+101, 102, 103, 104, 105, 106, 107, 108, 109, 110
+111, 112, 113, 114, 115, 116, 117, 118, 119, 120
+121, 122, 123, 124, 125, 126, 127, 128, 129, 130
+131, 132, 133, 134, 135, 136, 137, 138, 139, 140
+141, 142, 143, 144, 145, 146, 147, 148, 149, 150
+151, 152, 153, 154, 155, 156, 157, 158, 159, 160
+161, 162, 163, 164, 165, 166, 167, 168, 169, 170
+171, 172, 173, 174, 175, 176, 177, 178, 179, 180
+181, 182, 183, 184, 185, 186, 187, 188, 189, 190
+191, 192, 193, 194, 195, 196, 197, 198, 199, 200
+201, 202, 203, 204, 205, 206, 207, 208, 209, 210
+211, 212, 213, 214, 215, 216, 217, 218, 219, 220
+221, 222, 223, 224, 225, 226, 227, 228, 229, 230
+231, 232, 233, 234, 235, 236, 237, 238, 239, 240
+241, 242, 243, 244, 245, 246, 247, 248, 249, 250
+251, 252, 253, 254, 255, 256, 257, 258, 259, 260
+261, 262, 263, 264, 265, 266, 267, 268, 269, 270
+271, 272, 273, 274, 275, 276, 277, 278, 279, 280
+281, 282, 283, 284, 285, 286, 287, 288, 289, 290
+291, 292, 293, 294, 295, 296, 297, 298, 299, 300
+301, 302, 303, 304, 305, 306, 307, 308, 309, 310
+311, 312, 313, 314, 315, 316, 317, 318, 319, 320
+321, 322, 323, 324, 325, 326, 327, 328, 329, 330
+331, 332, 333, 334, 335, 336, 337, 338, 339, 340
+341, 342, 343, 344, 345, 346, 347, 348, 349, 350
+351, 352, 353, 354, 355, 356, 357, 358, 359, 360
+
+
+
+
+Centralized discussion
+
+
+Village pumps
+policy
+tech
+proposals
+idea lab
+WMF
+misc
+
+
+
+Reliability of GEONet Names Server
+Voting in the Arbitration Committee elections
+Allowing the talk header template on new talk pages
+RfA reform
+Portal links on the main page
+
+For a listing of ongoing discussions, see the dashboard.
+
+
+
+
+view
+edit
+history
+watch
+archive
+talk
+purge
+
+ 
+
+
+  
+
+Contents
+
+1 RfC: Is Crunchbase News (not the Crunchbase database) a reliable news source?
+
+1.1 Discussion (Crunchbase News)
+1.2 Survey (Crunchbase News)
+
+
+2 RfC: Joshua Project
+3 RfC: Reliability of theaerodrome.com
+4 Encyclopedia of Life
+5 Is Peakbagger.com a reliable source?
+
+5.1 Background (Peakbagger.com)
+5.2 Survey (Peakbagger.com)
+5.3 Different kinds of data in Peakbagger
+5.4 Subsection questions
+
+5.4.1 Why does prominence matter?
+5.4.2 Who does prominence matter to?
+5.4.3 Are there national or international organizations, who deal with it?
+5.4.4 Why does isolation matter?
+5.4.5 Who does isolation matter to?
+5.4.6 Are there national or international organizations, who deal with it?
+5.4.7 Is there documented custom in the relevant off wiki community for reliance on educated amateurs for this?
+
+
+
+
+6 Is quebrada.net a reliable source?
+7 RfC: tghat.com
+
+7.1 Background (tghat.com)
+7.2 Survey (tghat.com)
+7.3 Discussion (tghat.com)
+
+
+8 Meaning of opinion piece link at WP:NEWSBLOG
+9 GEOnet Names Server (GNS)
+
+9.1 Background (GNS)
+9.2 Survey (GNS)
+9.3 Discussion (GNS)
+
+
+10 Italian genealogical website?
+11 Think tank source being cited to contradict reliable sources
+12 Screenshot-media.com / Screen Shot / Screen Shot media / FairPlanet
+13 Top 100 sources
+14 ProtoThema
+15 gotquestions.org and tektonics.org
+16 Independent Catholic News
+17 Boomer magazine
+18 Kino-teatr and AlloCine
+19 World Air Force directory published by Magazine Flight Global (user generated) is this a reliable source
+20 Music genre-related sources
+
+20.1 beatportal.com
+20.2 masterclass.com
+20.3 otaquest.com
+20.4 stereofox.com
+20.5 world.lovinkproject.com
+20.6 theprospectordaily.com
+20.7 zizacious.com
+
+
+21 sozcu.com.tr
+22 id.loc.gov
+23 goodwordnews.com
+24 OffGuardian
+
+
+
+RfC: Is Crunchbase News (not the Crunchbase database) a reliable news source?[edit]
+
+
+Crunchbase News (https://news.crunchbase.com) has its own editorial and has a disclosure on how their newsroom is independent from the Crunchbase public / user-generated database. Here is their explanation: https://news.crunchbase.com/about-news/ I know that Crunchbase itself is not a reliable source because it is a user-generated database per WP:CRUNCHBASE, but what about the Crunchbase News? Is it reliable for the purpose of verifiability? Z22 (talk) 19:26, 24 October 2021 (UTC)
+
+
+How should we list it on WP:RSP?
+
+Option 1: Generally reliable for factual reporting
+Option 2: Additional considerations apply. For example, do not used to satisfy Wikipedia:Notability, only for Wikipedia:Verifiability. Check author is Crunchbase News staff (not a guest author). Check content if it is just pulling a press release.
+Option 3: Generally unreliable for factual reporting
+Option 4: Publishes false or fabricated information, and should be deprecated
+
+
+I think Option 2 is reasonable. If caution is given, certain contents can be useful knowledge. For example, here is an example that shows a certain level of analysis of Crunchbase News by comparing and contrasting two approaches in attracting companies to New Jersey. We should not just deprecate Crunchbase News in a broad brush. Z22 (talk) 12:55, 25 October 2021 (UTC)
+
+Discussion (Crunchbase News)[edit]
+This was previously discussed here. It's a business boosterism source. This is similar to its original parent, TechCrunch, which is not regarded as generally reliable either - per WP:RSP, "Careful consideration should be given to whether a piece is written by staff or as a part of their blog, as well as whether the piece/writer may have a conflict of interest, and to what extent they rely on public relations material from their subject for their writing. TechCrunch may be useful for satisfying verifiability, but may be less useful for the purpose of determining notability." That is, it's business boosterism spam and not a Reliable Source. It may not lie as such, but that doesn't make it WP:DUE, and it has already-noted issues in that regard.
+In my experience, Crunchbase at all is an absolutely reliable way to find spam and advert-like editing, whose article subject should often be deleted, and Crunchbase News is no better. If you write an article dependent upon either, you should find actual RSes.
+I see absolutely nothing that Wikipedia would have to gain from putting in a special carve-out for the questionably-reliable section of a deprecated source - David Gerard (talk) 21:32, 24 October 2021 (UTC)
+Crunchbase and TechCrunch have been separate since 2015. Hemiauchenia (talk) 21:33, 24 October 2021 (UTC)
+Clarified to "its original parent" - David Gerard (talk) 21:39, 24 October 2021 (UTC)
+Removed "RFC" tag - you're conspicuously not bringing up a case you have in mind - David Gerard (talk) 21:40, 24 October 2021 (UTC)
+I'm sorry, I have been an editor for quite some time but still new to initiating an RfC process. Please let me know if I still miss something. Thank you. Z22 (talk) 13:03, 25 October 2021 (UTC)
+Literally per the top of WP:RSN: Please be sure to include examples of editing disputes that show why you are seeking comment on the source.  - David Gerard (talk) 14:43, 25 October 2021 (UTC)
+Here's a good example.  Crunchbase News was used to simply source the headquarters and employee count for a company.  Pretty uncontroversial stuff, that can easily be verified using other sources, yet the info was removed along with the Crunchbase News source. [[1]] I restored the missing info, and started a discussion on the editor's talk page, with a request to not remove further Crunchbase News sources and accompanying info until consensus is reached.  Despite this, the editor removed the info again. [[2]] He also replied that he felt he could ignore consensus, citing WP:BUREAUCRACY. [[3]]. Not wanting to edit war, I moved on. This discussion and its limited participation shows that the community does not unilaterally agree that Crunchbase News sources should be removed. And stating that this isn't a big deal because Crunchbase News isn't used that much ignores the fact that the sources have been removed. Unless we go through the editors' edit history, there's no way to know how many of them were Crunchbase and how many were Crunchbase News.  As this mass erasure continues, I'm still waiting to see even a few examples of how even Crunchbase is incorrect. TimTempleton (talk) (cont) 19:21, 3 November 2021 (UTC)
+Survey (Crunchbase News)[edit]
+No carveout for the news outlet. Churnalism is only a slight laundering of straight-up press releases, presented to readers as being actual journalism rather than a promotional imitation of journalism, and is a net negative to Wikipedia that should not be enabled or encouraged. The content of Crunchbase News is barely-churned press releases (e.g., examples previously used as supposed sources on Wikipedia: [4] [5] [6] [7] [8]) with a bit of the sort of "analysis" that's indistinguishable from boosterism (e.g., [9]). You'd have to be really stretching to consider this in any way comparable to independent third-party journalism on the companies. Even if we declare that the "news" site isn't technically deprecated, it's the sort of stuff that's at best a slightly worse version of the primary sources it's based on. If you want verifiability, use the original press releases. Unusable for notability - it's precisely the sort of promotional boosterism that leads to funding rounds having been considered not usable for notability or WP:CORPDEPTH - and barely usable for facts. Even in non-spam articles, Crunchbase or Crunchbase News adds information primarily of interest to the company's boardroom. As far as Wikipedia goes, Crunchbase is in practice a trashy source largely used for puffery, and looking for Crunchbase links is a good way to track down promotional editing. Wikipedia will gain nothing from a special carveout only useful to promotional editors - David Gerard (talk) 14:48, 25 October 2021 (UTC)
+No carveout for the "News" site per the above. It's churnalism/boosterism; if anything they say is worth saying, someone else will say it. The one argument in the prior discussion that I could in principle find persuasive was that they had been linked to by Forbes (and in a staff-written item, not a "contributor" one). But I'd need to see a sustained pattern of multiple reliable sources treating it as reliable and using content from it in a serious, in-depth way, rather than merely giving a link to back up a number. Reliable sources link all the time to things we wouldn't call RS: press releases, social-media statements, etc. We can't just assume that reliability is transitive. XOR'easter (talk) 20:20, 25 October 2021 (UTC)
+Option 1 - generally reliable.  While the regular Crunchbase site itself is sometimes user contributed, similar to IMDB, there's no indication that it's any more or less accurate that professionally curated databases such as Bloomberg.  It is a handy way for different corporate funding announcements to be consolidated to see a company's total funding to date.  If any info is incorrect, it can be easily fixed.  I encourage anyone writing it off to point to data errors.  For the source under question here, Crunchbase News is a separate editorial entity, and while some of its corporate coverage is seeded by press releases, the writers usually provide additional background and info, including interviews.  I also encourage those in opposition to the news organization to come up with 2-3 instances of Crunchbase News reporting that has been shown to be inaccurate. As XOR'easter pointed out, there's an example (which I identified) where a Forbes journalist references Crunchbase News' reporting.  See the blue link on [[10]]. If it's good enough for a major news organization, volunteer amateur editors striving for accuracy should be afforded the same opportunity. If concrete examples of inaccuracy don't exist to justify removing good information en masse, isn't this just at best WP:IDONTLIKEIT, and at worst disruptive and harmful to the encyclopedia? Is it better for editors of company articles to source Crunchbase for a total funding number, or have to hunt down sometimes up to 6 or 7 different funding announcements in sources besides Crunchbase, and source them all, and then do WP:SYNTH to get the total? Over the past year, I've seen many Crunchbase sources removed from the articles I've written or contributed to, and not one has been inaccurate. So in conclusion, we need examples of inaccurate info before either Crunchbase or Crunchbase News can be deprecated. Pinging @David Gerard: as a courtesy, even though I know he'll see this anyway. TimTempleton (talk) (cont) 20:49, 26 October 2021 (UTC)
+Option 1 or do not list at al1 - go ahead and use it, per prior discussions in Archive 350 and 321 etcetera.   This is a different animal than Crunchbase or blog and was noted as having RS qualities.  But I have to point out also this seems Option 1 if listed as there seems no reason to ask this question or have any RSP listing let alone restrict it in any way as there seems not to be specific disputes let alone “perennial” questions here, and WP does not have much usage of the news.crunchbase.com to have a discussion *about*.   Cheers Markbassett (talk) 12:24, 28 October 2021 (UTC)
+Option 1 They appear to have editorial staff and publish good content. LondonIP (talk) 00:21, 29 October 2021 (UTC)
+Option 1 as a publication written by professsional staff. General caveats for corporate coverage apply: reliability is not the same as notability (either in the WP:N sense of whether a topic should have a standalone article, or in the sense of whether a piece of information is worth mentioning in an article). feminist (+) 10:30, 6 November 2021 (UTC)
+RfC: Joshua Project[edit]
+
+
+Is the demographic data published by the Joshua Project reliable? Alaexis¿question? 13:54, 3 November 2021 (UTC)
+
+
+It's been discussed many times in the past Wikipedia:Reliable sources/Noticeboard/Archive 350#Joshuaproject.net,
+Wikipedia:Reliable sources/Noticeboard/Archive 226#Duane Alexander Miller, Believers in Christ from a Muslim Background: A Global Census,
+Wikipedia:Reliable sources/Noticeboard/Archive 163#Joshuaproject.net,
+Wikipedia:Reliable sources/Noticeboard/Archive 80#Reliability of the Joshua Project as source,
+Wikipedia:Reliable sources/Noticeboard/Archive 74#Joshua_Project,
+Wikipedia:Reliable sources/Noticeboard/Archive 27#Is Joshua Project reliable?,
+Wikipedia:Reliable sources/Noticeboard/Archive 15#Joshua Project. As far as I can gauge it, the consensus has been that it's unreliable. It's still being used so I'd like to add it to the WP:RSP list. Alaexis¿question? 13:54, 3 November 2021 (UTC)
+
+From the above I agree that an RSP entry is a good idea.  A potential summary may include: Religious advocacy group, cites unreliable data sources.  Often the RSP talk page is enough to agree on what to write...  —PaleoNeonate – 03:56, 5 November 2021 (UTC)
+Publishes false or fabricated information, and should be deprecated. You cannot trust any of that website's claimed population numbers for ethnic groups even to an order of magnitude. The real population might be 0 because there is literally no such ethnic group: Wikipedia:Articles for deletion/Jawa Pesisir Lor. 61.239.39.90 (talk) 07:22, 14 November 2021 (UTC)
+RfC: Reliability of theaerodrome.com[edit]
+
+
+Please consider joining the feedback request service.An editor has requested comments from other editors for this discussion. This page has been added to the following list:
+Wikipedia proposals
+When discussion has ended, remove this tag and it will be removed from the list. If this page is on additional lists, they will be noted below.
+
+
+Which of the following best describes the reliability of theaerodrome.com?
+
+Option 1: Generally reliable
+Option 2: Unclear or additional considerations apply
+Option 3: Generally unreliable
+
+
+The website theaerodrome.com is currently referenced in over 500 1500 articles chiefly related to World War I aviation ([11] search), including articles assessed as GA-class (e.g. Friedrich Ritter von Röth). It has been previously discussed on WP:RSN twice, first here and later (very briefly) here. A recent attempt to establish local consensus at WT:MILHIST was closed with instructions to discuss the topic here.
+-Ljleppan (talk) 15:01, 13 November 2021 (UTC); upd. reference count 07:55, 16 November 2021 (UTC)
+
+
+NB: I'm new to both RfCs and WP:RSN, so please let me know if I have made any procedural mistakes, if this is not the proper format/forum, or you have a suggestion on how to better phrase the options above. -Ljleppan (talk) 15:01, 13 November 2021 (UTC)
+
+Note that 80 of the cites are actually to the website's forum (see theaerodrome.com/forum&nbsp;&nbsp;) which should be removed regardless of whether the main website is deemed reliable. The forum cites are on my list of sites to remove. FDW777 (talk) 15:15, 13 November 2021 (UTC)
+(edit conflict) The website appears to be a WP:SELFPUBLISHed resource, with an anonymous editorial team (i.e. the contact email is simply webmaster@... and there is no page listing the editorial staff). The website's main content consists of pages for individual aviators and aircraft models. Notably, the pages for individual aviators and airplanes do not contain by-lines (e.g. [12] and [13]). As such, this main content is effectively anonymously authored. In addition to the general anonymity of the editorial team, there is no indication of what the editorial or fact-checking processes related to the published content are. Some of the website's subpages list more general articles, which are hosted on the website's forums (see e.g. section "Articles" on this page). This publishing method blurs the line between user-generated content and staff-authored editorial content. While these articles contain by-lines, at least some of them appear to be copies of content published originally by 3rd parties in unrelated venues, e.g. this article being this report also available at Project Gutenberg and these articles being scanned copies of books/booklets. I have not investigated whether any of these constitute WP:LINKVIO. Some general articles appear to be original content and are published with by-lines (e.g. [14]), but there is no indication that the same authors are behind the unattributed pages related to the individual aviators, aircraft or medals listings -Ljleppan (talk) 15:27, 13 November 2021 (UTC)
+Note that of the two scanned books/magazines, one is a US book published in 1919 and so is OK to link to as it's public domain (how useful it is as a reference is a different matter), while the final one is a copy of a 1990 magazine and so most definitely isn't ok.Nigel Ish (talk) 15:50, 13 November 2021 (UTC)
+Option 3: Not a reliable source -- a self-published resource by a non-expert; no indications of a reliable publishing process or fact checking. The site appears to be someone's personal project. --K.e.coffman (talk) 15:41, 13 November 2021 (UTC)
+I followed a few links, and what we have here is another hobbyist site, with authors like "Dan San Abbot" and "John". No evidence of an editorial board that offers oversight, etc. Option 3: not to be used. Drmies (talk) 18:30, 13 November 2021 (UTC)
+Option 3. This is a non-professional self-publishing exercise, AKA a fansite. So, generally unreliable.  It could be primary-source reliable for certain things, e.g. an interview they publish with an aviator might contain some WP:ABOUTSELF statement, and the interview would likely be good enough for that.  But it's not a reliable source for general claims about the world, like airplane specs or someone's achievements.  — SMcCandlish ☏ ¢ 😼  22:48, 13 November 2021 (UTC)
+Option 3. Tweaked version from my contribution to the Milhist discussion. I don't think that this website meets the requirements of WP:RS. All three (author, publisher and source) need to be reliable. If one argues they are rarely wrong about a detail, if that is accurate, that only meets the third requirement. We still need to know about the author and the publisher, and I can't see anything above that says that the authors (obviously they vary, but only a couple of them are published aviation authors) and the website as publisher (reputation for quality copy-editing, fact-checking etc) are reliable. I recommend that it is considered unreliable and deprecated. If the website has list of sources used for a given article on a pilot (which it does in some cases), then examine those listed secondary sources (assuming they themselves are reliable) and use them to source the article. Peacemaker67  (click to talk to me) 08:58, 15 November 2021 (UTC)
+Option 2. The main criticisms aired above stack up. Also, there are idiosyncracies in the Glossary, such as; "Barrage balloon: A small spherical captive balloon raised as a protection against aeroplanes." where aerodynamically-shaped kite balloons were also used, "Airship: A motor-driven balloon of elongated form; should not be applied to "heavier-than-air" craft." where the use of "airship" to describe a large aeroplane was common enough up until the WWI period, or "Fin: A fixed vertical plane generally fitted in front of the rudder..." where (when fitted, often not the case in WWI) it is more usual to put it the other way round and say that the (fixed) fin provides a mounting point or hinge for the rudder. So even if the claims of respectable oversight are true, their peer review process leaves much to be desired. Nevertheless, it is a useful site and should be acceptable to support and expand on content cited from other, more reliable sources. In other words, it is a source where any given citation must be taken on its individual merits; does a byline identify the author, is the context for the cited factoid appropriate, etc. The forum, of course, is off-limits, and so too should the Glossary be. — Cheers, Steelpillow (Talk) 09:06, 15 November 2021 (UTC)
+Thanks for your comment, Steelpillow. Just to clarify your position, does your statement the forum, of course, is off-limits extend to the articles linked from the "Articles" box of e.g. this page? Note the addresses of the individual articles are .../forum/.... -Ljleppan (talk) 09:12, 15 November 2021 (UTC)
+In general, just because a url includes a certain file path, or a certain piece of authoring software is used, this does not define the status of the destination page. These articles are locked out of the forum discussion and logically form part of the static site, which indicates at least a degree of sanity checking by an admin. But a trustworthy author's byline is still necessary. — Cheers, Steelpillow (Talk) 12:12, 15 November 2021 (UTC)
+Of the authors listed in the "articles section, Frank Olynyk is a published author in aviation history, who is a co-author with Chris Shores et al on  the multi-part History of the Mediterranean Air War 1940–1945 and would count as a trustworthy author, while the contemporary personal accounts are just being hosted by theaerodrome.Nigel Ish (talk) 23:03, 16 November 2021 (UTC)
+Option 3 - I see the site as "generally unreliable", per the comments above. While the site may be useful for finding some information, as well as citations to the same, those citations (when reliable themselves) should be examined and used for in-line verification of content instead of using this site.--John Cline (talk) 08:41, 20 November 2021 (UTC)
+Encyclopedia of Life[edit]
+
+
+Hi all
+
+
+I'm exploring doing a fairly large outreach project with Encyclopedia of Life and I wanted to know if there has been any discussion about it being a reliable source? I can't find anything in the archive. Currently EOL is used 7,764 times on English Wikipedia as a reference. 
+
+
+For reference EOL is run by taxonomists in the Smithsonian Institution's National Museum of Natural History, it collates data from many large biodiversity databases e.g Biodiversity Heritage Library (BHL), Barcode of Life (BOLD), Catalogue of Life (COL), Global Biodiversity Information Facility (GBIF), a full list of imports is available here.
+
+
+Thanks very much 
+
+
+. John Cummings (talk) 12:37, 16 November 2021 (UTC)
+
+I can't find any previous discussions about EOL in specific either, but the list of participating institutions does look promising. Based on a very cursory look, I'd view it as reliable but WP:TERTIARY. The level of citation such as on this page is impressive. -Ljleppan (talk) 13:03, 16 November 2021 (UTC)
+It seems to be spearheaded by the Smithsonian Institution, which I would consider any work by them to be reliable in this field.  This looks like a rock-solid source in terms of trustworthiness.  This is not an amateur passion project, this is a professional, well-managed, trustworthy site run by a highly respected educational and research institution.  No issues at all.  --Jayron32 13:53, 16 November 2021 (UTC)
+
+
+Thanks very much, this is helpful, if there's any questions I can ask them which would be helpful to understand the reliability better please let me know. My main question I have so far is how up to date the information is. John Cummings (talk) 14:34, 16 November 2021 (UTC)
+
+There is a "contact us" information page here.  Someone there can probably answer your questions.  --Jayron32 13:22, 17 November 2021 (UTC)
+Thanks, I already have a meeting scheduled with them, I'm just trying to get as much information as I can about Wikipedia guidelines especially about species as I can before I meet with them. John Cummings (talk) 13:53, 17 November 2021 (UTC)
+Wikipedia's main project covering taxonomy and living things is Wikipedia:WikiProject Tree of Life.  I'm not all that familiar with it, but it appears to be a very active project; you may try to post some questions there if you still have some.  --Jayron32 17:02, 17 November 2021 (UTC)
+
+
+I found this discussion shortly after removing EOL as a source from Poa cita because EOL's info seemed plainly wrong. I documented this at Talk:Poa cita#Encyclopedia of Life as a source. I see that @CycoMa: asked about EOL's reliability two weeks ago at Wikipedia talk:WikiProject Biology#Encyclopedia of Life and Talk:Baccharis articulata#reliability of EOL. Some food for thought at those discussions. Nurg (talk) 08:57, 19 November 2021 (UTC)
+
+Is it just me, or has EOL not been functioning very well for some time?  Like ½ the time i just get a blank page instead of the information I want.  --awkwafaba (📥) 12:40, 19 November 2021 (UTC)
+Awkwafaba I've not experienced any issues with accessing EOL before and I've been using it quite a lot recently. John Cummings (talk) 13:10, 19 November 2021 (UTC)
+Looks like it is constructed by experts to select and curate trusted databases, and update its information through expert intermediation, and fully cited. Also, FYI, in case you have not read it, before your meeting, you may want to get your hands on at what appears to be a published 'proof of concept' article: Parr, C. S., N. Wilson, P. Leary, K. S. Schulz, K. Lans, L. Walley, J. A. Hammock, A. Goddard, J. Rice, M. Studer, J. T. G. Holmes, and R. J. Corrigan, Jr. 2014. "The Encyclopedia of Life v2: Providing Global Access to Knowledge About Life on Earth." Biodiversity Data Journal 2: e1079, doi:10.3897/BDJ.2.e1079. -- Alanscottwalker (talk) 14:12, 19 November 2021 (UTC)
+If the above recent objections are related to the fact that it calls itself "collaborative", that appears to just be a recognition that multiple well-respected organizations are contributing to it, not that it is an "open editing" free-for-all like Wikipedia.  They appear to have editorial oversight and the site is well curated.  Also, I will note that reliable is not a synonym for "perfect" or "errorless".  The most reliable sources available in the world still have errors, and if you have found that one of their entries is in error, don't use that one entry (i.e. if other also reliable sources clearly disagree with EOL, use those instead).  But on the balance, excepting individual demonstrated errors, I would trust the site.  --Jayron32 14:56, 19 November 2021 (UTC)
+I did a test search (https://eol.org/pages/4500224/articles); One concern I have in this example is that if you click on "articles" much of the information is pulled from Wikipedia itself. I have seen third party sites citing Wikipedia create citation loops in the past where something is asserted without evidence on Wikipedia, another site uses the Wikipedia article as the source, and then Wikipedia cites the third party site that was itself citing Wikipedia, and there was never actually a source to begin with.Connorlong90 (talk) 20:43, 23 November 2021 (UTC)
+Once upon a time, EOL scraped Wikipedia's articles for scientific names. Kalanchoe rhimbopilosa is a misspelling of Kalanchoe rhombopilosa that originated on Wikipedia, and EOL had a record for the misspelling in 2013. Searching EOL for the misspelling now no longer returns any results. Presumably an EOL admin could determine the history of that record. If EOL still has any records for scientific names sourced only to Wikipedia (or other unreliable sites), I wouldn't consider EOL reliable. (please note, what I'm talking about is different from EOL serving up Wikipedia CONTENT that is clearly labelled as being sourced from Wikipedia; that practice continues to this day, and I don't object to it). Plantdrew (talk) 21:09, 23 November 2021 (UTC)
+Looking at EOL's treatment of Kalanchoe again, I'm noticing another problem. There are a whole bunch of synonymized species names that are listed as alternative names for the genus Kalanchoe, rather than than the accepted species.
+E.g., Cotyledon deficiens Forssk. shouldn't be listed as a synonym of the genus Kalanchoe but should be listed in the synonymy of Kalanchoe deficiens (Forskål) Asch. &amp; Schweinf. (EOL page for K. deficiens) I suspect the problem in this particular case is that an algorithm is supposed to match up homotypic synonyms based on authority strings, but the algorithm doesn't recognize that "Forssk." (the standard author abbreviation) and "Forskål", are the same person, Peter Forsskål.
+In light of this, I would say EOL is not reliable for anything that's generated algorithmically (scraping names from unreliable sources, matching synonyms to accepted names). EOL means well, and the institutions behind it are reputable. If there are elements of EOL that are generated by humans (not algorithms), I'd still assume they are reliable unless somebody demonstrates otherwise (but I'm not sure which, if any, elements are human generated). Plantdrew (talk) 21:36, 23 November 2021 (UTC)
+Hi Plantdrew thanks very much, they have a core set of human generated data and then some data from text mining, Wikipedia etc. Because EOL is a collation of many sources maybe one approach would be to assess its sources... Although that's probably a lot of work... John Cummings (talk) 13:52, 24 November 2021 (UTC)
+However well managed, the EOL isn't always up-to-date: e. g. Pagodula carduelis ([15]), while the accepted name has become Enixotrophon carduelis since 2015 ([16]). There are many examples like this. This is not meant as criticism because taxonomy changes so rapidly that it is almost impossible to remain up-to-date. Therefore it is always better to check twice. JoJan (talk) 17:00, 24 November 2021 (UTC)
+Is Peakbagger.com a reliable source?[edit]
+
+
+Please consider joining the feedback request service.An editor has requested comments from other editors for this discussion. This page has been added to the following list:
+History and geography
+When discussion has ended, remove this tag and it will be removed from the list. If this page is on additional lists, they will be noted below.
+
+
+Is Peakbagger.com a reliable source?
+
+Source: Peakbagger.com (description page here, terms of service here)
+Article: Crypt Peak (as a test-case, and maybe 5,104 other EN Wikipedia articles)
+Content: Primarily the prominence and elevation of various mountain peaks, also appears to be relied on in some articles to substantiate a WP:GNG pass.
+
+
+FOARP (talk) 14:21, 19 November 2021 (UTC)
+
+Background (Peakbagger.com)[edit]
+
+
+Peakbagger.com is used on a large number of articles regarding various peaks, primarily to substantiate the height of them above sea level and their prominence relative to the surrounding terrain, but also in at least some cases it appears to be only source that actually talks about the feature specifically (other sources being about the climate or geology of the area in which the peak is, but not about the peak specifically).
+ 
+
+
+I have discussed the reliability of this source with Ron Clausen, who has created a number of articles using this source, in a discussion that can be seen here, and we both agree that it would be useful to get some feedback from the RSN community about it's reliability. FOARP (talk) 14:21, 19 November 2021 (UTC)
+
+Survey (Peakbagger.com)[edit]
+Unreliable under any circumstance - Based on the contact page appears to be a self-published hobby project, a lot of the data is apparently simply copied from GNIS with all that entails but other data has no clear origin and may have been submitted by individual climbers or comes from the author themselves. The terms of service page tells us that "Information uploaded to Peakbagger.com by site users, including ascent information, trip reports, provisional peaks, GPS tracks, and photographs, all becomes part of the master integrated Peakbagger.com database" meaning that the database is to an extent crowd-sourced. It also literally tells us that "The master Peakbagger.com database of peaks and associated content has thousands of errors in it, and text content, trip reports, and GPS tracks from the site's administrators and users are subjective and not necessarily authoritative" (my emphasis) - it straight up tells us that it is not a reliable source. Even if it were a reliable source for the height/prominence data, simple statistical entries in a database don't amount to significant coverage of the subject such as is needed to pass WP:GNG, and it would amount to a WP:PRIMARY source. For GNIS or other gazetteer data, the original gazetteer should be referred to directly.
+I'd like to highlight that I think that most of Ron's work is OK and I like these articles about peaks, this is just about the sourcing in a lot of articles about peaks (not just his).  FOARP (talk) 14:21, 19 November 2021 (UTC)
+Instead of making assumptions by using the word "appears", why don't you contact the webmaster to get the facts on the sources. Assumptions = unreliable, which is worse than the argument you are making. Interesting that you now encourage using GNIS data, but on my talk page you didn't.Ron Clausen (talk) 22:16, 19 November 2021 (UTC)
+We have the website managers own words telling us not to use it, seems enough, no? And it's worth remembering that once a source is challenged the burden is on those who want to use the source to prove it's reliable, not the other way round - if you want to email them, please feel free to do so. As for GNIS, we have a consensus on here that certain pieces of data on it are unreliable (i.e., the feature classes) and it should anyway not be relied on to support a WP:GNG pass because it is not significant coverage. FOARP (talk) 08:17, 20 November 2021 (UTC)
+Where does the webmaster state not to use it (whatever you mean by "it")? Ron Clausen (talk) 04:35, 21 November 2021 (UTC)
+Unreliable By their own statements, this is a crowd-sourced, unchecked, and admits to having numerous unfixed factual errors.  This source, as useful in general as it might be to hikers, is not an appropriate source for any information at Wikipedia.  --Jayron32 14:45, 19 November 2021 (UTC)
+Peakbagger.com is frequently referenced by reliable books and magazines: [17] The data which I use from the site is not crowdsourced. Ron Clausen (talk) 00:55, 20 November 2021 (UTC)
+Unreliable for factual information - Appears to be the classic hobbyist/WP:SPS website with no sourcing on the few pages I randomly sampled and no indicia of a reliability-establishing editorial policy. That, alone, seems sufficient for "unreliable" even if we interpret the "thousands of errors" statement as a generic "we take no responsibility if you hurt yourself because of our info" disclaimer. Seems to also contain trip reports, which might theoretically be used per WP:RSOPINION/WP:SELFSOURCE with the usual disclaimers, but I'm not familiar enough with either the site or the general topic to say whether that's a realistic prospect. -Ljleppan (talk) 15:04, 19 November 2021 (UTC)
+Peakbagger.com is frequently referenced by reliable books and magazines: [18] But thanks for declaring it unreliable when you state that you are not familiar with this subject. Ron Clausen (talk) 00:55, 20 November 2021 (UTC)
+Reliable when framed as "according to" etc.. it often receives notice in other reliable sources as being a significant source:
+"Greg Slayden, founder of www.peakbagger.com, a national climbing registry where baggers can record their conquests." The Mercury News
+"A website called Peakbagger.com, a major arbiter for the country’s “high pointers,” made the change to its database. As far as Peakbagger was concerned, Jackie Jones Mountain was now supreme."The Daily Beast
+"He had read about Baker Mountain on peakbagger.com, a storehouse for people looking to summit prominent mountains. " The New York Times
+"Before the advent of peakbagger.com, climber.org, and summitpost.com, climbers sought information about routes up peaks in guidebooks, in newsletter reports, and by word of mouth, still all good sources. "Sierra Club
+"If you want more information and maps of these peaks, a good source is peakbagger.com." Elko Daily News
+Peakbgger.com is frequently referenced by reliable books and magazines: [19]
+-- GreenC 17:17, 19 November 2021 (UTC)
+These point to it being a useful source for Peak-bagging hobbyists, in a similar way to how Wookieepedia is a useful source for Star Wars fans and Memory Alpha is a useful source for Trekkers. It does not make it a reliable source for an encyclopaedia article. FOARP (talk) 08:30, 20 November 2021 (UTC)
+You failed to take note of the last bullet: Peakbagger.com is frequently referenced by reliable books and magazines: [20] which is a Google search result showing all the reliable published books that reference Peakbagger.Ron Clausen (talk) 10:19, 20 November 2021 (UTC)
+Just because a book appears in a Google Books search does not mean it's a reliable source. For example the very first search result for me is "Stargate SG1 Compendium" published by PediaPress. If you actually search for "peakbagger.com" with quotation marks, you'll see a significantly reduced amount of hits, less than 50 based on my quick count. Some of the hits, e.g. The Mountain Encyclopedia, appear to simply list it in a large list of general websites related to the topic, rather than using it as a source or even making any explicit claim about its reliability. Others, such as 'The Making of Modern Baseball, Sports Nation: Contemporary American Professional Organizations, Indiana Courthouses - Southeast Edition and Planning Support Systems and Smart Cities are in so wildly different domains that they really can't be used to establish reliability here. To establish that multiple highly reliable sources view peakbagger.com as a reliable source, you'd need to provide clear examples rather than just linking to a Google Books search. -Ljleppan (talk) 10:35, 20 November 2021 (UTC)
+Unreliable, at best its a group blog edited by Greg Slayden but you have to squint really really hard to see that... Its a high quality hobbyist site but even the best of those are generally not WP:RS, especially for obscure hobbies like peak bagging. Horse Eye's Back (talk) 17:22, 19 November 2021 (UTC)
+Reliable There are no errors in the data for peaks. The peak data comes from USGS data. Anything related to user contributed climbing information is not used on Wikipedia.Ron Clausen (talk) 22:01, 19 November 2021 (UTC)
+How did you determine that the peak data comes from USGS? I can't find any indication of that on the website. Does that source also extend to peaks not in US? If the data comes from USGS, why not cite the original source of the data? -Ljleppan (talk) 22:19, 19 November 2021 (UTC)
+The webmaster states "I added peaks by hand, or from large public-domain databases like the GNIS and BGN gazetters." GNIS and BGN = USGS. https://www.peakbagger.com/Contact.aspx As for why? Convenience, and parameters such as Prominence and Isolation data are not provided directly by from USGS, but derivations thereof. Prominence and Isolation are not something found in "published" sources, but can be obtained at these websites. I don't use Peakbagger or LOJ for peaks outside the US.Ron Clausen (talk) 23:07, 19 November 2021 (UTC)
+That does say "by hand", though... not particularly reliable if you ask me. Surely there are reputable sources that would compile this information. A. C. Santacruz  ⁂  Talk 00:07, 20 November 2021 (UTC)
+Again with the assumptions. Please tell us your reputable sources that compile Prominence and Isolation. Ron Clausen (talk) 00:19, 20 November 2021 (UTC)
+The GNIS database is public domain and freely accessible. It also isn’t clear which data on Peakbagger comes from there and which doesn’t and instead comes from another source. And just to emphasise this: the website itself says not to trust it. If data cannot be reliably sourced, the answer is not to use an unreliable source, the answer is just not to include that data at all. FOARP (talk) 08:10, 20 November 2021 (UTC)
+No, it doesn't say "not to trust it". It says there are thousands of errors in the site, a site which he says has millions of data points. Every data base and reliable source is going to have errors. If Peakbagger's elevation value for a given peak matches what's on the USGS topographic map, we know where the information came from.Ron Clausen (talk) 09:00, 20 November 2021 (UTC)
+Sorry Ron, but it literally says right in the terms of service "The master Peakbagger.com database of peaks and associated content has thousands of errors in it ... there is no guarantee of accuracy". That's them right there telling you not to rely on their data, for the very good reason that it is not an authoritative source and is transcribed from other sources and/or provided by users (and it is not clear which is which). Now you're saying "don't worry, it's only thousands of error amongst millions", but how many thousands? This is a very useful source for hobbyists, but that doesn't make it a reliable source for an encyclopaedia article. As for it matching USGS data, if that's so then why don't you just refer to the USGS data directly? And if you can't access the USGS data then how do you know this?
+Let me take the opportunity again to say that I like your articles on peaks, especially the photos, and I think they're a net value-add for Wiki. I just think this specific source (and LoJ, though that's much-less-used) shouldn't be used. FOARP (talk) 10:13, 20 November 2021 (UTC)
+Sorry, but you sliding down a slippery slope if you expect "guarantees of accuracy" from all reliable sources. Please provide a link to that Wikipedia policy requiring sources to guarantee their accuracy, and also a list of sources that you are aware of which do meet such a requirement. I can't recall ever seeing a publication which did. Ron Clausen (talk) 10:40, 20 November 2021 (UTC)
+I'm not requiring that they give such a guarantee, I'm requiring that they don't literally tell us that they can't give such a guarantee because of all the errors they have. FOARP (talk) 10:44, 20 November 2021 (UTC)
+Can you provide a link to the Wikipedia policy that requires that? Ron Clausen (talk) 11:08, 20 November 2021 (UTC)
+See WP:RS#Overview and WP:SOURCE: Articles should be based on reliable, independent, published sources with a reputation for fact-checking and accuracy. (emph. added). Are you claiming that a source that literally states it contains thousands of mistakes has a "reputation for accuracy"? -11:28, 20 November 2021 (UTC)Ljleppan (talk)
+Thousands of errors in millions of data points. We don't know exact numbers, but for the sake of simplicity let's say 1000 errors for every one million data points. That works out to 99.9 percent accuracy. In my book, that's pretty accurate, reliable information. And that site is aware of the errors and fixes them (according Peakbagger, and my personal dealings with them when I pointed out an error.  Ron Clausen (talk) 11:45, 20 November 2021 (UTC)
+So what you're telling us is that you've found errors on there (more than once?) and they corrected them when you told them. Which sounds an awful lot like user-generated content. "Thousands" can mean many more than 1,000, they clearly don't know how many errors there, just that there are a lot. FOARP (talk) 12:04, 20 November 2021 (UTC)
+You're missing the context. Thousands of errors in millions of data points. He doesn't say tens of thousands of errors, nor tens of millions of data points, so the numbers must be between two and ten. Let's take the worst case example that favors your side: 9,999 errors in two million data points. That's 99.5 percent accuracy. On the other hand the math for the flip side has 2,000 errors in nine million data points. That's 99.98 percent accuracy. Ron Clausen (talk) 21:34, 20 November 2021 (UTC)
+Yes, over the last five years I found an error there. Coordinates for a peak were wrong, only because USGS had within the past year corrected a USGS error, and Peakbagger originally used that erroneous data from USGS, and the change was not caught by Peakbagger. All websites that I checked were still using the erroneous USGS data. Case in point: Pectols Pyramid. A quick search now and I found mapcarta.com and topozone.com and peakvisor.com all still using the erroneous location. Ron Clausen (talk) 12:49, 20 November 2021 (UTC)
+I don't understand: if USGS has more accurate data, and updates it more frequently, why aren't you just referring to USGS directly? Moreover you only know about this error because USGS is there as a reliable source. It seems that whilst the maths needed to calculate prominence/isolation are simple, determining what data to use is non-trivial and we shouldn't be relying on Peakbagger.com for it. FOARP (talk) 15:35, 20 November 2021 (UTC)
+Who claims USGS has more accurate data and updates it more frequently? If you don't understand, it's because you haven't paid attention. As I stated in my Talk page to you: "I have found plenty of stuff in "published" material that is flat out incorrect, and would not use. And stuff can be found in communities such as Summitpost that is excellent and correct (but I don't use). So the balancing act is to be accurate, which means using best data where it's found. GNIS is good for coordinates, but terrible at elevations, so that's where Peakbagger comes in." Ron Clausen (talk) 21:09, 20 November 2021 (UTC)
+Unreliable. It's probably fine for an external link but I don't see how we can use a source that is at least partially user-generated, otherwise curated by someone whose subject matter expertise has not been established (WP:SPS), and that by its own admission contains errors. I sympathize with Ron Clausen's position that 99.9 is pretty great accuracy, but the difference between this source and a reliable source is that we have no way to verify the reliability--we have no idea which data is accurate. I do have a question about "Prominence" and "Isolation"; I'm unfamiliar with those terms and their importance. Ron notes above that these are "derived", are they derived from the USGS data, and is this a mechanical calculation, or is something more involved? Mackensen (talk) 12:22, 20 November 2021 (UTC)
+Topographic isolation and Topographic prominence simple calculation, based on USGS data. Ron Clausen (talk) 12:49, 20 November 2021 (UTC)
+I would beg to differ about prominence: one has to identify the key col to compute the prominence. That is a calculation, but involving a graph of elevations. For a description of the algorithm, see [21]. I would not characterize it as simple. Wikipedia editors cannot perform prominence calculations under WP:CALC: it would be a violation of WP:NOR. We have to rely on Peakbagger for prominence and isolation, or use an alternative site. There are not that many of them. — hike395 (talk) 19:55, 21 November 2021 (UTC)
+Reliable as the person is an expert in his field so can be used in Wikipedia as per the guidelines on SPS and blogs. No significant problems with using this source have been put forward and carrying out simple calculations is fine for such an expert on the subject, in my view Atlantic306 (talk) 01:10, 23 November 2021 (UTC)
+Could you expand a bit on how you determined that the editor behind the website is "an established subject-matter expert, whose work in the relevant field has previously been published by reliable, independent publications", given that others below seem to have reached different conclusions? -Ljleppan (talk) 09:02, 23 November 2021 (UTC)
+Reliable for quantitative information: elevation, coordinates, location, prominence, isolation.  Not reliable for ascent and travel accounts. To my mind, Peakbagger is the authoritative source for some of the quantitative information about mountains, and a secondary reliable source for other quantitative data. That doesn't mean there aren't errors on Peakbagger, but all "reliable sources" have errors and discrepancies.Smallchief (talk)
+Reliable per Smallchief and others for hard data such as prominence, isolation, elevation, coordinates and location. Likely to be more accurate and up to date than some official sources e.g. Ordnance Survey. Bermicourt (talk) 21:20, 23 November 2021 (UTC)
+Reliable While FOARP, Ljleppan, Jayron32, and A. C. Santacruz are correct that Peakbagger does not pass WP:RS under the usual criteria for self-published primary sources, there is another way to establish reliability: via usage by other sources. In the small field of publications on orometry (e.g., elevation, topographic prominence and topographic isolation), the following papers treat the data in Peakbagger as "gold standard" data to incorporate or compare against:
+Arundel, Samantha T; Sinha, Gaurav (2020). "Automated location correction and spot height generation for named summits in the coterminous United States" (PDF). International Journal of Digital Earth. 13 (12): 1570–1584.
+Kirmse, Andrew; de Ferranti, Jonathan (2017). "Calculating the prominence and isolation of every mountain in the world". Progress in Physical Geography. 41 (6): 788–802.
+Kelso, Nathaniel Vaughn; Patterson, Tom (2010). "Introducing natural earth data-naturalearthdata.com" (PDF). Geographia Technica. 5 (82–89): 25.
+Wiens, John J;  et&nbsp;al. (2019). "Climate change, extinction, and Sky Island biogeography in a montane lizard [sic]". Molecular ecology. 28 (10): 2610–2624.
+Aside from WP:UBO, the 10+ years of WP usage of quantitative data from Peakbagger has uncovered no systematic biases or serious accuracy problems. — hike395 (talk) 02:35, 24 November 2021 (UTC)
+Thank you for these references, I only had time to check the first this morning, but made some quick observations. Notably, the study clearly acknowledges that peakbagger.com is not a provider of high-quality data: "Ideally, results would be compared to a higher-accuracy dataset. Unfortunately, such reference data are unavailable. As a result, for a reality check, results were compared to the following: nearby National Geodetic Survey (NGS) control points, where they exist, spot elevations manually collected from historical 7.5-minute USGS topographic maps, values published by Peakbagger (peakbagger.com), a mountain climbing website, and values by Topozone (topozone.com), which offers value-added USGS topographic data." It later notes that " Many tested summits were missing from the Peakbagger lists" and "Topozone values corresponded more closely to snapped summits than did Peakbagger values, but the difference is unclear because both products use basically the same source data, although Peakbagger contains some values derived from amateur Global Navigation Satellite System (GNSS) devices." I'll check the other references later today. -Ljleppan (talk) 08:01, 24 November 2021 (UTC)
+Continuing to check the references, Kimse and de Ferranti refer to peakbagger.com in a few ways. First, on page 790, they simply state that it exists as part of their description of previous works. Second, on pages 792-793, they refer to it for peak height data. They go on to note that the peakbagger.com height data seems to disagree with their other data in some cases, discussing in detail how their analysis/computation is affected by this disagreement. They present no argument why they hold the peakbagger.com data to be more accurate, only making a vague gesture at "accurate surveys". The third mention on page 798 is, in my view, the most notable a it suggest a conflict of interest between the authors and peakbagger.com, as the authors describe their own contributions to the database. Tangentially related, I found the following sentence on page 791 interesting: "Many voids were filled with samples from the Advanced Spaceborne Thermal Emission and Reflection Radiometer global DEM (ASTER GDEM), although a review of its properties showed that it has too many artifacts near water bodies, clouds, and high mountains to make it suitable as the primary database for our analysis." This appears to be a tacit admission that they are not confident in their underlying data for the whole globe. It's not completely clear to me from the paper whether this statement applies only to "norther parts of Scandinavia and Russia" or to a wider area.
+The third reference (Kelso &amp; Patterson, 2010) simply states they use peak name and height data from peakbagger.com in a single sentence. I believe it's notable that despite stating their website is intended for a mountain cartographer audience, they do not use any other data from peakbagger.com.
+The fourth reference (Wiens et al., 2019) similarly only uses peak height data from the peakbagger.com.
+In total, the references appear to contain one that acknowledges that peakbagger.com is not of very high quality, and three that only employ peak heights. Of the three height-only papers, Kimse and de Ferranti have a potential conflict of interest and also acknowledges that the peakbagger.com data disagrees with other data available to them. Based on this analysis, I don't think the references support a WP:UBO argument outside of peak heights, and even for peak heights it seems somewhat iffy. -Ljleppan (talk) 10:53, 24 November 2021 (UTC)
+If the four articles cited above use Peakbagger data to one extent on another, then that is a recognition that the data is either reliable, the best available, or not available elsewhere, isn't it?  If, in the four cited articles, only some Peakbagger data is used and some is not that is not an indication that the unused Peakbagger data is bad. It just means that Peakbagger data about, for example, prominence wasn't relevant to the author of the article.
+Peakbagger is cited as a source on Wikipedia thousands of times. Let's look at just one article: List of the most prominent summits of the United States. Peakbagger is the source most cited for information about all 200 mountains on the list. Dozens of other articles about mountains use Peakbagger as their main source. Are we going to delete these articles not because they are inaccurate but because we have declared that Peakbagger -- often the only source or the best source -- is not up to Wikipedia's bureaucratic standards? Instead see: "Wikipedia has guidelines and policies -- not firm rules." To delete articles from Wikipedia sourced from Peakbagger would be counter-productive and destructive -- and would not make the encyclopedia one whit more authoritative. Our task is to compile and improve the encyclopedia not impose a rule that would do the opposite.Smallchief (talk) 13:32, 24 November 2021 (UTC)
+The reliability of peakbagger.com has been questioned, and the comment I replied to acknowledged that it does not pass the usual criteria for self-published primary sources. It was then suggested that it might be considered reliable through another criteria, and evidence for this position was presented. I argue above why I believe this evidence fails to establish reliability for all factual information, and at best establishes reliability for a minor subset of the data on the website. If you believe I have misread or mischaracterized the proposed evidence above, please let me know how and I'll happily reconsider my position and correct any mistakes I might have made. The fact that the source is currently referenced a lot in Wikipedia is immaterial for this discussion. -Ljleppan (talk) 13:53, 24 November 2021 (UTC)
+So, what is your remedy? Shall we delete all the articles that use Peakbagger as a principal source?  This is not just an intellectual discussion. A problem should be in search of a solution.Smallchief (talk) 14:23, 24 November 2021 (UTC)
+This is neither the time nor the place for those hypothetical discussions, the need for which is dependent on both the result of this still ongoing discussion and the content of each individual article. -Ljleppan (talk) 14:33, 24 November 2021 (UTC)
+@Ljleppan: I believe your summary does not accurately reflect Peakbagger nor my UBO argument:
+Kirmse explains the details of his prominence analysis here. Kirmse clearly uses Peakbagger as a ground truth source of data to compare his output to. It is the best alternative.
+Kirmse uses DEM data which is contaminated with trees (DEMs find the height of object at scan time, rather than true ground level, a well-known problem in remote sensing). This causes Kirmse's height data to be less reliable than Peakbagger. Again, see Kirmse's explanation here.
+Quoting "many tested summits are missing from Peakbagger" is not a strike against Peakbagger. Because Peakbagger is curated, it cannot have as many summits as Kirme's system. The simple fact that Kirmse (a reliable source) used Peakbagger as gold-standard data should count in favor of Peakbagger.
+I cannot find any guidance in WP:UBO that specifies that specific data (e.g., prominence) be used, as far as I can tell. It just asks us to analyze whether the source is used by other reliable sources.
+I also cannot find any guidance about "conflict of interest" in WP:UBO. If Kirmse donated data back to Peakbagger, why is that a negative? Instead, wouldn't that show that Kirmse thought Peakbagger was a worthwhile source? If it were truly unreliable (e.g., like The Daily Mail), Kirmse would be less likely to give it data, not more. — hike395 (talk) 00:35, 25 November 2021 (UTC)
+@Hike395: Thanks for the link to Krimse's personal website/blog, I didn't see it linked from the peer-reviewed article. I'm afraid I'm still not too convinced by the way it's discussed on the page, see e.g. "In some areas, especially in Indonesia and Africa, Peakbagger's peak locations were very far off, enough to generate incorrect values even for ultra prominent peaks". In general, looking at all the various sources, I'm getting the impression that its data tends to be fairly accurate for the areas highly frequented by climbing enthusiast, but less so for elsewhere. Such data quality uniformity issues would be expected for a hobbyist source, and are one of the main reasons why I'm extremely wary of using these kinds references: it's going to appear accurate based on the things people will naturally check, but that deduction is not necessarily extensible to all data, nor is it possible to know for certain where that "uncertainty horizon" lies in the data.
+Regarding the specific data aspect, I do concede might be reading the "for similar facts" part of WP:UBO rather closely (also, I'm not too familiar with how this has been interpreted historically), but I don't think my reading is unreasonable. I do find it notable that of the linked articles, the one that would have most expected to use e.g. the prominence data (the one providing a mapping service aimed at a mountain cartographer audience) does not do so. This might be simply resulting from the limited amount of prominence data available on the site prior to Krimse's contribution. Did the site contain prominence data in 2010s?
+Regarding the conflict of interest, my point is that since the argument is about [[WP:UBO|use by others], does Krimse count as an other? In my understanding, the underlying UBO argument is essentially "there are verifiable reliable independent sources that hold peakbagger.com as a reliable independent source". I'm not convinced Krimse is "independent". -Ljleppan (talk) 07:10, 25 November 2021 (UTC)
+@Ljleppan: I believe some of the assumptions you're making are incorrect:
+Wikipedia has been using Peakbagger as a source of prominence data at least since 2005, possibly before. See this diff, and the corresponding archive link. It has been a stable and durable source.
+The main editors of Peakbagger were Edward Earl (until 2015) and Greg Slayden (after). If you look at the history, Kirmse wanted to adapt their code to run at Google in 2014, and started to share his data back in 2015. Peakbagger had prominence data for at least 10 years before that.
+It seems to me that you cannot have it both ways. If Kirmse was a major participant in Peakbagger, then it would pass WP:RSSELF due to Kirmse's domain expertise. Instead, by his own web page, he was only tangentially involved starting in 2014. Hence the need for a WP:UBO argument, which I believe still stands.
+It's well-known that the published topographic data for mountains in the Global South tends to be imprecise. See, e.g., the uncertainty expressed at Cordillera Paine, which took a fair amount of investigation by WP editors. Or this discussion about the highest point in Indonesia. The accuracy of Peakbagger is limited by the accuracy and precision of the topographic data that they use. Claiming that they are a hobbyist site based on this is not warranted.
+Thanks for being so thorough! — hike395 (talk) 15:10, 25 November 2021 (UTC)
+@Hike395: And thanks to you for being so patient, especially considering that I lack much of the background knowledge etc. that others more familiar with the domain possess. I've thought about this for a few days now and have essentially two points I'd like to bring up. First, I don't believe Wikipedia's historical use of peakbagger.com is of significance for this discussion. Second, regarding "having it both ways", my position is essentially thus: Kirmse themself appears to be a reputable author, and if they were in editorial control over peakbagger.com, I'd be open to considering it an expert-produced WP:SPS. However, they are not in (sole) editorial control, and I'm not convinced the "editor-in-chief" fulfills the requirements in the same way as Kirmse does. At the same time, Kirmse is clearly affiliated with peakbagger.com. While this does not wholly invalidate their judgement w/r/t it's reliability, it does cause me concern regarding their impartiality in assessing the situation. Working in a rather niche field of academia myself, I'm sympathetic that this is made more difficult by the nicheness (is that a word?) of the topic: it's hard to make a very solid WP:UBO argument if the field of relevant "others" is very small. Its clear that you and others who are well-versed in the topic truly hold peakbagger.com to be a reputable site. But demonstrating that reputability is clearly an issue in this case. In general, given that the indicia of reliablity overall is so low, I'm still hesitant about any kind of blanket statement along the lines of "all factual data on peakbagger.com is reliable". On the other hand, I'm not sure what a suitable more limited statement would be. Frankly, I'm rather annoyed by the lack of citing sources on the site; if they attributed clearly where each peace of information came from, I would find this significantly easier. -Ljleppan (talk) 19:48, 27 November 2021 (UTC)
+Different kinds of data in Peakbagger[edit]
+
+
+FOARP is saying that Peakbagger is not reliable, because the terms of service says so. But peakbagger has multiple kinds of information in it. It has subjective trip reports, and it has quantitative data about the prominence and isolation. AFAICT, the terms of service are warning users that the subjective trip reports are filled with errors: people who climb mountains should take care not to overly rely on other climbing reports, because climbing is a risky activity. But Wikipedia editors are not using peakbagger for the subjective trip reports (which are clearly unreliable).
+
+
+The main question, I think, is whether the quantitative data is reliable and accurate. There are very few sources for mountain prominence and isolation. Members of WP:WikiProject Mountains have been using Peakbagger's prominence and isolation data for many years, and have not found serious systematic errors (unlike GNIS feature data, where I was aware of the errors back in 2010, but got shut down). That's not a guarantee of accuracy by the website, but an empirical validation.
+
+
+I also think there are two different issues being mixed together here:
+
+Should peakbagger be the basis of creating new articles, and used to check WP:GNG?
+Should peakbagger be considered a reliable source of prominence and isolation?
+
+
+For the first question, we've had serious problems in creating articles based on geographic databases (FOARP has been extremely helpful in a major cleanup involving thousands of articles based on incorrect data in GNIS). I would be skeptical about creating new articles purely based on Peakbagger + ListsOfJohn + GNIS.
+
+
+I would suggest that the discussion here analyze the reliability of Peakbagger for prominence and isolation. Either:
+
+Peakbagger is considered a reliable source of prominence and isolation, or
+We have to consider removing many of the prominence and isolation data points from WP.
+
+
+Given this restricted question of reliability about prominence and isolation, what do other editors think? — hike395 (talk) 19:48, 21 November 2021 (UTC)
+
+We are still fundamentally discussing a WP:SPS. Where does the data, for, say this page come from? What is the editorial policy that ensures it is correct? How about this page which states "this peak was submitted to the Peakbagger.com database by &lt;name&gt;"? I've seen nothing in this discussion that would have made me reconsider my original assessment of unreliable for factual information. If the result is that that Wikipedia needs to re-reference a lot of stuff, that is unfortunate, but that amount of potential work is completely immaterial for the reliability question. -Ljleppan (talk) 20:12, 21 November 2021 (UTC)
+"this peak was submitted to the Peakbagger.com database by &lt;name&gt;" was merely a suggestion/request by a user that the peak be added to the database, not that the user added the data. The webmaster is always the only one to add the data. The user generally wants the peak added to they can add it to their list of personal ascents.Ron Clausen (talk) 20:42, 21 November 2021 (UTC)
+Ron is correct: there is an editorial process from turning a user-submitted "provisional" peak into a peak in the full database, see here.
+My issue here is: checked how? Checked against USGS information? And if that's the case, again, why don't we refer to the USGS directly? I'm not sure prominence and isolation really are so trivial to calculate that we can safely leave this in the hands of what appears to be an amateur website: the maths involved are relatively simple, but the choice of input data to use does not appear to be. FOARP (talk) 09:06, 22 November 2021 (UTC)
+@FOARP: USGS does not provide prominence or isolation, so we cannot refer to USGS. As I've said below, there's no governmental source for prominence or isolation anywhere.
+You're right, the computation is not trivial. I've found a peer-reviewed paper about running the computation at scale,[1] by Andrew Kirmse, previously a Distinguished Engineer at Google who managed Google Earth. The results from the paper are provided in a website. Kirmse provides more details about the computation here. That detailed web page is worth reading. A few things to note:
+Kirmse refers back to both Peakbagger and ListsOfJohn as tests for his computation
+Kirmse's computation matches Peakbagger within 5% error 90% of the time. Kirmse seems to attribute the errors to problems in his own data.
+Kirmse based his algorithm on WinProm code by Edward Earl, published in Helman's book. Earl ran Peakbagger until 2015, when he died in a mountaineering accident. Peakbagger has the original (although less scalable) WinProm code. Because Earl came up with the prominence algorithm, I would not characterize Peakbagger as a "amateur website", but as a primary source for prominence and isolation data.
+Kirme's data is innately less accurate than Peakbagger. Kirmse (like GNIS) bases his computation on digital elevation maps, which are less accurate than Peakbagger, which bases the computation on the best point elevations provided by governments. In mountains where there are high spatial gradients, DEMs are definitely inferior.
+Here's my conclusion. Peakbagger is a self-published primary source. The editors of Peakbagger do not appear to pass the bar of published subject-matter experts. Kirmse's paper appears to be a reliable peer-reviewed publication by a subject-matter expert. Kirmse is a secondary source for Peakbagger.
+I don't want to propose any major changes to 5,000+ mountain articles without having other mountain editors participate in the discussion. @Droll, RedWolf, Volcanoguy, Buaidh,  and Jo-Jo Eumerus: The reliability of Peakbagger has been called into question (see above). What is the best way to reliably source prominence and isolation data? — hike395 (talk) 15:40, 22 November 2021 (UTC)
+I entirely sympathise with not wanting to make changes to lots of articles. Indeed, I'm OK with leaving these articles generally as-is and filling them out slowly with information from e.g., newspapers to make them full notability passes. What I will say is we have a general problem with many thousands of GEO articles being written solely on not-very-reliable database data (primarily GNIS and GNS) and it is more important to make sure that we don't generate thousands more problematic articles and make the problem worse. FOARP (talk) 09:38, 23 November 2021 (UTC)
+It strikes me as a bizarre thought that once a prominence figure has been published in a newspaper (a reliable one, I hope) we can give it a full notability pass[es]. First, surely we are not discussing notability (are we?) but verifiability. Second, where do we suppose the newspaper reporter obtained their data? Is our increased reliance because we believe that if what they publish is wrong they may be criticised, sued or forced to a retraction? Thincat (talk) 12:03, 23 November 2021 (UTC)
+FOARP If your goal was to prevent non-notable articles being made from geographic databases (which I heartily agree with), we didn't need to have this discussion. WP:GNG says that notability should be established by secondary sources. Geographic databases are primary sources: there is no analysis, just data. WP:GEOLAND says that if only basic statistics about a natural feature are known (as in a database), then the subject is not notable. We should not start articles purely based on Peakbagger and/or ListsOfJohn and/or GNIS.
+By determining that Peakbagger is not a reliable source, we have to either throw out prominences and isolation on 5,000+ articles, or figure out an alternative reliable source. It's frustrating that Kirmse's prominence data is more "reliable" (according to WP:RS), but less accurate than the curated data in Peakbagger (according to Kirmse himself). I realize that WP:IAR shouldn't apply to this large number of articles, but I believe deprecating Peakbagger will make Wikipedia worse. I predict other editors at WikiProject Mountains will agree with that. — hike395 (talk) 13:03, 23 November 2021 (UTC)
+From where does Peakbagger get its information?  --Jayron32 13:13, 23 November 2021 (UTC)
+As far as I can tell from Kirmse: Greg Slayden (the editor at Peakbagger) uses the WinProm program to determine the key col and nearest higher point based on a digital elevation map. He then uses USGS benchmark data (if available) or topo map data (if not) to compute the prominence, verifying that any benchmark corresponds to the named feature. Slayden does not appear to be a published subject-matter expert (by WP's definition). — hike395 (talk) 13:23, 23 November 2021 (UTC)
+If that is the case, then his information is not reliable under WP:RS definitions.  He is not an expert, his work is not checked by experts, and there's no review or editorial process for the information he posts.  The information from the website should not be used at Wikipedia, and should not have been used at all.  The "5000+ articles" issue is a problem caused by using an obviously unreliable source to begin with; if someone had been following the rules years ago those 5000+ articles would already be in compliance.  --Jayron32 13:47, 23 November 2021 (UTC)
+hike395 - I agree with you that it should be possible to address the problem of the creation of large numbers of GEO articles based on dubious sourcing at AFD. This is, however, not my experience at AFD. AFD is always far too late (often by a decade+ given how many articles were created circa 2008) to actually address the problem of article-creation based on purely statistical data. The many thousands of GEO articles sourced purely to GNIS/GNS, and created at a rate of 2-3 a minute in article creation campaigns, being the most obvious example.
+Nobody said that these 5,000 articles would have to edited at once. We already have so much more dubiously sourced information, in such a large quantity on Wikipedia, that those 5,000 articles will not be a priority. What we need to stop is adding any more dubiously-sourced information. Ultimately, we do not have to have such data - hobbyists (who are the ones that this data is of interest to) can always just refer to Peakbagger directly. We can instead have more encyclopaedic information about the topic (e.g., it's history).
+As a final point, if Kirmse's calculations don't match Slayden's, that points to these calculations being non-trivial to do given that if Slayden is a subject-matter expert then so surely is Kirmse. (EDIT: also entirely second what Jayron32 says - the 5,000 articles thing is an WP:OTHERSTUFFEXISTS argument) FOARP (talk) 13:40, 23 November 2021 (UTC)
+I agree with FOARP and Jayron32 above, especially the point about hobbyists. Santacruz ⁂ Please tag me! 13:58, 23 November 2021 (UTC)
+Subsection questions[edit]
+
+
+I am going to add subsection questions below.  It would be helpful, I think if those 'in the know' answer them with cites or links if possible Alanscottwalker (talk) 20:29, 21 November 2021 (UTC)&nbsp;: Alanscottwalker (talk) 20:29, 21 November 2021 (UTC)
+
+Why does prominence matter?[edit]
+Topographic prominence is an objective measure of the "peakiness" of a peak. Many mountains are massifs, with many subpeaks. Prominence is a measure of how far down you need to walk from a subpeak before you go back up to the next main peak. Subpeaks with low prominence (e.g., 100 feet (30&nbsp;m) are not considered significant peaks, and don't make it onto peak lists. See USGS link — hike395 (talk) 20:59, 21 November 2021 (UTC)
+Topographic prominence is related to how much climbing is required to reach a peak from a point that is higher, specifically from its line parent. In Colorado, 4352 meter Grays Peak has prominence of about 844 meters from its line parent Mount Lincoln. On the other hand, the only slightly lower 4349 meter Torreys Peak has a prominence of only about 171 meters from its line parent which is nearby Grays Peak. &nbsp;Buaidh&nbsp; talk e-mail 23:51, 21 November 2021 (UTC)
+Who does prominence matter to?[edit]
+
+
+Readers of mountain articles may wish to know prominence, in order to tell whether the peak is a true peak, or simply a bump on a larger mountain. — hike395 (talk) 21:00, 21 November 2021 (UTC)
+
+Since prominence is somewhat related to the difficulty of a climb, it often matters more than elevation itself to climbers and mountain nerds like myself. &nbsp;Buaidh&nbsp; talk e-mail 00:06, 22 November 2021 (UTC)
+Are there national or international organizations, who deal with it?[edit]
+I've been editing mountain articles for &gt;18 years now, and I know of no governmental or international or standards bodies that compute either prominence or isolation. — hike395 (talk) 21:01, 21 November 2021 (UTC)
+Government agencies are not concerned with topographic prominence, although they provide the elevation and topographic data required to calculate topographic prominence. Most mountain climbing organizations rely on other sources (e.g, peakbagger.com and Wikipedia) to calculate topographic prominence for them. The Sierra Club and the Colorado Mountain Club have historically only been concerned with summit elevation, although topographic prominence has more recently become a concern. If a climber or organization finds a discrepancy with a calculated topographic prominence, hopefully they will let us know. &nbsp;Buaidh&nbsp; talk e-mail 00:53, 22 November 2021 (UTC)
+Why does isolation matter?[edit]
+
+
+@Buaidh: you have added isolation data and lists to many articles, do you wish to answer this? — hike395 (talk) 21:27, 21 November 2021 (UTC)
+
+Topographic isolation is also known as radius of dominance, an apt description. Isolation is the minimum distance you would need to travel to reach a point of equal or greater elevation. In mountainous regions, isolation may be short for any but the highest summit. In relatively flat regions, the highest summit may have a very long isolation. &nbsp;Buaidh&nbsp; talk e-mail 00:02, 22 November 2021 (UTC)
+Who does isolation matter to?[edit]
+
+
+High isolation summits present a wonderful challenge to climbers in regions that are not overrun with folks who try to collect as many high peaks as they can in as short a period of time as possible (e.g., the Southern Rocky Mountains and the Sierra Nevada.) &nbsp;Buaidh&nbsp; talk e-mail 00:16, 22 November 2021 (UTC)
+
+Are there national or international organizations, who deal with it?[edit]
+Government agencies are not concerned with topographic isolation, although they provide the elevation and horizontal position data required to calculate topographic isolation. Most mountain climbing organizations rely on other sources (e.g, peakbagger.com and Wikipedia) to calculate topographic isolation for them. If a climber or organization finds a discrepancy with a calculated topographic isolation, hopefully they will let us know. &nbsp;Buaidh&nbsp; talk e-mail 00:54, 22 November 2021 (UTC)
+Is there documented custom in the relevant off wiki community for reliance on educated amateurs for this?[edit]
+
+
+I think "educated amateurs" may be a biased way of describing it. As far as I can tell, there is a small community of GIS people who compute prominence. A history of the term is described here: [22] The USGS acknowledges the term, but does not offer its own computation. Mathworks (the company that makes Matlab) offers a library to compute prominence (and isolation, too).
+
+
+One of the main people in the community is Alan Dawson, who published[2], and participated in creating Peaklist.com. An important book on the topic is by Adam Helman[3] About the community, Helman states, "The community of prominence theoreticians, list builders, and climbers have reached a critical mass --- one that finally suggested the elaboration and publication of a book dedicated exclusively to the subject."
+
+
+As far as I can tell, here is a list of websites that actually use the software and publish the results:
+
+Peakbagger.com
+Peaklist.com
+The Database of British and Irish Hills (http://www.hills-database.co.uk/)
+ListsOfJohn
+County Highpointers Association (www.cohp.com)
+Trafford Publishing (Helman's publisher) is a well-known self/vanity-publishing imprint. I can't find any information that would substantiate TACit Press (Dawson's publisher) as an established imprint or not (EDIT: based on this, it looks to have been an amateur operation EDIT2: though based on this they were able at least to give ISBNs and the sourcing/editing/checking doesn't appear bad, though the book is essentially just a pamphlet for hobbyists). FOARP (talk) 09:06, 22 November 2021 (UTC)
+
+
+
+References
+
+
+^ Kirmse, Andrew; de Ferranti, Jonathan (2017). "Calculating the prominence and isolation of every mountain in the world". Progress in Physical Geography. 41 (6): 788-802. doi:10.1177/0309133317738163.
+
+^ Dawson, Alan (1997). The Hewitts and Marilyns of England. Glasgow: TACit Press. ISBN&nbsp;0-9522680-7-8.
+
+^ Helman, Adam (2005). The Finest Peaks - Prominence and Other Mountain Measures. United States: Trafford Publishing.
+
+
+
+Is quebrada.net a reliable source?[edit]
+Source: https://www.quebrada.net/  A website focusing on reportage of Japanese Pro Wrestling and MMA events.
+Article: Unsure if has been applied yet. I'm considering utilizing this as a source for entries related 90s Pro Wrestling and MMA in Japan. Currently main target is Shoot Wrestler Volk Han.
+Content: I am considering using https://www.quebrada.net/matches/volkhanhalloftalent.html as citation for Volk Han regarding his Pro Wrestling and MMA career. Professional English language sources on this person are quite limited and details of his career is quite protected in Japanese-language works.
+Um, is this the correct place to talk about this, here in wikipedia? -- TrickShotFinn (talk) 12:09, 21 November 2021 (UTC)
+This is a fine place to ask, but there are probably not many wikipedians who are both familiar with professional wrestling related sources and continuously watch this noticeboard. As a general observation, the website appears to be a self-published source, which has an very important consequence for use in biographies of living people: Never use self-published sources—including but not limited to books, zines, websites, blogs, and tweets—as sources of material about a living person, unless written or published by the subject of the article (see WP:BLPSPS). –Ljleppan (talk) 12:45, 21 November 2021 (UTC)
+Got it. Man, writing about "secretly influential" stuff is hard. -- TrickShotFinn (talk) 09:27, 22 November 2021 (UTC)
+Yep; while the policies are in place for a good reasons, they can be frustrating. I searched Google Books for a bit and there were a few books about Japanese Pro Wrestling, but they too seemed to be self-published. Perhaps there are magazines that would be useful? -Ljleppan (talk) 09:45, 22 November 2021 (UTC)
+Possibly? I've used Volk Han's name's Japanese rendition to scour Amazon JP and there appear to a few magazines. Problem is that I can't read Japanese that well and the content of those magazines is out my hand. Good idea though.
+ Also there is possibly a Russian interview Магомедов, М. Волк-Хан: борьба продолжается. — М.: МГУК Тип. "Новости", 1998. — 143 с. which I am unable to find. -- TrickShotFinn (talk) 15:59, 25 November 2021 (UTC)
+RfC: tghat.com[edit]
+
+
+Please consider joining the feedback request service.An editor has requested comments from other editors for this discussion. This page has been added to the following list:
+Wikipedia proposals
+When discussion has ended, remove this tag and it will be removed from the list. If this page is on additional lists, they will be noted below.
+
+
+Question: Which of the following best describes the reliability of tghat.com?
+
+Option 1: Generally reliable
+Option 2: Less than generally reliable
+Option 3: Generally unreliable
+Option 4: Reliable for their own opinion only
+Option 5: Other, please specify
+
+
+— Platonk (talk) 20:23, 21 November 2021 (UTC)
+
+Option 4 added by Mathglot (talk) at 19:47, 22 November 2021 (UTC)
+Background (tghat.com)[edit]
+
+
+The tghat.com website is being increasingly used throughout Wikipedia and is currently used in 143 articles since it was created just one year ago. Its use has engendered edit wars with several editors removing content sourced by it (as non-RS), and a few editors reverting the removals. There was a two-day discussion on RSN in July about tghat.com that discussed, though didn't resolve, the issue. As recently as five days ago, tghat.com has been added as an external link and asserted as a reliable source for a citation. The website's earliest Wayback Machine copy on December 10, 2020 shows it as a blog titled "Chronicling the War on Tigray". The website shows no sense of who is publishing the content. There is a Wikipedia article for Tghat which seems constructed with name-dropping rather than indications of notability. Other news media frame the website in terms of advocacy, not a news organization with an editorial staff, such as:
+
+"Tghat, a group of anonymous Tigrayans reporting on the damage done within Tigray during the current conflict"
+"Pro-Tigray Tghat"
+"Tghat was founded ... by concerned Tigrayans to chronicle and document the war"
+"News site Tghat, which is run by a group of Tigrayan activists living abroad"
+"Tghat, a news site run by pro-TPLF activists"
+
+
+Examples of how tghat.com is being used in Wikipedia:
+
+143 articles contain "tghat.com".
+117 articles contain "A compilation of the verified list of civilian victims from different sources", a database/table which has a "source" column predominantly linking to Facebook or Twitter posts, other tghat content, and personal accounts. According to AP News the database is  compiled by a single man and only contains deaths of ethnic Tigrayans, but not ethnic Amhara victims.
+2 articles contain a blog post which is a google translation from an article published by Norway newspaper Bergens Tidende. This is probably a copyright violation.
+9 articles contain "A Leaked Document: Delegation of the European Union to Ethiopia" (a blog post). This doesn't appear to have a "document" in it, and it was used as a citation in order to insert Tigray War information into the articles of 9 "places/locations".
+6 articles contain A graphic footage of the Debre Abay massacre: What do we know about it? a blog post. This was added to two "location" articles where it doesn't really belong.
+3 articles contain What happened in Aksum? My personal account (blog post). This was added to one "location" article where it was used to insert information about the Tigray conflict.
+
+
+The above is not intended to be a comprehensive list of uses in Wikipedia, but is a subset showing the various ways tghat.com has been used.
+
+
+(As a side note, though still deserving mention here, according to AP News the compiler of the civilian/non-combatant Amhara casualties is the Amhara Association of America, which doesn't have a Wikipedia article, nor is their website amharaamerica.org mentioned at all in Wikipedia mainspace, and yet the Amhara also have numerous civilian casualties during this conflict. I haven't found any Amhara 'massacre' articles in Wikipedia, while finding over a hundred Tigray 'massacre' articles. ADVOCACY or a NPOV/weight issue?)
+
+
+— Platonk (talk) 20:23, 21 November 2021 (UTC)
+
+Update: The above counts have changed because 25 articles were recently deleted at AfD, most of which contained a link to tghat.com, and making the counts go down. Platonk (talk) 10:44, 25 November 2021 (UTC)
+Survey (tghat.com)[edit]
+Option 4 reliable for their own opinion only. This implies use of WP:INTEXT attribution; e.g., "..and according to a member of Tghat,[17] some-opinion-or-assertion-about-something." Mathglot (talk) 20:10, 22 November 2021 (UTC)
+Option 4: agree with Mathglot's reasoning both above and in the discussion below. Santacruz ⁂ Please tag me! 22:28, 22 November 2021 (UTC)
+Option 1: Generally reliable and attribute to Tghat when in doubt or Option 2: less than generally reliable per WP:USEBYOTHERS. The RS guidelines mostly evolved for rich-country sources without tight internet and telephone blockades. Wikipedia has a fundamental problem in working out how to cover knowledge encyclopedically, avoiding demographic bias, while still using good sources. There is no magic solution, but pedantic interpretation of guidelines will not help in evolving reasonable solutions.In this particular case, as can be seen by the text and sources in the current version of Tghat, Tghat has been used by multiple Western mainstream media and academic sources, both preprint and fully peer-reviewed. This is not "name dropping"; it's recognition that Tghat has gained a reputation as a sufficiently reliable source.Side issues on neutrality (1): while there is an LATimes claim that Tghat is "pro-TPLF", this is not very credible from looking at the site itself, which includes, for example, press releases by anti-TPLF political parties (clearly labelling them as such).Side issues on neutrality (2): massacres of Amharas. This is only related in the sense of whether we want to purge Wikipedia of all sources that might help overcome our demographic bias favouring rich-country sources. We do have Benishangul-Gumuz conflict, in which several cases have victims identified as Amharas; in Oromia Region: Gawa Qanqa massacre, Abo church massacre. Having more sources for these would be good, and the AAA site looks (based on an initial quick look) like a good source for articles such as these. In fact, it appears that among the currently known list of Amhara organisations, the articles that exist so far, Amhara Mass Media Agency and National Movement of Amhara, were both created by me, based on the best sources I could find. I wasn't aware of AAA at the time. There are quite likely some sources like these that we should rate "generally unreliable" or "Publishes false or fabricated information, and should be deprecated", but having a mix of sources that generally seem reliable and come from a mix of the different ethnic groups of Ethiopia is more in the interests of Wikipedia than refusing to use these sources. Boud (talk) 23:25, 22 November 2021 (UTC)
+Added 'or Option 2', as per WP:USEBYOTHERS as pointed out by Alaexis below, and keeping in mind that the editorship is reported on other web media rather than on the website itself.  Boud (talk) 23:54, 25 November 2021 (UTC)
+Option 3: Generally unreliable Tghat is not reliable because it has verifibiliaty issues. Thgat claims to be a news site reporting on current events, not on psuedoscience, the proper context should be given, and not all biased opinions belong in Wikipedia. It heavily relies on social media, and is not independent from the subject it reports on. Reliable sources have used language to describe Tghat as being partisan[1], compromising it as independent source. As a new site it doesn't appear to have editorial oversight.  Dawit S Gondaria (talk) 00:32, 23 November 2021 (UTC)
+Option 4/5 and describe as being run pro-TPLF activists when summarizing it; the LA Times describes it as such.  It is obviously WP:BIASED and, beyond that, definitely not usable for facts, but it shouldn't really be used for opinion either, since it seems that would be plainly WP:UNDUE.  I'm not seeing any evidence of a reputation for fact-checking or accuracy (or even any assertion that they do any fact-checking or have any editorial controls); and they appear to be a personal website of no significant notability.  Coverage is not WP:USEBYOTHERS - is there any indication that any reliable sources treat this list as reputable or reliable? Without that, the only place where it is like to be due is in an article specifically about the site.  I would in particular strenuously object to citing it in any context discussing casualty figures - WP:RSOPINION is meant to be used to establish notable strands of opinion, not to introduce unverified facts to random websites that present them with no fact-checking. Demographic bias is real, but there are actual news sources, academics, and other high-quality sources that can be used for this.  Simply creating a website and listing death totals on it doesn't make someone's opinion significant enough to include in an article - when it is included, it ought to be cited via secondary sources rather than cited directly. Also, dismissing the LA Times (a high-quality source) describing it as being run by activists based on "well I looked at the site and it looked neutral to me" is absurd; that is not how we evaluate sources. Unless someone can find an equal or higher-quality source disagreeing with the LA Times description, any WP:RSP entry absolutely needs to mention that specific bias. --Aquillion (talk) 05:34, 23 November 2021 (UTC)
+Option 2 per WP:USEBYOTHERS. The Associated Press checked some of their reporting and found it accurate. France24 were able to verify the video they posted. The information published by Tghat has been used by scholars. Not fully reliable due to concerns regarding bias and the editing processes raised earlier. Alaexis¿question? 08:37, 23 November 2021 (UTC)
+Option 3/4 doesn't seem to be a reliable news or similar organization as much as an advocacy group. That kind of group has their place, but generally not as a reliable source outside of independent confirmation or their own opinions. SamStrongTalks (talk) 19:36, 24 November 2021 (UTC)
+Option 3 - For reasons of being a self-published, anonymously-run, and biased website. The website itself gives no indication of its ownership or editorship. Most of the blog posts are posted by the anonymous user "tghat", who posts no credentials and doesn't use any citations in their articles. Even if a blog post has a seemingly real world name on it, there is no verified-account indicator to ensure it is that person, and that they are a subject matter expert. The victim list is self-published by a single person (whose name we've known only since 10 days ago). Option 4 is worthless as there is nothing an anonymous source is going to say WP:ABOUTSELF, and everything else they would publish falls under WP:EXCEPTIONAL claims and is thus unusable. Ultimately, Wikipedia guidelines for reliable sources are there to make verification possible. Anonymous and self-published make verification impossible. Platonk (talk) 10:47, 25 November 2021 (UTC)
+Discussion (tghat.com)[edit]
+
+
+Starting with WP:USEBYOTHERS, its estimation of the number of victims has been mentioned by the LA times [23]. They describe it as "a news site run by pro-TPLF activists". Alaexis¿question? 20:31, 21 November 2021 (UTC)
+
+No it doesn't. Where do you get that? The LA Times article you cited doesn't mention Tghat's victim database or information. It mentions Tghat in the sentence following a victim count by organization Seb Hidri, but doesn't tie the two together. Neither does the Wikipedia article Tghat, nor does the WP article Seb Hidri, nor even the website Tghat.com. Tghat.com has two articles mentioning Seb Hidri but  even those articles don't tie the two together. Platonk (talk) 02:13, 22 November 2021 (UTC)
+Reliability and verifiability are certainly issues. The victim list appears to be a personal victim memorial. I can find no editorial oversight. References to Facebook, Daily Mail, and Twitter as sources are not appropriate. The site appears to be an advocacy for a cause that  tilts the balance with a false validity.
+Following a link such as UN Commissioner for Human Rights Owes Tigrayan Victims an Explanation I cannot verify who Teklai Gebremichael is, apparently a regular contributor. The link Is it a sin to be a Tigrayan? A graduating Tigrayan university student‘s lamentation contains an unknown editor's note: "The following message is written by a graduating student", identified as K. These are not reliable sources nor acceptable as an "External link". --  Otr500 (talk) 04:28, 22 November 2021 (UTC)
+Platonk, you are right about the victim count. The article says "Tghat, a news site run by pro-TPLF activists, reported on the Bora killings Jan. 12, along with another massacre that reportedly took place in an area called Debre Abay." Note that the Bora killings themselves are not in doubt, the same article reports them as facts earlier. So basically they say that Tghat reported on it 4 days after it happened. Alaexis¿question? 06:30, 22 November 2021 (UTC)
+Alaexis, I think you're really stretching the imagination about what LA Times thinks about Tghat based on this single sentence. Please look again at WP:USEBYOTHERS: "How [they] use a given source ... The more widespread and consistent this use is ... established views of sources..." LA Times' single sentence, in its context, is not an endorsement of Tghat's veracity or accuracy. Platonk (talk) 07:47, 22 November 2021 (UTC)
+I'm not saying that the use is widespread but it's not zero either. Are there reliable sources which explicitly call them unreliable or found inaccuracies in their reporting? By the way the absence of reporting on Amhara casualties is irrelevant. The sources can be biased or have a limited scope and still be useful. Alaexis¿question? 09:31, 22 November 2021 (UTC)
+Without commenting on Tghat's reliability or lack thereof (I'll do that in a separate comment), asking whether there are reliable sources that call Tghat's reliability into question is backwards logic. There is no "presumption of reliability until disproved".  There are thousands of activist groups, opinion writers, and individuals publishing their thoughts on blogs and websites, and The Guardian and The Times don't have departments paid to sit around investigating and writing evaluations of every person with an internet connection and an opinion. Mathglot (talk) 19:43, 22 November 2021 (UTC)
+Mathglot, you're completely right. The reason I'm asking is that if, by any chance, they are described as unreliable by reliable sources it would be a very strong argument for classifying them as unreliable here. The opposite is not true: if they aren't described as unreliable we would still need to establish their reliability. Alaexis¿question? 20:08, 22 November 2021 (UTC)
+Aha, thanks for that clarification. With that understanding, I fully agree with you. Mathglot (talk) 20:15, 22 November 2021 (UTC)
+@Alaexis: &amp; @Mathglot: WP:IS is clear on biased sources, it still needs to be independent from the subject, the reliable sources descriptions of Tghat clearly tells they are not;  a news site run by pro-TPLF activists, run by activists living abroad. A site run by activists siding(pro-TPLF) with a party to a conflict is advocacy and clearly show connection to the subject. Being called pro anything by reliable sources, already compromises Tghat as a independent/reliable news source in that context. Another concern is the reliance on social media, and after searching the site they have little or none reporting, that is not in some way related to the conflict in Ethiopia. Dawit S Gondaria (talk) 21:15, 22 November 2021 (UTC)
+You are misreading that. It's true that it needs to independent from the subject in order to be considered WP:INDEPENDENT (one of the attributes of fully reliable sources), but it does not need to be independent from the subject or unbiased in order to be used in citations at Wikipedia in certain contexts.  See WP:BIASEDSOURCES: "Common sources of bias include political, financial, religious, philosophical, or other beliefs. Although a source may be biased, it may be reliable in the specific context"; and: "Bias may make in-text attribution appropriate". If the specific context is "the opinions of Tghat activists", then the WP:BIASED source Tghat *is* reliable for that, and may be cited for their own opinions, per the WP:RS guideline previously cited. Mathglot (talk) 21:29, 22 November 2021 (UTC)
+@Mathglot: Nope, not misreading that and it's again mentioned in WP:BIASEDSOURCES: When dealing with a potentially biased source, editors should consider whether the source meets the normal requirements for reliable sources, such as editorial control, a reputation for fact-checking, and the level of independence from the topic the source is covering. Does Tghat as a source meets the normal requirements? Independence from the topic is very shaky, what about the rest? Dawit S Gondaria (talk) 21:55, 22 November 2021 (UTC)
+Flat-earthers are WP:BIASED sources that are citable at Wikipedia articles on what Flat-earthers believe; Moon hoaxers are reliable for what moon-hoaxers believe, and Tghat is reliable for what Tghat believes, and needs no independence, editorial control, or fact-checking for that. The fact that they may be unreliable for all basic assertions of fact does not negate that, and that's what the rest of the guideline you quoted is about. Mathglot (talk) 22:21, 22 November 2021 (UTC)
+@Mathglot: Incomparable contexts and WP:CONTEXTMATTERS, editorial oversight matters for a news site claiming to report on current events, level of independence matters. There is a long list of opinions from news sites marked as unreliable in Wikipedia:Reliable sources/Perennial sources, biased sources can still be invalid through other aspects, such as verifibiliaty, also see  WP:SUBSTANTIATE. Tghat is also WP:NOTRELIABLE for it's reliance on WP:NOTSOCIALNETWORK. There's are serieus reliability issues with this news site, comparison with Psuedoscience does not fit this context. Dawit S Gondaria (talk) 23:32, 22 November 2021 (UTC)
+You continue to misconstrue. Even articles marked "generally unreliable" or even as bad as "deprecated" at Perennial sources may *still* be cited nevertheless, as the guideline supplement you quoted very clearly states, and which agrees with all the others regarding WP:RSOPINION. I have no wish to debate you anymore; !vote your opinion based on your best interpretation of policies and guidelines, and hopefully everyone else will do the same. Have a nice day! Mathglot (talk) 23:49, 22 November 2021 (UTC)
+We disagree and that's fine, have a nice day. Dawit S Gondaria (talk) 00:32, 23 November 2021 (UTC)
+If the argument is that RS use tghat means tghat is RS, I don't see why one couldn't use forgo including tghat altogether and just cite the reputable sources covering the content. Tghat does not seem to be reliable. Additionally, this conflict is quite recent so we should be patient and remember that if tghat is the only site covering a massacre, it will be covered later in news and even later in academia if it is notable (WP:NODEADLINE). But back to the reliability topic, no I don't believe tghat is reliable based on how their content is created. A. C. Santacruz  ⁂  Talk 21:43, 22 November 2021 (UTC)
+Comment - (Re the argument presented above about a scarcity of "rich country" media coverage and how we must bend our Wikipedia rules in order to allow Tghat as a source to reasonably cover the Tigray conflict.) A brief look in the Reference sections of Tigray War and Timeline of the Tigray War, finds such usual reliable sources as:
+Reuters, Al Jazeera, BBC News, New York Times, Washington Post, LA Times, The Guardian
+There are also numerous Africa-centric and Ethiopia-centric organizations mentioned in the citations, including:
+Europe External Programme with Africa: Belgian-based NGOs "involved in human rights issues particularly in the Horn of Africa and North Africa."
+New Business Ethiopia: "Founded by an award-winning journalist, Andualem Sisay Gessesse" (since 2009)
+Foreign Policy: "American news publication, founded in 1970 and focused on global affairs"
+Fana Broadcasting: "a state-owned mass media company operating in Ethiopia"
+African Arguments: "a pan-African platform for news, investigation and opinion." Editor and deputy editor named. Editor is an experienced journalist and editor.
+Ipi Global Observatory: "provides timely analysis on peace and security issues by experts, journalists, and policymakers. It is published by the International Peace Institute." Personnel are named.
+Addis Standard: "an Ethiopian monthly social, economic and political news magazine." registered, info given
+There are also seemingly lesser-reliable websites used for citations, including:
+Ezega News: "the premier Ethiopian portal that provides the Ethiopian community at home and abroad information and data". (no names given)
+Eritrea Hub: Blog format, no about-us page. "Information about Eritrea and the Horn of Africa."
+Ethiopia Insight: "coverage of Ethiopian political and economic issues". No names.
+There are dozens of other sources I didn't recognize and didn't click on. And this list is from just looking at less than 5% of the citations. My point being that we have a plethora of sources available to us that we can denote as reliable sources, and renders moot the argument that we need tghat.com and need to bend the reliable source rules because of alleged "demographic bias".
+
+
+— Platonk (talk) 03:12, 23 November 2021 (UTC)
+
+A lot of your sources are located in Addis-Abeba and some are government-affiliated so we should expect to get only one side of the story from them ("media coverage has become a “very sensitive” topic for the government, said Befeqadu Hailu, an Ethiopian journalist imprisoned for 18 months by the previous regime."[24]). It is well known that journalists are not welcome in the zone of conflict now ("Within hours, the internet in Tigray was shut down and journalists were blocked from entering the region."). It doesn't follow from this that we need to bend our rules but the argument that there are plenty of RS coverage is spurious. Alaexis¿question? 06:35, 23 November 2021 (UTC)
+@Alaexis: You cannot infer anything based on "Platonk's tiny sample". I did not select a sampling based on their physical location, but on the presence of citations in the references sections of the two main Wikipedia articles for the Tigray conflict. I just scrolled and picked the top few, then grabbed a couple others. When I had looked at enough to make a small list, I quit looking further. Go look at the references section yourself. I'm sure not going to spend hours combing through the over 600 references just to convince you of anything. My original point still stands: we have numerous international, American, European, African, and Ethiopian sources already being cited. I remind you that Wikipedia is not a newspaper, we are not journalists, and Wikipedia does not need to cover every little aspect of the Tigray conflict as it unfolds. No one is going to die because we don't use tghat.com here in Wikipedia. Platonk (talk) 07:10, 23 November 2021 (UTC)
+You prepared this list as a response to the comment about the scarcity of data sources. My point is that this list in no way proves there is no scarcity, for the reasons listed in the NYT article I linked. Alaexis¿question? 07:48, 23 November 2021 (UTC)
+That wasn't its purpose. My point was that with over 500 editors having edited the two main articles [25] [26], that they have already found and cited sufficient RS sources without needing tghat.com. There are 784 citations in the Tigray war article and the timeline articles. Only 13 citations point to tghat-hosted articles and 15 to the tghat victim list. Comparing that to the other 756 citations — yes, I can confidently say there is no shortage of reliable sources such that Wikipedia editors would need to resort to using an anonymously-published website. Scarcity of reporters on the ground in the region is irrelevant to this specific RfC, unless one is trying to make the argument that somehow tghat.com writers are filling that role while no other reliable sources are. Platonk (talk) 11:32, 23 November 2021 (UTC)
+The Tigrayan diaspora activists do not name themselves on the website itself, but Meron Gebreananaye and Gebrekirstos Gebremeskel are both named publicly on a website that publishes a variety of views by Ethiopian intellectuals. So the adjective "anonymously-published" is inaccurate. The lack of knowledge on how to make a website "look professional" with a "Who we are" page of key people does not make it anonymous.As for Ethiopian sources of information, the number is small. Looking at two main articles alone does not seriously cover the topic; Template:Syrian Civil War has about 425 articles for a civil conflict in a country of 18 million people. This case risks extending across a country of 110 or so million people, in which federal government control of the international media and national media is getting tighter and tighter in the areas outside of the TDF-OLA controlled regions. The internet/telephone blockade and control of communication devices at border controls makes reporting from inside the Tigray extended region difficult. Reports on the Axum massacre with victim counts ranging from 100 (Ethiopian Human Rights Commission) to "thousands" (Associated Press) took about 40 days to reach the outside world. Adigrat University lecturer Getu Mak's early February testimony, about 70 days after the event, published by Tghat, was one of the first reliable reports that was consistent with later reports (e.g. Amnesty International, Human Rights Watch).So yes, there is a scarcity of sources for this field of knowledge as a whole, and the WP:USEBYOTHERS of Tghat information shows that generally, though not always, Tghat provides reliable information. Saying that the source is not needed because it's confirmed by others is reversing WP:USEBYOTHERS. Boud (talk) 23:48, 25 November 2021 (UTC)
+Just a small comment on the "40 days" issue: there is no rush to add content to this encyclopaedia (WP:NODEADLINE), especially about contentious topics. Yes, it is important to have up-to-date information. But if major news outlets with long histories of reputable reporting are delaying their news items about certain events, it is probable that those events are highly complex and hard to get accurate information for. Therefore, WP should not jump the gun and use less reputable sources just because major reputable ones haven't published yet. Additionally, saying that because Tghat is RS because its report was then consistent with reputable reports is a post hoc fallacy. Finally, the idea that +600 sources is too few sources such that the use of tghat is necessary is almost probatio diabolica as the burden of proof for Platonk to provide even more than that or analyze all those 600 sources just to show tghat isn't absolutely necessary is an inordinate requirement when it is much simpler to prove or disprove whether tghat is RS period. Santacruz ⁂ Please tag me! 00:20, 26 November 2021 (UTC)
+We don't have to jump the gun and there's no deadline, but we have had en.Wikipedia coverage of recent news become generally accepted since the 2004 Indian Ocean earthquake and tsunami that affected the south-east Asian economic tigers. We do have to make reasonable efforts to balance against our known demographic bias and the dominance of Western rich-country mainstream media. This is supposed to be an encyclopedia about the world, not an encyclopedia about how the West sees the world. Given that we do have generally reliable sources such as Tghat, there's no reason to restrict ourselves to a circular argument about the Western mainstream media being reputable because what they do is reputable. Post hoc fallacy is not an argument against WP:USEBYOTHERS; there's no claim that Tghat had a causal effect on later reports; the question is whether later reports agreed with Tghat's information. See WP:USEBYOTHERS for the details.The 600+ argument is mostly an apples and oranges argument. Boud (talk) 02:00, 26 November 2021 (UTC)
+@Boud: Even if Tghat.com incorporated as an NGO, published bios of their main personnel and leadership, and was older than its current one year age, they would still be an advocacy organization and we would be limited in how we could use what they publish. The man who runs the website (Gebrekirstos Gebreselassie or Gebrekirstos Gebremeskel or however he spells his name today) presents himself as the manager of a website, a researcher and an activist — no credentials mentioned of being a reporter or an editor, or even an academic. And he isn't even located in Africa so one can't give him points for "boots on the ground and eyes front". A dozen brief mentions by reputable sources do not make tghat.com a "reliable source by proxy". Platonk (talk) 10:33, 26 November 2021 (UTC)
+
+
+
+
+
+
+
+
+References
+
+
+^ https://dictionary.cambridge.org/dictionary/english/partisan
+
+
+
+Meaning of opinion piece link at WP:NEWSBLOG[edit]
+
+
+In WP:NEWSBLOG does the "opinion piece" link to WP:PRIMARY mean it is a primary source and should follow what's said there rather than say a secondary or tertiary source? Thanks. NadVolum (talk) 23:30, 22 November 2021 (UTC)
+
+It would depend on how it is used, but a newsblog containing opinion would usually be a primary source, since WP:RSOPINION sources are only usable as a WP:PRIMARY source for what the author thinks, never for statements of fact.  We cannot cite an opinion in a way that implies that what they believe is true in the article voice. Keep in mind, however, that it can get a bit hazy because you can use an opinion piece to establish that someone believes something that would otherwise be secondary (ie. their personal interpretation or analysis), when that opinion is relevant; it's just that without the fact-checking that non-opinion sources get, we can only frame that as their opinion. The wording of NEWSBLOG also implies that there are some non-opinion uses for newsblogs (generally expert ones where there is reason to assume they get the fact-checking opinion pieces do not), but if it is being cited to establish its author's opinions, or if it is plainly written as commentary rather than reporting, then it is always primary. --Aquillion (talk) 05:23, 23 November 2021 (UTC)
+Thanks, yes that helped. NadVolum (talk) 18:54, 23 November 2021 (UTC)
+I believe that this query relates to an issue that recently arose at Julian Assange in which a Washington Post op-ed by two political scientists stated an opinion about Wikileaks' action in the 2016 US presidential election. If so, I believe that the question is not about the meaning of "opinion piece" but rather about whether and how such sources can be used. While in the context of that article, the content in question may be UNDUE and/or redundant, the issue raised on the talk page was whether it was permissable to cite that op-ed as a source for the authors' opiions, with attribution. I have no view as to whether this content or reference is DUE for the article, but for the avoidance of doubt, does anyone disagree that an op-ed in an RS publication can be used as a valid primary source, with attribution, fior the authors' opinions. The link to PRIMARY appears to me to relate to the use of such a reference for sourcing of fact in Wiki-voice, whcih is a different matter. Thanks. SPECIFICO talk 16:08, 24 November 2021 (UTC)
+@Slatersteven, NadVolum,  and Aquillion: fyi. SPECIFICO talk 19:28, 24 November 2021 (UTC)
+The talk page there goes on and on and is filled with incredible arguments. I wouldn't wish it onto this page. But if you want to check up on what led to this querey have a look at Talk:Julian_Assange#Baum,_Gussin_and_Podesta_speculations, and there is an RfC to remove a couple of statements involving this at Talk:Julian_Assange#RfC_Should_two_statements_in_the_2016_U.S._presidential_election_section_be_removed.  NadVolum (talk) 21:55, 24 November 2021 (UTC)
+As long as we attribute it, and make it clear it is just that writers' opinion is can be used.Slatersteven (talk) 11:12, 25 November 2021 (UTC)
+@Slatersteven, SPECIFICO,  and Aquillion: Well I see Aquillion has been around since 2005 and you started in 2007 and and SPECIFICO in 2012 and you obviously disagree about whether one should take note of the link to WP:PRIMARY. So how exactly are disputes like this resolved? NadVolum (talk) 11:39, 25 November 2021 (UTC)
+I don't think we really disagree in an important way.  The key point of my response is Keep in mind, however, that it can get a bit hazy because you can use an opinion piece to establish that someone believes something that would otherwise be secondary (ie. their personal interpretation or analysis), when that opinion is relevant; it's just that without the fact-checking that non-opinion sources get, we can only frame that as their opinion.  Say, for instance, we have an opinion piece or NEWSBLOG column written by Professor Reliablepants, world's greatest academic expert on fascism; he says that in his expert opinion, such-and-such a thing is comparable to fascism. This piece would be a primary source for his opinions, but it's the kind of thing we're intended to use opinion pieces for.  We could not use that source to say, in the article voice, "X is fascist", but we could us it to say "Professor Reliablepants, world's greatest academic expert on fascism, compared X to fascism" because then we're just reporting what he said - the fact that he said that is a straightforward fact citeable to a primary source.  A newsblog by an established expert is clearly a decent source for opinion - it's in a venue that is otherwise reliable and it's someone whose opinion matters. At that point it becomes a question of WP:DUE weight rather than WP:RS - not everyone's opinions are as important as Professor Reliablepants, (and even Professor Reliablepants' opinions might not always be relevant) so the question is whether it's an opinion worth including at all, which is often harder to answer. I think newblogs are primary sources in most regards, but so are all other opinion pieces; it clearly doesn't make sense to omit opinion pieces purely because they're published as a newsblog (since that's, generally speaking, going to be high-quality as sources for opinions go), and it doesn't make sense to bar opinion pieces from being used to report someone else's interpretation and analysis as long as it's being clearly attributed to them and is otherwise WP:DUE - we just have to avoid treating it as fact in the article voice. --Aquillion (talk) 18:11, 25 November 2021 (UTC)
+What is in the article is "Political scientists Matthew Baum and Phil Gussin wrote that WikiLeaks may have released more emails whenever Clinton's lead expanded in the polls."
+"Why it's entirely predictable that Hillary Clinton's emails are back in the news". The Washington Post. Retrieved 12 November 2016.
+I objected to it that the actual releases did not seem to do that at all. But that was objected to "No, it means they said it, not that it's true. And wp:OR cant be used to analyze and dismiss RS (they are wp:rs because they are assumed to do researches before they publish). What you do not seem to understand is our policies."
+So I looked through and found #3 in WP:PRIMARY "A primary source may be used on Wikipedia only to make straightforward, descriptive statements of facts that can be verified by any educated person with access to the primary source but without further, specialized knowledge. For example, an article about a musician may cite discographies and track listings published by the record label, and an article about a novel may cite passages to describe the plot, but any interpretation needs a secondary source." And no one has found a secondary sourtce tha refers to what they said or says what they said. Does this bit of PRIMARY not apply once one puts in an attribution? NadVolum (talk) 19:41, 25 November 2021 (UTC)
+What the article says is "But perhaps the real culprit is WikiLeaks, strategically releasing hacked emails, and thereby demanding media attention, whenever Clinton’s lead expands." This was in a note at the end of an aricle where they did actually check the correlation between newspaper articles and her standing in the polls, but they just gave one instance of where this conjecture held and it doesn't seem to apply in any other case. NadVolum (talk) 22:31, 25 November 2021 (UTC).
+"Person X believes Y" is a straightforward, descriptive statement of fact that anyone with access to the source can determine. We cannot imply that their beliefs are correct based solely on a primary citation to an opinion piece, and must be careful to confine ourselves to attributing what they actually say; but we can say that it is their opinion. The question then becomes "is this person's opinion relevant and noteworthy", which is a matter of due weight (related to things like their expertise, their reputation, whether they're someone whose opinion on the topic is manifestly relevant, etc.) I broadly agree that opinion pieces are sometimes overused with the intent to make an argument rather than to illustrate an opinion and that it's important to be cautious - there is a risk of editors dropping in opinions simply because they like what they say or for WP:FALSEBALANCE reasons - but obviously, as an abstract question, we can cite an opinion piece for things that would normally require a secondary source if stated in the article voice sometimes, otherwise there would be no real use for opinion pieces at all. Likewise, "I think they're wrong" (which amounts to "I disagree with this opinion") isn't enough of an argument to remove an opinion, but "I think we're summarizing them wrong" is obviously a reasonable argument, since we do have to be very cautious when summarizing opinions. Similarly, if you're right and they are wrong, then "I think this is undue, these people have no expertise so their opinions don't matter, and / or the opinion they're expressing is fringe-y or at least too weird or obscure for us to cover" is often going to be a reasonable argument that follows from that (in the sense that eg. talking heads with no qualifications or other bad sources for WP:RSOPINION are often wrong); but that requires looking at both their expertise and where they're published in order to discuss the weight due to them - if Professor Reliablepants writes an opinion-piece in his area of expertise in a top-tier source then it's hard to ignore it. The further you get from there, the hazier it becomes. --Aquillion (talk) 04:14, 26 November 2021 (UTC)
+NadVolum, the three of us do not disagree. I believe it is just a situation in whcih you have not accepted what the three of us have said (first at the article talk page and now here.) Again, the content may be UNDUE, but it should not be rejected out of hand as a primary source for fact in Wiki-voice when it is attributed.That kind of reference (appropriately used) is quite common including in many BLPs.  SPECIFICO talk 22:40, 25 November 2021 (UTC)
+I do not see how WP:DUE can be used. There is just that one article saying that. There is no article I can see that gives any opinion on how Assange chose the dates of releases besides what he said himself about timing a release for the Democratic National Convention and Podesta's speculation about the Hollywood Tapes. Slatersteven said "You need an RS saying their facts are wrong." NadVolum (talk) 22:53, 25 November 2021 (UTC)
+The other part of PRIMARY I pointed to was point 1 "primary sources that have been reputably published may be used in Wikipedia, but only with care, because it is easy to misuse them" saying it was an exceptional claim because it seemed to be wrong, but they said just attributing was good enough. SPECIFICO said "Their opinion is attributed. That is fully in accord with what's written at all of the links you've cited. REDFLAG is not applicable. A reliably published opinion is a valid primary source for that opinion, and that's all anyone has ever said here".   23:16, 25 November 2021 (UTC)
+@Slatersteven, SPECIFICO,  and Aquillion: NadVolum (talk) 23:25, 25 November 2021 (UTC)
+I've set up WT:V#NEWSBLOG_reference_to_opinion_piece saying the link at opinion piece should be removed as there's no requirement for PRIMARY to be followed when it comes from a reliable source and is attributed like it says there. NadVolum (talk) 13:24, 26 November 2021 (UTC)
+GEOnet Names Server (GNS)[edit]
+Unarchived from archive 359 for further feedback/proper close
+
+
+Please consider joining the feedback request service.An editor has requested comments from other editors for this discussion. This page has been added to the following list:
+History and geography
+When discussion has ended, remove this tag and it will be removed from the list. If this page is on additional lists, they will be noted below.
+
+
+Which of the following best describes the reliability of the US's GEOnet Names Server (GNS) database?
+
+Option 1: The source is recognized as being generally reliable.
+Option 2: There is no consensus or additional considerations apply.
+Option 3: The source is recognized as being generally unreliable in most cases, though it can be used under certain circumstances.
+Option 4: The source is recognized as being not reliable at all and should be deprecated.
+Option 5: The source is:
+Generally reliable for Locations/Coordinates
+Generally unreliable for Feature Classes, particularly "Populated place"
+Does not satisfy the "Legal recognition" requirement of WP:GEOLAND.
+Option 6: Same as Option 5 but including Toponyms in GNS as generally reliable.
+
+
+FOARP (talk) 15:56, 8 November 2021 (UTC)
+
+Background (GNS)[edit]
+
+
+Ten or more years ago, thousands of geographic articles have been created on English Wikipedia by importing database entries directly from the GEOnet Names Server (GNS). For example, a search for the phrases "by opening the Advanced Search box, entering" and  "can be found at GEOnet Names Server" (i.e., instructions telling the reader to search the GEONet Names server for the ID code for the location the article is about) on Wikipedia returns more than 43,000 results. These largely refer to populated locations. Some of these articles have been expanded using other sources into full articles, others remain as stubs for which GNS is the only source. GNS's location classifications are assembled using substantially the same methodology as the GNIS database which was the subject of a previous RFC. Its classification of locations, especially as "populated places", therefore suffers from the same issues.
+
+Additionally, a 2008 study of 26,500 South Korea toponyms uncovered around 200 Japanese names (see page 199 here), apparently as a result of using 1946 US military maps as a source (the Japanese-pronunciation names had apparently never been used on Japanese maps going back to 1910, so the US military - likely due to use of Japanese assistants in compiling their maps - are ultimately the source of these errors). The same study also noted that "There are many spelling errors and simple mis-understanding of the place names with similar characters" (see page 198), and also uncovered some very random English toponyms still present on the database but never commonly used. Therefore, at the very least, it appears that place names on GNS should ideally be confirmed in other sources, as it may for some countries have imported systematic errors from the old military maps that GNS is typically based on.
+
+
+
+I have therefore adapted the previous GNIS survey (GNIS is the corresponding US-operated database for locations within the USA) to exclude toponyms from Option 5, but also added an Option 6 including GNS toponyms as generally reliable. FOARP (talk) 15:56, 8 November 2021 (UTC)
+
+Survey (GNS)[edit]
+Option 5 as Nom (EDIT: and also Option 2 for locations / coordinates per Aquillion). The classification of locations in GNS is essentially the same as that of GNIS and as such the same analysis applies - it is inaccurate as to whether a place was ever populated and cannot anyway be used to justify claiming that a place has legal recognition, not least because it does not come from an authority in the country concerned because this is a US database for places outside the US. As for topnyms, the reported error-rate (~1% Japanese names in South Korea, and a unknown number of additional erroneous names from misunderstandings etc.) is hard to balance so I'd prefer just to leave it as an open question. At the very least, with toponyms, people should be aware that these were compiled mainly from old US military maps and in some cases systematic errors may have been introduced. As far as I've ever been able to determine the location data on GNS is accurate (EDIT: but is a primary source). FOARP (talk) 16:02, 8 November 2021 (UTC)
+I'm going to say the same thing I said last time for GNIS: "generally reliable for information about place names of any kind, but cannot be used to determine notability for stand-alone articles in any way, even if it calls a place a "populated place""  In determining if a place is a valid topic for a stand-alone article, we need reliable, sufficiently indepth, sources.  The fact that a place exists is not sufficiently indepth.  We can generally trust the GNS (as much as any source), since it is a simple database of places and names, but we should not be creating articles that cannot be expanded if sufficiently in-depth sources don't exist.  --Jayron32 19:36, 8 November 2021 (UTC)
+Option 5 disagree with the above comment because if a populated place the size of a village or larger can be verified through reliable sources such as an official census then it should be included to fulfill Wikipedia's role as a gazeteer regardless of the lack of indepth sources. This is particularly the case for villages in countries with limited internet coverage, imv Atlantic306 (talk) 03:44, 9 November 2021 (UTC)
+If that is the case, from where do you get the information necessary to write a sufficient article about said place?  --Jayron32 13:17, 9 November 2021 (UTC)
+Jayron32 - I think it is important to remember that Wikipedia is an encyclopaedia and the ultimate goal here is to write encyclopaedia articles. There has never, ever been a consensus that Wikipedia should suddenly become something other than an encyclopaedia when covering geographical features. At most, it has been described as having "features of ... gazetteers" in WP:5P, which is an essay-level document, a phrase that was added as a un-discussed BOLD edit in 2008 and has never been substantially endorsed since as far as I've been able to determine. WP:GEOLAND refers to this section of WP:5P, but this is odd because WP:5P is supposed to be summary of the guidelines/policies, not a basis for them, meaning that this is essentially a circular reference. Having "features...of gazetteers" is anyway met by including the typical infobox information alongside encyclopaedic content - it does not require that we turn WP into a gazetteer. Anyway this is me getting a long way OT so I'll stop here. FOARP (talk) 14:45, 9 November 2021 (UTC)
+Having features of a gazetteer can mean "naming a populated place on a list of populated places".  I've never said, and I will never say, that information about such populated places needs to be stricken from Wikipedia entirely, but having a stand-alone article should be reserved for topics that can support a stand-alone article.  If all we can say about a place is that it exists and nothing more, it is sufficient to mention that it exists elsewhere.  We don't have to give it a stand-alone article.  --Jayron32 14:55, 9 November 2021 (UTC)
+Agree 100%. FOARP (talk) 15:10, 9 November 2021 (UTC)
+Oh, and one thing I would also add to my response to Atlantic306 is that census's are not generally reliable sources for whether a place is legally recognised unless they plainly state that a place is legally recognised by, e.g., stating that a location is a kind of legally-recognised location (e.g., that it is a type of location with e.g., a town council or mayor). We have had far too many situations in which someone has assumed that every location mentioned in a census was a legally recognised populated place when they were instead e.g., farms, pumps, factories, neighbourhoods, railway sidings, marshalling yards, railway stations, bridges, fords, wells, springs etc. etc. etc.. And even with that evidence, the goal is still to write an encyclopaedia article, because WP is an encyclopaedia and does not suddenly become something else when the topic is geography. FOARP (talk) 08:47, 10 November 2021 (UTC)
+Unfortunately you ignored the part of my comment that referred to the size and designation of the place as being at least a village. From most government census' there are at least two paragraphs of information available regarding population, education, occupations, number of families, local government and so on. Also, I believe you are out of step with current practice that is to include stubs on villages and towns regardless of depth of coverage providing they are reliably verified however disappointing that might be for deletionists, imv Atlantic306 (talk) 00:40, 11 November 2021 (UTC)
+I've just read your essay Wikipedia:Wikipedia is not a gazetteer which is interesting but I don't think that all census' should be dismissed because of some poor ones, rather a case by case evaluation would be more accurate. Also i've seen senior editors and admin making the case that Wikipedia does have a role as a gazeteer, imv Atlantic306 (talk) 00:51, 11 November 2021 (UTC)
+Atlantic306 - I agree that gazetteers and census data should always be evaluated case-by-case. There's a continuum in both cases from single-line statistical data about a location to 1-200 word or more descriptive coverage, and there's things they're good for and things they're not good for. Most GNIS and GNS data is from the lower end of that spectrum. I think a very basic but passing article can be written based on data from the high end of that spectrum, but that many, many articles on Wikipedia at present are from the lower end of that spectrum. The reason they are kept is because of the idea that Wikipedia is a gazetteer and that any geographic location should get an article, which is something no consensus on here has ever determined. Even mentioning gazetteers in 5P was simply the result of an undiscussed BOLD edit. Anyway, I'm going OT again so I'll stop. FOARP (talk) 19:00, 11 November 2021 (UTC)
+Option 2 for locations / coordinates, Option 5 otherwise.  The most important thing to recognize about this source is that it is essentially always going to be WP:PRIMARY, which is the reason it can't be used for anything that would imply interpretation or analysis. This is also something that needs to be taken into consideration even when using it for locations or coordinates; they can't be used in any way that would carry unsourced implications or which involve interpretation or analysis. It can be used to fill out simple uncontroversial coordinates on articles, of course, but there needs to be caution about using it for anything else. --Aquillion (talk) 10:06, 9 November 2021 (UTC)
+option 6 as its primary purpose is to record toponyms. That said, my experience with it has not been positive. It seems to have a habit of copying from whatever maps might be available, and for instance when we were going through Somali villages, we found numerous cases where there was nothing at all at the spot given. Any use of GNS has to be checked against other sources. Mangoe (talk) 02:24, 10 November 2021 (UTC)
+Mangoe - Probably imported from some 1960's or earlier US military map. At least with GNIS the locals are more likely to try to get obviously-wrong information fixed, but who's going to complain in Somalia? FOARP (talk) 09:02, 11 November 2021 (UTC)
+I am absolutely with Jayron32 here. Geonet should never be a sole source for a standalone article. We recently had a disaster with Iranian localities imported from GeoNet which had in the end to be mass-deleted since there were serious doubts as whether those exist or ever existed. Geonet can be used for coordinate (and to be honest it is not better than Google Maprs, and certainly not better than the OpenStreet Map - yes, sure I am aware of how the OpenStreetMap is organized and that it is not a reliable source by any means). However, there is no way it can justify creation of a standalone article.--Ymblanter (talk) 09:26, 23 November 2021 (UTC)
+Option 5, and this is a demonstration of exactly why we should not have permastubs on "populated places" when there is not a substantial quantity of reliable, independent reference material about them. The "gazetteer" function could be fulfilled by lists when all we have is some basic database information about a place (coordinates, population, etc.), such as "List of populated places in Example County, Somestate" in the US, or by similar administrative divisions elsewhere. We can say "Yes, we should include gazetteer information about such places when we have it", and do so, without these masses of permastub pseudo-"articles". Seraphimblade Talk to me 06:05, 24 November 2021 (UTC)
+It should be noted that nowhere presently on Wikipedia is it said that Wikipedia necessarily has a gazetteer function, nor has there ever been any consensus of any kind expressed anywhere that I've been able to identify saying it should. The term "gazetteer" was added to WP:5P in an undiscussed bold edit in 2008 and has recently been replaced with "reference works" after a talk-page discussion there. We include elements of reference works (a term that includes gazetteers) within encyclopaedic articles, and this includes lists of smaller communities within a larger community, but we are an encyclopaedia and do not simply become something else when writing about geographical locations. Even WP:GEOLAND#1 doesn't necessarily require that bare gazetteer listings be included as articles - instead it is assumed that a legally-recognised populated place will have enough sourcing for an encyclopaedic article to be written about it. FOARP (talk) 09:00, 24 November 2021 (UTC)
+Well, certainly, only the notable ones should be standalone articles, and we've always made a mistake trying to make the non-notable ones into individual permastubs. But I don't have any objection to a list for a particular administrative region, with the non-notable ones being simple list entries—population, coordinates, area, whatever data it is that is always provided in a census or the like. But I think people confuse "We should include this information" and "We should include this information in a standalone article." This is a case where I agree with the first, but not the second. Seraphimblade Talk to me 12:11, 24 November 2021 (UTC)
+Absolutely. The problem is that there are a lot of users trying to inflate their created article count, so the articles get created anyway, and then it is vertually impossible to redirect them to lists, every discussion would at best end up as no consensus.--Ymblanter (talk) 12:35, 24 November 2021 (UTC)
+Well, people thought the fiction cleanup was hopeless for ever getting done, too—until it happened. So don't give up just yet. Seraphimblade Talk to me 16:34, 24 November 2021 (UTC)
+Option 5 with the caveat that GNS sometimes was pulled from old, problematic sources, such as old war maps made by people not familiar with the area.  GNS should be ignored if there are no sources from the area in question actually verifying that the places exist. Hog Farm  Talk 17:11, 24 November 2021 (UTC)
+Option 5 per all above, and emphasizing that it is a primary source, and should never be the sole source for a stand-alone page. Levivich 19:52, 24 November 2021 (UTC)
+Discussion (GNS)[edit]
+Notified: [[centralized discussion]]. FOARP (talk) 10:25, 23 November 2021 (UTC)
+Italian genealogical website?[edit]
+
+
+Appears to be an Italian genealogical royalty website.[27] The page linked, has no references or citations of any kind.
+
+
+The main page Enciclopedia genealogica del Mediterraneo.
+
+
+Thoughts? --Kansas Bear (talk) 00:00, 24 November 2021 (UTC)
+
+It's not a reliable source unless you can show it has reputation for fact checking, accuracy etc. (t · c) buidhe 05:29, 24 November 2021 (UTC)
+Think tank source being cited to contradict reliable sources[edit]
+
+
+In the Pushbacks in Greece article, an editor is attempting to shoehorn in criticism of Turkey from a think tank article credited to  "Middle East Research Intern". This article claims that in early 2020 Turkey engaged in "coercive engineered migration". Other sources such as such as New York Times reporting or a peer-reviewed academic article do not support that widespread coercion was used by Turkey. Can we get more eyes on this? (t · c) buidhe 03:10, 24 November 2021 (UTC)
+s
+
+Pardon my scepticism, but is Crete, Sicily, Corsica, Sardinia, Majorca, Rhodes, or Cyprus involved here? Friedman on the lifeboat (talk) 08:11, 24 November 2021 (UTC)
+There are many other sources which describe the behaviour of Turkey in the same or similar words [28], [29], [30]. Alaexis¿question? 12:09, 24 November 2021 (UTC)
+Hi Alaexis, I checked the sources you provided and none of these say that Turkey is forcing refugees to go to Greece. (t · c) buidhe 21:34, 24 November 2021 (UTC)
+I see it in the very first paragraph of The Hill article
+
+
+“
+
+Turkey has encouraged Syrian refugees to move to Europe as part of a policy that appears to use refugees to wring concessions and support from European countries for Ankara’s role in Syria. In late February, Turkey opened the border for refugees to go to Greece and began prodding them to leave within a 72-hour window.
+
+”
+
+
+
+Alaexis¿question? 21:39, 24 November 2021 (UTC)
+First of all, it's an opinion piece so it wouldn't be considered a reliable source for factual claims. Second, it's not disputed that Turkey encouraged people to cross the border, at least for a brief period of time, but there's no evidence that widespread force or coercion was used. (t · c) buidhe 00:48, 25 November 2021 (UTC)
+They didnt need to use any coercion or force, they just told all the refugees the border to Europe was open and watched them run into Greek guns. When you have fled somewhere like Syria, you dont need any more encouragement than "Hey guys, Europe's that way!" Only in death does duty end (talk) 03:50, 25 November 2021 (UTC)
+Here's an excerpt from an article in Washington Post Weaponizing refugees and migrants has become a political strategy for countries at Europe’s periphery... In some cases, this strategy works. In 2016, Turkey negotiated an unprecedented $7 billion in foreign aid and other concessions in return for keeping Syrian refugees within Turkey’s borders. And this is from the NYT Friday’s events were widely seen as his attempt to weaponize both the desperation of migrants and the xenophobia of Europe.It was the ninth time, in fact, that the Turkish president has promised to send a new surge of refugees Europe’s way. Whether Mr. Erdogan was merely dangling the threat again, or will unleash a full-blown crisis remains to be seen.. Alaexis¿question? 20:07, 25 November 2021 (UTC)
+
+
+(unindent) Here's another reliable source (Vice News) that basically states that the 2020 border crisis was engineered [31], i.e., backs what BiC says. And the NYT article linked above begins with The country is winding down an aggressive two-week operation to move tens of thousands of migrants to its frontiers. But relations with Greece and Europe have suffered.. "The country" here refers to Turkey. Khirurg (talk) 15:25, 25 November 2021 (UTC)
+
+I think that the "engineered" part has been proven beyond a reasonable doubt. Regarding the existence of coercion, I think that if there is only one think tank which says it it should be mentioned according to WP:DUE. Alaexis¿question? 20:54, 25 November 2021 (UTC)
+I took a look at this "Brussels International Center" and couldn't find much. It's sometimes used as a source by a website called The Libya Observer but that's more or less it, unless I missed something. Based on this, it just looks like any other obscure think tank; if the use of coercion can't be sourced to other sources, this is certainly not due nor does it appear to have any verifiable reputation for fact-checking and accuracy, interns publishing reports is not something in their favor. Also, the term "coercive engineered migration" appears to be invented by the report, which is undue for reasons that should be obvious. By the way, the actual discussion on the article's content should be moved to the article's talk page. Tayi Arajakate Talk 22:00, 25 November 2021 (UTC)
+
+
+The center or the article have literally zero clout. I tried to look up the author of this 'policy brief', a certain Arthur Jennequin, but there are no mentions of him anywhere else apart from the BIC. The report itself doesn't bother mentioning his credentials. Here we can see that he was a research intern. As Tayi Arajakate pointed out, publishing reports written entirely by interns is poor practice and reflects very badly on their reliability. The center itself does not seem to have received any significant attention in literature, their reports aren't exactly well-cited. I can see no evidence that this think-tank has proper fact-checking mechanisms in place. The center and this specific report cannot be considered RS for anything remotely contentious. --GGT (talk) 00:47, 27 November 2021 (UTC)
+
+Screenshot-media.com / Screen Shot / Screen Shot media / FairPlanet[edit]
+
+
+Does anyone know the accuracy of Screen Shot (Screen Shot media) as a source? It appears to be a pop culture, technology, and politics news site, similar to sources like Vice or Mashable. I'm writing a draft and it looks like a promising source, but no results on this noticeboard or on WP:RS/PS and no article about the source makes me worry a bit. According to their about page, they're funded by an independent journalism organization called FairPlanet (which doesn't have an article either). wizzito | say hello! 12:40, 24 November 2021 (UTC)
+
+The editor in chief was an intern at Financial Times, and others interned at the Royal Academy of Arts. They seem to do their research when it comes to medical issues regarding diet fads and the like 1 2, so I'd assume they are equally as thorough in other areas. I'd say they seem reliable. Santacruz ⁂ Please tag me! 15:40, 24 November 2021 (UTC)
+Nonetheless, until we can say for certain, I wouldn't use them as stand-alone sources or as authoritative opinions. Santacruz ⁂ Please tag me! 15:48, 24 November 2021 (UTC)
+I agree with this opinion.  While no offense is intended toward the publication or its writers, I don't see the reputation for accuracy we want with a reliable source.  This could very well be simply a symptom of youth.  Still, I would err on the side of caution as Santacruz has suggested.  Cheers. Dumuzid (talk) 15:56, 24 November 2021 (UTC)
+The links above go to Linkedin profiles, for those of us who need to know. JBchrch talk 16:56, 24 November 2021 (UTC)
+Additional considerations apply/Wait and see. They do not identify outside contributions and have not published—as far as I can tell—any editorial guidelines about op-eds. Case in point: Debunking the ‘wokeism’ debates behind the inclusion of gender neutral pronouns in dictionaries is written by Louis Shankar, who is not on the payroll and works at UCL, but this is not indicated anywhere in this article. Another strange example is articles written by Alex Harris, who is not on the payroll either and for whom we have no description at all. Also, I don't see any publicly available editorial guideline for the staff itself (compare with the FT, the NYT, Vice and Vox.) JBchrch talk 16:52, 24 November 2021 (UTC)
+Top 100 sources[edit]
+
+
+Cleaning up some old edit filters. Filter 554 prohibits the use of certain "top 100" websites (domains: "top100 *.blog", "*charly1300*", "*mickeycharts*", "atrl.net/forums", "hot100brasil.com" -- asterisk means any characters). I can't quite tell the history of how this filter came to be but I'm not sure referencing certain sites should be disallowed by the software unless either: (a) community consensus has been found to deprecate them (in which case they're added to Filter 869); or (b) they've went through the Wikipedia:Spam blacklist process.
+
+
+So... how should these sites be dealt with? Should they be added to spam blacklist, RfCs started for deprecation, or allow them entirely? ProcrastinatingReader (talk) 18:21, 24 November 2021 (UTC)
+
+ProtoThema[edit]
+
+
+Proto Thema is not a reliable source in my opinion. It can be found 205 times across en.WP [32] There is sensationalism, lack of accuracy and their fact are not regularly checked. 
+
+A report for European Commission, posted by prof Anna Triandafyllidou (see also here) is devastating for ProtoThema. You can download the report from here
+Media Bias Fact Check has a small essay on protothema.gr that supports the above view. [33]
+Fact checking site Ellinika hoaxes has 188 entries on protothema.gr. [34] Ellinika Hoaxes  is the sole Greek fact-checking org listed on WP:IFCN's signatories list
+Another report (on greek media coverage of covid pandemic) shows the inadequate verifiability of protothema articles (see page 9 and esp page 14 use of links [35])
+
+
+Worth noting that Protothema ranks among the biggest news portals in Greece in terms of articles posted per day and traffic. (see discussion here [36])
+
+
+Poor fact checking plus sensationalism means does not stand against WP criteria for RS. I think it should be included at Wikipedia:Reliable sources/Perennial sources with the indication "Generally unreliable" Cinadon36 20:25, 24 November 2021 (UTC)
+
+gotquestions.org and tektonics.org[edit]
+
+
+Please consider joining the feedback request service.An editor has requested comments from other editors for this discussion. This page has been added to the following list:
+Wikipedia proposals
+When discussion has ended, remove this tag and it will be removed from the list. If this page is on additional lists, they will be noted below.
+
+
+I seek the deprecation of gotquestions.org and tektonics.org. See MediaWiki talk:Spam-blacklist#gotquestions.org. tgeorgescu (talk)  17:48, 26 November 2021 (UTC)
+
+
+Reason: they're WP:SPS. What we won't do is quote amateur theologians who play hide and seek with their religious affiliations. tgeorgescu (talk)  23:21, 27 November 2021 (UTC)
+
+Independent Catholic News[edit]
+
+
+https://www.indcatholicnews.com seems to be used across many pages.[37]  I found it while cleaning up WP:PROMO issues on the Palestine Solidarity Campaign page.  This quote, in itself, isn't particularly problematic: 
+
+
+
+"PSC was part of 2007's ENOUGH coalition to oppose the Israeli occupation of territories controlled since the 1967 Six-Day War."
+
+
+However, looking at the "article"[38] Independent Catholic News seems to have re-posted a press release from activist orgs in their own voice in their news section.  As such, it seems this entire source should be probably be declared unreliable.
+
+
+I also did a search in here and it doesn't seem this website has been discussed before.  
+
+
+--Bob drobbs (talk) 19:11, 25 November 2021 (UTC)
+
+Not secondary source but could be used as convince link for primary sources when its WP:due Shrike (talk) 06:08, 26 November 2021 (UTC)
+It should be avoided in my opinion. I have checked the first few articles that appear in their webpage. Articles do not have links to help verify claims, author of article is not always named, and when there is a name, there is no link to any bio details. Cinadon36 06:16, 26 November 2021 (UTC)
+Boomer magazine[edit]
+
+
+It can be found here[39]. Is this a reliable source. An IP edited into the this article....William, is the complaint department really on the roof? 23:35, 25 November 2021 (UTC)
+
+Short answer, no! --SVTCobra 06:42, 26 November 2021 (UTC)
+I 'd say it is best to avoid. Cinadon36 20:44, 28 November 2021 (UTC)
+It's not the best source, but the article does cite its own sources; it is clearly paraphrasing the actor's own memoir.  Sources that tell you where they get their information from is itself a hallmark of reliability.  It's a fairly light source, but I don't find it problematic.  The copyvio, which cribbed the sentence word-for-word from the source, is a problem, but I am not entirely bothered by this citation.  I would put this particular article in the "not great, but probably okay here" camp.  I wouldn't try to use it for a lot of things, but this usage seems okay.  Even better would be to get a copy of the memoir and cite it directly, but barring that, I'm not all that bothered here.  --Jayron32 02:39, 29 November 2021 (UTC)
+Kino-teatr and AlloCine[edit]
+
+
+Hello,
+I would like to find out if the website https://www.kino-teatr.ru/ is considered a reliable source? As well as https://www.allocine.fr/,
+Thank you
+
+World Air Force directory published by Magazine Flight Global (user generated) is this a reliable source[edit]
+
+
+I would like to validate what the value or status is of the annual World Air Force directory published (free of charge) by Flight Global magazine as it is often referred to as source on Wikipedia prevailing over other sources or even official sources such a Ministeries of Defence, Aircraft manufacturers or National Air Forces. Please have a look at the Belgian Air Component and Netherlands Air Force pages on Wikipedia (updates/revert/undo discussions).
+
+
+Hope you can be of help
+
+The annual World Air Force directory published by Flight Global is not user generated, despite what the OP says in the heading, and is a good and reliable source - note that it is only published once a year, so won't include changes after its publication date, and it has exclusions (i.e. it normally doesn't include VIP aircraft and General Aviation types, and when listing in service numbers, it only includes aircraft that the are recorded as being in use (i.e. not including aircraft that are in long term storage or under maintenance, modification or repair).Nigel Ish (talk) 16:52, 27 November 2021 (UTC)
+The directory has been published once a year for many decades in print as part of the Flight International magazine, a highly respected publication since 1909. In later times the directory is made available online the same as the printed version. I am not sure how anybody can mistake the editorial team of Flight International as "user generated". As already been said like all such annual reviews it is not 100% accurate after the date of publishing but for wikipedia purposes it is a reliable source. MilborneOne (talk) 17:10, 27 November 2021 (UTC)
+Flight is one of the great names in aviation publishing and you will not find a more reliable or authoritative source. Its annual directory can of course differ from other reliable sources where its inclusion criteria or date of compilation differ, that is something article editors need to be on top of and check their facts and figures carefully. — Cheers, Steelpillow (Talk) 17:30, 27 November 2021 (UTC)
+Music genre-related sources[edit]
+
+
+A bit of help is needed in determining the reliability of the listed sources. Some of them are fairly obvious cases, but I'd still like to document them here to avoid misuse in the future.
+
+beatportal.com[edit]
+
+
+For series of articles on history of music genres like [40] or [41]. It has come up here before, but the results have not been too clear-cut. While the listed articles seem objective enough to be referenced on wikipedia. The authors' names can also be found on google - it's often freelance writers/musicians who also write for other major publications such as djmag.com. 
+
+masterclass.com[edit]
+
+
+For hundreds of articles about music genres like [42] or [43]. It is probably obviously unreliable but it would be best to write about it here, as this source is already used on wikipedia in many articles.
+
+otaquest.com[edit]
+
+
+For articles like [44] or [45]
+
+stereofox.com[edit]
+
+
+For articles on music genres like [46] or [47]
+
+world.lovinkproject.com[edit]
+
+
+For articles like [48]
+
+theprospectordaily.com[edit]
+
+
+For articles like [49]
+
+zizacious.com[edit]
+
+
+For articles like [50]
+
+
+Solidest (talk) 15:55, 28 November 2021 (UTC)
+
+sozcu.com.tr[edit]
+
+
+I've noticed that @Keivan.f has been adding strange-looking sources to Draft:Yurdaer Okur, such as: [51], [52], [53].
+
+
+It's odd that three different Turkish publishers seem to have almost the exact same text. It's suggestive that all three may have been plagiarised from trwiki or some common source, at some time in the past. 
+
+
+In a comment on my talk page this user mentioned that the sources he used for our English language article may have been lifted from the Turkish Wikipedia article about this subject.
+
+
+I've noticed that the publications used in this draft that lifted Turkish Wikipedia articles have been used extensively on English Wikipedia:
+
+sozcu.com.tr:  Linksearch en (https) (insource) - meta - de - fr - simple - wikt:en - wikt:fr • MER-C X-wiki • gs • Reports: Links on en - COIBot - COIBot-Local • Discussions: tracked - advanced - RSN • COIBot-Link, Local, &amp; XWiki Reports - Wikipedia: en - fr - de • Google: search • meta • Domain: domaintools • AboutUs.com • Alexa
+aksam.com.tr:  Linksearch en (https) (insource) - meta - de - fr - simple - wikt:en - wikt:fr • MER-C X-wiki • gs • Reports: Links on en - COIBot - COIBot-Local • Discussions: tracked - advanced - RSN • COIBot-Link, Local, &amp; XWiki Reports - Wikipedia: en - fr - de • Google: search • meta • Domain: domaintools • AboutUs.com • Alexa
+www.haberturk.com:  Linksearch en (https) (insource) - meta - de - fr - simple - wikt:en - wikt:fr • MER-C X-wiki • gs • Reports: Links on en - COIBot - COIBot-Local • Discussions: tracked - advanced - RSN • COIBot-Link, Local, &amp; XWiki Reports - Wikipedia: en - fr - de • Google: search • meta • Domain: domaintools • AboutUs.com • Alexa
+
+
+The fact that these sources simply copy Wikipedia articles a common source without giving credit gives me cause for concern about this source. Perhaps these publications should be flagged as potentially problematic. --Salimfadhley (talk) 20:02, 28 November 2021 (UTC)
+
+@Keivan.f replied here User:Salimfadhley/spam, it seems that
+I misunderstood. The article in enwiki was translated (including sources) from trwiki. The trwiki article was just sourced badly. I'm still concerned about these sources. Salimfadhley (talk) 20:06, 28 November 2021 (UTC)
+@Salimfadhley: Just to clarify so that the users can understand what happened, I thought we were able to use secondary sources, specifically national newspapers whether they be English or not, as long as they were not listed on Wikipedia:Reliable sources/Perennial sources. Though it seems that in this case Sözcü, Akşam and Habertürk had identical content, which I didn't pay attention to and cannot really understand why. I even added CNN Türk as a reference, though I haven't checked to see if it has the same content or not. In any case, I merely translated the article from Turkish Wikipedia and checked the translated info with the sources. I don't think I'm at fault here, since I haven't broken any specific rules. I have merely used these sources because they appeared to be reliable based on their status (note that they are not tabloids). So if User:Salimfadhley or other users are concerned about these sources, then the right course of action would be to put them up for discussion. That will save me and other users the confusion of whether we can use them or not. Keivan.fTalk 20:20, 28 November 2021 (UTC)
+Hi @Keivan.f, first of all I was wrong to accuse you of being a spammer. Please accept my apologies. I understand that you were simply translating an article from Turkish into English.
+I do remain concerned about all three sources: They all have pretty much the same text which seems quite similar (but not the same) as the article about this subject on trwiki. The fact that they are national newspapers who are widely cited on Wikipedia only makes me more concerned about their editorial policy. Salimfadhley (talk) 20:30, 28 November 2021 (UTC)
+@Salimfadhley: I totally understand your concerns. In fact, I should have been more careful and compared the content of these sources to each other (which I will probably have to do in the future). I guess they can be considered reliable when reporting on actual news or events, but I think their bio pages for politicians and celebrities need to be double checked. It seems that they either copy from Turkish Wikipedia or from each other based on what you just explained. I think I will take the matter to the admins of Turkish Wikipedia as well. My personal opinion is that it would be best to list them as partially reliable, similar to a number of sources listed on Wikipedia:Reliable sources/Perennial sources. Keivan.fTalk 20:37, 28 November 2021 (UTC)
+
+
+It is always delightful to see wikipedians discussing in such civil manner. In any case, what do we know of the reputation of each media? Are there any RS or fact checking sites that might be of any help? Cinadon36 20:43, 28 November 2021 (UTC)
+
+Well, edit warring and fighting is never the solution in my opinion, so I'm glad we were able to discuss it without an issue. Regarding the subject, I am not an expert when it comes to using computer tools, but just to clarify what I meant by partially reliable I felt the need to point out that Sözcü has been used a couple of times in the article on Turkish president Recep Tayyip Erdoğan. So when it comes to news reporting I guess they publish their own original content. I also went back to the CNN Türk reference that I listed in that draft and compared its text to the others in Google Translate and I noticed that it also contains info that is very close to what we have on the Turkish page (though it would be better if someone double checked). Now obviously CNN Türk is a reputable source, so it makes me wonder if it's a problem with the editorial policy of the Turkish media in general when it comes to publishing biographies. Or maybe they can simply copy info from Wikipedia due to our own policy of free content, but in that case they cannot be used as sources. Keivan.fTalk 20:58, 28 November 2021 (UTC)
+Unless someone provides a RS claiming that any of these sites are at least decent, I would be hesitant to use them. Site traffic and large circulation are not indicators of reliability (maybe the contrary applies) Cinadon36 07:51, 29 November 2021 (UTC)
+If they just straight up copy WP they are not an RS.Slatersteven (talk) 11:05, 29 November 2021 (UTC)
+id.loc.gov[edit]
+
+
+Is [54] a BLP-good source for Heather Wolfe's year of birth and names? Gråbergs Gråa Sång (talk) 07:34, 29 November 2021 (UTC)
+
+I believe we can trust the Library of Congress for plain data. Cinadon36 07:48, 29 November 2021 (UTC)
+Unless the DOB of a BLP is widely covered in reliable secondary sources, we should leave it out of the article. ScottishFinnishRadish (talk) 10:03, 29 November 2021 (UTC)
+@ScottishFinnishRadish YOB, not DOB, see WP:DOB. My reading is that YOB doesn't need "widely covered." That said, I also have a "matching" WSJ-article for "she was this old when we wrote the article." Gråbergs Gråa Sång (talk) 11:03, 29 November 2021 (UTC)
+Ah, sorry I misread. Should be fine for confirming the year. ScottishFinnishRadish (talk) 11:07, 29 November 2021 (UTC)
+goodwordnews.com[edit]
+
+
+Goodwordnews.com is a consolidator site which does machine translation of other sites, notably Russia Today. Bad MT, I should add. See for example, Zemmour tances BHL during a debate, a comically bad translation from the French RT article «Vous êtes le porte-parole parfait de l'Etat profond américain»&nbsp;: Zemmour tance BHL lors d'un débat. (Have a look at the GWN link; you don't need to know a word of French to see what a joke it is.) This site is currently being used at Eric Zemmour.
+
+
+Since RT itself is already rated 'generally unreliable' (here), and this site is so, so much worse, I was hoping we could rate GWN as "double secret unreliable" for posterity. Thanks, Mathglot (talk) 08:52, 29 November 2021 (UTC)
+
+Apparently not RS. (Gen Unreliable). Removed, added {{cn}}. [55]. Cinadon36 08:59, 29 November 2021 (UTC)
+Super (and fast); thanks!  Mathglot (talk) 09:02, 29 November 2021 (UTC)
+OffGuardian[edit]
+
+
+I think that this website ([56]) has been regarded unreliable by most editors, yet I still think that some editors might use this source to write articles in good faith (not knowing that it publishes misinformation that has never been accepted by MSM on earth), so I beg that this website be deprecated, since it claims that Natural News is reliable (How Google and Wikipedia Brainwash You – OffGuardian (off-guardian.org)), despite the fact that Natural News is a fake news website (Google delists Mike Adams’ Natural News website. Was it because of fake news? | Science-Based Medicine), and it downplays the COVID-19 pandemic.--RekishiEJ (talk) 17:47, 29 November 2021 (UTC)
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Reliable_sources/Noticeboard&amp;oldid=1057788647"
+		Categories: Wikipedia noticeboardsWikipedia dispute resolutionWikipedia requests for commentHidden categories: Project pages with short description
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditNew sectionView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		تۆرکجهDeutschفارسیFrançaisBahasa IndonesiaქართულიമലയാളംPortuguêsРусскийTürkçe中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 29 November 2021, at 17:47&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

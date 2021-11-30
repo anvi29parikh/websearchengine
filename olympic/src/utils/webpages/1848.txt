@@ -1,0 +1,260 @@
+
+
+
+
+Wikipedia:Subpage - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Subpage
+	
+		From Wikipedia, the free encyclopedia
+		Redirect page
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Redirect to:Wikipedia:Subpages This page is a redirect. The following categories are used to track and monitor this redirect:
+
+From a modification: This is a redirect from a modification of the target's title or a closely related title.  For example, the words may be rearranged.
+Please note that there are many more specific templates. Please use {{R from alternative spelling}} for spelling changes (including punctuation and spacing); see subcategories of Category:Redirects from modifications for other options (capitals, abbreviations, diacritics, plurals, stylizations, transliteration, ligatures, different parts of speech, etc.). If you are unsure which to use, this template is fine; someone will make it more specific later if necessary.
+In cases of modification from distinctly longer or shorter names, please use {{R from long name}} or {{R from short name}}, respectively. An abbreviation should be tagged with {{R from initialism}} or, if it can be spoken like a word such as NASA and RADAR, use {{R from acronym}}.
+Use this rcat instead of {{R from other capitalisation}} and {{R from plural}} in namespaces other than mainspace for those types of modification. This may also apply to several other subcategories of modification; please check those templates' output before saving if using outside of mainspace.
+
+
+To a project page: This is a redirect from any page inside or outside of project (Wikipedia: or WP:) space to any page in the project namespace. The above category link leads to a list of redirects from inside project space.  Redirects from outside project space are automatically sorted to Category:Redirects to project space.
+
+
+From a shortcut: This is a redirect from a shortcut in any namespace to a page in any namespace except template namespace.
+Shortcuts are wikilinked on community pages, talk pages, and edit summaries, but not in mainspace articles.
+
+When appropriate, protection levels are automatically sensed, described and categorized.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Subpage&amp;oldid=778163293"
+		Hidden categories: Redirects from modificationsRedirects to Wikipedia project pagesRedirects from shortcuts
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		
+		Add links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 1 May 2017, at 14:28&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,492 @@
+
+
+
+
+Wikipedia:Do not disrupt Wikipedia to illustrate a point - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Wikipedia:Do not disrupt Wikipedia to illustrate a point
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		"WP:POINT" redirects here. It is not to be confused with Wikipedia:Neutral point of view.
+This page documents an English Wikipedia behavioral guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.ShortcutsWP:POINTWP:POINTy
+This page in a nutshell: When you have a point to make, use direct discussion only.
+Wikipedia guidelines
+Guidelines list
+Policies list
+
+Behavioral
+
+Assume good faith
+Conflict of interest
+Courtesy vanishing
+Disruptive editing
+Don't bite the newcomers
+Don't edit to make a point
+Etiquette
+Don't game the system
+User pages
+Other behavioral guidelines
+WMF friendly space policy
+
+Discussions
+Talk page guidelines
+Signatures
+
+
+Content
+Citing sources
+External links
+Reliable sources
+medicine
+Fringe theories
+Non-free content
+Offensive material
+Don't copy long texts
+Don't create hoaxes
+Patent nonsense
+Other content guidelines
+
+Editing
+
+Article size
+Be bold
+Edit summary
+Understandability
+Other editing guidelines
+
+Organization
+Categories, lists, templates
+Categorization
+Disambiguation
+
+
+Style
+Manual of Style
+contents
+lists
+tables
+
+Deletion
+Deletion process
+Speedy keep
+Deletion guidelines for administrators
+
+Project content
+Project pages
+WikiProjects
+Templates
+User pages
+User boxes
+Shortcuts
+Subpages
+
+Other
+Naming conventions
+Notability
+vte
+
+
+When one becomes frustrated with the way a policy or guideline is being applied, it may be tempting to try to discredit the rule or interpretation thereof by, in one's view, applying it consistently. Sometimes, this is done simply to prove a point in a local dispute. In other cases, one might try to enforce a rule in a generally unpopular way, with the aim of getting it changed. 
+
+
+Such behavior, wherever it occurs, is highly disruptive and can lead to a block or ban. If you feel that a policy is problematic, the policy's talk page is the proper place to raise your concerns. If you simply disagree with someone's actions in an article, discuss it on the article talk page or related pages. If mere discussion fails to resolve a problem, look into dispute resolution.  
+
+
+Practically speaking, it is impossible for Wikipedia to be 100 percent consistent, and its rules will therefore never be perfect. If consensus strongly disagrees with you even after you have made proper efforts, then respect the consensus, rather than trying to sway it with disruptive tactics.
+
+Examples[edit]
+If someone nominates one of your favorite articles for deletion...
+do explain why the subject meets inclusion criteria, providing reliable sources to support your assertion.
+do not nominate another similar article for deletion, giving the same rationale.
+If you have nominated an article for deletion, and others favour keeping it...
+do participate in the discussion, basing your argument on policies and guidelines.
+do not create an article on what you consider to be a similarly unsuitable topic, with hopes that others will make the same arguments for deletion.
+If someone deletes from an article information which they call "unimportant" or "irrelevant",  which you consider to in fact be important to the subject...
+do explain on the article's talk page why you feel the material merits inclusion.
+do not delete most of the remaining article as "unimportant".
+If you think someone unfairly removed a reference to a self-published source...
+do explain why the use of the source in question was appropriate in that instance, or find a better source for the information.
+do not summarily remove all references to sources which appear to be self-published.
+If you think someone unfairly removed "unsourced" content...
+do find a source for it, make the referencing clear if it was already present, or explain why the content in question shouldn't require a cited source.
+do not summarily remove from the page everything which appears to be unsourced.
+If you feel that it is too easy to add misinformation to Wikipedia...
+do watch recent changes and fact-check anything that looks at all suspicious.
+do not create an elaborate hoax with hopes of getting publicity for it.
+If you feel that a particular source does not meet Wikipedia standards...
+do express your concerns on the talk pages of articles which cite it, or at the reliable sources noticeboard.
+do not add even more references to the source, with hopes of provoking opposition to its use.
+If you think that the Arbitration Committee has conducted inappropriate CheckUsers...
+do express your concerns on one of the CheckUser policy talk pages or at a relevant Arbcom page.
+do not frivolously suggest a CheckUser.
+Important note[edit]
+ShortcutWP:NOTPOINTy
+
+
+A commonly used shortcut to this page is WP:POINT. However, just because someone is making a point does not mean that they are disrupting Wikipedia to illustrate that point. As a rule, editors engaging in "POINTy" behavior are making edits with which they do not actually agree, for the deliberate purpose of drawing attention and provoking opposition in the hopes of making other editors see their "point". Merely describing such hypothetical behavior is fine and does not go against this guideline. For example, saying By that standard, we ought to remove all the cited sources on this page is fine, actually removing all the cited sources is not.
+
+See also[edit]
+
+
+
+This page is referenced in the Wikipedia Glossary.
+
+
+Past decisions by the Arbitration Committee regarding this guideline
+Wikipedia:Avoid instruction creep, to minimize potential motivations for point-illustrating
+Wikipedia:Disruptive sanctions
+Wikipedia:Gaming the system
+Wikipedia:Tendentious editing
+Wikipedia:Wikilawyering
+Wikipedia:Sarcasm
+vteWikipedia key policies and guidelines&nbsp;(?)
+Five pillars
+Ignore all rules
+Content&nbsp;(?)P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiography
+Citing sources
+Reliable sources
+Reliable sources (medicine)
+Do not include copies of lengthy primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct&nbsp;(?)P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion&nbsp;(?)P
+Deletion policy
+Proposed deletion
+Biographies
+Criteria for speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement&nbsp;(?)P
+Administrators
+Banning
+Blocking
+Page protection
+Editing&nbsp;(?)P
+Editing policy
+G
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content&nbsp;(?)G
+Project namespace
+WikiProjects
+User pages
+User boxes
+Shortcuts
+Subpages
+WMF&nbsp;(?)P
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Do_not_disrupt_Wikipedia_to_illustrate_a_point&amp;oldid=1056639324"
+		Categories: Wikipedia behavioral guidelinesWikipedia glossary itemsHidden categories: Wikipedia move-protected project pages
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+	
+		
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+	
+		
+		Namespaces
+	
+	
+		
+		Project pageTalk
+		
+	
+
+
+			
+	
+	
+		
+		Variants
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+	
+		
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+	
+	
+		
+		More
+			expanded
+			collapsed
+	
+	
+		
+		
+		
+	
+
+
+			
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+	
+		
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+	
+		
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+	
+		
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+		
+	
+
+
+	
+		
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+	
+		
+		In other projects
+	
+	
+		
+		Wikimedia CommonsMeta-WikiWikinewsWikiquote
+		
+	
+
+
+	
+	
+		
+		Languages
+	
+	
+		
+		Alemannischالعربيةঅসমীয়াتۆرکجهবাংলাБеларускаяБеларуская (тарашкевіца)БългарскиČeštinaDanskDeutschΕλληνικάEspañolEsperantoفارسیFrançaisGalego한국어हिन्दीHrvatskiBahasa IndonesiaItalianoעבריתLietuviųMagyarМакедонскиمصرىBahasa MelayuNederlands日本語Norsk bokmålPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaکوردیСрпски / srpskiSuomiSvenskaТатарча/tatarçaTürkçeУкраїнськаTiếng Việt中文
+		Edit links
+	
+
+
+
+
+
+
+	
+	 This page was last edited on 22 November 2021, at 23:17&nbsp;(UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
